@@ -1,0 +1,68 @@
+song_id,language,singer,emotion_label,valence,arousal
+english_Shape_of_You,English,Ed Sheeran,Happy,0.9,0.8
+english_Someone_Like_You,English,Adele,Sad,0.2,0.3
+english_Happy,English,Pharrell Williams,Happy,0.95,0.9
+english_Rolling_in_the_Deep,English,Adele,Sad/Angry,0.2,0.7
+english_Thunderstruck,English,AC/DC,Energetic,0.8,0.95
+english_Fix_You,English,Coldplay,Calm/Sad,0.4,0.3
+english_Let_It_Be,English,The Beatles,Calm/Happy,0.7,0.4
+english_Lose_Yourself,English,Eminem,Motivated/Angry,0.6,0.9
+english_Thinking_Out_Loud,English,Ed Sheeran,Love/Calm,0.8,0.4
+english_Wake_Me_Up,English,Avicii,Happy/Energetic,0.85,0.85
+english_Believer,English,Imagine Dragons,Energetic/Angry,0.6,0.95
+english_Shallow,English,Lady Gaga & Bradley Cooper,Romantic/Sad,0.5,0.4
+english_Counting_Stars,English,OneRepublic,Energetic/Happy,0.85,0.85
+english_Stay_With_Me,English,Sam Smith,Sad,0.3,0.3
+english_Perfect,English,Ed Sheeran,Romantic,0.9,0.5
+english_Viva_La_Vida,English,Coldplay,Happy/Motivated,0.8,0.7
+english_Demons,English,Imagine Dragons,Sad/Calm,0.3,0.5
+english_All_of_Me,English,John Legend,Romantic/Calm,0.85,0.5
+english_Uptown_Funk,English,Bruno Mars,Happy/Energetic,0.95,0.9
+english_Stronger,English,Kanye West,Motivated/Energetic,0.7,0.9
+english_Radioactive,English,Imagine Dragons,Energetic/Angry,0.6,0.9
+english_Say_You_Won’t_Let_Go,English,James Arthur,Romantic,0.85,0.5
+english_Boulevard_of_Broken_Dreams,English,Green Day,Sad,0.3,0.6
+english_Numb,English,Linkin Park,Sad/Angry,0.2,0.8
+english_In_the_End,English,Linkin Park,Sad/Motivated,0.3,0.85
+english_Happier,English,Marshmello ft. Bastille,Sad/Happy,0.5,0.6
+english_Bad_Guy,English,Billie Eilish,Playful/Quirky,0.6,0.7
+english_Clocks,English,Coldplay,Calm/Energetic,0.7,0.6
+english_Smells_Like_Teen_Spirit,English,Nirvana,Energetic/Angry,0.4,0.95
+english_Grenade,English,Bruno Mars,Sad/Angry,0.2,0.7
+english_Hello,English,Adele,Sad/Emotional,0.2,0.4
+english_Can’t_Stop_the_Feeling!,English,Justin Timberlake,Happy/Energetic,0.95,0.85
+hindi_Tum_Hi_Ho,Hindi,Arijit Singh,Romantic/Calm,0.8,0.4
+hindi_Channa_Mereya,Hindi,Arijit Singh,Sad,0.2,0.3
+hindi_Dil_Diyan_Gallan,Hindi,Atif Aslam,Romantic/Calm,0.8,0.4
+hindi_Agar_Tum_Saath_Ho,Hindi,Alka Yagnik & Arijit Singh,Sad/Emotional,0.3,0.3
+hindi_Bekhayali,Hindi,Sachet Tandon,Sad/Angry,0.3,0.7
+hindi_Tum_Mile,Hindi,Neeraj Shridhar,Romantic/Calm,0.7,0.4
+hindi_Kabira,Hindi,Tochi Raina & Rekha Bhardwaj,Emotional,0.5,0.5
+hindi_Sun_Saathiya,Hindi,Priya Saraiya & Divya Kumar,Romantic/Calm,0.75,0.4
+hindi_Ae_Dil_Hai_Mushkil,Hindi,Arijit Singh,Sad/Romantic,0.4,0.5
+hindi_Tera_Hone_Laga_Hoon,Hindi,Atif Aslam,Romantic/Happy,0.9,0.6
+hindi_Khairiyat,Hindi,Arijit Singh,Sad/Romantic,0.3,0.4
+hindi_Saibo,Hindi,Shreya Ghoshal & Tochi Raina,Romantic/Calm,0.8,0.3
+hindi_Kun_Faya_Kun,Hindi,"A.R. Rahman, Javed Ali, Mohit Chauhan",Spiritual/Calm,0.6,0.3
+hindi_Allah_Ke_Bande,Hindi,Kailash Kher,Motivational/Calm,0.7,0.4
+hindi_Badtameez_Dil,Hindi,Benny Dayal,Happy/Energetic,0.95,0.9
+hindi_Zinda,Hindi,Siddharth Mahadevan,Motivational/Energetic,0.7,0.9
+hindi_Raabta,Hindi,Arijit Singh,Romantic,0.85,0.5
+hindi_Kal_Ho_Naa_Ho,Hindi,Sonu Nigam,Emotional/Sad,0.3,0.4
+hindi_Tera_Ban_Jaunga,Hindi,Akhil Sachdeva & Tulsi Kumar,Romantic,0.85,0.5
+hindi_Jeene_Laga_Hoon,Hindi,Atif Aslam & Shreya Ghoshal,Romantic,0.9,0.5
+hindi_Phir_Le_Aya_Dil,Hindi,Rekha Bhardwaj,Sad/Calm,0.3,0.3
+hindi_Shayad,Hindi,Arijit Singh,Romantic,0.85,0.5
+hindi_Janam_Janam,Hindi,Arijit Singh & Antara Mitra,Romantic/Emotional,0.7,0.6
+hindi_Galliyan,Hindi,Ankit Tiwari,Romantic/Emotional,0.8,0.5
+hindi_Samjhawan,Hindi,Arijit Singh & Shreya Ghoshal,Romantic/Sad,0.5,0.4
+hindi_Pee_Loon,Hindi,Mohit Chauhan,Romantic,0.9,0.5
+hindi_Mast_Magan,Hindi,Arijit Singh & Chinmayi,Romantic,0.85,0.5
+hindi_Tera_Yaar_Hoon_Main,Hindi,Arijit Singh,Emotional/Friendship,0.6,0.5
+hindi_Sooraj_Dooba_Hain,Hindi,Arijit Singh,Happy/Energetic,0.95,0.85
+hindi_Ghungroo,Hindi,Arijit Singh & Shilpa Rao,Happy/Dance,0.9,0.8
+hindi_Nashe_Si_Chadh_Gayi,Hindi,Arijit Singh,Energetic/Happy,0.85,0.9
+hindi_Desi_Girl,Hindi,"Shankar Mahadevan, Sunidhi Chauhan",Happy/Energetic,0.9,0.8
+hindi_Mitwa,Hindi,Shankar-Ehsaan-Loy,Romantic/Calm,0.8,0.5
+hindi_Rang_De_Basanti,Hindi,Daler Mehndi & K.S. Chithra,Patriotic/Energetic,0.8,0.85
+hindi_Vande_Mataram,Hindi,A.R. Rahman,Patriotic/Calm,0.7,0.6
