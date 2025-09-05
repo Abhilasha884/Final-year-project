@@ -61,16 +61,21 @@ class MusicDataset(torch.utils.data.Dataset):
         mel_tensor = torch.tensor(mel_spec_db, dtype=torch.float32).transpose(0, 1)  # (time, mel)
 
         # --------------------------
-        # Lyrics tokens
+        # Lyrics tokens (match audio filename)
         # --------------------------
-        lyrics_path = os.path.join(self.lyrics_dir, row["lyrics_file"])
+        lyrics_filename = song_id + ".txt"  # use same song_id for lyrics
+        lyrics_path = os.path.join(self.lyrics_dir, lyrics_filename)
         if os.path.exists(lyrics_path):
             with open(lyrics_path, "r", encoding="utf-8") as f:
                 text = f.read()
         else:
             text = ""
 
-        tokens = torch.tensor(self.tokenizer(text), dtype=torch.long) if self.tokenizer else torch.tensor([])
+        tokens = torch.tensor(self.tokenizer(text), dtype=torch.long) if self.tokenizer else torch.tensor([0])
+        if len(tokens) == 0:
+            tokens = torch.tensor([0], dtype=torch.long)  # add dummy token if lyrics empty
+
+
 
         # --------------------------
         # Labels
