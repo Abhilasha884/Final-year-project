@@ -4,7 +4,6 @@ import torch.optim as optim
 from torch.utils.data import DataLoader
 from torch.nn.utils.rnn import pad_sequence
 import pandas as pd
-
 from dataset import MusicDataset
 from model import ModelConfig, MultiTaskMultimodalLSTM, compute_multitask_loss
 
