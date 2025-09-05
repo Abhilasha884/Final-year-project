@@ -50,9 +50,9 @@ def collate_fn(batch):
 # --------------------------
 # Paths
 # --------------------------
-CSV_FILE = "data/labels.csv"
-AUDIO_DIR = "data/audio"
-LYRICS_DIR = "data/lyrics"
+CSV_FILE = "Backend/data/labels.csv"
+AUDIO_DIR = "Backend/data/audio"
+LYRICS_DIR = "Backend/data/lyrics"
 
 # --------------------------
 # Load labels
