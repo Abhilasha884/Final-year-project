@@ -101,13 +101,18 @@ cfg = ModelConfig(
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = MultiTaskMultimodalLSTM(cfg).to(device)
 
-optimizer = optim.Adam(model.parameters(), lr=1e-3)
+# ✅ Lower learning rate
+optimizer = optim.Adam(model.parameters(), lr=1e-4)
+
+# ✅ Add scheduler
+from torch.optim.lr_scheduler import StepLR
+scheduler = StepLR(optimizer, step_size=5, gamma=0.5)
 
 
 # --------------------------
 # Training loop (multimodal)
 # --------------------------
-EPOCHS = 5
+EPOCHS = 20  # ✅ Train longer
 
 for epoch in range(EPOCHS):
     model.train()
@@ -139,6 +144,8 @@ for epoch in range(EPOCHS):
         optimizer.step()
 
         total_loss += loss.item()
+
+    scheduler.step()  # ✅ update learning rate
 
     avg_loss = total_loss / len(train_loader)
     print(f"Epoch {epoch+1}/{EPOCHS} - Loss: {avg_loss:.4f}")
