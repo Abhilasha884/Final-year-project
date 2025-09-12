@@ -1,70 +1,70 @@
-song_id,language,singer,emotion_label,valence,arousal,genre
-english_Shape_of_You,English,Ed Sheeran,Happy,0.9,0.8,Pop
-english_Someone_Like_You,English,Adele,Sad,0.2,0.3,Pop
-english_Happy,English,Pharrell Williams,Happy,0.95,0.9,Pop
-english_Rolling_in_the_Deep,English,Adele,Angry,0.2,0.7,Soul
-english_Thunderstruck,English,AC/DC,Energetic,0.8,0.95,Rock
-english_Fix_You,English,Coldplay,Sad,0.4,0.3,Alternative Rock
-english_Let_It_Be,English,The Beatles,Calm,0.7,0.4,Rock
-english_Lose_Yourself,English,Eminem,Motivated,0.6,0.9,Hip-Hop
-english_Thinking_Out_Loud,English,Ed Sheeran,Love,0.8,0.4,Pop
-english_Wake_Me_Up,English,Avicii,Happy,0.85,0.85,Electronic/Dance
-english_Believer,English,Imagine Dragons,Angry,0.6,0.95,Rock
-english_Shallow,English,Lady Gaga & Bradley Cooper,Romantic,0.5,0.4,Pop
-english_Counting_Stars,English,OneRepublic,Happy,0.85,0.85,Pop/Rock
-english_Stay_With_Me,English,Sam Smith,Sad,0.3,0.3,Pop/Soul
-english_Perfect,English,Ed Sheeran,Romantic,0.9,0.5,Pop
-english_Viva_La_Vida,English,Coldplay,Happy,0.8,0.7,Alternative Rock
-english_Demons,English,Imagine Dragons,Sad,0.3,0.5,Rock
-english_All_of_Me,English,John Legend,Romantic,0.85,0.5,Pop/R&B
-english_Uptown_Funk,English,Bruno Mars,Happy,0.95,0.9,Funk/Pop
-english_Stronger,English,Kanye West,Motivated,0.7,0.9,Hip-Hop
-english_Radioactive,English,Imagine Dragons,Angry,0.6,0.9,Rock
-english_Say_You_Won’t_Let_Go,English,James Arthur,Romantic,0.85,0.5,Pop
-english_Boulevard_of_Broken_Dreams,English,Green Day,Sad,0.3,0.6,Rock
-english_Numb,English,Linkin Park,Sad,0.2,0.8,Rock/Alternative
-english_In_the_End,English,Linkin Park,Motivated,0.3,0.85,Rock/Alternative
-english_Happier,English,Marshmello ft. Bastille,Happy,0.5,0.6,Electronic/Pop
-english_Bad_Guy,English,Billie Eilish,Playful,0.6,0.7,Pop
-english_Clocks,English,Coldplay,Calm,0.7,0.6,Alternative Rock
-english_Smells_Like_Teen_Spirit,English,Nirvana,Angry,0.4,0.95,Grunge/Rock
-english_Grenade,English,Bruno Mars,Angry,0.2,0.7,Pop
-english_Hello,English,Adele,Sad,0.2,0.4,Pop/Soul
-english_Can’t_Stop_the_Feeling!,English,Justin Timberlake,Happy,0.95,0.85,Pop
-hindi_Tum_Hi_Ho,Hindi,Arijit Singh,Romantic,0.8,0.4,Romantic
-hindi_Channa_Mereya,Hindi,Arijit Singh,Sad,0.2,0.3,Romantic
-hindi_Dil_Diyan_Gallan,Hindi,Atif Aslam,Romantic,0.8,0.4,Romantic
-hindi_Agar_Tum_Saath_Ho,Hindi,Alka Yagnik & Arijit Singh,Sad,0.3,0.3,Romantic
-hindi_Bekhayali,Hindi,Sachet Tandon,Angry,0.3,0.7,Romantic/Rock
-hindi_Tum_Mile,Hindi,Neeraj Shridhar,Romantic,0.7,0.4,Romantic
-hindi_Kabira,Hindi,Tochi Raina & Rekha Bhardwaj,Emotional,0.5,0.5,Romantic/Folk
-hindi_Sun_Saathiya,Hindi,Priya Saraiya & Divya Kumar,Romantic,0.75,0.4,Romantic
-hindi_Ae_Dil_Hai_Mushkil,Hindi,Arijit Singh,Sad,0.4,0.5,Romantic
-hindi_Tera_Hone_Laga_Hoon,Hindi,Atif Aslam,Romantic,0.9,0.6,Romantic
-hindi_Khairiyat,Hindi,Arijit Singh,Sad,0.3,0.4,Romantic
-hindi_Saibo,Hindi,Shreya Ghoshal & Tochi Raina,Romantic,0.8,0.3,Romantic/Folk
-hindi_Kun_Faya_Kun,Hindi,"A.R. Rahman, Javed Ali, Mohit Chauhan",Spiritual,0.6,0.3,Spiritual
-hindi_Allah_Ke_Bande,Hindi,Kailash Kher,Motivational,0.7,0.4,Spiritual
-hindi_Badtameez_Dil,Hindi,Benny Dayal,Happy,0.95,0.9,Pop
-hindi_Zinda,Hindi,Siddharth Mahadevan,Motivated,0.7,0.9,Pop
-hindi_Raabta,Hindi,Arijit Singh,Romantic,0.85,0.5,Romantic
-hindi_Kal_Ho_Naa_Ho,Hindi,Sonu Nigam,Sad,0.3,0.4,Romantic
-hindi_Tera_Ban_Jaunga,Hindi,Akhil Sachdeva & Tulsi Kumar,Romantic,0.85,0.5,Romantic
-hindi_Jeene_Laga_Hoon,Hindi,Atif Aslam & Shreya Ghoshal,Romantic,0.9,0.5,Romantic
-hindi_Phir_Le_Aya_Dil,Hindi,Rekha Bhardwaj,Sad,0.3,0.3,Romantic
-hindi_Shayad,Hindi,Arijit Singh,Romantic,0.85,0.5,Romantic
-hindi_Janam_Janam,Hindi,Arijit Singh & Antara Mitra,Romantic,0.7,0.6,Romantic
-hindi_Galliyan,Hindi,Ankit Tiwari,Romantic,0.8,0.5,Romantic
-hindi_Samjhawan,Hindi,Arijit Singh & Shreya Ghoshal,Romantic,0.5,0.4,Romantic
-hindi_Pee_Loon,Hindi,Mohit Chauhan,Romantic,0.9,0.5,Romantic
-hindi_Mast_Magan,Hindi,Arijit Singh & Chinmayi,Romantic,0.85,0.5,Romantic
-hindi_Tera_Yaar_Hoon_Main,Hindi,Arijit Singh,Emotional,0.6,0.5,Romantic
-hindi_Sooraj_Dooba_Hain,Hindi,Arijit Singh,Happy,0.95,0.85,Pop
-hindi_Ghungroo,Hindi,Arijit Singh & Shilpa Rao,Happy,0.9,0.8,Pop
-hindi_Nashe_Si_Chadh_Gayi,Hindi,Arijit Singh,Happy,0.85,0.9,Pop
-hindi_Desi_Girl,Hindi,"Shankar Mahadevan, Sunidhi Chauhan",Happy,0.9,0.8,Pop
-hindi_Mitwa,Hindi,Shankar-Ehsaan-Loy,Romantic,0.8,0.5,Romantic
-hindi_Rang_De_Basanti,Hindi,Daler Mehndi & K.S. Chithra,Patriotic,0.8,0.85,Patriotic
-hindi_Vande_Mataram,Hindi,A.R. Rahman,Patriotic,0.7,0.6,Patriotic
-marathi_Zingaat,Marathi,Ajay-Atul,Happy,0.9,0.9,Dance
-marathi_Yad_Lagla,Marathi,Ajay Gogavale,Romantic,0.85,0.7,Romantic
+song_id,language,singer,valence,arousal,genre
+english_Shape_of_You.mp3,English,Ed Sheeran,0.9,0.8,Pop
+english_Someone_Like_You.mp3,English,Adele,0.2,0.3,Pop
+english_Happy.mp3,English,Pharrell Williams,0.95,0.9,Pop
+english_Rolling_in_the_Deep.mp3,English,Adele,0.2,0.7,Soul
+english_Thunderstruck.mp3,English,AC/DC,0.8,0.95,Rock
+english_Fix_You.mp3,English,Coldplay,0.4,0.3,Alternative Rock
+english_Let_It_Be.mp3,English,The Beatles,0.7,0.4,Rock
+english_Lose_Yourself.mp3,English,Eminem,0.6,0.9,Hip-Hop
+english_Thinking_Out_Loud.mp3,English,Ed Sheeran,0.8,0.4,Pop
+english_Wake_Me_Up.mp3,English,Avicii,0.85,0.85,Electronic/Dance
+english_Believer.mp3,English,Imagine Dragons,0.6,0.95,Rock
+english_Shallow.mp3,English,Lady Gaga & Bradley Cooper,0.5,0.4,Pop
+english_Counting_Stars.mp3,English,OneRepublic,0.85,0.85,Pop/Rock
+english_Stay_With_Me.mp3,English,Sam Smith,0.3,0.3,Pop/Soul
+english_Perfect.mp3,English,Ed Sheeran,0.9,0.5,Pop
+english_Viva_La_Vida.mp3,English,Coldplay,0.8,0.7,Alternative Rock
+english_Demons.mp3,English,Imagine Dragons,0.3,0.5,Rock
+english_All_of_Me.mp3,English,John Legend,0.85,0.5,Pop/R&B
+english_Uptown_Funk.mp3,English,Bruno Mars,0.95,0.9,Funk/Pop
+english_Stronger.mp3,English,Kanye West,0.7,0.9,Hip-Hop
+english_Radioactive.mp3,English,Imagine Dragons,0.6,0.9,Rock
+english_Say_You_Won’t_Let_Go.mp3,English,James Arthur,0.85,0.5,Pop
+english_Boulevard_of_Broken_Dreams.mp3,English,Green Day,0.3,0.6,Rock
+english_Boulevard_of_Broken_Dreams.mp3,English,Linkin Park,0.2,0.8,Rock/Alternative
+english_In_the_End.mp3,English,Linkin Park,0.3,0.85,Rock/Alternative
+english_Happier.mp3,English,Marshmello ft. Bastille,0.5,0.6,Electronic/Pop
+english_Bad_Guy.mp3,English,Billie Eilish,0.6,0.7,Pop
+english_Clocks.mp3,English,Coldplay,0.7,0.6,Alternative Rock
+english_Smells_Like_Teen_Spirit.mp3,English,Nirvana,0.4,0.95,Grunge/Rock
+english_Grenade.mp3,English,Bruno Mars,0.2,0.7,Pop
+english_Hello.mp3,English,Adele,0.2,0.4,Pop/Soul
+english_Can’t_Stop_the_Feeling!.mp3,English,Justin Timberlake,0.95,0.85,Pop
+hindi_Tum_Hi_Ho.mp3,Hindi,Arijit Singh,0.8,0.4,Romantic
+hindi_Channa_Mereya.mp3,Hindi,Arijit Singh,0.2,0.3,Romantic
+hindi_Dil_Diyan_Gallan.mp3,Hindi,Atif Aslam,0.8,0.4,Romantic
+hindi_Agar_Tum_Saath_Ho.mp3,Hindi,Alka Yagnik & Arijit Singh,0.3,0.3,Romantic
+hindi_Bekhayali.mp3,Hindi,Sachet Tandon,0.3,0.7,Romantic/Rock
+hindi_Tum_Mile.mp3,Hindi,Neeraj Shridhar,0.7,0.4,Romantic
+hindi_Kabira.mp3,Hindi,Tochi Raina & Rekha Bhardwaj,0.5,0.5,Romantic/Folk
+hindi_Sun_Saathiya.mp3,Hindi,Priya Saraiya & Divya Kumar,0.75,0.4,Romantic
+hindi_Ae_Dil_Hai_Mushkil.mp3,Hindi,Arijit Singh,0.4,0.5,Romantic
+hindi_Tera_Hone_Laga_Hoon.mp3,Hindi,Atif Aslam,0.9,0.6,Romantic
+hindi_Khairiyat.mp3,Hindi,Arijit Singh,0.3,0.4,Romantic
+hindi_Saibo.mp3,Hindi,Shreya Ghoshal & Tochi Raina,0.8,0.3,Romantic/Folk
+hindi_Kun_Faya_Kun.mp3,Hindi,"A.R. Rahman, Javed Ali, Mohit Chauhan",0.6,0.3,Spiritual
+hindi_Allah_Ke_Bande.mp3,Hindi,Kailash Kher,0.7,0.4,Spiritual
+hindi_Badtameez_Dil.mp3,Hindi,Benny Dayal,0.95,0.9,Pop
+hindi_Zinda.mp3,Hindi,Siddharth Mahadevan,0.7,0.9,Pop
+hindi_Raabta.mp3,Hindi,Arijit Singh,0.85,0.5,Romantic
+hindi_Kal_Ho_Naa_Ho.mp3,Hindi,Sonu Nigam,0.3,0.4,Romantic
+hindi_Tera_Ban_Jaunga.mp3,Hindi,Akhil Sachdeva & Tulsi Kumar,0.85,0.5,Romantic
+hindi_Jeene_Laga_Hoon.mp3,Hindi,Atif Aslam & Shreya Ghoshal,0.9,0.5,Romantic
+hindi_Phir_Le_Aya_Dil.mp3,Hindi,Rekha Bhardwaj,0.3,0.3,Romantic
+hindi_Shayad.mp3,Hindi,Arijit Singh,0.85,0.5,Romantic
+hindi_Janam_Janam.mp3,Hindi,Arijit Singh & Antara Mitra,0.7,0.6,Romantic
+hindi_Galliyan.mp3,Hindi,Ankit Tiwari,0.8,0.5,Romantic
+hindi_Samjhawan.mp3,Hindi,Arijit Singh & Shreya Ghoshal,0.5,0.4,Romantic
+hindi_Pee_Loon.mp3,Hindi,Mohit Chauhan,0.9,0.5,Romantic
+hindi_Mast_Magan.mp3,Hindi,Arijit Singh & Chinmayi,0.85,0.5,Romantic
+hindi_Tera_Yaar_Hoon_Main.mp3,Hindi,Arijit Singh,0.6,0.5,Romantic
+hindi_Sooraj_Dooba_Hain.mp3,Hindi,Arijit Singh,0.95,0.85,Pop
+hindi_Ghungroo.mp3,Hindi,Arijit Singh & Shilpa Rao,0.9,0.8,Pop
+hindi_Nashe_Si_Chadh_Gayi.mp3,Hindi,Arijit Singh,0.85,0.9,Pop
+hindi_Desi_Girl.mp3,Hindi,"Shankar Mahadevan, Sunidhi Chauhan",0.9,0.8,Pop
+hindi_Mitwa.mp3,Hindi,Shankar-Ehsaan-Loy,0.8,0.5,Romantic
+hindi_Rang_De_Basanti.mp3,Hindi,Daler Mehndi & K.S. Chithra,0.8,0.85,Patriotic
+hindi_Vande_Mataram.mp3,Hindi,A.R. Rahman,0.7,0.6,Patriotic
+marathi_Zingaat.mp3,Marathi,Ajay-Atul,0.9,0.9,Dance
+marathi_Yad_Lagla.mp3,Marathi,Ajay Gogavale,0.85,0.7,Romantic
