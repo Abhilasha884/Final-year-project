@@ -1,0 +1,183 @@
+song_id,language,singer,valence,arousal,genre
+english_Shape_of_You,English,Ed Sheeran,0.9,0.8,Pop
+english_Someone_Like_You,English,Adele,0.2,0.3,Pop
+english_Happy,English,Pharrell Williams,0.95,0.9,Pop
+english_Rolling_in_the_Deep,English,Adele,0.2,0.7,Soul
+english_Thunderstruck,English,AC/DC,0.8,0.95,Rock
+english_Fix_You,English,Coldplay,0.4,0.3,Alternative Rock
+english_Let_It_Be,English,The Beatles,0.7,0.4,Rock
+english_Lose_Yourself,English,Eminem,0.6,0.9,Hip-Hop
+english_Thinking_Out_Loud,English,Ed Sheeran,0.8,0.4,Pop
+english_Wake_Me_Up,English,Avicii,0.85,0.85,Electronic/Dance
+english_Believer,English,Imagine Dragons,0.6,0.95,Rock
+english_Shallow,English,Lady Gaga & Bradley Cooper,0.5,0.4,Pop
+english_Counting_Stars,English,OneRepublic,0.85,0.85,Pop/Rock
+english_Stay_With_Me,English,Sam Smith,0.3,0.3,Pop/Soul
+english_Perfect,English,Ed Sheeran,0.9,0.5,Pop
+english_Viva_La_Vida,English,Coldplay,0.8,0.7,Alternative Rock
+english_Demons,English,Imagine Dragons,0.3,0.5,Rock
+english_All_of_Me,English,John Legend,0.85,0.5,Pop/R&B
+english_Uptown_Funk,English,Bruno Mars,0.95,0.9,Funk/Pop
+english_Stronger,English,Kanye West,0.7,0.9,Hip-Hop
+english_Radioactive,English,Imagine Dragons,0.6,0.9,Rock
+english_Say_You_Won’t_Let_Go,English,James Arthur,0.85,0.5,Pop
+english_Boulevard_of_Broken_Dreams,English,Green Day,0.3,0.6,Rock
+english_Numb,English,Linkin Park,0.2,0.8,Rock/Alternative
+english_In_the_End,English,Linkin Park,0.3,0.85,Rock/Alternative
+english_Happier,English,Marshmello ft. Bastille,0.5,0.6,Electronic/Pop
+english_Bad_Guy,English,Billie Eilish,0.6,0.7,Pop
+english_Clocks,English,Coldplay,0.7,0.6,Alternative Rock
+english_Smells_Like_Teen_Spirit,English,Nirvana,0.4,0.95,Grunge/Rock
+english_Grenade,English,Bruno Mars,0.2,0.7,Pop
+english_Hello,English,Adele,0.2,0.4,Pop/Soul
+english_Can’t_Stop_the_Feeling!,English,Justin Timberlake,0.95,0.85,Pop
+hindi_Tum_Hi_Ho,Hindi,Arijit Singh,0.8,0.4,Romantic
+hindi_Channa_Mereya,Hindi,Arijit Singh,0.2,0.3,Romantic
+hindi_Dil_Diyan_Gallan,Hindi,Atif Aslam,0.8,0.4,Romantic
+hindi_Agar_Tum_Saath_Ho,Hindi,Alka Yagnik & Arijit Singh,0.3,0.3,Romantic
+hindi_Bekhayali,Hindi,Sachet Tandon,0.3,0.7,Romantic/Rock
+hindi_Tum_Mile,Hindi,Neeraj Shridhar,0.7,0.4,Romantic
+hindi_Kabira,Hindi,Tochi Raina & Rekha Bhardwaj,0.5,0.5,Romantic/Folk
+hindi_Sun_Saathiya,Hindi,Priya Saraiya & Divya Kumar,0.75,0.4,Romantic
+hindi_Ae_Dil_Hai_Mushkil,Hindi,Arijit Singh,0.4,0.5,Romantic
+hindi_Tera_Hone_Laga_Hoon,Hindi,Atif Aslam,0.9,0.6,Romantic
+hindi_Khairiyat,Hindi,Arijit Singh,0.3,0.4,Romantic
+hindi_Saibo,Hindi,Shreya Ghoshal & Tochi Raina,0.8,0.3,Romantic/Folk
+hindi_Kun_Faya_Kun,Hindi,"A.R. Rahman, Javed Ali, Mohit Chauhan",0.6,0.3,Spiritual
+hindi_Allah_Ke_Bande,Hindi,Kailash Kher,0.7,0.4,Spiritual
+hindi_Badtameez_Dil,Hindi,Benny Dayal,0.95,0.9,Pop
+hindi_Zinda,Hindi,Siddharth Mahadevan,0.7,0.9,Pop
+hindi_Raabta,Hindi,Arijit Singh,0.85,0.5,Romantic
+hindi_Kal_Ho_Naa_Ho,Hindi,Sonu Nigam,0.3,0.4,Romantic
+hindi_Tera_Ban_Jaunga,Hindi,Akhil Sachdeva & Tulsi Kumar,0.85,0.5,Romantic
+hindi_Jeene_Laga_Hoon,Hindi,Atif Aslam & Shreya Ghoshal,0.9,0.5,Romantic
+hindi_Phir_Le_Aya_Dil,Hindi,Rekha Bhardwaj,0.3,0.3,Romantic
+hindi_Shayad,Hindi,Arijit Singh,0.85,0.5,Romantic
+hindi_Janam_Janam,Hindi,Arijit Singh & Antara Mitra,0.7,0.6,Romantic
+hindi_Galliyan,Hindi,Ankit Tiwari,0.8,0.5,Romantic
+hindi_Samjhawan,Hindi,Arijit Singh & Shreya Ghoshal,0.5,0.4,Romantic
+hindi_Pee_Loon,Hindi,Mohit Chauhan,0.9,0.5,Romantic
+hindi_Mast_Magan,Hindi,Arijit Singh & Chinmayi,0.85,0.5,Romantic
+hindi_Tera_Yaar_Hoon_Main,Hindi,Arijit Singh,0.6,0.5,Romantic
+hindi_Sooraj_Dooba_Hain,Hindi,Arijit Singh,0.95,0.85,Pop
+hindi_Ghungroo,Hindi,Arijit Singh & Shilpa Rao,0.9,0.8,Pop
+hindi_Nashe_Si_Chadh_Gayi,Hindi,Arijit Singh,0.85,0.9,Pop
+hindi_Desi_Girl,Hindi,"Shankar Mahadevan, Sunidhi Chauhan",0.9,0.8,Pop
+hindi_Mitwa,Hindi,Shankar-Ehsaan-Loy,0.8,0.5,Romantic
+hindi_Rang_De_Basanti,Hindi,Daler Mehndi & K.S. Chithra,0.8,0.85,Patriotic
+hindi_Vande_Mataram,Hindi,A.R. Rahman,0.7,0.6,Patriotic
+marathi_Zingaat,Marathi,Ajay-Atul,0.9,0.9,Dance
+marathi_Yad_Lagla,Marathi,Ajay Gogavale,0.85,0.7,Romantic
+english_Shake_It_Off,English,Taylor Swift,0.95,0.85,Pop
+english_Royals,English,Lorde,0.6,0.4,Electropop
+english_Dark_Horse,English,Katy Perry ft. Juicy J,0.7,0.8,Pop
+english_Love_Yourself,English,Justin Bieber,0.4,0.3,Pop
+english_Firework,English,Katy Perry,0.9,0.8,Pop
+english_Cheap_Thrills,English,Sia,0.9,0.8,Dance-Pop
+english_Problem,English,Ariana Grande ft. Iggy Azalea,0.7,0.9,Pop/R&B
+english_Love_Me_Like_You_Do,English,Ellie Goulding,0.8,0.5,Electropop
+english_Hall_of_Fame,English,The Script ft. will.i.am,0.8,0.85,Pop-Rock
+english_We_Dont_Talk_Anymore,English,Charlie Puth ft. Selena Gomez,0.4,0.5,Pop
+english_Roar,English,Katy Perry,0.9,0.85,Pop-Rock
+english_Stressed_Out,English,Twenty One Pilots,0.4,0.6,Alternative/Indie
+english_Sugar,English,Maroon 5,0.85,0.7,Pop-Rock
+english_Locked_Out_of_Heaven,English,Bruno Mars,0.9,0.85,Funk/Pop
+english_Dance_Monkey,English,Tones and I,0.85,0.8,Electropop
+english_Don't_Speak,English,No Doubt,0.35,0.45,Alternative
+english_Bleeding_Love,English,Leona Lewis,0.45,0.5,Pop
+english_Chasing_Cars,English,Snow Patrol,0.4,0.3,Alternative/Rock
+english_I_Will_Always_Love_You,English,Whitney Houston,0.3,0.4,Pop/Soul
+english_Toxic,English,Britney Spears,0.75,0.8,Pop
+english_With_or_Without_You,English,U2,0.5,0.4,Rock
+english_Every_Breath_You_Take,English,The Police,0.5,0.4,Rock
+english_Back_to_Black,English,Amy Winehouse,0.3,0.5,Soul/Jazz
+english_Viva_Forever,English,Spice Girls,0.6,0.4,Pop
+english_Dream_On,English,Aerosmith,0.5,0.7,Rock
+english_Karma_Police,English,Radiohead,0.35,0.5,Alternative
+english_Everybody_Hurts,English,R.E.M.,0.25,0.3,Rock
+english_No_Tears_Left_To_Cry,English,Ariana Grande,0.8,0.7,Pop
+english_Stronger_(What_Doesn't_Kill_You),English,Kelly Clarkson,0.7,0.85,Pop/Rock
+english_Creep,English,Radiohead,0.2,0.5,Alternative
+english_I_Don’t_Want_to_Miss_a_Thing,English,Aerosmith,0.8,0.6,Rock/Ballad
+english_Take_On_Me,English,a-ha,0.9,0.7,Synthpop
+english_Time_After_Time,English,Cyndi Lauper,0.7,0.4,Pop
+english_Africa,English,Toto,0.85,0.75,Rock/Pop
+english_Iris,English,Goo Goo Dolls,0.6,0.5,Rock
+english_Because_of_You,English,Kelly Clarkson,0.3,0.5,Pop
+english_Sweet_Child_O�_Mine,English,Guns N’ Roses,0.9,0.85,Rock
+english_Like_a_Rolling_Stone,English,Bob Dylan,0.45,0.65,Rock
+english_Bridge_Over_Troubled_Water,English,Simon & Garfunkel,0.4,0.35,Folk
+english_Nothing_Else_Matters,English,Metallica,0.25,0.5,Rock
+english_Everybody_Wants_to_Rule_the_World,English,Tears for Fears,0.75,0.55,Pop-Rock
+english_Stayin�_Alive,English,Bee Gees,0.85,0.9,Disco
+english_Eye_of_the_Tiger,English,Survivor,0.75,0.95,Rock
+english_The_Sound_of_Silence,English,Simon & Garfunkel,0.2,0.25,Folk
+english_Under_Pressure,English,Queen & David Bowie,0.55,0.7,Rock
+english_Livin�_on_a_Prayer,English,Bon Jovi,0.8,0.9,Rock
+english_Killing_Me_Softly_With_His_Song,English,Fugees,0.4,0.45,R&B
+english_Man_in_the_Mirror,English,Michael Jackson,0.65,0.55,Pop
+english_The_Winner_Takes_It_All,English,ABBA,0.3,0.4,Pop
+english_Every_Rose_Has_Its_Thorn,English,Poison,0.35,0.45,Rock
+english_Don�t_Stop_Me_Now,English,Queen,0.9,0.9,Rock
+english_Tears_in_Heaven,English,Eric Clapton,0.15,0.25,Soft Rock
+english_She_Will_Be_Loved,English,Maroon 5,0.55,0.45,Pop
+english_Seven_Nation_Army,English,The White Stripes,0.55,0.7,Alternative Rock
+english_Highway_to_Hell,English,AC/DC,0.65,0.95,Rock
+english_Patience,English,Guns N’ Roses,0.35,0.35,Rock
+english_Imagine,English,John Lennon,0.75,0.25,Soft Rock
+hindi_Chaiyya_Chaiyya,Hindi,"Sukhwinder Singh, Sapna Awasthi",0.8,0.7,Folk/Pop
+hindi_Lag_Jaa_Gale,Hindi,Lata Mangeshkar,0.3,0.4,Classical
+hindi_Aap_Jaisa_Koi,Hindi,Nazia Hassan,0.75,0.65,Pop
+hindi_Sandese_Aate_Hain,Hindi,"Sonu Nigam, Roop Kumar Rathod",0.5,0.6,Patriotic
+hindi_Gallan_Goodiyaan,Hindi,"Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh",0.9,0.8,Dance/Pop
+hindi_Tum_Se_Hi,Hindi,Mohit Chauhan,0.8,0.5,Romantic
+hindi_Kalank_Title_Track,Hindi,Arijit Singh,0.7,0.6,Emotional
+english_Bohemian_Rhapsody,English,Queen,0.8,0.7,Rock
+english_Someone_You_Loved,English,Lewis Capaldi,0.4,0.3,Sad
+english_Blinding_Lights,English,The Weeknd,0.9,0.8,Synthpop
+hindi_Ajeeb_Dastan_Hai_Yeh,Hindi,Lata Mangeshkar,0.4,0.3,Romantic/Emotional
+hindi_Jaan_Pehechan_Ho,Hindi,Mohammed Rafi,0.7,0.8,Rock & Roll
+hindi_Hai_Rama,Hindi,"Hariharan, Swarnalatha",0.6,0.7,Romantic/Semi-classical
+hindi_Chadti_Jawani_Meri_Chaal_Mastani,Hindi,"Mohammed Rafi, Lata Mangeshkar",0.8,0.9,Dance/Retro
+hindi_Mujhe_Budhha_Mil_Gaya,Hindi,Lata Mangeshkar,0.5,0.4,Romantic/Classic
+hindi_Tere_Bina_Zindagi_Se,Hindi,"Lata Mangeshkar, Kishore Kumar",0.3,0.2,Romantic/Emotional
+hindi_Piya_Tu_Ab_To_Aaja,Hindi,Asha Bhosle,0.8,0.9,Dance/Retro
+hindi_Kabhi_Kabhi_Mere_Dil_Mein,Hindi,Mukesh,0.4,0.3,Romantic/Classic
+hindi_Yeh_Sham_Mastani,Hindi,Kishore Kumar,0.6,0.5,Romantic/Classic
+hindi_Mere_Sapno_Ki_Rani,Hindi,Kishore Kumar,0.7,0.6,Romantic/Retro
+hindi_Lag_Ja_Gale,Hindi,Lata Mangeshkar,0.2,0.3,Romantic/Emotional
+hindi_O_Haseena_Zulfonwali,Hindi,"Asha Bhosle, Mohammed Rafi",0.8,0.9,Dance/Retro
+hindi_Ae_Mere_Humsafar,Hindi,"Udit Narayan, Alka Yagnik",0.5,0.4,Romantic/Classic
+hindi_Chura_Liya_Hai_Tumne_Jo_Dil_Ko,Hindi,"Asha Bhosle, Mohammed Rafi",0.6,0.5,Romantic/Classic
+hindi_Tere_Bina,Hindi,"A.R. Rahman, Chinmayi",0.5,0.6,Romantic/Emotional
+hindi_Pehla_Nasha,Hindi,"Udit Narayan, Sadhana Sargam",0.8,0.7,Romantic/Classic
+hindi_Kabhi_Kabhi_Aditi,Hindi,Rashid Ali,0.7,0.8,Romantic/Pop
+hindi_Chand_Sifarish,Hindi,"Shaan, Kailash Kher",0.5,0.6,Romantic/Pop
+english_As_It_Was,English,Harry Styles,0.8,0.7,Pop
+english_Sunset_Lover,English,Petit Biscuit,0.7,0.6,Electronic/Chill
+english_Dancing_With_A_Stranger,English,"Sam Smith, Normani",0.6,0.7,Pop/R&B
+english_Levitating,English,Dua Lipa,0.8,0.8,Pop/Disco
+english_Good_4_U,English,Olivia Rodrigo,0.9,0.9,Pop/Rock
+english_Bad_Habits,English,Ed Sheeran,0.7,0.8,Pop
+english_Industry_Baby,English,"Lil Nas X, Jack Harlow",0.8,0.9,Hip-Hop/Pop
+english_Stay,English,"The Kid LAROI, Justin Bieber",0.8,0.9,Pop
+english_Circles,English,Post Malone,0.6,0.5,Pop/Rock
+english_Sunflower,English,"Post Malone, Swae Lee",0.7,0.6,Hip-Hop/Pop
+english_Sapphire,English,Ed Sheeran ft. Arijit Singh,0.9,0.8,Pop/Fusion
+english_Rein_Me_In,English,Sam Fender & Olivia Dean,0.8,0.7,Indie Rock
+english_My_Only_Angel,English,Aerosmith & YUNGBLUD,0.9,0.9,Rock
+english_Messy,English,Lola Young,0.6,0.7,Indie Pop
+english_Children_of_the_Baked_Potato,English,Thundercat ft. Remi Wolf,0.8,0.7,Funk/Alternative
+english_My_Love,English,Leigh-Anne ft. Ayra Starr,0.8,0.7,Afropop
+english_We_Pray,English,"Coldplay ft. Little Simz, Burna Boy, Elyanna, and Tini",0.9,0.8,Alternative/Hip-Hop
+english_Moonlight,English,Kali Uchis,0.8,0.8,R&B/Pop
+english_Miracle,English,Calvin Harris & Ellie Goulding,0.9,0.9,Dance/Pop
+english_Labour,English,Paris Paloma,0.7,0.7,Gothic Pop
+"english_You'll_be_OK,_Kid",English,Demi Lovato,0.8,0.8,Pop/Ballad
+english_Vampire,English,Olivia Rodrigo,0.9,0.9,Pop-Punk
+english_Bubble_Gum,English,NewJeans,0.8,0.7,K-Pop/Pop
+english_Cry_Baby,English,"Clean Bandit, Anne-Marie, David Guetta",0.8,0.7,EDM/Dance-Pop
+english_Alone,English,The Cure,0.9,0.8,Gothic Rock
+english_My_Oh_My,English,"Kylie Minogue, Bebe Rexha, Tove Lo",0.7,0.6,Dance-Pop
+english_Free,English,Calvin Harris & Ellie Goulding,0.9,0.8,Dance-Pop
+english_Peggy,English,Ceechynaa,0.7,0.6,UK Hip-Hop
