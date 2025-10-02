@@ -104,7 +104,7 @@ scheduler = StepLR(optimizer, step_size=5, gamma=0.5)
 # --------------------------
 # Training loop
 # --------------------------
-EPOCHS = 20
+EPOCHS = 5
 
 for epoch in range(EPOCHS):
     model.train()
