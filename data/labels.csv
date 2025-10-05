@@ -104,21 +104,17 @@ english_Time_After_Time,English,Cyndi Lauper,0.7,0.4,Pop
 english_Africa,English,Toto,0.85,0.75,Rock/Pop
 english_Iris,English,Goo Goo Dolls,0.6,0.5,Rock
 english_Because_of_You,English,Kelly Clarkson,0.3,0.5,Pop
-english_Sweet_Child_O�_Mine,English,Guns N’ Roses,0.9,0.85,Rock
 english_Like_a_Rolling_Stone,English,Bob Dylan,0.45,0.65,Rock
 english_Bridge_Over_Troubled_Water,English,Simon & Garfunkel,0.4,0.35,Folk
 english_Nothing_Else_Matters,English,Metallica,0.25,0.5,Rock
 english_Everybody_Wants_to_Rule_the_World,English,Tears for Fears,0.75,0.55,Pop-Rock
-english_Stayin�_Alive,English,Bee Gees,0.85,0.9,Disco
 english_Eye_of_the_Tiger,English,Survivor,0.75,0.95,Rock
 english_The_Sound_of_Silence,English,Simon & Garfunkel,0.2,0.25,Folk
 english_Under_Pressure,English,Queen & David Bowie,0.55,0.7,Rock
-english_Livin�_on_a_Prayer,English,Bon Jovi,0.8,0.9,Rock
 english_Killing_Me_Softly_With_His_Song,English,Fugees,0.4,0.45,R&B
 english_Man_in_the_Mirror,English,Michael Jackson,0.65,0.55,Pop
 english_The_Winner_Takes_It_All,English,ABBA,0.3,0.4,Pop
 english_Every_Rose_Has_Its_Thorn,English,Poison,0.35,0.45,Rock
-english_Don�t_Stop_Me_Now,English,Queen,0.9,0.9,Rock
 english_Tears_in_Heaven,English,Eric Clapton,0.15,0.25,Soft Rock
 english_She_Will_Be_Loved,English,Maroon 5,0.55,0.45,Pop
 english_Seven_Nation_Army,English,The White Stripes,0.55,0.7,Alternative Rock
@@ -164,7 +160,6 @@ english_Stay,English,"The Kid LAROI, Justin Bieber",0.8,0.9,Pop
 english_Circles,English,Post Malone,0.6,0.5,Pop/Rock
 english_Sunflower,English,"Post Malone, Swae Lee",0.7,0.6,Hip-Hop/Pop
 english_Sapphire,English,Ed Sheeran ft. Arijit Singh,0.9,0.8,Pop/Fusion
-english_Rein_Me_In,English,Sam Fender & Olivia Dean,0.8,0.7,Indie Rock
 english_My_Only_Angel,English,Aerosmith & YUNGBLUD,0.9,0.9,Rock
 english_Messy,English,Lola Young,0.6,0.7,Indie Pop
 english_Children_of_the_Baked_Potato,English,Thundercat ft. Remi Wolf,0.8,0.7,Funk/Alternative
@@ -185,9 +180,6 @@ hindi_Naatu_Naatu,Hindi,"Rahul Sipligunj, Kaala Bhairava",0.9,0.95,Dance/Folk
 hindi_Jhoome_Jo_Pathaan,Hindi,"Arijit Singh, Sukriti Kakar",0.85,0.8,Pop/Dance
 hindi_Maan_Meri_Jaan,Hindi,King,0.7,0.6,Pop/Romantic
 hindi_Chaleya,Hindi,"Arijit Singh, Shilpa Rao",0.8,0.5,Romantic/Pop
-hindi_Tum_Se_Bhi_Zyada,Hindi,"Pritam, Arijit Singh",0.75,0.5,Romantic/Emotional
-hindi_Tere_Pyaar_Mein,Hindi,"Pritam, Arijit Singh, Nikhita Gandhi",0.85,0.75,Pop/Romantic
-hindi_Srivalli,Hindi,Sid Sriram,0.7,0.6,Folk/Romantic
 english_Rich_Flex,English,Drake & 21 Savage,0.6,0.8,Hip-Hop
 english_Last_Night,English,Morgan Wallen,0.7,0.6,Country
 english_Kill_Bill,English,SZA,0.5,0.6,R&B
