@@ -28,17 +28,51 @@ def safe_filename(name):
 # SONGS LIST WITH YOUTUBE URLS
 # ===============================
 songs_info = [
-# ✅ Updated English & Hindi Songs Dataset (Fixed YouTube Links + Verified Valence/Arousal)
 
-("Nadiyon Paar (Let the Music Play Again)", "Shamur, Rashmeet Kaur, IP Singh, Sachin-Jigar", "Hindi", 0.9, 0.9, "Dance", "https://www.youtube.com/watch?v=DKj5m9cSMZs"),  # Official MV
-("Ranjha", "B Praak, Jasleen Royal", "Hindi", 0.5, 0.4, "Romantic", "https://www.youtube.com/watch?v=V7LwfY5U5WI"),  # Updated working link
+    # --- ENGLISH SONGS ---
+    ("Blinding Lights", "The Weeknd", "English", 0.9, 0.8, "Synthpop", "https://www.youtube.com/watch?v=fHI8X4OXluQ"),
+    ("Someone You Loved", "Lewis Capaldi", "English", 0.4, 0.3, "Pop Ballad", "https://www.youtube.com/watch?v=zABLecsR5UE"),
+    ("Memories", "Maroon 5", "English", 0.6, 0.4, "Pop", "https://www.youtube.com/watch?v=SlPhetQn5pk"),
+    ("Watermelon Sugar", "Harry Styles", "English", 0.9, 0.7, "Pop", "https://www.youtube.com/watch?v=E07s5ZYEXw4"),
+    ("Dynamite", "BTS", "English", 0.9, 0.8, "K-Pop", "https://www.youtube.com/watch?v=gdZLi9oWNZg"),
+    ("Dance Monkey", "Tones and I", "English", 0.85, 0.8, "Electropop", "https://www.youtube.com/watch?v=q0hyYWKXF0Q"),
+    ("Bad Guy", "Billie Eilish", "English", 0.6, 0.7, "Pop", "https://www.youtube.com/watch?v=DyDfgMOUjCI"),
+    ("Lovely", "Billie Eilish, Khalid", "English", 0.2, 0.25, "Indie Pop", "https://www.youtube.com/watch?v=V1Pl8CzNzCw"),
+    ("Old Town Road", "Lil Nas X ft. Billy Ray Cyrus", "English", 0.8, 0.8, "Country Rap", "https://www.youtube.com/watch?v=w2Ov5jzm3j8"),
+    ("Señorita", "Shawn Mendes, Camila Cabello", "English", 0.7, 0.6, "Pop", "https://www.youtube.com/watch?v=Pkh8UtuejGw"),
+    ("Goosebumps", "Travis Scott", "English", 0.6, 0.9, "Hip-Hop", "https://www.youtube.com/watch?v=_EyZUTDAH0U"),
+    ("Save Your Tears", "The Weeknd", "English", 0.5, 0.4, "Synthpop", "https://www.youtube.com/watch?v=u6lihZAcy4s"),
+    ("Mood", "24kGoldn ft. Iann Dior", "English", 0.7, 0.75, "Hip-Hop", "https://www.youtube.com/watch?v=GrAchTdepsU"),
+    ("Therefore I Am", "Billie Eilish", "English", 0.5, 0.6, "Pop", "https://www.youtube.com/watch?v=RUQl6YcMalg"),
+    ("Positions", "Ariana Grande", "English", 0.7, 0.6, "Pop", "https://www.youtube.com/watch?v=tcYodQoapMg"),
+    ("Willow", "Taylor Swift", "English", 0.6, 0.4, "Indie Pop", "https://www.youtube.com/watch?v=RsEZmictANA"),
+    ("Leave The Door Open", "Silk Sonic", "English", 0.8, 0.5, "R&B", "https://www.youtube.com/watch?v=adLGH_gtjmA"),
+    ("Kiss Me More", "Doja Cat ft. SZA", "English", 0.8, 0.7, "Pop/R&B", "https://www.youtube.com/watch?v=0EVVKs6DQLo"),
+    ("Montero (Call Me By Your Name)", "Lil Nas X", "English", 0.8, 0.7, "Pop", "https://www.youtube.com/watch?v=6swmTBVI8Dk"),
 
-("Raataan Lambiyan", "Jubin Nautiyal, Asees Kaur", "Hindi", 0.8, 0.5, "Romantic", "https://www.youtube.com/watch?v=gvyUuxdRdR4"),  # Updated working link
-("Meri Jaan", "Neeti Mohan", "Hindi", 0.75, 0.5, "Romantic", "https://www.youtube.com/watch?v=ldWFpeu36K0"),  # Updated working link
-("Dhokha", "Arijit Singh", "Hindi", 0.25, 0.5, "Sad", "https://www.youtube.com/watch?v=2JBYnvUlAEc"),  # Updated working link
-("Jab Saiyaan", "Shreya Ghoshal", "Hindi", 0.8, 0.6, "Romantic", "https://www.youtube.com/watch?v=0uR45roIGA4"),  # Updated working link
-("Bhool Bhulaiyaa 2 Title Track", "Neeraj Shridhar", "Hindi", 0.85, 0.9, "Pop", "https://www.youtube.com/watch?v=nfSZZSHw0Cw")  # Updated working link
-
+    # --- HINDI SONGS ---
+    ("Dil Bechara", "A.R. Rahman", "Hindi", 0.4, 0.3, "Romantic", "https://www.youtube.com/watch?v=GODAlxW5Pes"),
+    ("Makhna", "Tanishk Bagchi, Yasser Desai, Asees Kaur", "Hindi", 0.9, 0.8, "Dance", "https://www.youtube.com/watch?v=0jU5Jd7TLcY"),
+    ("Ghungroo", "Arijit Singh, Shilpa Rao", "Hindi", 0.9, 0.8, "Dance", "https://www.youtube.com/watch?v=7SHohKbEKog"),
+    ("Duniyaa", "Akhil, Dhvani Bhanushali", "Hindi", 0.85, 0.5, "Romantic", "https://www.youtube.com/watch?v=7-QVFY0T6cc"),
+    ("Hawayein", "Arijit Singh, Pritam", "Hindi", 0.8, 0.4, "Romantic", "https://www.youtube.com/watch?v=1tVL11ULjYY"),
+    ("Tera Fitoor", "Arijit Singh", "Hindi", 0.85, 0.6, "Romantic", "https://www.youtube.com/watch?v=3mMX3NAi7gM"),
+    ("Laal Ishq", "Arijit Singh", "Hindi", 0.7, 0.3, "Romantic", "https://www.youtube.com/watch?v=3gy7vVt3YxY"),
+    ("Pachtaoge", "Arijit Singh", "Hindi", 0.2, 0.4, "Sad", "https://www.youtube.com/watch?v=PQmrmVs10X8"),
+    ("Chedkhaniyan", "Arijit Singh, Nikhita Gandhi", "Hindi", 0.7, 0.6, "Fun", "https://www.youtube.com/watch?v=840WJ5Q8f6Q"),
+    ("Main Tumhara", "Jonita Gandhi, Hriday Gattani", "Hindi", 0.6, 0.4, "Romantic", "https://www.youtube.com/watch?v=Z3vWD-7oduo"),
+    ("Tujhe Kitna Chahne Lage", "Arijit Singh", "Hindi", 0.7, 0.4, "Romantic", "https://www.youtube.com/watch?v=POamd_-8zO0"),
+    ("Namo Namo", "Amit Trivedi", "Hindi", 0.6, 0.5, "Spiritual", "https://www.youtube.com/watch?v=yE0Y8JYB9gs"),
+    ("Shayad", "Arijit Singh", "Hindi", 0.85, 0.5, "Romantic", "https://www.youtube.com/watch?v=Jq_sh1yHkY4"),
+    ("O Saki Saki", "Neha Kakkar, Tulsi Kumar, B Praak", "Hindi", 0.85, 0.9, "Dance", "https://www.youtube.com/watch?v=PVxc5mIHVuQ"),
+    ("Garmi", "Badshah, Neha Kakkar", "Hindi", 0.9, 0.9, "Dance", "https://www.youtube.com/watch?v=v4nxMRA0z8g"),
+    ("Teri Mitti", "B Praak", "Hindi", 0.3, 0.5, "Patriotic", "https://www.youtube.com/watch?v=B3oLqDoyW8w"),
+    ("Ve Maahi", "Arijit Singh, Asees Kaur", "Hindi", 0.85, 0.5, "Romantic", "https://www.youtube.com/watch?v=YO4h9HhkV0Y"),
+    ("Pal Pal Dil Ke Paas", "Arijit Singh, Parampara Thakur", "Hindi", 0.8, 0.5, "Romantic", "https://www.youtube.com/watch?v=ABF8-DxJcA0"),
+    ("Mere Sohneya", "Sachet Tandon, Parampara Thakur", "Hindi", 0.85, 0.6, "Romantic", "https://www.youtube.com/watch?v=M9mO8bL5s7o"),
+    ("Chashni", "Vishal & Shekhar, Abhijeet Srivastava", "Hindi", 0.75, 0.4, "Romantic", "https://www.youtube.com/watch?v=O9n2k4ooMhw"),
+    ("The Jawaani Song", "Vishal Dadlani, Payal Dev", "Hindi", 0.9, 0.8, "Dance", "https://www.youtube.com/watch?v=BKQGthZP-nc"),
+    ("Nachde Ne Saare", "Jasleen Royal, Harshdeep Kaur, Siddharth Mahadevan", "Hindi", 0.9, 0.8, "Dance", "https://www.youtube.com/watch?v=7M-b0bA0r8A"),
 
 
 ]
