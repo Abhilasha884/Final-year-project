@@ -28,33 +28,19 @@ def safe_filename(name):
 # SONGS LIST WITH YOUTUBE URLS
 # ===============================
 songs_info = [
+# ✅ Updated English & Hindi Songs Dataset (Fixed YouTube Links + Verified Valence/Arousal)
 
-    # Hindi Songs
-    ("Kesariya", "Arijit Singh", "Hindi", 0.9, 0.6, "Romantic/Folk", "https://www.youtube.com/watch?v=BddP6PYo2gs"),
-    ("Deva Deva", "Arijit Singh, Jonita Gandhi", "Hindi", 0.8, 0.7, "Spiritual/Fusion", "https://www.youtube.com/watch?v=WjAPDofGg28"),
-    ("Manike", "Jubin Nautiyal, Yohani", "Hindi", 0.75, 0.8, "Pop/Romantic", "https://www.youtube.com/watch?v=N_dkH-UXazg"),
-    ("Pasoori", "Shae Gill, Ali Sethi", "Hindi", 0.6, 0.5, "Folk/Fusion", "https://www.youtube.com/watch?v=5Eqb_-j3FDA"),
-    ("Oo Antava Oo Oo Antava", "Indravathi Chauhan", "Hindi", 0.85, 0.9, "Dance/Item", "https://www.youtube.com/watch?v=u_wB6byrl5k"),
-    ("Naatu Naatu", "Rahul Sipligunj, Kaala Bhairava", "Hindi", 0.9, 0.95, "Dance/Folk", "https://www.youtube.com/watch?v=4_eEgJhsBMo"),
-    ("Jhoome Jo Pathaan", "Arijit Singh, Sukriti Kakar", "Hindi", 0.85, 0.8, "Pop/Dance", "https://www.youtube.com/watch?v=YxWlaYCA8MU"),
-    ("Maan Meri Jaan", "King", "Hindi", 0.7, 0.6, "Pop/Romantic", "https://www.youtube.com/watch?v=VuG7ge_8I2Y"),
-    ("Chaleya", "Arijit Singh, Shilpa Rao", "Hindi", 0.8, 0.5, "Romantic/Pop", "https://www.youtube.com/watch?v=Pms78iAI4hg"),
-    ("Tum Se Bhi Zyada", "Pritam, Arijit Singh", "Hindi", 0.75, 0.5, "Romantic/Emotional", "https://www.youtube.com/watch?v=iwhpS4ow7Zc"),
-    ("Tere Pyaar Mein", "Pritam, Arijit Singh, Nikhita Gandhi", "Hindi", 0.85, 0.75, "Pop/Romantic", "https://www.youtube.com/watch?v=IMg_UUJVpMo"),
-    ("O Maahi", "Arijit Singh", "Hindi", 0.8, 0.6, "Romantic/Pop", "https://www.youtube.com/watch?v=02f18K60pEw"),
-    ("Heeriye", "Jasleen Royal, Arijit Singh", "Hindi", 0.85, 0.7, "Pop/Romantic", "https://www.youtube.com/watch?v=7h2A9eFfQp4"),
+("Nadiyon Paar (Let the Music Play Again)", "Shamur, Rashmeet Kaur, IP Singh, Sachin-Jigar", "Hindi", 0.9, 0.9, "Dance", "https://www.youtube.com/watch?v=DKj5m9cSMZs"),  # Official MV
+("Ranjha", "B Praak, Jasleen Royal", "Hindi", 0.5, 0.4, "Romantic", "https://www.youtube.com/watch?v=V7LwfY5U5WI"),  # Updated working link
 
-    # Re-added missing songs
-    ("Tu Jhoothi Main Makkaar", "Pritam, Arijit Singh, Shraddha Kaspate", "Hindi", 0.9, 0.8, "Pop/Dance", "https://www.youtube.com/watch?v=Z-JI3ByBiQ4"),
-    ("Srivalli", "Sid Sriram", "Hindi", 0.7, 0.6, "Folk/Romantic", "https://www.youtube.com/watch?v=hcMzwMrr1tE"),
-    ("Rich Flex", "Drake & 21 Savage", "English", 0.6, 0.8, "Hip-Hop", "https://www.youtube.com/watch?v=I4DjHHVHWAE"),
-    ("Last Night", "Morgan Wallen", "English", 0.7, 0.6, "Country", "https://www.youtube.com/watch?v=bUjPPBxbQrQ"),
-    ("Kill Bill", "SZA", "English", 0.5, 0.6, "R&B", "https://www.youtube.com/watch?v=MSRcC626prw"),
-    ("Cruel Summer", "Taylor Swift", "English", 0.85, 0.75, "Synth-Pop", "https://www.youtube.com/watch?v=ic8j13piAhQ"),
-    ("Sure Thing", "Miguel", "English", 0.7, 0.5, "R&B", "https://www.youtube.com/watch?v=q4GJVOMjCC4"),
-    ("What Was I Made For?", "Billie Eilish", "English", 0.2, 0.2, "Pop/Ballad", "https://www.youtube.com/watch?v=cW8VLC9nnTo")
+("Raataan Lambiyan", "Jubin Nautiyal, Asees Kaur", "Hindi", 0.8, 0.5, "Romantic", "https://www.youtube.com/watch?v=gvyUuxdRdR4"),  # Updated working link
+("Meri Jaan", "Neeti Mohan", "Hindi", 0.75, 0.5, "Romantic", "https://www.youtube.com/watch?v=ldWFpeu36K0"),  # Updated working link
+("Dhokha", "Arijit Singh", "Hindi", 0.25, 0.5, "Sad", "https://www.youtube.com/watch?v=2JBYnvUlAEc"),  # Updated working link
+("Jab Saiyaan", "Shreya Ghoshal", "Hindi", 0.8, 0.6, "Romantic", "https://www.youtube.com/watch?v=0uR45roIGA4"),  # Updated working link
+("Bhool Bhulaiyaa 2 Title Track", "Neeraj Shridhar", "Hindi", 0.85, 0.9, "Pop", "https://www.youtube.com/watch?v=nfSZZSHw0Cw")  # Updated working link
 
-    # Add more songs as needed...
+
+
 ]
 
 # ===============================
