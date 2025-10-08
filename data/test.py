@@ -29,51 +29,87 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-    # --- ENGLISH SONGS ---
-    ("Blinding Lights", "The Weeknd", "English", 0.9, 0.8, "Synthpop", "https://www.youtube.com/watch?v=fHI8X4OXluQ"),
-    ("Someone You Loved", "Lewis Capaldi", "English", 0.4, 0.3, "Pop Ballad", "https://www.youtube.com/watch?v=zABLecsR5UE"),
-    ("Memories", "Maroon 5", "English", 0.6, 0.4, "Pop", "https://www.youtube.com/watch?v=SlPhetQn5pk"),
-    ("Watermelon Sugar", "Harry Styles", "English", 0.9, 0.7, "Pop", "https://www.youtube.com/watch?v=E07s5ZYEXw4"),
-    ("Dynamite", "BTS", "English", 0.9, 0.8, "K-Pop", "https://www.youtube.com/watch?v=gdZLi9oWNZg"),
-    ("Dance Monkey", "Tones and I", "English", 0.85, 0.8, "Electropop", "https://www.youtube.com/watch?v=q0hyYWKXF0Q"),
-    ("Bad Guy", "Billie Eilish", "English", 0.6, 0.7, "Pop", "https://www.youtube.com/watch?v=DyDfgMOUjCI"),
-    ("Lovely", "Billie Eilish, Khalid", "English", 0.2, 0.25, "Indie Pop", "https://www.youtube.com/watch?v=V1Pl8CzNzCw"),
-    ("Old Town Road", "Lil Nas X ft. Billy Ray Cyrus", "English", 0.8, 0.8, "Country Rap", "https://www.youtube.com/watch?v=w2Ov5jzm3j8"),
-    ("Señorita", "Shawn Mendes, Camila Cabello", "English", 0.7, 0.6, "Pop", "https://www.youtube.com/watch?v=Pkh8UtuejGw"),
-    ("Goosebumps", "Travis Scott", "English", 0.6, 0.9, "Hip-Hop", "https://www.youtube.com/watch?v=_EyZUTDAH0U"),
-    ("Save Your Tears", "The Weeknd", "English", 0.5, 0.4, "Synthpop", "https://www.youtube.com/watch?v=u6lihZAcy4s"),
-    ("Mood", "24kGoldn ft. Iann Dior", "English", 0.7, 0.75, "Hip-Hop", "https://www.youtube.com/watch?v=GrAchTdepsU"),
-    ("Therefore I Am", "Billie Eilish", "English", 0.5, 0.6, "Pop", "https://www.youtube.com/watch?v=RUQl6YcMalg"),
-    ("Positions", "Ariana Grande", "English", 0.7, 0.6, "Pop", "https://www.youtube.com/watch?v=tcYodQoapMg"),
-    ("Willow", "Taylor Swift", "English", 0.6, 0.4, "Indie Pop", "https://www.youtube.com/watch?v=RsEZmictANA"),
-    ("Leave The Door Open", "Silk Sonic", "English", 0.8, 0.5, "R&B", "https://www.youtube.com/watch?v=adLGH_gtjmA"),
-    ("Kiss Me More", "Doja Cat ft. SZA", "English", 0.8, 0.7, "Pop/R&B", "https://www.youtube.com/watch?v=0EVVKs6DQLo"),
-    ("Montero (Call Me By Your Name)", "Lil Nas X", "English", 0.8, 0.7, "Pop", "https://www.youtube.com/watch?v=6swmTBVI8Dk"),
+    # ("Sweet But Psycho", "Ava Max", "English", 0.8, 0.85, "Pop", "https://www.youtube.com/watch?v=WXBHCQYxwr0"),
+    # ("Old Town Road", "Lil Nas X ft. Billy Ray Cyrus", "English", 0.8, 0.8, "Country Rap", "https://www.youtube.com/watch?v=r7qovpFAGrQ"),
+    # ("Bad Guy", "Billie Eilish", "English", 0.6, 0.7, "Pop", "https://www.youtube.com/watch?v=DyDfgMOUjCI"),
+    # ("Dance Monkey", "Tones and I", "English", 0.85, 0.8, "Electropop", "https://www.youtube.com/watch?v=q0hyYWKXF0Q"),
+    # ("Senorita", "Shawn Mendes, Camila Cabello", "English", 0.7, 0.6, "Pop", "https://www.youtube.com/watch?v=Pkh8UtuejGw"),
+    # ("Circles", "Post Malone", "English", 0.6, 0.5, "Pop", "https://www.youtube.com/watch?v=GrAchTdepsU"),
+    # ("Sunflower", "Post Malone, Swae Lee", "English", 0.7, 0.6, "Hip-Hop/Pop", "https://www.youtube.com/watch?v=ApXoWvfEYVU"),
+    # ("Mood", "24kGoldn ft. Iann Dior", "English", 0.8, 0.8, "Hip-Hop/Pop", "https://www.youtube.com/watch?v=GrAchTdepsU"),
+    # ("Levitating", "Dua Lipa", "English", 0.8, 0.8, "Pop/Disco", "https://www.youtube.com/watch?v=TUVcZfQe-Kw"),
+    # ("Good 4 U", "Olivia Rodrigo", "English", 0.9, 0.9, "Pop/Rock", "https://www.youtube.com/watch?v=gNi_6U5Pm_o"),
+    # ("Dynamite", "BTS", "English", 0.9, 0.8, "K-Pop", "https://www.youtube.com/watch?v=gdZLi9oWNZg"),
+    #  ("Butter", "BTS", "English", 0.9, 0.85, "K-Pop", "https://www.youtube.com/watch?v=WMweEpGlu_U"),
+    # ("drivers license", "Olivia Rodrigo", "English", 0.2, 0.3, "Pop", "https://www.youtube.com/watch?v=ZmDBbnmKpqQ"),
+    # ("Tum Se Hi", "Mohit Chauhan", "Hindi", 0.8, 0.5, "Romantic", "https://www.youtube.com/watch?v=tQ0yjYUFKAE"),
+    # ("Shivers", "Ed Sheeran", "English", 0.85, 0.8, "Pop", "https://www.youtube.com/watch?v=Il-an3K9pjg"),
+    # ("Peaches", "Justin Bieber ft. Daniel Caesar, Giveon", "English", 0.7, 0.5, "R&B", "https://www.youtube.com/watch?v=tQ0yjYUFKAE"),
 
-    # --- HINDI SONGS ---
-    ("Dil Bechara", "A.R. Rahman", "Hindi", 0.4, 0.3, "Romantic", "https://www.youtube.com/watch?v=GODAlxW5Pes"),
-    ("Makhna", "Tanishk Bagchi, Yasser Desai, Asees Kaur", "Hindi", 0.9, 0.8, "Dance", "https://www.youtube.com/watch?v=0jU5Jd7TLcY"),
-    ("Ghungroo", "Arijit Singh, Shilpa Rao", "Hindi", 0.9, 0.8, "Dance", "https://www.youtube.com/watch?v=7SHohKbEKog"),
-    ("Duniyaa", "Akhil, Dhvani Bhanushali", "Hindi", 0.85, 0.5, "Romantic", "https://www.youtube.com/watch?v=7-QVFY0T6cc"),
-    ("Hawayein", "Arijit Singh, Pritam", "Hindi", 0.8, 0.4, "Romantic", "https://www.youtube.com/watch?v=1tVL11ULjYY"),
-    ("Tera Fitoor", "Arijit Singh", "Hindi", 0.85, 0.6, "Romantic", "https://www.youtube.com/watch?v=3mMX3NAi7gM"),
-    ("Laal Ishq", "Arijit Singh", "Hindi", 0.7, 0.3, "Romantic", "https://www.youtube.com/watch?v=3gy7vVt3YxY"),
-    ("Pachtaoge", "Arijit Singh", "Hindi", 0.2, 0.4, "Sad", "https://www.youtube.com/watch?v=PQmrmVs10X8"),
-    ("Chedkhaniyan", "Arijit Singh, Nikhita Gandhi", "Hindi", 0.7, 0.6, "Fun", "https://www.youtube.com/watch?v=840WJ5Q8f6Q"),
-    ("Main Tumhara", "Jonita Gandhi, Hriday Gattani", "Hindi", 0.6, 0.4, "Romantic", "https://www.youtube.com/watch?v=Z3vWD-7oduo"),
-    ("Tujhe Kitna Chahne Lage", "Arijit Singh", "Hindi", 0.7, 0.4, "Romantic", "https://www.youtube.com/watch?v=POamd_-8zO0"),
-    ("Namo Namo", "Amit Trivedi", "Hindi", 0.6, 0.5, "Spiritual", "https://www.youtube.com/watch?v=yE0Y8JYB9gs"),
-    ("Shayad", "Arijit Singh", "Hindi", 0.85, 0.5, "Romantic", "https://www.youtube.com/watch?v=Jq_sh1yHkY4"),
-    ("O Saki Saki", "Neha Kakkar, Tulsi Kumar, B Praak", "Hindi", 0.85, 0.9, "Dance", "https://www.youtube.com/watch?v=PVxc5mIHVuQ"),
-    ("Garmi", "Badshah, Neha Kakkar", "Hindi", 0.9, 0.9, "Dance", "https://www.youtube.com/watch?v=v4nxMRA0z8g"),
-    ("Teri Mitti", "B Praak", "Hindi", 0.3, 0.5, "Patriotic", "https://www.youtube.com/watch?v=B3oLqDoyW8w"),
-    ("Ve Maahi", "Arijit Singh, Asees Kaur", "Hindi", 0.85, 0.5, "Romantic", "https://www.youtube.com/watch?v=YO4h9HhkV0Y"),
-    ("Pal Pal Dil Ke Paas", "Arijit Singh, Parampara Thakur", "Hindi", 0.8, 0.5, "Romantic", "https://www.youtube.com/watch?v=ABF8-DxJcA0"),
-    ("Mere Sohneya", "Sachet Tandon, Parampara Thakur", "Hindi", 0.85, 0.6, "Romantic", "https://www.youtube.com/watch?v=M9mO8bL5s7o"),
-    ("Chashni", "Vishal & Shekhar, Abhijeet Srivastava", "Hindi", 0.75, 0.4, "Romantic", "https://www.youtube.com/watch?v=O9n2k4ooMhw"),
-    ("The Jawaani Song", "Vishal Dadlani, Payal Dev", "Hindi", 0.9, 0.8, "Dance", "https://www.youtube.com/watch?v=BKQGthZP-nc"),
-    ("Nachde Ne Saare", "Jasleen Royal, Harshdeep Kaur, Siddharth Mahadevan", "Hindi", 0.9, 0.8, "Dance", "https://www.youtube.com/watch?v=7M-b0bA0r8A"),
+    # ("Adore You", "Harry Styles", "English", 0.8, 0.7, "Pop", "https://www.youtube.com/watch?v=VF-r5TtlT9w"),
+    # ("Watermelon Sugar", "Harry Styles", "English", 0.9, 0.7, "Pop", "https://www.youtube.com/watch?v=E07s5ZYygMg"),
+    # ("Stay", "The Kid LAROI, Justin Bieber", "English", 0.8, 0.9, "Pop", "https://www.youtube.com/watch?v=kTJczUoc26U"),
+    # ("Kiss Me More", "Doja Cat ft. SZA", "English", 0.9, 0.8, "Pop", "https://www.youtube.com/watch?v=0EVVKs6DQLo"),
+    # ("Leave The Door Open", "Silk Sonic", "English", 0.9, 0.8, "R&B/Soul", "https://www.youtube.com/watch?v=adLGHcj_fmA"),
+    # ("Cold Heart (PNAU Remix)", "Elton John & Dua Lipa", "English", 0.85, 0.75, "Pop/Dance", "https://www.youtube.com/watch?v=qod03PVTLqk"),
+    # ("Heat Waves", "Glass Animals", "English", 0.6, 0.5, "Indie Pop", "https://www.youtube.com/watch?v=mRD0-GxqHVo"),
+    # ("Happier Than Ever", "Billie Eilish", "English", 0.3, 0.4, "Alternative Pop", "https://www.youtube.com/watch?v=5GJWxDKyk3A"),
+    # ("Montero (Call Me By Your Name)", "Lil Nas X", "English", 0.7, 0.8, "Pop/Hip-Hop", "https://www.youtube.com/watch?v=6swmTBVI83k"),
+    # ("Permission to Dance", "BTS", "English", 0.95, 0.85, "K-Pop", "https://www.youtube.com/watch?v=CuklIb9d3fI"),
+    # ("Bad Habits", "Ed Sheeran", "English", 0.7, 0.8, "Pop", "https://www.youtube.com/watch?v=orJSJGHjBLI"),
+    # ("Industry Baby", "Lil Nas X, Jack Harlow", "English", 0.8, 0.9, "Hip-Hop/Pop", "https://www.youtube.com/watch?v=UTHLKHL_whs"),
+    # ("You Right", "Doja Cat, The Weeknd", "English", 0.6, 0.7, "R&B", "https://www.youtube.com/watch?v=JXgV1rXUoME"),
 
+
+    # ("Woman", "Doja Cat", "English", 0.8, 0.7, "Pop/R&B", "https://www.youtube.com/watch?v=yxW5yuzVi8w"),  
+    # ("Fancy Like", "Walker Hayes", "English", 0.8, 0.7, "Country", "https://www.youtube.com/watch?v=G_zuB-ogIBw"),
+    # ("Billie Eilish.", "Armani White", "English", 0.85, 0.9, "Hip-Hop", "https://www.youtube.com/watch?v=4vYOwhll1fs"),  
+    # ("As It Was", "Harry Styles", "English", 0.8, 0.7, "Pop", "https://www.youtube.com/watch?v=H5v3kku4y6Q"),
+    # ("Rich Flex", "Drake & 21 Savage", "English", 0.6, 0.8, "Hip-Hop", "https://www.youtube.com/watch?v=sllmR3TJd_w"),
+    # ("Kill Bill", "SZA", "English", 0.5, 0.6, "R&B", "https://www.youtube.com/watch?v=MSRcC626prw"),
+    # ("Calm Down", "Rema, Selena Gomez", "English", 0.9, 0.75, "Afrobeats", "https://www.youtube.com/watch?v=WcIcVapfqXw"),
+    # ("I'm Good (Blue)", "David Guetta, Bebe Rexha", "English", 0.95, 0.9, "Dance", "https://www.youtube.com/watch?v=90RLzVUuXe4"),
+    # ("Celestial", "Ed Sheeran", "English", 0.8, 0.65, "Pop", "https://www.youtube.com/watch?v=23g5HBOg3Ic"),
+    # ("Forget Me", "Lewis Capaldi", "English", 0.25, 0.35, "Ballad", "https://www.youtube.com/watch?v=nBZlrbrBO1I"),
+    # ("Flowers", "Miley Cyrus", "English", 0.8, 0.6, "Pop", "https://www.youtube.com/watch?v=G7KNmW9a75Y"),  
+    # ("Made You Look", "Meghan Trainor", "English", 0.9, 0.8, "Pop", "https://www.youtube.com/watch?v=gPCCYMeXin0"),
+    # ("Under The Influence", "Chris Brown", "English", 0.7, 0.75, "R&B", "https://www.youtube.com/watch?v=pfxyk1glEq4"),
+    # ("Lag Jaa Gale", "Lata Mangeshkar", "Hindi", 0.3, 0.4, "Classical", "https://www.youtube.com/watch?v=Umqb9KENgmk"),  # Works for download
+    # ("Gallan Goodiyaan", "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh", "Hindi", 0.9, 0.8, "Dance/Pop", "https://www.youtube.com/watch?v=HZ7PAyCDwEg")  # Excel Movies working link
+   
+    # ("Victoria’s Secret", "JAX", "English", 0.7, 0.6, "Pop", "https://www.youtube.com/watch?v=F9K5IS-inHs&utm_source=chatgpt.com"),  # Alternate official upload (works globally)
+    # ("Vampire", "Olivia Rodrigo", "English", 0.9, 0.9, "Pop-Punk", "https://www.youtube.com/watch?v=RlPNh_PBZb4&utm_source=chatgpt.com"),  # Alternate VEVO link
+    # ("Chaiyya Chaiyya", "Sukhwinder Singh, Sapna Awasthi", "Hindi", 0.8, 0.7, "Folk/Pop", "https://www.youtube.com/watch?v=APo73rlxWaE&utm_source=chatgpt.com"),  # Works globally
+    # ("Aap Jaisa Koi", "Nazia Hassan", "Hindi", 0.75, 0.65, "Pop", "https://www.youtube.com/watch?v=1jf5kuvScJc&utm_source=chatgpt.com"),  # Stable remastered upload
+    # ("Sandese Aate Hain", "Sonu Nigam, Roop Kumar Rathod", "Hindi", 0.5, 0.6, "Patriotic", "https://www.youtube.com/watch?v=UovOpJXNhi8&utm_source=chatgpt.com"),  # Zee Music working link
+
+
+    
+    # ("Kalank Title Track", "Arijit Singh", "Hindi", 0.7, 0.6, "Emotional", "https://www.youtube.com/watch?v=b4hrUSBP4nc&utm_source=chatgpt.com"),
+    # ("Kesariya", "Arijit Singh", "Hindi", 0.9, 0.6, "Romantic/Folk", "https://www.youtube.com/watch?v=BddP6PYo2gs&utm_source=chatgpt.com"),
+    # ("Deva Deva", "Arijit Singh, Jonita Gandhi", "Hindi", 0.8, 0.7, "Spiritual/Fusion", "https://www.youtube.com/watch?v=WjAPDofGg28&utm_source=chatgpt.com"),
+    # ("Manike", "Jubin Nautiyal, Yohani", "Hindi", 0.75, 0.8, "Pop/Romantic", "https://www.youtube.com/watch?v=zqHUMF9syFA&utm_source=chatgpt.com"),
+    # ("Pasoori", "Shae Gill, Ali Sethi", "Hindi", 0.6, 0.5, "Folk/Fusion", "https://www.youtube.com/watch?v=5Eqb_-j3FDA&utm_source=chatgpt.com"),
+    # ("Oo Antava Oo Oo Antava", "Indravathi Chauhan", "Hindi", 0.85, 0.9, "Dance/Item", "https://www.youtube.com/watch?v=u_wB6byrl5k&utm_source=chatgpt.com"),
+    # ("Naatu Naatu", "Rahul Sipligunj, Kaala Bhairava", "Hindi", 0.9, 0.95, "Dance/Folk", "https://www.youtube.com/watch?v=4_eEgJhsBMo&utm_source=chatgpt.com"),
+    # ("Jhoome Jo Pathaan", "Arijit Singh, Sukriti Kakar", "Hindi", 0.85, 0.8, "Pop/Dance", "https://www.youtube.com/watch?v=YxWlaYCA8MU&utm_source=chatgpt.com"),
+
+
+    # ("Maan Meri Jaan", "King", "Hindi", 0.7, 0.6, "Pop/Romantic", "https://www.youtube.com/watch?v=VuG7ge_8I2Y&utm_source=chatgpt.com"),
+    # ("Chaleya", "Arijit Singh, Shilpa Rao", "Hindi", 0.8, 0.5, "Romantic/Pop", "https://www.youtube.com/watch?v=VAdGW7QDJiU&utm_source=chatgpt.com"),
+    # ("Param Sundari", "Shreya Ghoshal", "Hindi", 0.9, 0.8, "Folk", "https://www.youtube.com/watch?v=w4ClQO0FFQg&utm_source=chatgpt.com"),
+    # ("Raataan Lambiyan", "Jubin Nautiyal, Asees Kaur", "Hindi", 0.8, 0.5, "Romantic", "https://www.youtube.com/watch?v=gvyUuxdRdR4&utm_source=chatgpt.com"),
+    # ("Nadiyon Paar (Let the Music Play Again)", "Shamur, Rashmeet Kaur, IP Singh, Sachin-Jigar", "Hindi", 0.9, 0.9, "Dance", "https://www.youtube.com/watch?v=DKj5m9cSMZs&utm_source=chatgpt.com"),
+    # ("Ranjha", "B Praak, Jasleen Royal", "Hindi", 0.5, 0.4, "Romantic", "https://www.youtube.com/watch?v=V7LwfY5U5WI&utm_source=chatgpt.com"),
+    # ("Meri Jaan", "Neeti Mohan", "Hindi", 0.75, 0.5, "Romantic", "https://www.youtube.com/watch?v=ldWFpeu36K0&utm_source=chatgpt.com"),
+    # ("Dhokha", "Arijit Singh", "Hindi", 0.25, 0.5, "Sad", "https://www.youtube.com/watch?v=2JBYnvUlAEc&utm_source=chatgpt.com"),
+
+    ("Jab Saiyaan", "Shreya Ghoshal", "Hindi", 0.8, 0.6, "Romantic", "https://www.youtube.com/watch?v=0uR45roIGA4&utm_source=chatgpt.com"),
+    ("Bhool Bhulaiyaa 2 Title Track", "Neeraj Shridhar", "Hindi", 0.85, 0.9, "Pop", "https://www.youtube.com/watch?v=J1rOfVst-EQ&utm_source=chatgpt.com"),
+    ("Dil Bechara", "A.R. Rahman", "Hindi", 0.9, 0.9, "Romantic", "https://in.video.search.yahoo.com/search/video;_ylt=AwrKFukJw.ZohAIA8i67HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E211IN1357G0&p=dil+bechara&fr=mcafee&turl=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOVP.nZWEMJW7hoBkY0z2ijRtKQEsDh%3Fpid%3DApi%26w%3D296%26h%3D156%26c%3D7%26p%3D0&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzX9decJVplU&tit=Dil+Bechara+-+Lyrical+Video+%7C+Sushant+Singh+Rajput+%7C+Sanjana+Sanghi+%7C+A.+R.+Rahman+Hit+Song&pos=21&vid=4174ee5a6dfcfca24576f313e1d7cb42&sigr=bnALHJP_Tn6q&sigt=.GIMstHfIo5k&sigi=.wnImuwJcs33"),
+    ("Duniyaa", "Akhil, Dhvani Bhanushali", "Hindi", 0.8, 0.8, "Romantic", "https://www.youtube.com/watch?v=rIczU1zBw28&utm_source=chatgpt.com"),
+    ("Hawayein", "Arijit Singh", "Hindi", 0.9, 0.9, "Romantic", "https://www.youtube.com/watch?v=lBACSadCKaQ&utm_source=chatgpt.com"),
+    ("O Saki Saki", "Neha Kakkar, Tulsi Kumar", "Hindi", 0.8, 0.8, "Dance", "https://www.youtube.com/watch?v=_uUdJalMaF8&utm_source=chatgpt.com")
 
 ]
 
