@@ -104,12 +104,33 @@ songs_info = [
     # ("Meri Jaan", "Neeti Mohan", "Hindi", 0.75, 0.5, "Romantic", "https://www.youtube.com/watch?v=ldWFpeu36K0&utm_source=chatgpt.com"),
     # ("Dhokha", "Arijit Singh", "Hindi", 0.25, 0.5, "Sad", "https://www.youtube.com/watch?v=2JBYnvUlAEc&utm_source=chatgpt.com"),
 
-    ("Jab Saiyaan", "Shreya Ghoshal", "Hindi", 0.8, 0.6, "Romantic", "https://www.youtube.com/watch?v=0uR45roIGA4&utm_source=chatgpt.com"),
-    ("Bhool Bhulaiyaa 2 Title Track", "Neeraj Shridhar", "Hindi", 0.85, 0.9, "Pop", "https://www.youtube.com/watch?v=J1rOfVst-EQ&utm_source=chatgpt.com"),
-    ("Dil Bechara", "A.R. Rahman", "Hindi", 0.9, 0.9, "Romantic", "https://in.video.search.yahoo.com/search/video;_ylt=AwrKFukJw.ZohAIA8i67HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E211IN1357G0&p=dil+bechara&fr=mcafee&turl=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOVP.nZWEMJW7hoBkY0z2ijRtKQEsDh%3Fpid%3DApi%26w%3D296%26h%3D156%26c%3D7%26p%3D0&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzX9decJVplU&tit=Dil+Bechara+-+Lyrical+Video+%7C+Sushant+Singh+Rajput+%7C+Sanjana+Sanghi+%7C+A.+R.+Rahman+Hit+Song&pos=21&vid=4174ee5a6dfcfca24576f313e1d7cb42&sigr=bnALHJP_Tn6q&sigt=.GIMstHfIo5k&sigi=.wnImuwJcs33"),
-    ("Duniyaa", "Akhil, Dhvani Bhanushali", "Hindi", 0.8, 0.8, "Romantic", "https://www.youtube.com/watch?v=rIczU1zBw28&utm_source=chatgpt.com"),
-    ("Hawayein", "Arijit Singh", "Hindi", 0.9, 0.9, "Romantic", "https://www.youtube.com/watch?v=lBACSadCKaQ&utm_source=chatgpt.com"),
-    ("O Saki Saki", "Neha Kakkar, Tulsi Kumar", "Hindi", 0.8, 0.8, "Dance", "https://www.youtube.com/watch?v=_uUdJalMaF8&utm_source=chatgpt.com")
+    # ("Jab Saiyaan", "Shreya Ghoshal", "Hindi", 0.8, 0.6, "Romantic", "https://www.youtube.com/watch?v=0uR45roIGA4&utm_source=chatgpt.com"),
+    # ("Bhool Bhulaiyaa 2 Title Track", "Neeraj Shridhar", "Hindi", 0.85, 0.9, "Pop", "https://www.youtube.com/watch?v=J1rOfVst-EQ&utm_source=chatgpt.com"),
+    # ("Dil Bechara", "A.R. Rahman", "Hindi", 0.9, 0.9, "Romantic", "https://in.video.search.yahoo.com/search/video;_ylt=AwrKFukJw.ZohAIA8i67HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E211IN1357G0&p=dil+bechara&fr=mcafee&turl=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOVP.nZWEMJW7hoBkY0z2ijRtKQEsDh%3Fpid%3DApi%26w%3D296%26h%3D156%26c%3D7%26p%3D0&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzX9decJVplU&tit=Dil+Bechara+-+Lyrical+Video+%7C+Sushant+Singh+Rajput+%7C+Sanjana+Sanghi+%7C+A.+R.+Rahman+Hit+Song&pos=21&vid=4174ee5a6dfcfca24576f313e1d7cb42&sigr=bnALHJP_Tn6q&sigt=.GIMstHfIo5k&sigi=.wnImuwJcs33"),
+    # ("Duniyaa", "Akhil, Dhvani Bhanushali", "Hindi", 0.8, 0.8, "Romantic", "https://www.youtube.com/watch?v=rIczU1zBw28&utm_source=chatgpt.com"),
+    # ("Hawayein", "Arijit Singh", "Hindi", 0.9, 0.9, "Romantic", "https://www.youtube.com/watch?v=lBACSadCKaQ&utm_source=chatgpt.com"),
+    # ("O Saki Saki", "Neha Kakkar, Tulsi Kumar", "Hindi", 0.8, 0.8, "Dance", "https://www.youtube.com/watch?v=_uUdJalMaF8&utm_source=chatgpt.com")
+
+    # ("Ordinary", "Alex Warren", "English", 0.75, 0.7, "Pop", "https://www.youtube.com/watch?v=u2ah9tWTkmk")
+    # ("Abracadabra", "Lady Gaga", "English", 0.85, 0.9, "Dance-Pop", "https://www.youtube.com/watch?v=vBynw9Isr28"),
+    # ("Something Beautiful", "Miley Cyrus", "English", 0.8, 0.7, "Pop", "https://www.youtube.com/watch?v=y2nu8zpVBmY"),
+    # ("Luther", "Kendrick Lamar ft. SZA", "English", 0.7, 0.65, "Rap/R&B", "https://www.rollingstone.com/music/music-news/kendrick-lamar-sza-luther-music-video-1235315583/"),
+    # ("Born Again", "Lisa ft. Doja Cat and Raye", "English", 0.88, 0.85, "Pop/Electronic", "https://www.rollingstone.com/music/music-news/lisa-doja-cat-raye-born-again-song-1235259355/"),
+    # ("Twilight Zone", "Ariana Grande", "English", 0.75, 0.8, "Synthpop", "https://mykissradio.com/2025/08/06/ariana-grande-puts-out-twilight-zone-video-tying-into-supernatural-story/"),
+    # ("Soft Girl Era", "Ari Lennox", "English", 0.7, 0.6, "R&B", "https://thisisrnb.com/2025/04/softness-in-motion-ari-lennox-dazzles-in-dreamy-new-soft-girl-era-visual/"),
+    # ("Physical", "Dua Lipa ft. Troye Sivan", "English", 0.85, 0.9, "Pop", "https://www.youtube.com/watch?v=1NZex2G3hA8"),
+    # ("APT.", "Rosé & Bruno Mars", "English", 0.8, 0.85, "Pop-Punk", "https://en.wikipedia.org/wiki/Apt._(song)")
+
+
+    ("Before He Cheats", "Carrie Underwood", "English", 0.7, 0.65, "Country", "https://www.youtube.com/watch?v=WaSy8yy-mr8"),
+    ("Havana", "Camila Cabello ft. Young Thug", "English", 0.85, 0.8, "Latin Pop", "https://www.youtube.com/watch?v=BQ0mxQXmLsk"),
+    ("Physical", "Dua Lipa ft. Troye Sivan", "English", 0.85, 0.9, "Pop", "https://www.youtube.com/watch?v=1NZex2G3hA8"),
+    ("Ain't Comin' Back", "Morgan Wallen ft. Post Malone", "English", 0.75, 0.7, "Country/Rap", "https://www.youtube.com/watch?v=Qsp1KxJyxuw"), 
+    ("Ordinary", "Alex Warren", "English", 0.75, 0.7, "Pop", "https://www.youtube.com/watch?v=u2ah9tWTkmk"),
+    ("Twilight Zone", "Ariana Grande", "English", 0.75, 0.8, "Synthpop", "https://www.youtube.com/watch?v=Mkrc6TAP1WA"),
+    ("Soft Girl Era", "Ari Lennox", "English", 0.7, 0.6, "R&B", "https://www.youtube.com/watch?v=_YxYlAME8Hw"),
+    ("Born Again", "Lisa ft. Doja Cat and Raye", "English", 0.88, 0.85, "Pop/Electronic", "https://www.youtube.com/watch?v=ZzuqiT3O0GM"),
+    ("Luther", "Kendrick Lamar ft. SZA", "English", 0.7, 0.65, "Rap/R&B", "https://www.youtube.com/watch?v=krcWILc5Rxw")
 
 ]
 
