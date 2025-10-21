@@ -121,16 +121,12 @@ songs_info = [
     # ("Physical", "Dua Lipa ft. Troye Sivan", "English", 0.85, 0.9, "Pop", "https://www.youtube.com/watch?v=1NZex2G3hA8"),
     # ("APT.", "Rosé & Bruno Mars", "English", 0.8, 0.85, "Pop-Punk", "https://en.wikipedia.org/wiki/Apt._(song)")
 
+ 
+    
+    
+    # ("Kings & Queens", "Ava Max", "English", 0.85, 0.8, "Pop Rock", "https://www.youtube.com/watch?v=jH1RNk8954Q"),
+    ("Don’t Go Yet", "Camila Cabello", "English", 0.75, 0.85, "Latin Pop", "https://in.video.search.yahoo.com/search/video;_ylt=AwrKC.793PdoNQIAjz67HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E211IN1357G0&p=Don%E2%80%99t+Go+Yet+%E2%80%93+Camila+Cabello&fr=mcafee&turl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOVP.fsGILyGEOt56NgEJ0SNOwQHgFo%3Fpid%3DApi%26w%3D296%26h%3D156%26c%3D7%26p%3D0&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4cujO3AL_6w&tit=Camila+Cabello+-+Don%27t+Go+Yet+%28Lyrics%29&pos=01&vid=539a22bf814f7824ce8eee6fd9f8648c&sigr=9DoFbcbuRN_Z&sigt=dFR6Q3Uz6c7c&sigi=ZxuGFtwrftxz")
 
-    ("Before He Cheats", "Carrie Underwood", "English", 0.7, 0.65, "Country", "https://www.youtube.com/watch?v=WaSy8yy-mr8"),
-    ("Havana", "Camila Cabello ft. Young Thug", "English", 0.85, 0.8, "Latin Pop", "https://www.youtube.com/watch?v=BQ0mxQXmLsk"),
-    ("Physical", "Dua Lipa ft. Troye Sivan", "English", 0.85, 0.9, "Pop", "https://www.youtube.com/watch?v=1NZex2G3hA8"),
-    ("Ain't Comin' Back", "Morgan Wallen ft. Post Malone", "English", 0.75, 0.7, "Country/Rap", "https://www.youtube.com/watch?v=Qsp1KxJyxuw"), 
-    ("Ordinary", "Alex Warren", "English", 0.75, 0.7, "Pop", "https://www.youtube.com/watch?v=u2ah9tWTkmk"),
-    ("Twilight Zone", "Ariana Grande", "English", 0.75, 0.8, "Synthpop", "https://www.youtube.com/watch?v=Mkrc6TAP1WA"),
-    ("Soft Girl Era", "Ari Lennox", "English", 0.7, 0.6, "R&B", "https://www.youtube.com/watch?v=_YxYlAME8Hw"),
-    ("Born Again", "Lisa ft. Doja Cat and Raye", "English", 0.88, 0.85, "Pop/Electronic", "https://www.youtube.com/watch?v=ZzuqiT3O0GM"),
-    ("Luther", "Kendrick Lamar ft. SZA", "English", 0.7, 0.65, "Rap/R&B", "https://www.youtube.com/watch?v=krcWILc5Rxw")
 
 ]
 
