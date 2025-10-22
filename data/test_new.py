@@ -28,102 +28,18 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-    # 💖 Emotional Ballads
-    # ("Because You Loved Me", "Celine Dion", "English", 0.55, 0.5, "Pop Ballad", ["https://www.youtube.com/watch?v=2GP8JuBtcis", "https://soundcloud.com/liveconcerts/because-you-loved-me-celine-dion"]),
-    
-  
-    
-    # ("Un-break My Heart", "Toni Braxton", "English", 0.35, 0.45, "R&B Ballad",["https://www.youtube.com/watch?v=p2Rch6WvPJE", "https://soundcloud.com/tonibraxton/un-break-my-heart"]),
-    
-    # ("You’re Beautiful", "James Blunt", "English", 0.5, 0.4, "Pop Ballad",["https://www.youtube.com/watch?v=oofSnsGkops", "https://soundcloud.com/jamesblunt/youre-beautiful"]),
-     # ("Don’t Stop Believin’", "Journey", "English", 0.9, 0.85, "Rock", ["https://www.youtube.com/watch?v=1k8craCGpgs", "https://soundcloud.com/journey/dont-stop-believin"]),
-    # ("Viva La Vida", "Coldplay", "English", 0.8, 0.6, "Pop Rock", ["https://www.youtube.com/watch?v=dvgZkm1xWPE", "https://soundcloud.com/coldplay/viva-la-vida"]),
-
-    # ("It’s My Life", "Bon Jovi", "English", 0.8, 0.85, "Pop Rock", ["https://www.youtube.com/watch?v=vx2u5uUu3DE", "https://soundcloud.com/bonjovi/its-my-life"]),
-     # ("Viva La Vida", "Coldplay", "English", 0.80, 0.60, "Pop Rock", ["https://www.youtube.com/watch?v=dvgZkm1xWPE", "https://open.spotify.com/track/4Pz1rH5p0YRSe2UghTqK9T"]),
-     # ("You’re Beautiful", "James Blunt", "English", 0.50, 0.40, "Pop Ballad", ["https://www.youtube.com/watch?v=oofSnsGkops", "https://open.spotify.com/track/3S5UaWOxbDnSdQy1FLG70U"]),
-     # ("It’s My Life", "Bon Jovi", "English", 0.80, 0.85, "Pop Rock", ["https://www.youtube.com/watch?v=vx2u5uUu3DE", "https://soundcloud.com/bonjovi/its-my-life"]),
-
-    # ("Complicated", "Avril Lavigne", "English", 0.75, 0.70, "Pop Rock", ["https://www.youtube.com/watch?v=5NPBIwQyPWE", "https://soundcloud.com/avrillavigne/complicated"]),
-
-
-
-    # 💖 Emotional Ballads
-    ("Because You Loved Me", "Céline Dion", "English", 0.55, 0.50, "Pop Ballad",
-     ["https://www.youtube.com/watch?v=fpl4if07ics",
-      "https://open.spotify.com/track/2zKcnzs0CYsTIh5Q5E9y6E"]),
-
-    ("I Will Always Love You", "Whitney Houston", "English", 0.30, 0.40, "Soul Ballad",
-     ["https://www.youtube.com/watch?v=3JWTaaS7LdU",
-      "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"]),
-
-    ("Un-break My Heart", "Toni Braxton", "English", 0.35, 0.45, "R&B Ballad",
-     ["https://www.youtube.com/watch?v=p2Rch6WvPJE",
-      "https://open.spotify.com/track/4Jdoz7kYFKEcZlafhf5G45"]),
-
-    # 🎉 Feel-good / Funky Pop
-    ("Mambo No.5", "Lou Bega", "English", 0.95, 0.90, "Latin Pop",
-     ["https://www.youtube.com/watch?v=EK_LN3XEcnw",
-      "https://soundcloud.com/lou-bega/mambo-no-5"]),
-
-    ("Livin’ la Vida Loca", "Ricky Martin", "English", 0.90, 0.90, "Pop",
-     ["https://www.youtube.com/watch?v=p47fEXGabaY",
-      "https://open.spotify.com/track/7nSnVutpVd9E2eF9zravG6"]),
-
-    ("Can’t Get You Out of My Head", "Kylie Minogue", "English", 0.85, 0.80, "Dance Pop",
-     ["https://www.youtube.com/watch?v=c18441Eh_WE&utm_source=chatgpt.com",
-      "https://soundcloud.com/kylieminogue/cant-get-you-out-of-my-head"]),
-
-    ("Hey Ya!", "Outkast", "English", 0.95, 0.85, "Funk Pop",
-     ["https://www.youtube.com/watch?v=PWgvGjAhvIw",
-      "https://soundcloud.com/outkast/hey-ya"]),
-
-    ("Crazy in Love", "Beyoncé ft. Jay-Z", "English", 0.90, 0.90, "R&B Pop",
-     ["https://www.youtube.com/watch?v=ViwtNLUqkMY",
-      "https://open.spotify.com/track/3S5UaWOxbDnSdQy1FLG70U"]),
-
-    # 🎸 Pop Rock / Feel-good Rock
-    ("Smooth", "Santana ft. Rob Thomas", "English", 0.90, 0.85, "Latin Rock",
-     ["https://www.youtube.com/watch?v=6Whgn_iE5uc",
-      "https://soundcloud.com/santana-official/smooth"]),
-
-    ("Drops of Jupiter", "Train", "English", 0.70, 0.60, "Pop Rock",
-     ["https://www.youtube.com/watch?v=6vEme-BwLl0",
-      "https://soundcloud.com/train/drops-of-jupiter"]),
-
-    ("It’s My Life", "Bon Jovi", "English", 0.85, 0.75, "Rock",
-     ["https://www.youtube.com/watch?v=vx2u5uUu3DE",
-      "https://soundcloud.com/bonjovi/its-my-life"]),
-
-    ("Complicated", "Avril Lavigne", "English", 0.70, 0.65, "Pop Rock",
-     ["https://www.youtube.com/watch?v=5NPBIwQyPWE",
-      "https://soundcloud.com/avrillavigne/complicated"]),
-
-    # 💃 Dance / Disco Revival
-    ("Hung Up", "Madonna", "English", 0.90, 0.85, "Dance Pop",
-     ["https://www.youtube.com/watch?v=EDwb9jOVRtU",
-      "https://soundcloud.com/madonna/hung-up"]),
-
-    ("Don’t Stop Movin’", "S Club 7", "English", 0.90, 0.80, "Dance Pop",
-     ["https://www.youtube.com/watch?v=5s9Xl5v7VnI",
-      "https://soundcloud.com/sclub7/dont-stop-movin"]),
-
-    ("Rock Your Body", "Justin Timberlake", "English", 0.85, 0.90, "Funk Pop",
-     ["https://www.youtube.com/watch?v=TSVHoHyErBQ",
-      "https://soundcloud.com/justintimberlake/rock-your-body"]),
-
-    ("Can’t Get Enough of You Baby", "Smash Mouth", "English", 0.85, 0.75, "Pop Rock",
-     ["https://www.youtube.com/watch?v=16gT5YeZ-jA&utm_source=chatgpt.com",
-      "https://open.spotify.com/track/0UVIXwqfTjefBbDyY60MWB?utm_source=chatgpt.com"]),
-
-    # 🎶 Classic Rock / Timeless
-    ("Don’t Stop Believin’", "Journey", "English", 0.80, 0.70, "Classic Rock",
-     ["https://www.youtube.com/watch?v=1k8craCGpgs",
-      "https://soundcloud.com/journeyband/dont-stop-believin"]),
-
-    ("Viva La Vida", "Coldplay", "English", 0.85, 0.80, "Pop Rock",
-     ["https://www.youtube.com/watch?v=dvgZkm1xWPE",
-      "https://soundcloud.com/coldplay/viva-la-vida"])
+    ("Pehla Nasha", "Udit Narayan & Sadhana Sargam", "Hindi", 0.85, 0.55, "Romantic", 
+     ["https://www.youtube.com/watch?v=Qm5DwmH7u8E",
+      "https://en.wikipedia.org/wiki/Pehla_Nasha"]),
+    ("Chaiyya Chaiyya", "Sukhwinder Singh & Sapna Agarwal", "Hindi", 0.9, 0.8, "Dance/Pop", 
+     ["https://www.youtube.com/watch?v=PQm-w_Q5vZI",
+      "https://en.wikipedia.org/wiki/Chaiyya_Chaiyya"]),
+    ("Kuch Kuch Hota Hai", "Udit Narayan & Alka Yagnik", "Hindi", 0.8, 0.65, "Bollywood Pop/Romantic", 
+     ["https://www.youtube.com/watch?v=VL1K4aV4aHk",
+      "https://en.wikipedia.org/wiki/Kuch_Kuch_Hota_Hai_(song)"]),
+    ("Dil To Pagal Hai", "Lata Mangeshkar & Udit Narayan", "Hindi", 0.75, 0.6, "Romantic/Dance", 
+     ["https://www.youtube.com/watch?v=T_UCfYjc-Dw",
+      "https://en.wikipedia.org/wiki/Dil_To_Pagal_Hai_(song)"])
 
 
 ]
