@@ -29,97 +29,33 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-    # ("Sweet But Psycho", "Ava Max", "English", 0.8, 0.85, "Pop", "https://www.youtube.com/watch?v=WXBHCQYxwr0")
+    # 💖 Emotional Pop Ballads
+    ("My Heart Will Go On", "Celine Dion", "English", 0.4, 0.5, "Pop Ballad", "https://youtu.be/A3QAqZQYLIQ?si=g3Cj6YqhATw8NEMb"),
+    ("Because You Loved Me", "Celine Dion", "English", 0.55, 0.5, "Pop Ballad", "https://www.youtube.com/watch?v=JDcuRgk-Jd0"),
+    ("I Will Always Love You", "Whitney Houston", "English", 0.3, 0.4, "Soul Ballad", "https://www.youtube.com/watch?v=FxYw0XPEoKE"),
+    ("Un-break My Heart", "Toni Braxton", "English", 0.35, 0.45, "R&B Ballad", "https://www.youtube.com/watch?v=p2Rch6WvPJE"),
+    ("You’re Beautiful", "James Blunt", "English", 0.5, 0.4, "Pop Ballad", "https://www.youtube.com/watch?v=nX1VeFBo9AQ"),
 
-    ("Physical", "Dua Lipa ft. Troye Sivan", "English", 0.85, 0.9, "Pop", "https://www.youtube.com/watch?v=1NZex2G3hA8"),
+    # 🎉 Feel-good / Funky Pop
+    ("Mambo No.5", "Lou Bega", "English", 0.95, 0.9, "Latin Pop", "https://www.youtube.com/watch?v=4kHl4FoK1Ys"),
+    ("Livin’ la Vida Loca", "Ricky Martin", "English", 0.9, 0.9, "Pop", "https://www.youtube.com/watch?v=4kHl4FoK1Ys"),
+    ("Can’t Get You Out of My Head", "Kylie Minogue", "English", 0.85, 0.8, "Dance Pop", "https://www.youtube.com/watch?v=c18441Eh_WE"),
+    ("Hey Ya!", "Outkast", "English", 0.95, 0.85, "Funk Pop", "https://www.youtube.com/watch?v=PWgvGjAhvIw"),
+    ("Crazy in Love", "Beyoncé ft. Jay-Z", "English", 0.9, 0.9, "R&B Pop", "https://www.youtube.com/watch?v=ViwtNLUqkMY"),
 
-    ("Sweet But Psycho", "Ava Max", "English", 0.8, 0.85, "Pop", "https://www.youtube.com/watch?v=ZuxcZr8t0S0"),
-    ("Old Town Road", "Lil Nas X ft. Billy Ray Cyrus", "English", 0.8, 0.8, "Country Rap", "https://www.youtube.com/watch?v=r7qovpFAGrQ"),
-    ("Bad Guy", "Billie Eilish", "English", 0.6, 0.7, "Pop", "https://www.youtube.com/watch?v=DyDfgMOUjCI"),
-    ("Dance Monkey", "Tones and I", "English", 0.85, 0.8, "Electropop", "https://www.youtube.com/watch?v=q0hyYWKXF0Q"),
-    ("Senorita", "Shawn Mendes, Camila Cabello", "English", 0.7, 0.6, "Pop", "https://www.youtube.com/watch?v=Pkh8UtuejGw"),
-    ("Circles", "Post Malone", "English", 0.6, 0.5, "Pop", "https://www.youtube.com/watch?v=wXhTHyIgQ_U"),
-    ("Sunflower", "Post Malone, Swae Lee", "English", 0.7, 0.6, "Hip-Hop/Pop", "https://www.youtube.com/watch?v=ApXoWvfEYVU"),
-    ("Mood", "24kGoldn ft. Iann Dior", "English", 0.8, 0.8, "Hip-Hop/Pop", "https://www.youtube.com/watch?v=GrAchTdepsU"),
-    ("Adore You", "Harry Styles", "English", 0.8, 0.7, "Pop", "https://www.youtube.com/watch?v=R-BS87NTV5I"),
-    ("Watermelon Sugar", "Harry Styles", "English", 0.9, 0.7, "Pop", "https://www.youtube.com/watch?v=E07s5ZYygMg")
+    # 🎸 Pop Rock / Feel-good Rock
+    ("It’s My Life", "Bon Jovi", "English", 0.8, 0.85, "Pop Rock", "https://www.youtube.com/watch?v=vx2u5uUu3DE"),
+    ("Complicated", "Avril Lavigne", "English", 0.75, 0.7, "Pop Rock", "https://www.youtube.com/watch?v=5NPBIwQyPWE"),
+    ("Smooth", "Santana ft. Rob Thomas", "English", 0.9, 0.85, "Latin Rock", "https://www.youtube.com/watch?v=6Whgn_iE5uc"),
+    ("Viva La Vida", "Coldplay", "English", 0.8, 0.6, "Pop Rock", "https://www.youtube.com/watch?v=dvgZkm1xWPE"),
+    ("Drops of Jupiter", "Train", "English", 0.7, 0.6, "Pop Rock", "https://www.youtube.com/watch?v=7Xf-Lesrkuc"),
 
-
-
-    # ("Levitating", "Dua Lipa", "English", 0.8, 0.8, "Pop/Disco", "https://www.youtube.com/watch?v=TUVcZfQe-Kw"),
-    # ("Good 4 U", "Olivia Rodrigo", "English", 0.9, 0.9, "Pop/Rock", "https://www.youtube.com/watch?v=gNi_6U5m_7o"),
-    # ("Stay", "The Kid LAROI, Justin Bieber", "English", 0.8, 0.9, "Pop", "https://www.youtube.com/watch?v=kTJFM_g9KAY"),
-    # ("Kiss Me More", "Doja Cat ft. SZA", "English", 0.9, 0.8, "Pop", "https://www.youtube.com/watch?v=FjIuS4bgN8g"),
-    # ("Leave The Door Open", "Silk Sonic", "English", 0.9, 0.8, "R&B/Soul", "https://www.youtube.com/watch?v=adLGHcj_RQk"),
-    # ("Cold Heart (PNAU Remix)", "Elton John & Dua Lipa", "English", 0.85, 0.75, "Pop/Dance", "https://www.youtube.com/watch?v=5D7p7y8R0lM"),
-    # ("Heat Waves", "Glass Animals", "English", 0.6, 0.5, "Indie Pop", "https://www.youtube.com/watch?v=l_Qy0P06l5Y"),
-    # ("Dynamite", "BTS", "English", 0.9, 0.8, "K-Pop", "https://www.youtube.com/watch?v=gdZLi9oWNZg"),
-    # ("Butter", "BTS", "English", 0.9, 0.85, "K-Pop", "https://www.youtube.com/watch?v=WMweEpGlu_U"),
-    # ("Happier Than Ever", "Billie Eilish", "English", 0.3, 0.4, "Alternative Pop", "https://www.youtube.com/watch?v=N_H4yKjP0q4"),
-    # ("drivers license", "Olivia Rodrigo", "English", 0.2, 0.3, "Pop", "https://www.youtube.com/watch?v=ZmDBbnmKpqQ"),
-    # ("Montero (Call Me By Your Name)", "Lil Nas X", "English", 0.7, 0.8, "Pop/Hip-Hop", "https://www.youtube.com/watch?v=6th-W72S_eI"),
-    # ("Peaches", "Justin Bieber ft. Daniel Caesar, Giveon", "English", 0.7, 0.5, "R&B", "https://www.youtube.com/watch?v=tQ0yjYUFKAE"),
-    # ("Permission to Dance", "BTS", "English", 0.95, 0.85, "K-Pop", "https://www.youtube.com/watch?v=C7M8P0hR-tM"),
-    # ("Shivers", "Ed Sheeran", "English", 0.85, 0.8, "Pop", "https://www.youtube.com/watch?v=Il-an3K9pjg"),
-    # ("Bad Habits", "Ed Sheeran", "English", 0.7, 0.8, "Pop", "https://www.youtube.com/watch?v=8tg2_jE7gO8"),
-    # ("Industry Baby", "Lil Nas X, Jack Harlow", "English", 0.8, 0.9, "Hip-Hop/Pop", "https://www.youtube.com/watch?v=UT9B2aA-Fm4"),
-    # ("Woman", "Doja Cat", "English", 0.8, 0.7, "Pop/R&B", "https://www.youtube.com/watch?v=ZOyW9J0xYGM"),
-    # ("Fancy Like", "Walker Hayes", "English", 0.8, 0.7, "Country", "https://www.youtube.com/watch?v=aG3sQ137w7U"),
-    # ("My Universe", "Coldplay X BTS", "English", 0.8, 0.7, "Pop", "https://www.youtube.com/watch?v=3YqPKLZF_Es"),
-    # ("You Right", "Doja Cat, The Weeknd", "English", 0.6, 0.7, "R&B", "https://www.youtube.com/watch?v=wX-r-mGgVdM"),
-    # ("Billie Eilish.", "Armani White", "English", 0.85, 0.9, "Hip-Hop", "https://www.youtube.com/watch?v=G_Hl4VqA8tA"),
-    # ("As It Was", "Harry Styles", "English", 0.8, 0.7, "Pop", "https://www.youtube.com/watch?v=H5v3kku4CgY"),
-    # ("Rich Flex", "Drake & 21 Savage", "English", 0.6, 0.8, "Hip-Hop", "https://www.youtube.com/watch?v=I4Q117P58Sg"),
-    # ("Kill Bill", "SZA", "English", 0.5, 0.6, "R&B", "https://www.youtube.com/watch?v=W0-F-B-oJ4Y"),
-    # ("Calm Down", "Rema, Selena Gomez", "English", 0.9, 0.75, "Afrobeats", "https://www.youtube.com/watch?v=N8TadE1Q2gQ"),
-    # ("I'm Good (Blue)", "David Guetta, Bebe Rexha", "English", 0.95, 0.9, "Dance", "https://www.youtube.com/watch?v=d_Hl4VqA8tA"),
-    # ("Flowers", "Miley Cyrus", "English", 0.8, 0.6, "Pop", "https://www.youtube.com/watch?v=G7KNm9TZsrg"),
-    # ("Made You Look", "Meghan Trainor", "English", 0.9, 0.8, "Pop", "https://www.youtube.com/watch?v=YwL34WJ1f-I"),
-    # ("Under The Influence", "Chris Brown", "English", 0.7, 0.75, "R&B", "https://www.youtube.com/watch?v=1F3gGvB6pYI"),
-    # ("Celestial", "Ed Sheeran", "English", 0.8, 0.65, "Pop", "https://www.youtube.com/watch?v=S2fFtyy-8m8"),
-    # ("Forget Me", "Lewis Capaldi", "English", 0.25, 0.35, "Ballad", "https://www.youtube.com/watch?v=wz-m8T3Lq8I"),
-    # ("Victoria’s Secret", "JAX", "English", 0.7, 0.6, "Pop", "https://www.youtube.com/watch?v=j1aVp4E-EAE"),
-    # ("Vampire", "Olivia Rodrigo", "English", 0.9, 0.9, "Pop-Punk", "https://www.youtube.com/watch?v=hB0Pq03zJkE"),
-    # ("Dil Deewana (Maine Pyar Kiya)", "S. P. Balasubrahmanyam, Lata Mangeshkar", "Hindi", 0.8, 0.6, "Romantic", "https://www.youtube.com/watch?v=H43hX2I2I8o"),
-    # ("Pehla Nasha (Jo Jeeta Wohi Sikandar)", "Udit Narayan, Sadhana Sargam", "Hindi", 0.8, 0.7, "Romantic", "https://www.youtube.com/watch?v=r_O_gL9hQpQ"),
-    # ("Tujhe Dekha Toh (Dilwale Dulhania Le Jayenge)", "Lata Mangeshkar, Kumar Sanu", "Hindi", 0.9, 0.6, "Romantic", "https://www.youtube.com/watch?v=C25KkSgJz4c"),
-    # ("Chura Ke Dil Mera (Main Khiladi Tu Anari)", "Kumar Sanu, Alka Yagnik", "Hindi", 0.85, 0.75, "Dance/Romantic", "https://www.youtube.com/watch?v=L2Gj3oP-GqQ"),
-    # ("Dil Tera Deewana (Anari)", "Udit Narayan, Alka Yagnik", "Hindi", 0.7, 0.5, "Romantic", "https://www.youtube.com/watch?v=M5yBwJ-V69o"),
-    # ("Humma Humma (Bombay)", "Remo Fernandes, Kavita Krishnamurthy", "Hindi", 0.7, 0.8, "Pop/Dance", "https://www.youtube.com/watch?v=1F3gGvB6pYI"),
-    # ("Tu Hi Re (Bombay)", "Hariharan, Kavita Krishnamurthy", "Hindi", 0.5, 0.4, "Romantic/Emotional", "https://www.youtube.com/watch?v=x-w26_x-g00"),
-    # ("Jaanam Samjha Karo (Jaanam Samjha Karo)", "Anu Malik, Hema Sardesai", "Hindi", 0.8, 0.7, "Pop/Romantic", "https://www.youtube.com/watch?v=Xh0mGz-N8_k"),
-    # ("Dheere Dheere Se Meri Zindagi Mein Aana (Aashiqui)", "Kumar Sanu, Anuradha Paudwal", "Hindi", 0.7, 0.5, "Romantic", "https://www.youtube.com/watch?v=L013Vj7_z_A"),
-    # ("Kuch Kuch Hota Hai (Kuch Kuch Hota Hai)", "Udit Narayan, Alka Yagnik", "Hindi", 0.85, 0.65, "Romantic", "https://www.youtube.com/watch?v=K37C4W9m4bM"),
-    # ("Dil To Pagal Hai (Dil To Pagal Hai)", "Lata Mangeshkar, Udit Narayan", "Hindi", 0.7, 0.6, "Romantic", "https://www.youtube.com/watch?v=07-5eF6j0j0"),
-    # ("Chand Sifarish (Fanaa)", "Shaan, Kailash Kher", "Hindi", 0.7, 0.6, "Romantic/Pop", "https://www.youtube.com/watch?v=X0yKk0d-Xj0"),
-    # ("Kabhi Alvida Naa Kehna (Kabhi Alvida Naa Kehna)", "Sonu Nigam, Alka Yagnik", "Hindi", 0.4, 0.3, "Emotional/Romantic", "https://www.youtube.com/watch?v=Vz2Xw3-x-g0"),
-    # ("Kaho Naa Pyaar Hai (Kaho Naa Pyaar Hai)", "Lucky Ali, Asha Bhosle", "Hindi", 0.85, 0.7, "Pop/Romantic", "https://www.youtube.com/watch?v=ZfM6k0f5kGk"),
-    # ("Ek Pal Ka Jeena (Kaho Naa Pyaar Hai)", "Lucky Ali", "Hindi", 0.8, 0.8, "Pop/Dance", "https://www.youtube.com/watch?v=E_Pq5r9fR0Q"),
-    # ("Woh Ladki Hai Kahan (Dil Chahta Hai)", "Shankar Mahadevan, Kavita Krishnamurthy", "Hindi", 0.9, 0.8, "Dance/Pop", "https://www.youtube.com/watch?v=p1t3Q7kS3fA"),
-    # ("Bole Chudiyan (Kabhi Khushi Kabhie Gham...)", "Amitabh Bachchan, Sonu Nigam, Alka Yagnik, Kavita Krishnamurthy, Udit Narayan", "Hindi", 0.95, 0.85, "Dance/Wedding", "https://www.youtube.com/watch?v=U0-F-B-oJ4Y"),
-    # ("Gori Gori (Main Hoon Na)", "KK, Shreya Ghoshal, Sunidhi Chauhan, Sukhwinder Singh", "Hindi", 0.9, 0.75, "Pop/Dance", "https://www.youtube.com/watch?v=d_Hl4VqA8tA"),
-    # ("Main Hoon Na (Main Hoon Na)", "Sonu Nigam, Shreya Ghoshal", "Hindi", 0.8, 0.6, "Patriotic/Pop", "https://www.youtube.com/watch?v=G7KNm9TZsrg"),
-    # ("Aankhon Mein Tera Hi Chehra (Album - Aryans)", "Aryans", "Hindi", 0.8, 0.6, "Pop/Romantic", "https://www.youtube.com/watch?v=s0K6PqJq1yU"),
-    # ("Dooba Dooba (Album - Boondein)", "Silk Route", "Hindi", 0.7, 0.5, "Indie Pop", "https://www.youtube.com/watch?v=mYlS2kQ7R7g"),
-    # ("O Sanam (Album - Sunoh)", "Lucky Ali", "Hindi", 0.6, 0.4, "Indie Pop", "https://www.youtube.com/watch?v=yYyB-m9xS_A"),
-    # ("Pal Pal Har Pal (Lage Raho Munna Bhai)", "Sonu Nigam, Shreya Ghoshal", "Hindi", 0.8, 0.5, "Romantic", "https://www.youtube.com/watch?v=g8fK84b7B_c"),
-    # ("Jashn-E-Baharaa (Jodhaa Akbar)", "Javed Ali", "Hindi", 0.6, 0.4, "Romantic/Classical", "https://www.youtube.com/watch?v=H74Yx-oF2R0"),
-    # ("Tere Naina (Chandni Chowk To China)", "Shaan, Shreya Ghoshal", "Hindi", 0.7, 0.5, "Romantic", "https://www.youtube.com/watch?v=M5yBwJ-V69o"),
-    # ("Tu Jaane Na (Ajab Prem Ki Ghazab Kahani)", "Atif Aslam", "Hindi", 0.4, 0.3, "Romantic/Sad", "https://www.youtube.com/watch?v=H4uW0QoRkmc"),
-    # ("Jogi Mahi (Bachna Ae Haseeno)", "Sukhwinder Singh, Udit Narayan, Alka Yagnik, Sonu Nigam", "Hindi", 0.85, 0.7, "Dance/Wedding", "https://www.youtube.com/watch?v=Xz29g41Ld0w"),
-    # ("Chalte Chalte (Chalte Chalte)", "Sonu Nigam, Alka Yagnik", "Hindi", 0.7, 0.5, "Romantic", "https://www.youtube.com/watch?v=tQ0yjYUFKAE"),
-    # ("Maahi Ve (Kaante)", "Hariharan, Sadhana Sargam, Sukhwinder Singh, Madhushree", "Hindi", 0.8, 0.6, "Wedding/Emotional", "https://www.youtube.com/watch?v=t_u_q_Nq4-0"),
-    # ("Tere Naam (Tere Naam)", "Udit Narayan", "Hindi", 0.4, 0.4, "Romantic/Emotional", "https://www.youtube.com/watch?v=tP4-o-dD8C8"),
-    # ("Aankhein Khuli (Mohabbatein)", "Lata Mangeshkar, Udit Narayan, Kumar Sanu, Sonu Nigam, Jaspinder Narula", "Hindi", 0.7, 0.6, "Romantic/Pop", "https://www.youtube.com/watch?v=e_g72C9a2L0"),
-    # ("Suno Na Suno Na (Chalte Chalte)", "Abhijeet Bhattacharya", "Hindi", 0.75, 0.5, "Romantic", "https://www.youtube.com/watch?v=q0D84G1x-1g"),
-    # ("Maa Da Laadla (Dostana)", "Saleem Shahzada", "Hindi", 0.8, 0.7, "Pop/Dance", "https://www.youtube.com/watch?v=Q8lV3r1Q8tY"),
-    # ("Mere Khwabon Mein (Dilwale Dulhania Le Jayenge)", "Lata Mangeshkar", "Hindi", 0.7, 0.5, "Romantic/Classic", "https://www.youtube.com/watch?v=jW0D2M3mXhE"),
-    # ("Dil Laga Liya (Dil Hai Tumhaara)", "Alka Yagnik, Udit Narayan", "Hindi", 0.85, 0.6, "Romantic", "https://www.youtube.com/watch?v=fXvj51jB6nU"),
-    # ("Tumse Milke Dil Ka (Main Hoon Na)", "Sonu Nigam, Aftab Sabri, Hashim Sabri", "Hindi", 0.8, 0.7, "Pop/Dance", "https://www.youtube.com/watch?v=d_Hl4VqA8tA"),
-    # ("Oh My Darling (Mujhse Dosti Karoge!)", "Alisha Chinai, Sonu Nigam", "Hindi", 0.7, 0.6, "Romantic/Pop", "https://www.youtube.com/watch?v=C25KkSgJz4c"),
-    # ("Taal Se Taal Mila (Taal)", "Alka Yagnik, Udit Narayan", "Hindi", 0.75, 0.65, "Classical/Romantic", "https://www.youtube.com/watch?v=1F3gGvB6pYI"),
-    # ("Dil Ne Yeh Kaha Hai Dil Se (Dhadkan)", "Alka Yagnik, Kumar Sanu, Udit Narayan", "Hindi", 0.7, 0.5, "Romantic", "https://www.youtube.com/watch?v=L2Gj3oP-GqQ")
-
+    # 💃 Dance / Disco Revival
+    ("Hung Up", "Madonna", "English", 0.9, 0.85, "Dance Pop", "https://www.youtube.com/watch?v=EDwb9jOVRtU"),
+    ("Don’t Stop Movin’", "S Club 7", "English", 0.9, 0.8, "Dance Pop", "https://www.youtube.com/watch?v=5s9Xl5v7VnI"),
+    ("Rock Your Body", "Justin Timberlake", "English", 0.85, 0.9, "Funk Pop", "https://www.youtube.com/watch?v=TSVHoHyErBQ"),
+    ("Can’t Get Enough of You Baby", "Smash Mouth", "English", 0.85, 0.75, "Pop Rock", "https://www.youtube.com/watch?v=8e2xBf0tV2o"),
+    ("Don’t Stop Believin’", "Journey", "English", 0.9, 0.85, "Rock", "https://www.youtube.com/watch?v=1k8craCGpgs")
 
 ]
 
@@ -157,6 +93,7 @@ def download_audio(youtube_url, filepath, duration=60):
             'quiet': True,
             'noplaylist': True,
             'geo_bypass': True,
+            'user_agent': 'Mozilla/5.0',
             'postprocessors': [{
                 'key': 'FFmpegExtractAudio',
                 'preferredcodec': 'mp3',
@@ -173,6 +110,7 @@ def download_audio(youtube_url, filepath, duration=60):
     except Exception as e:
         print(f"❌ Error downloading {youtube_url}: {e}")
         return None
+
 
 # ===============================
 # MAIN LOOP
