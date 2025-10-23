@@ -32,147 +32,127 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
+    (
+    "Flowers", "Miley Cyrus", "English", 0.8, 0.6, "Pop",
+    [
+        "https://www.youtube.com/watch?v:G7KNmW9a75Y",
+        "https://en.wikipedia.org/wiki/Flowers_(Miley_Cyrus_song)"
+    ]
+),
 
-    ("Tum Hi Ho", "Arijit Singh", "Hindi", 0.6, 0.4, "Romantic",
-     [
-         "https://www.youtube.com/watch?v=Umqb9KENgmk",
-         "https://soundcloud.com/arijit-singh/tum-hi-ho",
-         "https://en.wikipedia.org/wiki/Tum_Hi_Ho"
-     ]
-    ),
-    ("Kesariya", "Arijit Singh", "Hindi", 0.8, 0.6, "Bollywood Pop",
-     [
-         "https://www.youtube.com/watch?v=BddP6PYo2gs",
-         "https://soundcloud.com/arijit-singh/kesariya",
-         "https://en.wikipedia.org/wiki/Kesariya_(song)"
-     ]
-    ),
-    ("Apna Bana Le", "Arijit Singh", "Hindi", 0.75, 0.55, "Romantic",
-     [
-         "https://www.youtube.com/watch?v=E0PbIbS5A3c",
-         "https://soundcloud.com/arijit-singh/apna-bana-le",
-         "https://en.wikipedia.org/wiki/Apna_Bana_Le"
-     ]
-    ),
-    ("Ghungroo", "Arijit Singh, Shilpa Rao", "Hindi", 0.85, 0.7, "Dance Pop",
-     [
-         "https://www.youtube.com/watch?v=E0PbIbS5A3c",
-         "https://soundcloud.com/arijit-singh/ghungroo",
-         "https://en.wikipedia.org/wiki/Ghungroo_(song)"
-     ]
-    ),
-    ("Shayad", "Arijit Singh", "Hindi", 0.7, 0.5, "Romantic",
-     [
-         "https://www.youtube.com/watch?v=Jx6Gnu0WbJ4",
-         "https://soundcloud.com/arijit-singh/shayad",
-         "https://en.wikipedia.org/wiki/Shayad_(song)"
-     ]
-    ),
-    ("Tujhe Kitna Chahne Lage", "Arijit Singh", "Hindi", 0.65, 0.45, "Sad Romantic",
-     [
-         "https://www.youtube.com/watch?v=AgX2IIvzdSk",
-         "https://soundcloud.com/arijit-singh/tujhe-kitna-chahne-lage",
-         "https://en.wikipedia.org/wiki/Tujhe_Kitna_Chahne_Lage"
-     ]
-    ),
-    ("Bekhayali", "Sachet Tandon", "Hindi", 0.4, 0.6, "Emotional Rock",
-     [
-         "https://www.youtube.com/watch?v=Vzv8cXqK1kA",
-         "https://soundcloud.com/sachet-tandon/bekhayali",
-         "https://en.wikipedia.org/wiki/Bekhayali"
-     ]
-    ),
-    ("Jai Jai Shivshankar", "Vishal Dadlani, Benny Dayal", "Hindi", 0.9, 0.85, "Dance",
-     [
-         "https://www.youtube.com/watch?v=rP7XQH-8Eqw",
-         "https://soundcloud.com/vishal-dadlani/jai-jai-shivshankar",
-         "https://en.wikipedia.org/wiki/Jai_Jai_Sivshankar"
-     ]
-    ),
-    ("Chogada", "Darshan Raval", "Hindi", 0.85, 0.9, "Garba",
-     [
-         "https://www.youtube.com/watch?v=I6fcpfgHbjo",
-         "https://soundcloud.com/darshan-raval/chogada",
-         "https://en.wikipedia.org/wiki/Chogada_(song)"
-     ]
-    ),
-    ("Malang Title Track", "Ved Sharma", "Hindi", 0.7, 0.75, "Rock",
-     [
-         "https://www.youtube.com/watch?v=ek1ePFp-nBI",
-         "https://soundcloud.com/ved-sharma/malang-title-track",
-         "https://en.wikipedia.org/wiki/Malang_(song)"
-     ]
-    ),
-    ("Senorita", "Farhan Akhtar, Hrithik Roshan, Abhay Deol", "Hindi", 0.9, 0.8, "Latin Pop",
-     [
-         "https://www.youtube.com/watch?v=wAiwXMJ704Y",
-         "https://soundcloud.com/farhan-akhtar/senorita",
-         "https://en.wikipedia.org/wiki/Senorita_(song)"
-     ]
-    ),
-    ("Kabira", "Tochi Raina, Rekha Bhardwaj", "Hindi", 0.7, 0.55, "Sufi Pop",
-     [
-         "https://www.youtube.com/watch?v=jHNNMj5bNQw",
-         "https://soundcloud.com/tochi-raina/kabira",
-         "https://en.wikipedia.org/wiki/Kabira_(song)"
-     ]
-    ),
-    ("Dil Diyan Gallan", "Atif Aslam", "Hindi", 0.75, 0.6, "Romantic",
-     [
-         "https://www.youtube.com/watch?v=SaCheA6Njc4",
-         "https://soundcloud.com/atif-aslam/dil-diyan-gallan",
-         "https://en.wikipedia.org/wiki/Dil_Diyan_Gallan"
-     ]
-    ),
-    ("Kala Chashma", "Amar Arshi, Badshah, Neha Kakkar", "Hindi", 0.9, 0.85, "Dance Pop",
-     [
-         "https://www.youtube.com/watch?v=k4yXQkG2s1E",
-         "https://soundcloud.com/amar-arshi/kala-chashma",
-         "https://en.wikipedia.org/wiki/Kala_Chashma"
-     ]
-    ),
-    ("Tareefan", "Badshah", "Hindi", 0.85, 0.75, "Hip Hop",
-     [
-         "https://www.youtube.com/watch?v=FsHZy2Zl1cQ",
-         "https://soundcloud.com/badshah/tareefan",
-         "https://en.wikipedia.org/wiki/Tareefan"
-     ]
-    ),
-    ("Dilbar", "Neha Kakkar, Dhvani Bhanushali", "Hindi", 0.8, 0.8, "Dance Pop",
-     [
-         "https://www.youtube.com/watch?v=JFtij9uYx9s",
-         "https://soundcloud.com/neha-kakkar/dilbar",
-         "https://en.wikipedia.org/wiki/Dilbar_(song)"
-     ]
-    ),
-    ("Agar Tum Saath Ho", "Alka Yagnik, Arijit Singh", "Hindi", 0.5, 0.4, "Sad Romantic",
-     [
-         "https://www.youtube.com/watch?v=sK7riqg2mr4",
-         "https://soundcloud.com/alka-yagnik/agar-tum-saath-ho",
-         "https://en.wikipedia.org/wiki/Agar_Tum_Saath_Ho"
-     ]
-    ),
-    ("Rata Lambiyaan", "Jubin Nautiyal, Asees Kaur", "Hindi", 0.75, 0.65, "Romantic",
-     [
-         "https://www.youtube.com/watch?v=xoq5sYv0pJc",
-         "https://soundcloud.com/jubin-nautiyal/rata-lambiyaan",
-         "https://en.wikipedia.org/wiki/Rata_Lambiyaan"
-     ]
-    ),
-    ("Duniya", "Akhil, Dhvani Bhanushali", "Hindi", 0.8, 0.6, "Bollywood Pop",
-     [
-         "https://www.youtube.com/watch?v=gvyUuxdRdR4",
-         "https://soundcloud.com/akhil/duniya",
-         "https://en.wikipedia.org/wiki/Duniya_(song)"
-     ]
-    ),
-    ("Balam Pichkari", "Vishal Dadlani, Shalmali Kholgade", "Hindi", 0.9, 0.9, "Dance",
-     [
-         "https://www.youtube.com/watch?v=3rqqMlhzfn8",
-         "https://soundcloud.com/vishal-dadlani/balam-pichkari",
-         "https://en.wikipedia.org/wiki/Balam_Pichkari"
-     ]
-    )
+(
+    "Anti-Hero", "Taylor Swift", "English", 0.55, 0.45, "Pop",
+    [
+        "https://www.youtube.com/watch?v=b1kbLwvqugk",
+        "https://en.wikipedia.org/wiki/Anti-Hero_(Taylor_Swift_song)"
+    ]
+),
+
+(
+    "Levitating", "Dua Lipa", "English", 0.8, 0.8, "Pop/Disco",
+    [
+        "https://www.youtube.com/watch?v=TUVcZfQe-Kw",
+        "https://en.wikipedia.org/wiki/Levitating_(song)"
+    ]
+),
+
+(
+    "As It Was", "Harry Styles", "English", 0.8, 0.7, "Pop",
+    [
+        "https://www.youtube.com/watch?v=H5v3kku4y6Q",
+        "https://en.wikipedia.org/wiki/As_It_Was"
+    ]
+),
+
+(
+    "Save Your Tears", "The Weeknd", "English", 0.5, 0.4, "Synthpop",
+    [
+        "https://www.youtube.com/watch?v=XXYlFuWEuKI",
+        "https://en.wikipedia.org/wiki/Save_Your_Tears"
+    ]
+),
+
+(
+    "Good 4 U", "Olivia Rodrigo", "English", 0.9, 0.9, "Pop/Rock",
+    [
+        "https://www.youtube.com/watch?v=gNi_6U5Pm_o",
+        "https://en.wikipedia.org/wiki/Good_4_U"
+    ]
+),
+
+(
+    "Stay", "The Kid LAROI, Justin Bieber", "English", 0.8, 0.9, "Pop",
+    [
+        "https://www.youtube.com/watch?v=kTJczUoc26U",
+        "https://en.wikipedia.org/wiki/Stay_(The_Kid_Laroi_and_Justin_Bieber_song)"
+    ]
+),
+
+(
+    "Shivers", "Ed Sheeran", "English", 0.85, 0.8, "Pop",
+    [
+        "https://www.youtube.com/watch?v=Il0S8BoucSA",
+        "https://en.wikipedia.org/wiki/Shivers_(Ed_Sheeran_song)"
+    ]
+),
+
+(
+    "Unholy", "Sam Smith, Kim Petras", "English", 0.6, 0.85, "Pop",
+    [
+        "https://www.youtube.com/watch?v=JnBMVQzA4Co",
+        "https://en.wikipedia.org/wiki/Unholy_(Sam_Smith_and_Kim_Petras_song)"
+    ]
+),
+
+(
+    "Watermelon Sugar", "Harry Styles", "English", 0.9, 0.7, "Pop",
+    [
+        "https://www.youtube.com/watch?v=E07s5ZYygMg",
+        "https://en.wikipedia.org/wiki/Watermelon_Sugar"
+    ]
+),
+
+(
+    "Peaches", "Justin Bieber ft. Daniel Caesar, Giveon", "English", 0.7, 0.5, "R&B",
+    [
+        "https://www.youtube.com/watch?v=tQ0yjYUFKAE",
+        "https://en.wikipedia.org/wiki/Peaches_(Justin_Bieber_song)"
+    ]
+),
+
+(
+    "Industry Baby", "Lil Nas X, Jack Harlow", "English", 0.8, 0.9, "Hip-Hop/Pop",
+    [
+        "https://www.youtube.com/watch?v=UTHLKHL_whs",
+        "https://en.wikipedia.org/wiki/Industry_Baby"
+    ]
+),
+
+(
+    "Bad Habits", "Ed Sheeran", "English", 0.7, 0.8, "Pop",
+    [
+        "https://www.youtube.com/watch?v=orJSJGHjBLI",
+        "https://en.wikipedia.org/wiki/Bad_Habits_(Ed_Sheeran_song)"
+    ]
+),
+
+(
+    "abcdefu", "GAYLE", "English", 0.7, 0.9, "Pop/Punk",
+    [
+        "https://www.youtube.com/watch?v=NaFd8ucHLuo",
+        "https://en.wikipedia.org/wiki/Abcdefu"
+    ]
+),
+
+(
+    "Sunflower", "Post Malone, Swae Lee", "English", 0.7, 0.6, "Hip-Hop/Pop",
+    [
+        "https://www.youtube.com/watch?v=ApXoWvfEYVU",
+        "https://en.wikipedia.org/wiki/Sunflower_(Post_Malone_and_Swae_Lee_song)"
+    ]
+)
+
+
 
 
 
