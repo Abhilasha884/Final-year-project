@@ -32,83 +32,50 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
+("Piya Tu Ab To Aaja", "Asha Bhosle", "Hindi", 0.8, 0.9, "Dance/Retro",
+[
+"https://www.youtube.com/watch?v=NE238Bd0v8k",
+"https://en.wikipedia.org/wiki/Piya_Tu_Ab_To_Aaja"
+]),
 
+("Chura Liya Hai Tumne Jo Dil Ko", "Asha Bhosle, Mohammed Rafi", "Hindi", 0.6, 0.5, "Romantic/Classic",
+[
+"https://www.youtube.com/watch?v=7chGXgGqWRU",
+"https://en.wikipedia.org/wiki/Chura_Liya_Hai_Tumne_Jo_Dil_Ko"
+]),
 
-    ("Light My Fire", "The Doors", "English", 0.85, 0.9, "Psychedelic Rock",
-     [
-         "https://open.spotify.com/track/6wBPS4f8YsM2TwZKdE68Hk",
-         "https://music.apple.com/us/album/light-my-fire/160003879",
-         "https://music.youtube.com/watch?v=deB_u-to-IE"
-     ]
-    ),
-    ("Respect Yourself", "The Staple Singers", "English", 0.75, 0.6, "Soul",
-     [
-         "https://open.spotify.com/track/4y142Le7YaWaq8meNKTwzr",
-         "https://music.apple.com/us/album/respect-yourself/1427888540",
-         "https://music.youtube.com/watch?v=8Oipm2WHcZ8"
-     ]
-    ),
-    ("Valerie", "Amy Winehouse", "English", 0.8, 0.65, "Soul/Pop",
-     [
-         "https://open.spotify.com/track/4AjCzRfXhw7Ffr9fScTIGT",
-         "https://music.apple.com/us/album/valerie/887367604",
-         "https://music.youtube.com/watch?v=4HLY1NTe04M"
-     ]
-    ),
-    ("Clint Eastwood", "Gorillaz", "English", 0.7, 0.6, "Alternative Hip Hop",
-     [
-         "https://open.spotify.com/track/7xKdsLyu3PswQ7g1ppx0oQ",
-         "https://music.apple.com/us/album/clint-eastwood/610253645",
-         "https://music.youtube.com/watch?v=R6Csv9RBxb8"
-     ]
-    ),
-    ("Breathe", "Pink Floyd", "English", 0.4, 0.45, "Progressive Rock",
-     [
-         "https://open.spotify.com/track/2SIwoFWhDmtz85XtxtBFsT",
-         "https://music.apple.com/us/album/breathe/323079377",
-         "https://music.youtube.com/watch?v=0pxP-T3V_wY"
-     ]
-    ),
-    ("Hotline Bling", "Drake", "English", 0.75, 0.7, "Hip-Hop/R&B",
-     [
-         "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6gA",
-         "https://music.apple.com/us/album/hotline-bling/1146133985",
-         "https://music.youtube.com/watch?v=uxpDa-c-4Mc"
-     ]
-    ),
-    ("Royals", "Lorde", "English", 0.8, 0.6, "Alternative Pop",
-     [
-         "https://open.spotify.com/track/1W9qAR63VYwGQqkxd5z8nh",
-         "https://music.apple.com/us/album/royals/1440833198",
-         "https://music.youtube.com/watch?v=nlcIKh6sBtc"
-     ]
-    ),
-    ("Juicy", "Notorious B.I.G.", "English", 0.75, 0.8, "Hip-Hop",
-     [
-         "https://open.spotify.com/track/4NkXGc8Es8oeNfD9VURmtH",
-         "https://music.apple.com/us/album/juicy/206975892",
-         "https://music.youtube.com/watch?v=_JZom_gVfuw"
-     ]
-    ),
-    ("Riders on the Storm", "The Doors", "English", 0.6, 0.55, "Psychedelic Rock",
-     [
-         "https://open.spotify.com/track/4gkyFXrqVv9t3hvdNfS6TJ",
-         "https://music.apple.com/us/album/riders-on-the-storm/1056775777",
-         "https://music.youtube.com/watch?v=lS-af9Q-zvQ"
-     ]
-    ),
-    ("Firework", "Katy Perry", "English", 0.9, 0.85, "Pop",
-     [
-         "https://open.spotify.com/track/6JmAs510HQZnq9kL2ZO61w",
-         "https://music.apple.com/us/album/firework/420075073",
-         "https://music.youtube.com/watch?v=QGJuMBdaqIw"
-     ]
-    )
+("Kabhi Kabhi Mere Dil Mein", "Mukesh", "Hindi", 0.4, 0.3, "Romantic/Classic",
+[
+"https://www.youtube.com/watch?v=8SdXrLWanud",
+"https://en.wikipedia.org/wiki/Kabhi_Kabhi_Mere_Dil_Mein"
+]),
 
+("Mere Sapno Ki Rani", "Kishore Kumar", "Hindi", 0.7, 0.6, "Romantic/Retro",
+[
+"https://www.youtube.com/watch?v=MOQxLFaBkEM",
+"https://en.wikipedia.org/wiki/Mere_Sapno_Ki_Rani"
+]),
 
+("Yeh Sham Mastani", "Kishore Kumar", "Hindi", 0.6, 0.5, "Romantic/Classic",
+[
+"https://www.youtube.com/watch?v=HoTD3sGD-Ag",
+"https://en.wikipedia.org/wiki/Yeh_Sham_Mastani"
+]),
 
+("Chingari Koi Bhadke", "Kishore Kumar", "Hindi", 0.3, 0.4, "Romantic",
+[
+"https://www.youtube.com/watch?v=I_7bOY_t-GY",
+"https://en.wikipedia.org/wiki/Chingari_Koi_Bhadke"
+]),
+
+("Mera Joota Hai Japani", "Mukesh", "Hindi", 0.8, 0.7, "Patriotic",
+[
+"https://www.youtube.com/watch?v=KmLnipxNCp0",
+"https://en.wikipedia.org/wiki/Mera_Joota_Hai_Japani"
+])
 
 ]
+
 
 # ===============================
 # INITIALIZE GENIUS API
