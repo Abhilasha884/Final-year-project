@@ -32,126 +32,78 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-    (
-    "Flowers", "Miley Cyrus", "English", 0.8, 0.6, "Pop",
-    [
-        "https://www.youtube.com/watch?v:G7KNmW9a75Y",
-        "https://en.wikipedia.org/wiki/Flowers_(Miley_Cyrus_song)"
-    ]
-),
 
-(
-    "Anti-Hero", "Taylor Swift", "English", 0.55, 0.45, "Pop",
-    [
-        "https://www.youtube.com/watch?v=b1kbLwvqugk",
-        "https://en.wikipedia.org/wiki/Anti-Hero_(Taylor_Swift_song)"
-    ]
-),
 
-(
-    "Levitating", "Dua Lipa", "English", 0.8, 0.8, "Pop/Disco",
-    [
-        "https://www.youtube.com/watch?v=TUVcZfQe-Kw",
-        "https://en.wikipedia.org/wiki/Levitating_(song)"
-    ]
-),
-
-(
-    "As It Was", "Harry Styles", "English", 0.8, 0.7, "Pop",
-    [
-        "https://www.youtube.com/watch?v=H5v3kku4y6Q",
-        "https://en.wikipedia.org/wiki/As_It_Was"
-    ]
-),
-
-(
-    "Save Your Tears", "The Weeknd", "English", 0.5, 0.4, "Synthpop",
-    [
-        "https://www.youtube.com/watch?v=XXYlFuWEuKI",
-        "https://en.wikipedia.org/wiki/Save_Your_Tears"
-    ]
-),
-
-(
-    "Good 4 U", "Olivia Rodrigo", "English", 0.9, 0.9, "Pop/Rock",
-    [
-        "https://www.youtube.com/watch?v=gNi_6U5Pm_o",
-        "https://en.wikipedia.org/wiki/Good_4_U"
-    ]
-),
-
-(
-    "Stay", "The Kid LAROI, Justin Bieber", "English", 0.8, 0.9, "Pop",
-    [
-        "https://www.youtube.com/watch?v=kTJczUoc26U",
-        "https://en.wikipedia.org/wiki/Stay_(The_Kid_Laroi_and_Justin_Bieber_song)"
-    ]
-),
-
-(
-    "Shivers", "Ed Sheeran", "English", 0.85, 0.8, "Pop",
-    [
-        "https://www.youtube.com/watch?v=Il0S8BoucSA",
-        "https://en.wikipedia.org/wiki/Shivers_(Ed_Sheeran_song)"
-    ]
-),
-
-(
-    "Unholy", "Sam Smith, Kim Petras", "English", 0.6, 0.85, "Pop",
-    [
-        "https://www.youtube.com/watch?v=JnBMVQzA4Co",
-        "https://en.wikipedia.org/wiki/Unholy_(Sam_Smith_and_Kim_Petras_song)"
-    ]
-),
-
-(
-    "Watermelon Sugar", "Harry Styles", "English", 0.9, 0.7, "Pop",
-    [
-        "https://www.youtube.com/watch?v=E07s5ZYygMg",
-        "https://en.wikipedia.org/wiki/Watermelon_Sugar"
-    ]
-),
-
-(
-    "Peaches", "Justin Bieber ft. Daniel Caesar, Giveon", "English", 0.7, 0.5, "R&B",
-    [
-        "https://www.youtube.com/watch?v=tQ0yjYUFKAE",
-        "https://en.wikipedia.org/wiki/Peaches_(Justin_Bieber_song)"
-    ]
-),
-
-(
-    "Industry Baby", "Lil Nas X, Jack Harlow", "English", 0.8, 0.9, "Hip-Hop/Pop",
-    [
-        "https://www.youtube.com/watch?v=UTHLKHL_whs",
-        "https://en.wikipedia.org/wiki/Industry_Baby"
-    ]
-),
-
-(
-    "Bad Habits", "Ed Sheeran", "English", 0.7, 0.8, "Pop",
-    [
-        "https://www.youtube.com/watch?v=orJSJGHjBLI",
-        "https://en.wikipedia.org/wiki/Bad_Habits_(Ed_Sheeran_song)"
-    ]
-),
-
-(
-    "abcdefu", "GAYLE", "English", 0.7, 0.9, "Pop/Punk",
-    [
-        "https://www.youtube.com/watch?v=NaFd8ucHLuo",
-        "https://en.wikipedia.org/wiki/Abcdefu"
-    ]
-),
-
-(
-    "Sunflower", "Post Malone, Swae Lee", "English", 0.7, 0.6, "Hip-Hop/Pop",
-    [
-        "https://www.youtube.com/watch?v=ApXoWvfEYVU",
-        "https://en.wikipedia.org/wiki/Sunflower_(Post_Malone_and_Swae_Lee_song)"
-    ]
-)
-
+    ("Light My Fire", "The Doors", "English", 0.85, 0.9, "Psychedelic Rock",
+     [
+         "https://open.spotify.com/track/6wBPS4f8YsM2TwZKdE68Hk",
+         "https://music.apple.com/us/album/light-my-fire/160003879",
+         "https://music.youtube.com/watch?v=deB_u-to-IE"
+     ]
+    ),
+    ("Respect Yourself", "The Staple Singers", "English", 0.75, 0.6, "Soul",
+     [
+         "https://open.spotify.com/track/4y142Le7YaWaq8meNKTwzr",
+         "https://music.apple.com/us/album/respect-yourself/1427888540",
+         "https://music.youtube.com/watch?v=8Oipm2WHcZ8"
+     ]
+    ),
+    ("Valerie", "Amy Winehouse", "English", 0.8, 0.65, "Soul/Pop",
+     [
+         "https://open.spotify.com/track/4AjCzRfXhw7Ffr9fScTIGT",
+         "https://music.apple.com/us/album/valerie/887367604",
+         "https://music.youtube.com/watch?v=4HLY1NTe04M"
+     ]
+    ),
+    ("Clint Eastwood", "Gorillaz", "English", 0.7, 0.6, "Alternative Hip Hop",
+     [
+         "https://open.spotify.com/track/7xKdsLyu3PswQ7g1ppx0oQ",
+         "https://music.apple.com/us/album/clint-eastwood/610253645",
+         "https://music.youtube.com/watch?v=R6Csv9RBxb8"
+     ]
+    ),
+    ("Breathe", "Pink Floyd", "English", 0.4, 0.45, "Progressive Rock",
+     [
+         "https://open.spotify.com/track/2SIwoFWhDmtz85XtxtBFsT",
+         "https://music.apple.com/us/album/breathe/323079377",
+         "https://music.youtube.com/watch?v=0pxP-T3V_wY"
+     ]
+    ),
+    ("Hotline Bling", "Drake", "English", 0.75, 0.7, "Hip-Hop/R&B",
+     [
+         "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6gA",
+         "https://music.apple.com/us/album/hotline-bling/1146133985",
+         "https://music.youtube.com/watch?v=uxpDa-c-4Mc"
+     ]
+    ),
+    ("Royals", "Lorde", "English", 0.8, 0.6, "Alternative Pop",
+     [
+         "https://open.spotify.com/track/1W9qAR63VYwGQqkxd5z8nh",
+         "https://music.apple.com/us/album/royals/1440833198",
+         "https://music.youtube.com/watch?v=nlcIKh6sBtc"
+     ]
+    ),
+    ("Juicy", "Notorious B.I.G.", "English", 0.75, 0.8, "Hip-Hop",
+     [
+         "https://open.spotify.com/track/4NkXGc8Es8oeNfD9VURmtH",
+         "https://music.apple.com/us/album/juicy/206975892",
+         "https://music.youtube.com/watch?v=_JZom_gVfuw"
+     ]
+    ),
+    ("Riders on the Storm", "The Doors", "English", 0.6, 0.55, "Psychedelic Rock",
+     [
+         "https://open.spotify.com/track/4gkyFXrqVv9t3hvdNfS6TJ",
+         "https://music.apple.com/us/album/riders-on-the-storm/1056775777",
+         "https://music.youtube.com/watch?v=lS-af9Q-zvQ"
+     ]
+    ),
+    ("Firework", "Katy Perry", "English", 0.9, 0.85, "Pop",
+     [
+         "https://open.spotify.com/track/6JmAs510HQZnq9kL2ZO61w",
+         "https://music.apple.com/us/album/firework/420075073",
+         "https://music.youtube.com/watch?v=QGJuMBdaqIw"
+     ]
+    )
 
 
 
