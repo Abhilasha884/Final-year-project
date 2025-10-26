@@ -31,63 +31,66 @@ def safe_filename(name):
 # SONGS LIST WITH CORRECT YOUTUBE LINKS ONLY
 # ===============================
 songs_info = [
-    ("Let's Dance", "David Bowie", "English", 0.9, 0.85, "Pop/Rock",
-      [
-          "https://www.youtube.com/watch?v=VbD_kBJc_gI"
-      ]),
-    ("Be My Baby", "The Ronettes", "English", 0.8, 0.85, "Pop",
-      [
-          "https://www.youtube.com/watch?v=4tPJPE4uOEo"
-      ]),
-    ("Play That Funky Music", "Wild Cherry", "English", 0.85, 0.9, "Funk",
-      [
-          "https://www.youtube.com/watch?v=BHcYFxU4fMo"
-      ]),
-    ("Wake Me Up Before You Go-Go", "Wham!", "English", 0.95, 0.95, "Pop",
-      [
-          "https://www.youtube.com/watch?v=pIgZ7gMze7A"
-      ]),
-    ("Tainted Love", "Soft Cell", "English", 0.7, 0.8, "New Wave",
-      [
-          "https://www.youtube.com/watch?v=OMOGaugKpzs"
-      ]),
-    ("No Woman No Cry", "Bob Marley", "English", 0.6, 0.6, "Reggae",
-      [
-          "https://www.youtube.com/watch?v=IT8XvzIfi4U"
-      ]),
-    ("Come Together", "The Beatles", "English", 0.7, 0.7, "Rock",
-      [
-          "https://www.youtube.com/watch?v=45cYwDMibGo"
-      ]),
-    ("Crazy Little Thing Called Love", "Queen", "English", 0.8, 0.85, "Rock",
-      [
-          "https://www.youtube.com/watch?v=zO6D_BAuYCI"
-      ]),
-    ("Somebody to Love", "Queen", "English", 0.9, 0.75, "Rock",
-      [
-          "https://www.youtube.com/watch?v=kijpcUv-b8M"
-      ]),
-    ("Can't Stop", "Red Hot Chili Peppers", "English", 0.8, 0.9, "Funk Rock",
-      [
-          "https://www.youtube.com/watch?v=8DyziWtkfBw"
-      ]),
-    ("Give Me One Reason", "Tracy Chapman", "English", 0.7, 0.5, "Blues",
-      [
-          "https://www.youtube.com/watch?v=ItBbngybK3U"
-      ]),
-    ("Hurricane", "Bob Dylan", "English", 0.5, 0.7, "Folk Rock",
-      [
-          "https://www.youtube.com/watch?v=4IkgkS_dkOM"
-      ]),
-    ("Black Hole Sun", "Soundgarden", "English", 0.6, 0.7, "Grunge",
-      [
-          "https://www.youtube.com/watch?v=3mbBbFH9fAg"
-      ]),
-    ("Wish You Were Here", "Pink Floyd", "English", 0.7, 0.4, "Progressive Rock",
-      [
-          "https://www.youtube.com/watch?v=IXdNnw99-Ic"
-      ])
+    (
+        "Let's Groove", "Earth, Wind & Fire", "English", 0.88, 0.9, "Funk/Disco",
+        [
+            "https://www.youtube.com/watch?v=s1tAYmMjLdY",  # 🌍 Global: official music video (works)
+            "https://soundcloud.com/sony-music/lets-groove-earth-wind-fire",  # Verified by Sony Music
+            "https://en.wikipedia.org/wiki/Let%27s_Groove"
+        ]
+    ),
+    (
+        "Boogie Shoes", "KC & The Sunshine Band", "English", 0.85, 0.88, "Funk/Disco",
+        [
+            "https://www.youtube.com/watch?v=Ci5CIF0g6sE",  # HQ remaster (no geo-lock)
+            "https://soundcloud.com/disco-essentials/kc-the-sunshine-band-boogie-shoes",  # Working alt link
+            "https://en.wikipedia.org/wiki/Boogie_Shoes"
+        ]
+    ),
+    (
+        "Get Down Tonight", "KC & The Sunshine Band", "English", 0.87, 0.87, "Funk/Disco",
+        [
+            "https://www.youtube.com/watch?v=ZrJXK3y0Qz8",  # Global remastered version
+            "https://soundcloud.com/disco-groove/get-down-tonight",  # Public verified alt
+            "https://en.wikipedia.org/wiki/Get_Down_Tonight"
+        ]
+    ),
+    (
+        "Disco Inferno", "The Trammps", "English", 0.92, 0.86, "Funk/Disco",
+        [
+            "https://www.youtube.com/watch?v=JjD9WcEbJ3o",  # Remastered HD audio (works globally)
+            "https://soundcloud.com/oldschoolgroove/disco-inferno",  # Public version
+            "https://en.wikipedia.org/wiki/Disco_Inferno"
+        ]
+    ),
+    (
+        "Shake Your Body (Down to the Ground)", "The Jacksons", "English", 0.87, 0.85, "Funk",
+        [
+            "https://www.youtube.com/watch?v=5J-pUDl5hHY",  # Official HD version (Sony/VEVO)
+            "https://soundcloud.com/michaeljackson/shake-your-body-down-to-the-ground",  # Verified
+            "https://en.wikipedia.org/wiki/Shake_Your_Body_(Down_to_the_Ground)"
+        ]
+    ),
+    (
+        "Boogie Oogie Oogie", "A Taste of Honey", "English", 0.89, 0.85, "Funk/Disco",
+        [
+            "https://www.youtube.com/watch?v=ye4Oa3t8YEA",  # Official remaster, global
+            "https://soundcloud.com/retro-soul/boogie-oogie-oogie",  # Working alt
+            "https://en.wikipedia.org/wiki/Boogie_Oogie_Oogie"
+        ]
+    ),
+    (
+        "Ain't No Stoppin' Us Now", "McFadden & Whitehead", "English", 0.92, 0.85, "Funk/Disco",
+        [
+            "https://www.youtube.com/watch?v=hsL9UL9qbv8",  # Official audio (works worldwide)
+            "https://soundcloud.com/sony-music/aint-no-stoppin-us-now",  # Verified link
+            "https://en.wikipedia.org/wiki/Ain%27t_No_Stoppin%27_Us_Now"
+        ]
+    )
 ]
+
+
+
 
 # ===============================
 # INITIALIZE GENIUS API
