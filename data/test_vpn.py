@@ -31,51 +31,63 @@ def safe_filename(name):
 # SONGS LIST WITH CORRECT YOUTUBE LINKS ONLY
 # ===============================
 songs_info = [
-
-("Piya Tu Ab To Aaja", "Asha Bhosle", "Hindi", 0.8, 0.9, "Dance/Retro",
-[
-"https://www.youtube.com/watch?v=NE238Bd0v8k",
-"https://en.wikipedia.org/wiki/Piya_Tu_Ab_To_Aaja"
-]),
-
-("Chura Liya Hai Tumne Jo Dil Ko", "Asha Bhosle, Mohammed Rafi", "Hindi", 0.6, 0.5, "Romantic/Classic",
-[
-"https://www.youtube.com/watch?v=7chGXgGqWRU",
-"https://en.wikipedia.org/wiki/Chura_Liya_Hai_Tumne_Jo_Dil_Ko"
-]),
-
-("Kabhi Kabhi Mere Dil Mein", "Mukesh", "Hindi", 0.4, 0.3, "Romantic/Classic",
-[
-"https://www.youtube.com/watch?v=8SdXrLWanud",
-"https://en.wikipedia.org/wiki/Kabhi_Kabhi_Mere_Dil_Mein"
-]),
-
-("Mere Sapno Ki Rani", "Kishore Kumar", "Hindi", 0.7, 0.6, "Romantic/Retro",
-[
-"https://www.youtube.com/watch?v=MOQxLFaBkEM",
-"https://en.wikipedia.org/wiki/Mere_Sapno_Ki_Rani"
-]),
-
-("Yeh Sham Mastani", "Kishore Kumar", "Hindi", 0.6, 0.5, "Romantic/Classic",
-[
-"https://www.youtube.com/watch?v=HoTD3sGD-Ag",
-"https://en.wikipedia.org/wiki/Yeh_Sham_Mastani"
-]),
-
-("Chingari Koi Bhadke", "Kishore Kumar", "Hindi", 0.3, 0.4, "Romantic",
-[
-"https://www.youtube.com/watch?v=I_7bOY_t-GY",
-"https://en.wikipedia.org/wiki/Chingari_Koi_Bhadke"
-]),
-
-("Mera Joota Hai Japani", "Mukesh", "Hindi", 0.8, 0.7, "Patriotic",
-[
-"https://www.youtube.com/watch?v=KmLnipxNCp0",
-"https://en.wikipedia.org/wiki/Mera_Joota_Hai_Japani"
-])
-
+    ("Let's Dance", "David Bowie", "English", 0.9, 0.85, "Pop/Rock",
+      [
+          "https://www.youtube.com/watch?v=VbD_kBJc_gI"
+      ]),
+    ("Be My Baby", "The Ronettes", "English", 0.8, 0.85, "Pop",
+      [
+          "https://www.youtube.com/watch?v=4tPJPE4uOEo"
+      ]),
+    ("Play That Funky Music", "Wild Cherry", "English", 0.85, 0.9, "Funk",
+      [
+          "https://www.youtube.com/watch?v=BHcYFxU4fMo"
+      ]),
+    ("Wake Me Up Before You Go-Go", "Wham!", "English", 0.95, 0.95, "Pop",
+      [
+          "https://www.youtube.com/watch?v=pIgZ7gMze7A"
+      ]),
+    ("Tainted Love", "Soft Cell", "English", 0.7, 0.8, "New Wave",
+      [
+          "https://www.youtube.com/watch?v=OMOGaugKpzs"
+      ]),
+    ("No Woman No Cry", "Bob Marley", "English", 0.6, 0.6, "Reggae",
+      [
+          "https://www.youtube.com/watch?v=IT8XvzIfi4U"
+      ]),
+    ("Come Together", "The Beatles", "English", 0.7, 0.7, "Rock",
+      [
+          "https://www.youtube.com/watch?v=45cYwDMibGo"
+      ]),
+    ("Crazy Little Thing Called Love", "Queen", "English", 0.8, 0.85, "Rock",
+      [
+          "https://www.youtube.com/watch?v=zO6D_BAuYCI"
+      ]),
+    ("Somebody to Love", "Queen", "English", 0.9, 0.75, "Rock",
+      [
+          "https://www.youtube.com/watch?v=kijpcUv-b8M"
+      ]),
+    ("Can't Stop", "Red Hot Chili Peppers", "English", 0.8, 0.9, "Funk Rock",
+      [
+          "https://www.youtube.com/watch?v=8DyziWtkfBw"
+      ]),
+    ("Give Me One Reason", "Tracy Chapman", "English", 0.7, 0.5, "Blues",
+      [
+          "https://www.youtube.com/watch?v=ItBbngybK3U"
+      ]),
+    ("Hurricane", "Bob Dylan", "English", 0.5, 0.7, "Folk Rock",
+      [
+          "https://www.youtube.com/watch?v=4IkgkS_dkOM"
+      ]),
+    ("Black Hole Sun", "Soundgarden", "English", 0.6, 0.7, "Grunge",
+      [
+          "https://www.youtube.com/watch?v=3mbBbFH9fAg"
+      ]),
+    ("Wish You Were Here", "Pink Floyd", "English", 0.7, 0.4, "Progressive Rock",
+      [
+          "https://www.youtube.com/watch?v=IXdNnw99-Ic"
+      ])
 ]
-
 
 # ===============================
 # INITIALIZE GENIUS API

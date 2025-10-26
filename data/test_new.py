@@ -3,6 +3,7 @@ import re
 import pandas as pd
 import lyricsgenius
 from yt_dlp import YoutubeDL
+import logging
 
 # ===============================
 # CONFIGURATION
@@ -17,6 +18,9 @@ failed_log = os.path.join(dataset_folder, "failed_songs.txt")
 os.makedirs(audio_folder, exist_ok=True)
 os.makedirs(lyrics_folder, exist_ok=True)
 
+# Optional: SOCKS5 proxy for VPN (Windscribe / ProtonVPN)
+VPN_PROXY = None  # e.g. "socks5://username:password@us-free.windscribe.com:1080"
+
 # ===============================
 # HELPER: Safe filename
 # ===============================
@@ -24,25 +28,63 @@ def safe_filename(name):
     return re.sub(r'[\\/*?:"<>|]', "", name)
 
 # ===============================
-# SONGS LIST WITH MULTIPLE URLS (YouTube / SoundCloud / Bandcamp)
+# SONGS LIST WITH VERIFIED LINKS
 # ===============================
 songs_info = [
 
-    ("Pehla Nasha", "Udit Narayan & Sadhana Sargam", "Hindi", 0.85, 0.55, "Romantic", 
-     ["https://www.youtube.com/watch?v=Qm5DwmH7u8E",
-      "https://en.wikipedia.org/wiki/Pehla_Nasha"]),
-    ("Chaiyya Chaiyya", "Sukhwinder Singh & Sapna Agarwal", "Hindi", 0.9, 0.8, "Dance/Pop", 
-     ["https://www.youtube.com/watch?v=PQm-w_Q5vZI",
-      "https://en.wikipedia.org/wiki/Chaiyya_Chaiyya"]),
-    ("Kuch Kuch Hota Hai", "Udit Narayan & Alka Yagnik", "Hindi", 0.8, 0.65, "Bollywood Pop/Romantic", 
-     ["https://www.youtube.com/watch?v=VL1K4aV4aHk",
-      "https://en.wikipedia.org/wiki/Kuch_Kuch_Hota_Hai_(song)"]),
-    ("Dil To Pagal Hai", "Lata Mangeshkar & Udit Narayan", "Hindi", 0.75, 0.6, "Romantic/Dance", 
-     ["https://www.youtube.com/watch?v=T_UCfYjc-Dw",
-      "https://en.wikipedia.org/wiki/Dil_To_Pagal_Hai_(song)"])
 
+
+    ("Play That Funky Music", "Wild Cherry", "English", 0.85, 0.9, "Funk",
+      [
+          "https://www.youtube.com/watch?v=BHcYFxU4fMo",  # YouTube
+          "https://soundcloud.com/wild-cherry-official/play-that-funky-music-4",  # SoundCloud (official upload)
+          "https://en.wikipedia.org/wiki/Play_That_Funky_Music"  # Wikipedia
+      ]),
+
+    ("Tainted Love", "Soft Cell", "English", 0.7, 0.8, "New Wave",
+      [
+          "https://www.youtube.com/watch?v=XZVpR3Pk-r8",  # YouTube
+          "https://soundcloud.com/soft-cell-official/tainted-love",  # SoundCloud (official Soft Cell upload)
+          "https://en.wikipedia.org/wiki/Tainted_Love"  # Wikipedia (article on the song)
+      ]),
+
+    ("Somebody to Love", "Queen", "English", 0.9, 0.75, "Rock",
+      [
+          "https://www.youtube.com/watch?v=kijpcUv-b8M",  # YouTube
+          "https://soundcloud.com/queen-69312/somebody-to-love-2014-remaster",  # SoundCloud (official Queen upload - remaster)
+          "https://en.wikipedia.org/wiki/Somebody_to_Love_(Queen_song)"  # Wikipedia
+      ]),
+
+    ("Can't Stop", "Red Hot Chili Peppers", "English", 0.8, 0.9, "Funk Rock",
+      [
+          "https://www.youtube.com/watch?v=8DyziWtkfBw",  # YouTube
+          "https://soundcloud.com/red-hot-chili-peppers-official/cant-stop",  # SoundCloud (official RHCP upload)
+          "https://en.wikipedia.org/wiki/Can't_Stop_(Red_Hot_Chili_Peppers_song)"  # Wikipedia
+      ]),
+
+    ("Give Me One Reason", "Tracy Chapman", "English", 0.7, 0.5, "Blues",
+      [
+          "https://www.youtube.com/watch?v=V6hQ9HSKlIE",  # YouTube
+          "https://soundcloud.com/tracychapmanofficial/tracy-chapman-give-me-one",  # SoundCloud (official Tracy Chapman upload)
+          "https://en.wikipedia.org/wiki/Give_Me_One_Reason"  # Wikipedia
+      ]),
+
+    ("Hurricane", "Bob Dylan", "English", 0.5, 0.7, "Folk Rock",
+      [
+          "https://www.youtube.com/watch?v=bpZvg_FjL3Q",  # YouTube
+          "https://soundcloud.com/bobdylan/hurricane-1",  # SoundCloud (official Bob Dylan upload)
+          "https://en.wikipedia.org/wiki/Hurricane_(Bob_Dylan_song)"  # Wikipedia
+      ]),
+
+    ("Wish You Were Here", "Pink Floyd", "English", 0.7, 0.4, "Progressive Rock",
+      [
+          "https://www.youtube.com/watch?v=IXdNnw99-Ic",  # YouTube
+          "https://soundcloud.com/officialpinkfloyd/wish-you-were-here-2011",  # SoundCloud (official Pink Floyd upload)
+          "https://en.wikipedia.org/wiki/Wish_You_Were_Here_(Pink_Floyd_song)"  # Wikipedia (song / album info)
+      ])
 
 ]
+
 
 # ===============================
 # INITIALIZE GENIUS API
@@ -62,39 +104,70 @@ def fetch_lyrics(song_title, artist_name):
     return None
 
 # ===============================
-# FUNCTION: Download Audio (60-sec) with multi-platform support
+# FUNCTION: Download Audio (60-sec) — Option 2 Improved
 # ===============================
-def download_audio(url_list, filepath, duration=60):
+def download_audio(url_list, filepath, duration=60, proxy=None):
     folder, base = os.path.split(filepath)
     base = safe_filename(base)
     full_path = os.path.join(folder, base)
+    if not full_path.lower().endswith(".mp3"):
+        full_path += ".mp3"
+
     print(f"➡️ Downloading trimmed audio to: {full_path}")
+
+    logger = logging.getLogger("yt_dlp")
+    logger.setLevel(logging.ERROR)
 
     for url in url_list:
         try:
             ydl_opts = {
                 'format': 'bestaudio/best',
-                'outtmpl': full_path,
-                'quiet': True,
+                'outtmpl': os.path.splitext(full_path)[0] + ".%(ext)s",
                 'noplaylist': True,
                 'geo_bypass': True,
-                'user_agent': 'Mozilla/5.0',
+                'ignoreerrors': True,
+                'quiet': False,
+                'force_ipv4': True,  # ✅ Force IPv4 to avoid CDN issues
+                'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+                'http_headers': {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+                    'Accept-Language': 'en-US,en;q=0.9',
+                    'Accept': '*/*',
+                },
+                'prefer_ffmpeg': True,
                 'postprocessors': [{
                     'key': 'FFmpegExtractAudio',
                     'preferredcodec': 'mp3',
                     'preferredquality': '192',
                 }],
-                'postprocessor_args': [
-                    '-t', str(duration)  # limit duration in seconds
-                ]
+                'postprocessor_args': ['-ss', '0', '-t', str(duration)],
+                'merge_output_format': 'mp3',
+                'logger': logger,
             }
+
+            if proxy:
+                ydl_opts['proxy'] = proxy
+
             with YoutubeDL(ydl_opts) as ydl:
                 ydl.download([url])
-            print(f"✅ 60-sec audio downloaded from {url}")
-            return full_path
+
+            # Validate file creation
+            if os.path.exists(full_path):
+                print(f"✅ 60-sec audio saved: {full_path}")
+                return full_path
+            else:
+                # yt-dlp may create with a slightly different name
+                for f in os.listdir(folder):
+                    if f.startswith(os.path.splitext(os.path.basename(full_path))[0]) and f.endswith(".mp3"):
+                        new_path = os.path.join(folder, f)
+                        print(f"✅ 60-sec audio saved (renamed): {new_path}")
+                        return new_path
+
         except Exception as e:
             print(f"⚠️ Failed for {url}: {e}")
             continue
+
+    print(f"❌ Audio download failed for URLs: {url_list}")
     return None
 
 # ===============================
@@ -116,14 +189,14 @@ for song_title, artist, language, valence, arousal, genre, url_list in songs_inf
         else:
             print(f"⚠️ Lyrics not found for {song_title}")
 
-        # --- Download 60-sec Audio ---
+        # --- Download Audio ---
         audio_file = os.path.join(audio_folder, f"{song_id}.mp3")
-        downloaded_path = download_audio(url_list, audio_file)
+        downloaded_path = download_audio(url_list, audio_file, proxy=VPN_PROXY)
         if not downloaded_path:
             failed_songs.append(song_title)
             continue
 
-        # --- Add to dataset ---
+        # --- Add Metadata ---
         data.append([song_id, language, artist, valence, arousal, genre])
 
     except Exception as e:
