@@ -31,83 +31,29 @@ def safe_filename(name):
 # SONGS LIST WITH CORRECT YOUTUBE LINKS ONLY
 # ===============================
 songs_info = [
+(
+    "Rather Be", 
+    "Clean Bandit ft. Jess Glynne", 
+    "English", 
+    0.88, 
+    0.72, 
+    "Electropop",
+    ["https://www.youtube.com/watch?v=m-M1AtrxztU",
+     "https://soundcloud.com/clean-bandit/rather-be",
+     "https://en.wikipedia.org/wiki/Rather_Be"]
+),
 
-    ("Midnight City", "M83", "English", 0.8, 0.7, "Synth-pop", 
-        ["https://www.youtube.com/watch?v=dX3k_QDnzHE",
-         "https://m.soundcloud.com/m83/midnight-city",
-         "https://en.wikipedia.org/wiki/Midnight_City"]
-    ),
-    ("Electric Feel", "MGMT", "English", 0.85, 0.75, "Electronic Rock", 
-        ["https://www.youtube.com/watch?v=MmZexg8sxyk",
-         "https://soundcloud.com/mgmt/electric-feel",
-         "https://en.wikipedia.org/wiki/Electric_Feel"]
-    ),
-    ("Dog Days Are Over", "Florence + The Machine", "English", 0.9, 0.8, "Indie Rock", 
-        ["https://www.youtube.com/watch?v=iWOyfLBYtuU",
-         "https://soundcloud.com/florenceandthemachine/dog-days-are-over",
-         "https://en.wikipedia.org/wiki/Dog_Days_Are_Over"]
-    ),
-    ("Kids", "MGMT", "English", 0.85, 0.75, "Indie Rock", 
-        ["https://www.youtube.com/watch?v=b2cv8kcKBR8",
-         "https://soundcloud.com/mgmt/kids",
-         "https://en.wikipedia.org/wiki/Kids_(MGMT_song)"]
-    ),
-    ("Young Folks", "Peter Bjorn and John", "English", 0.8, 0.6, "Indie Pop", 
-        ["https://www.youtube.com/watch?v=51V1VMkuyx0",
-         "https://soundcloud.com/peterbjornandjohn/young-folks",
-         "https://en.wikipedia.org/wiki/Young_Folks"]
-    ),
-    ("Pumped Up Kicks", "Foster the People", "English", 0.75, 0.65, "Indie Pop", 
-        ["https://www.youtube.com/watch?v=SDTZ7iX4vTQ",
-         "https://soundcloud.com/fosterthepeople/pumped-up-kicks",
-         "https://en.wikipedia.org/wiki/Pumped_Up_Kicks"]
-    ),
-    ("Take a Chance on Me", "ABBA", "English", 0.85, 0.7, "Disco", 
-        ["https://www.youtube.com/watch?v=pFru1e72UKI",
-         "https://soundcloud.com/abba-official/take-a-chance-on-me",
-         "https://en.wikipedia.org/wiki/Take_a_Chance_on_Me"]
-    ),
-    ("Chasing Cars", "Snow Patrol", "English", 0.75, 0.6, "Alternative Rock", 
-        ["https://www.youtube.com/watch?v=GemKqzILV4w",
-         "https://soundcloud.com/snowpatrol/chasing-cars",
-         "https://en.wikipedia.org/wiki/Chasing_Cars"]
-    ),
-    ("Somebody That I Used to Know", "Gotye feat. Kimbra", "English", 0.3, 0.4, "Indie Pop", 
-        ["https://www.youtube.com/watch?v=8UVNT4wvIGY",
-         "https://soundcloud.com/gotye/somebody-that-i-used-to-know",
-         "https://en.wikipedia.org/wiki/Somebody_That_I_Used_to_Know"]
-    ),
-    ("Ho Hey", "The Lumineers", "English", 0.7, 0.5, "Folk Rock", 
-        ["https://www.youtube.com/watch?v=zvCBSSwgtg4",
-         "https://soundcloud.com/thelumineers/ho-hey",
-         "https://en.wikipedia.org/wiki/Ho_Hey"]
-    ),
-    ("Sex on Fire", "Kings of Leon", "English", 0.85, 0.8, "Alternative Rock", 
-        ["https://www.youtube.com/watch?v=RF0HhrwIwp0",
-         "https://soundcloud.com/kings-of-leon/sex-on-fire",
-         "https://en.wikipedia.org/wiki/Sex_on_Fire"]
-    ),
-    ("Electric Lady", "Janelle Monáe", "English", 0.9, 0.75, "R&B", 
-        ["https://www.youtube.com/watch?v=DJ8wYz7cuSk",
-         "https://soundcloud.com/janellemonae/electric-lady",
-         "https://en.wikipedia.org/wiki/Electric_Lady"]
-    ),
-    ("Heaven", "Avicii", "English", 0.85, 0.7, "Electronic", 
-        ["https://www.youtube.com/watch?v=9ajv8AHMku4",
-         "https://soundcloud.com/avicii/heaven",
-         "https://en.wikipedia.org/wiki/Heaven_(Avicii_song)"]
-    ),
-    ("I Bet You Look Good on the Dancefloor", "Arctic Monkeys", "English", 0.8, 0.9, "Indie Rock", 
-        ["https://www.youtube.com/watch?v=pK7egZaT3hs",
-         "https://soundcloud.com/arcticmonkeys/i-bet-you-look-good-on-the-dancefloor",
-         "https://en.wikipedia.org/wiki/I_Bet_You_Look_Good_on_the_Dancefloor"]
-    ),
-    ("Radioactive", "Imagine Dragons", "English", 0.6, 0.9, "Rock", 
-        ["https://www.youtube.com/watch?v=ktvTqknDobU",
-         "https://soundcloud.com/imagine-dragons/radioactive",
-         "https://en.wikipedia.org/wiki/Radioactive_(Imagine_Dragons_song)"]
-    )
-
+(
+    "The Nights", 
+    "Avicii", 
+    "English", 
+    0.92, 
+    0.85, 
+    "Progressive House",
+    ["https://www.youtube.com/watch?v=UtF6Jej8yb4",
+     "https://soundcloud.com/aviciiofficial/the-nights",
+     "https://en.wikipedia.org/wiki/The_Nights"]
+)
 ]
 
 

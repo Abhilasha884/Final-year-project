@@ -32,86 +32,20 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-    (
-        "Tainted Love", "Soft Cell", "English", 0.7, 0.8, "New Wave",
-        [
-            "https://www.youtube.com/watch?v=XZVpR3Pk-r8",  # YouTube
-            "https://soundcloud.com/soft-cell-official/tainted-love-original-version",  # SoundCloud
-            "https://en.wikipedia.org/wiki/Tainted_Love"  # Wikipedia
-        ]
-    ),
-    (
-        "Let's Groove", "Earth, Wind & Fire", "English", 0.88, 0.9, "Funk/Disco",
-        [
-            "https://www.youtube.com/watch?v=Lrle0x_DhbA",  # YouTube
-            "https://soundcloud.com/earthwindandfire/lets-groove-2",  # SoundCloud
-            "https://en.wikipedia.org/wiki/Let%27s_Groove"  # Wikipedia
-        ]
-    ),
-    (
-        "Boogie Shoes", "KC & The Sunshine Band", "English", 0.85, 0.88, "Funk/Disco",
-        [
-            "https://www.youtube.com/watch?v=h0wA2sej6ss",  # YouTube
-            "https://soundcloud.com/kcthesunshineband/boogie-shoes",  # SoundCloud
-            "https://en.wikipedia.org/wiki/Boogie_Shoes"  # Wikipedia
-        ]
-    ),
-    (
-        "Get Down Tonight", "KC & The Sunshine Band", "English", 0.87, 0.87, "Funk/Disco",
-        [
-            "https://www.youtube.com/watch?v=QKCqGnz74EM",  # YouTube
-            "https://soundcloud.com/kcthesunshineband/get-down-tonight",  # SoundCloud (if found)
-            "https://en.wikipedia.org/wiki/Get_Down_Tonight"  # Wikipedia
-        ]
-    ),
-    (
-        "We Are Family", "Sister Sledge", "English", 0.92, 0.80, "Disco/Funk",
-        [
-            "https://www.youtube.com/watch?v=jdsqht1m1rE",  # YouTube (official music video)
-            "https://soundcloud.com/sistersledge/we-are-family-single-version",  # SoundCloud :contentReference[oaicite:0]{index=0}
-            "https://en.wikipedia.org/wiki/We_Are_Family_(song)"  # Wikipedia :contentReference[oaicite:1]{index=1}
-        ]
-    ),
-    (
-        "Best Of My Love", "The Emotions", "English", 0.90, 0.87, "Funk/Soul",
-        [
-            "https://www.youtube.com/watch?v=EbwXoN-XU5I",  # YouTube :contentReference[oaicite:2]{index=2}
-            "https://soundcloud.com/the-emotions-official/best-of-my-love",  # SoundCloud :contentReference[oaicite:3]{index=3}
-            "https://en.wikipedia.org/wiki/Best_of_My_Love_(The_Emotions_song)"  # Wikipedia :contentReference[oaicite:4]{index=4}
-        ]
-    ),
-    (
-        "Disco Inferno", "The Trammps", "English", 0.92, 0.86, "Funk/Disco",
-        [
-            "https://www.youtube.com/watch?v=A_sY2rjxq6M",  # YouTube :contentReference[oaicite:5]{index=5}
-            "https://soundcloud.com/the-trammps/disco-inferno",  # SoundCloud (if found)
-            "https://en.wikipedia.org/wiki/Disco_Inferno"  # Wikipedia :contentReference[oaicite:6]{index=6}
-        ]
-    ),
-    (
-        "Shake Your Body (Down to the Ground)", "The Jacksons", "English", 0.87, 0.85, "Funk",
-        [
-            "https://www.youtube.com/watch?v=kldVOhKe4rg",  # YouTube :contentReference[oaicite:7]{index=7}
-            "https://soundcloud.com/the-jacksons/shake-your-body-down-to-the-ground",  # SoundCloud (if found)
-            "https://en.wikipedia.org/wiki/Shake_Your_Body_(Down_to_the_Ground)"  # Wikipedia :contentReference[oaicite:8]{index=8}
-        ]
-    ),
-    (
-        "Boogie Oogie Oogie", "A Taste of Honey", "English", 0.89, 0.85, "Funk/Disco",
-        [
-            "https://www.youtube.com/watch?v=Z5rks1vQbQI",  # YouTube
-            "https://soundcloud.com/a-taste-of-honey/boogie-oogie-oogie",  # SoundCloud (if found)
-            "https://en.wikipedia.org/wiki/Boogie_Oogie_Oogie"  # Wikipedia
-        ]
-    ),
-    (
-        "Ain't No Stoppin' Us Now", "McFadden & Whitehead", "English", 0.92, 0.85, "Funk/Disco",
-        [
-            "https://www.youtube.com/watch?v=5Fmf3D0WqM0",  # YouTube
-            "https://soundcloud.com/mcfadden-whitehead/aint-no-stoppin-us-now",  # SoundCloud (if found)
-            "https://en.wikipedia.org/wiki/Ain%27t_No_Stoppin%27_Us_Now"  # Wikipedia
-        ]
-    )
+("Rather Be", "Clean Bandit ft. Jess Glynne", "English", 0.85, 0.75, "Electropop",
+    [
+        "https://www.youtube.com/watch?v=m-M1AtrxztU",
+        "https://soundcloud.com/cleanbandit/rather-be-feat-jess-glynne",
+        "https://en.wikipedia.org/wiki/Rather_Be"
+    ]
+),
+("The Nights", "Avicii", "English", 0.90, 0.80, "Progressive House",
+    [
+        "https://www.youtube.com/watch?v=UtF6Jej8yb4",
+        "https://soundcloud.com/avicii/avicii-the-nights",
+        "https://en.wikipedia.org/wiki/The_Nights"
+    ]
+)
 
 ]
 
