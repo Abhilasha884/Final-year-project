@@ -1,0 +1,1058 @@
+[
+  {
+    "song_id": "english_Shape_of_You",
+    "predicted_genre": "Pop",
+    "valence": 0.7742365002632141,
+    "arousal": 0.7482725977897644
+  },
+  {
+    "song_id": "english_Someone_Like_You",
+    "predicted_genre": "Pop",
+    "valence": 0.7470181584358215,
+    "arousal": 0.714923083782196
+  },
+  {
+    "song_id": "english_Happy",
+    "predicted_genre": "Pop",
+    "valence": 0.7744989991188049,
+    "arousal": 0.7658251523971558
+  },
+  {
+    "song_id": "english_Rolling_in_the_Deep",
+    "predicted_genre": "Pop",
+    "valence": 0.767746090888977,
+    "arousal": 0.7231009602546692
+  },
+  {
+    "song_id": "english_Thunderstruck",
+    "predicted_genre": "Pop",
+    "valence": 0.745101809501648,
+    "arousal": 0.672723650932312
+  },
+  {
+    "song_id": "english_Fix_You",
+    "predicted_genre": "Pop",
+    "valence": 0.7775582671165466,
+    "arousal": 0.7162263989448547
+  },
+  {
+    "song_id": "english_Let_It_Be",
+    "predicted_genre": "Pop",
+    "valence": 0.7903035879135132,
+    "arousal": 0.7173628211021423
+  },
+  {
+    "song_id": "english_Lose_Yourself",
+    "predicted_genre": "Pop",
+    "valence": 0.7575772404670715,
+    "arousal": 0.7326205968856812
+  },
+  {
+    "song_id": "english_Thinking_Out_Loud",
+    "predicted_genre": "Pop",
+    "valence": 0.7908139228820801,
+    "arousal": 0.72535240650177
+  },
+  {
+    "song_id": "english_Believer",
+    "predicted_genre": "Pop",
+    "valence": 0.7363942861557007,
+    "arousal": 0.7061954736709595
+  },
+  {
+    "song_id": "english_Shallow",
+    "predicted_genre": "Pop",
+    "valence": 0.7244448065757751,
+    "arousal": 0.6867454051971436
+  },
+  {
+    "song_id": "english_Perfect",
+    "predicted_genre": "Pop",
+    "valence": 0.7648858428001404,
+    "arousal": 0.7276757955551147
+  },
+  {
+    "song_id": "english_Viva_La_Vida",
+    "predicted_genre": "Pop",
+    "valence": 0.7144568562507629,
+    "arousal": 0.7276334762573242
+  },
+  {
+    "song_id": "english_Demons",
+    "predicted_genre": "Pop",
+    "valence": 0.7520888447761536,
+    "arousal": 0.7304299473762512
+  },
+  {
+    "song_id": "english_Stronger",
+    "predicted_genre": "Pop",
+    "valence": 0.7483429312705994,
+    "arousal": 0.7162972688674927
+  },
+  {
+    "song_id": "english_Radioactive",
+    "predicted_genre": "Pop",
+    "valence": 0.7420146465301514,
+    "arousal": 0.7002136707305908
+  },
+  {
+    "song_id": "english_Say_You_Won\u2019t_Let_Go",
+    "predicted_genre": "Pop",
+    "valence": 0.8185828924179077,
+    "arousal": 0.7311976552009583
+  },
+  {
+    "song_id": "english_Boulevard_of_Broken_Dreams",
+    "predicted_genre": "Pop",
+    "valence": 0.7524234652519226,
+    "arousal": 0.6814572215080261
+  },
+  {
+    "song_id": "english_Bad_Guy",
+    "predicted_genre": "Pop",
+    "valence": 0.7476410269737244,
+    "arousal": 0.7212812900543213
+  },
+  {
+    "song_id": "english_Clocks",
+    "predicted_genre": "Pop",
+    "valence": 0.7016927599906921,
+    "arousal": 0.7431836128234863
+  },
+  {
+    "song_id": "english_Grenade",
+    "predicted_genre": "Pop",
+    "valence": 0.8003564476966858,
+    "arousal": 0.7646652460098267
+  },
+  {
+    "song_id": "english_Can\u2019t_Stop_the_Feeling!",
+    "predicted_genre": "Pop",
+    "valence": 0.814965009689331,
+    "arousal": 0.7681675553321838
+  },
+  {
+    "song_id": "hindi_Badtameez_Dil",
+    "predicted_genre": "Pop",
+    "valence": 0.7812062501907349,
+    "arousal": 0.7541760206222534
+  },
+  {
+    "song_id": "hindi_Zinda",
+    "predicted_genre": "Pop",
+    "valence": 0.7046183943748474,
+    "arousal": 0.6712245941162109
+  },
+  {
+    "song_id": "hindi_Sooraj_Dooba_Hain",
+    "predicted_genre": "Pop",
+    "valence": 0.6580273509025574,
+    "arousal": 0.656287431716919
+  },
+  {
+    "song_id": "hindi_Ghungroo",
+    "predicted_genre": "Pop",
+    "valence": 0.7110186815261841,
+    "arousal": 0.6870483160018921
+  },
+  {
+    "song_id": "hindi_Nashe_Si_Chadh_Gayi",
+    "predicted_genre": "Pop",
+    "valence": 0.7488367557525635,
+    "arousal": 0.7033445835113525
+  },
+  {
+    "song_id": "hindi_Desi_Girl",
+    "predicted_genre": "Pop",
+    "valence": 0.7717761397361755,
+    "arousal": 0.7530205249786377
+  },
+  {
+    "song_id": "marathi_Zingaat",
+    "predicted_genre": "Pop",
+    "valence": 0.6200031638145447,
+    "arousal": 0.6357421278953552
+  },
+  {
+    "song_id": "english_Shake_It_Off",
+    "predicted_genre": "Pop",
+    "valence": 0.7462429404258728,
+    "arousal": 0.7267945408821106
+  },
+  {
+    "song_id": "english_Dark_Horse",
+    "predicted_genre": "Pop",
+    "valence": 0.7546078562736511,
+    "arousal": 0.6935908198356628
+  },
+  {
+    "song_id": "english_Love_Yourself",
+    "predicted_genre": "Pop",
+    "valence": 0.7794865965843201,
+    "arousal": 0.6738022565841675
+  },
+  {
+    "song_id": "english_Firework",
+    "predicted_genre": "Pop",
+    "valence": 0.7743130922317505,
+    "arousal": 0.7692796587944031
+  },
+  {
+    "song_id": "english_We_Dont_Talk_Anymore",
+    "predicted_genre": "Pop",
+    "valence": 0.7085646986961365,
+    "arousal": 0.67071932554245
+  },
+  {
+    "song_id": "english_Bleeding_Love",
+    "predicted_genre": "Pop",
+    "valence": 0.7306782007217407,
+    "arousal": 0.6888325810432434
+  },
+  {
+    "song_id": "english_Toxic",
+    "predicted_genre": "Pop",
+    "valence": 0.8139942288398743,
+    "arousal": 0.7275892496109009
+  },
+  {
+    "song_id": "english_With_or_Without_You",
+    "predicted_genre": "Pop",
+    "valence": 0.8141835927963257,
+    "arousal": 0.7504770159721375
+  },
+  {
+    "song_id": "english_Every_Breath_You_Take",
+    "predicted_genre": "Pop",
+    "valence": 0.755136251449585,
+    "arousal": 0.6888275146484375
+  },
+  {
+    "song_id": "english_Back_to_Black",
+    "predicted_genre": "Pop",
+    "valence": 0.7233628034591675,
+    "arousal": 0.6859416961669922
+  },
+  {
+    "song_id": "english_Viva_Forever",
+    "predicted_genre": "Pop",
+    "valence": 0.7921969294548035,
+    "arousal": 0.7617393136024475
+  },
+  {
+    "song_id": "english_Dream_On",
+    "predicted_genre": "Pop",
+    "valence": 0.7618509531021118,
+    "arousal": 0.7074291706085205
+  },
+  {
+    "song_id": "english_Everybody_Hurts",
+    "predicted_genre": "Pop",
+    "valence": 0.7342485189437866,
+    "arousal": 0.7503713369369507
+  },
+  {
+    "song_id": "english_No_Tears_Left_To_Cry",
+    "predicted_genre": "Pop",
+    "valence": 0.753620982170105,
+    "arousal": 0.7338124513626099
+  },
+  {
+    "song_id": "english_Take_On_Me",
+    "predicted_genre": "Pop",
+    "valence": 0.806300699710846,
+    "arousal": 0.7575744986534119
+  },
+  {
+    "song_id": "english_Time_After_Time",
+    "predicted_genre": "Pop",
+    "valence": 0.7895923256874084,
+    "arousal": 0.7272236347198486
+  },
+  {
+    "song_id": "english_Iris",
+    "predicted_genre": "Pop",
+    "valence": 0.7712362408638,
+    "arousal": 0.795158863067627
+  },
+  {
+    "song_id": "english_Because_of_You",
+    "predicted_genre": "Pop",
+    "valence": 0.819732129573822,
+    "arousal": 0.7573403120040894
+  },
+  {
+    "song_id": "english_Like_a_Rolling_Stone",
+    "predicted_genre": "Pop",
+    "valence": 0.6903800368309021,
+    "arousal": 0.690278172492981
+  },
+  {
+    "song_id": "english_Nothing_Else_Matters",
+    "predicted_genre": "Pop",
+    "valence": 0.7677941918373108,
+    "arousal": 0.6802469491958618
+  },
+  {
+    "song_id": "english_Eye_of_the_Tiger",
+    "predicted_genre": "Pop",
+    "valence": 0.7670736908912659,
+    "arousal": 0.7330304980278015
+  },
+  {
+    "song_id": "english_Under_Pressure",
+    "predicted_genre": "Pop",
+    "valence": 0.7636511325836182,
+    "arousal": 0.7093361020088196
+  },
+  {
+    "song_id": "english_Killing_Me_Softly_With_His_Song",
+    "predicted_genre": "Pop",
+    "valence": 0.7580770254135132,
+    "arousal": 0.7058373689651489
+  },
+  {
+    "song_id": "english_Man_in_the_Mirror",
+    "predicted_genre": "Pop",
+    "valence": 0.7506028413772583,
+    "arousal": 0.7158488035202026
+  },
+  {
+    "song_id": "english_The_Winner_Takes_It_All",
+    "predicted_genre": "Pop",
+    "valence": 0.772070050239563,
+    "arousal": 0.7368247509002686
+  },
+  {
+    "song_id": "english_Every_Rose_Has_Its_Thorn",
+    "predicted_genre": "Pop",
+    "valence": 0.7422399520874023,
+    "arousal": 0.7724650502204895
+  },
+  {
+    "song_id": "english_She_Will_Be_Loved",
+    "predicted_genre": "Pop",
+    "valence": 0.8066228032112122,
+    "arousal": 0.7124527096748352
+  },
+  {
+    "song_id": "english_Seven_Nation_Army",
+    "predicted_genre": "Pop",
+    "valence": 0.7587917447090149,
+    "arousal": 0.6816771030426025
+  },
+  {
+    "song_id": "english_Highway_to_Hell",
+    "predicted_genre": "Pop",
+    "valence": 0.7762702107429504,
+    "arousal": 0.7314391136169434
+  },
+  {
+    "song_id": "english_Patience",
+    "predicted_genre": "Pop",
+    "valence": 0.7826892137527466,
+    "arousal": 0.7272834777832031
+  },
+  {
+    "song_id": "hindi_Lag_Jaa_Gale",
+    "predicted_genre": "Pop",
+    "valence": 0.7254266738891602,
+    "arousal": 0.6985076665878296
+  },
+  {
+    "song_id": "hindi_Aap_Jaisa_Koi",
+    "predicted_genre": "Pop",
+    "valence": 0.5996689796447754,
+    "arousal": 0.6415834426879883
+  },
+  {
+    "song_id": "english_Bohemian_Rhapsody",
+    "predicted_genre": "Pop",
+    "valence": 0.7226256132125854,
+    "arousal": 0.6886411309242249
+  },
+  {
+    "song_id": "english_Blinding_Lights",
+    "predicted_genre": "Pop",
+    "valence": 0.7888691425323486,
+    "arousal": 0.7254526615142822
+  },
+  {
+    "song_id": "english_As_It_Was",
+    "predicted_genre": "Pop",
+    "valence": 0.780645489692688,
+    "arousal": 0.7076376676559448
+  },
+  {
+    "song_id": "english_Bad_Habits",
+    "predicted_genre": "Pop",
+    "valence": 0.7586396932601929,
+    "arousal": 0.7438731789588928
+  },
+  {
+    "song_id": "english_Stay",
+    "predicted_genre": "Pop",
+    "valence": 0.7348825335502625,
+    "arousal": 0.7114943265914917
+  },
+  {
+    "song_id": "english_My_Only_Angel",
+    "predicted_genre": "Pop",
+    "valence": 0.7520508170127869,
+    "arousal": 0.7359057664871216
+  },
+  {
+    "song_id": "hindi_Jhoome_Jo_Pathaan",
+    "predicted_genre": "Pop",
+    "valence": 0.7840206027030945,
+    "arousal": 0.7414186596870422
+  },
+  {
+    "song_id": "english_Rich_Flex",
+    "predicted_genre": "Pop",
+    "valence": 0.7785193920135498,
+    "arousal": 0.7036824226379395
+  },
+  {
+    "song_id": "english_Last_Night",
+    "predicted_genre": "Pop",
+    "valence": 0.7702937126159668,
+    "arousal": 0.7264467477798462
+  },
+  {
+    "song_id": "english_Kill_Bill",
+    "predicted_genre": "Pop",
+    "valence": 0.7633886337280273,
+    "arousal": 0.7543125152587891
+  },
+  {
+    "song_id": "english_Sure_Thing",
+    "predicted_genre": "Pop",
+    "valence": 0.824600338935852,
+    "arousal": 0.766638457775116
+  },
+  {
+    "song_id": "english_Anti-Hero",
+    "predicted_genre": "Pop",
+    "valence": 0.7905924916267395,
+    "arousal": 0.7488858103752136
+  },
+  {
+    "song_id": "english_Unholy",
+    "predicted_genre": "Pop",
+    "valence": 0.6625054478645325,
+    "arousal": 0.6761383414268494
+  },
+  {
+    "song_id": "english_Creepin'",
+    "predicted_genre": "Pop",
+    "valence": 0.7534996867179871,
+    "arousal": 0.6790446639060974
+  },
+  {
+    "song_id": "english_Escapism.",
+    "predicted_genre": "Pop",
+    "valence": 0.45661649107933044,
+    "arousal": 0.4623963534832001
+  },
+  {
+    "song_id": "english_I'm_Good_(Blue)",
+    "predicted_genre": "Pop",
+    "valence": 0.7882522940635681,
+    "arousal": 0.6978000998497009
+  },
+  {
+    "song_id": "english_Flowers",
+    "predicted_genre": "Pop",
+    "valence": 0.7442027926445007,
+    "arousal": 0.7529214024543762
+  },
+  {
+    "song_id": "english_Die_For_You",
+    "predicted_genre": "Pop",
+    "valence": 0.7714173793792725,
+    "arousal": 0.7307183742523193
+  },
+  {
+    "song_id": "english_Made_You_Look",
+    "predicted_genre": "Pop",
+    "valence": 0.7743512988090515,
+    "arousal": 0.7219180464744568
+  },
+  {
+    "song_id": "english_Under_The_Influence",
+    "predicted_genre": "Pop",
+    "valence": 0.7826188802719116,
+    "arousal": 0.7251243591308594
+  },
+  {
+    "song_id": "english_Celestial",
+    "predicted_genre": "Pop",
+    "valence": 0.814677894115448,
+    "arousal": 0.7331434488296509
+  },
+  {
+    "song_id": "english_Bad_Decisions",
+    "predicted_genre": "Pop",
+    "valence": 0.7416795492172241,
+    "arousal": 0.7323908805847168
+  },
+  {
+    "song_id": "english_Victoria\u2019s_Secret",
+    "predicted_genre": "Pop",
+    "valence": 0.7967590093612671,
+    "arousal": 0.7097921371459961
+  },
+  {
+    "song_id": "hindi_Nadiyon_Paar_(Let_the_Music_Play_Again)",
+    "predicted_genre": "Pop",
+    "valence": 0.6658347845077515,
+    "arousal": 0.6149390339851379
+  },
+  {
+    "song_id": "hindi_Bhool_Bhulaiyaa_2_Title_Track",
+    "predicted_genre": "Pop",
+    "valence": 0.7837697267532349,
+    "arousal": 0.7380540370941162
+  },
+  {
+    "song_id": "english_Dynamite",
+    "predicted_genre": "Pop",
+    "valence": 0.8181729912757874,
+    "arousal": 0.7514616847038269
+  },
+  {
+    "song_id": "english_Se\u00f1orita",
+    "predicted_genre": "Pop",
+    "valence": 0.7677757740020752,
+    "arousal": 0.6871373653411865
+  },
+  {
+    "song_id": "english_Positions",
+    "predicted_genre": "Pop",
+    "valence": 0.7947105765342712,
+    "arousal": 0.7181413769721985
+  },
+  {
+    "song_id": "english_Memories",
+    "predicted_genre": "Pop",
+    "valence": 0.7371535897254944,
+    "arousal": 0.6930413246154785
+  },
+  {
+    "song_id": "english_Watermelon_Sugar",
+    "predicted_genre": "Pop",
+    "valence": 0.7697356343269348,
+    "arousal": 0.719814121723175
+  },
+  {
+    "song_id": "english_Lovely",
+    "predicted_genre": "Pop",
+    "valence": 0.7857165932655334,
+    "arousal": 0.7621150612831116
+  },
+  {
+    "song_id": "english_Goosebumps",
+    "predicted_genre": "Pop",
+    "valence": 0.8026689887046814,
+    "arousal": 0.7433638572692871
+  },
+  {
+    "song_id": "english_Therefore_I_Am",
+    "predicted_genre": "Pop",
+    "valence": 0.7496058344841003,
+    "arousal": 0.759218156337738
+  },
+  {
+    "song_id": "english_Kiss_Me_More",
+    "predicted_genre": "Pop",
+    "valence": 0.7473934888839722,
+    "arousal": 0.7012856006622314
+  },
+  {
+    "song_id": "hindi_O_Saki_Saki",
+    "predicted_genre": "Pop",
+    "valence": 0.7202953100204468,
+    "arousal": 0.675521731376648
+  },
+  {
+    "song_id": "english_Save_Your_Tears",
+    "predicted_genre": "Pop",
+    "valence": 0.8039535880088806,
+    "arousal": 0.7342538833618164
+  },
+  {
+    "song_id": "english_Senorita",
+    "predicted_genre": "Pop",
+    "valence": 0.7691044211387634,
+    "arousal": 0.6887122988700867
+  },
+  {
+    "song_id": "english_Butter",
+    "predicted_genre": "Pop",
+    "valence": 0.8270477652549744,
+    "arousal": 0.7391882538795471
+  },
+  {
+    "song_id": "english_drivers_license",
+    "predicted_genre": "Pop",
+    "valence": 0.7901853919029236,
+    "arousal": 0.7134814262390137
+  },
+  {
+    "song_id": "english_Peaches",
+    "predicted_genre": "Pop",
+    "valence": 0.7323518395423889,
+    "arousal": 0.6452571153640747
+  },
+  {
+    "song_id": "english_Shivers",
+    "predicted_genre": "Pop",
+    "valence": 0.8168134689331055,
+    "arousal": 0.7324751615524292
+  },
+  {
+    "song_id": "english_Sweet_But_Psycho",
+    "predicted_genre": "Pop",
+    "valence": 0.7497280836105347,
+    "arousal": 0.7151287794113159
+  },
+  {
+    "song_id": "english_Adore_You",
+    "predicted_genre": "Pop",
+    "valence": 0.7797414064407349,
+    "arousal": 0.7320135235786438
+  },
+  {
+    "song_id": "english_Cold_Heart_(PNAU_Remix)",
+    "predicted_genre": "Pop",
+    "valence": 0.7684859037399292,
+    "arousal": 0.735764741897583
+  },
+  {
+    "song_id": "english_Permission_to_Dance",
+    "predicted_genre": "Pop",
+    "valence": 0.8037177324295044,
+    "arousal": 0.7013168931007385
+  },
+  {
+    "song_id": "english_You_Right",
+    "predicted_genre": "Pop",
+    "valence": 0.728327214717865,
+    "arousal": 0.6997430324554443
+  },
+  {
+    "song_id": "english_Fancy_Like",
+    "predicted_genre": "Pop",
+    "valence": 0.8119466304779053,
+    "arousal": 0.7057162523269653
+  },
+  {
+    "song_id": "english_Billie_Eilish.",
+    "predicted_genre": "Pop",
+    "valence": 0.47600507736206055,
+    "arousal": 0.45939531922340393
+  },
+  {
+    "song_id": "english_Something_Beautiful",
+    "predicted_genre": "Pop",
+    "valence": 0.8101534247398376,
+    "arousal": 0.7246431708335876
+  },
+  {
+    "song_id": "english_Born_Again",
+    "predicted_genre": "Pop",
+    "valence": 0.70369553565979,
+    "arousal": 0.698383092880249
+  },
+  {
+    "song_id": "english_Twilight_Zone",
+    "predicted_genre": "Pop",
+    "valence": 0.7864174246788025,
+    "arousal": 0.7036668062210083
+  },
+  {
+    "song_id": "english_Soft_Girl_Era",
+    "predicted_genre": "Pop",
+    "valence": 0.6829940676689148,
+    "arousal": 0.6725379228591919
+  },
+  {
+    "song_id": "english_Physical",
+    "predicted_genre": "Pop",
+    "valence": 0.7581813931465149,
+    "arousal": 0.661221444606781
+  },
+  {
+    "song_id": "english_Ordinary",
+    "predicted_genre": "Pop",
+    "valence": 0.7547228336334229,
+    "arousal": 0.7282166481018066
+  },
+  {
+    "song_id": "english_Before_He_Cheats",
+    "predicted_genre": "Pop",
+    "valence": 0.7887874245643616,
+    "arousal": 0.6715567708015442
+  },
+  {
+    "song_id": "english_Truth_Hurts",
+    "predicted_genre": "Pop",
+    "valence": 0.7875764966011047,
+    "arousal": 0.73954176902771
+  },
+  {
+    "song_id": "english_Kings_&_Queens",
+    "predicted_genre": "Pop",
+    "valence": 0.793059229850769,
+    "arousal": 0.7567641139030457
+  },
+  {
+    "song_id": "english_Can't_Stop_the_Feeling!",
+    "predicted_genre": "Pop",
+    "valence": 0.814965009689331,
+    "arousal": 0.7681675553321838
+  },
+  {
+    "song_id": "english_Shut_Up_and_Dance",
+    "predicted_genre": "Pop",
+    "valence": 0.7446409463882446,
+    "arousal": 0.7219032049179077
+  },
+  {
+    "song_id": "english_Don\u2019t_Stop_Believin\u2019",
+    "predicted_genre": "Pop",
+    "valence": 0.8059407472610474,
+    "arousal": 0.7285772562026978
+  },
+  {
+    "song_id": "english_Drops_of_Jupiter",
+    "predicted_genre": "Pop",
+    "valence": 0.7795723676681519,
+    "arousal": 0.704486608505249
+  },
+  {
+    "song_id": "english_My_Heart_Will_Go_On",
+    "predicted_genre": "Pop",
+    "valence": 0.7747653722763062,
+    "arousal": 0.7520332336425781
+  },
+  {
+    "song_id": "english_Because_You_Loved_Me",
+    "predicted_genre": "Pop",
+    "valence": 0.7635359168052673,
+    "arousal": 0.7458962798118591
+  },
+  {
+    "song_id": "english_Crazy_in_Love",
+    "predicted_genre": "Pop",
+    "valence": 0.7945241332054138,
+    "arousal": 0.705885648727417
+  },
+  {
+    "song_id": "english_You\u2019re_Beautiful",
+    "predicted_genre": "Pop",
+    "valence": 0.784669816493988,
+    "arousal": 0.7132418751716614
+  },
+  {
+    "song_id": "english_It\u2019s_My_Life",
+    "predicted_genre": "Pop",
+    "valence": 0.7944177389144897,
+    "arousal": 0.7045674920082092
+  },
+  {
+    "song_id": "english_Complicated",
+    "predicted_genre": "Pop",
+    "valence": 0.7710915803909302,
+    "arousal": 0.7381664514541626
+  },
+  {
+    "song_id": "english_Unchained_Melody",
+    "predicted_genre": "Pop",
+    "valence": 0.73395174741745,
+    "arousal": 0.7120710611343384
+  },
+  {
+    "song_id": "english_Unforgettable",
+    "predicted_genre": "Pop",
+    "valence": 0.7008539438247681,
+    "arousal": 0.6292712688446045
+  },
+  {
+    "song_id": "english_Just_the_Way_You_Are",
+    "predicted_genre": "Pop",
+    "valence": 0.7816898226737976,
+    "arousal": 0.6949149966239929
+  },
+  {
+    "song_id": "english_Black_Dog",
+    "predicted_genre": "Pop",
+    "valence": 0.7702845335006714,
+    "arousal": 0.7321652770042419
+  },
+  {
+    "song_id": "english_Dreams",
+    "predicted_genre": "Pop",
+    "valence": 0.7951347827911377,
+    "arousal": 0.6840912699699402
+  },
+  {
+    "song_id": "english_Heroes",
+    "predicted_genre": "Pop",
+    "valence": 0.757581353187561,
+    "arousal": 0.7690163254737854
+  },
+  {
+    "song_id": "english_It_Was_a_Good_Day",
+    "predicted_genre": "Pop",
+    "valence": 0.7031806111335754,
+    "arousal": 0.6433815360069275
+  },
+  {
+    "song_id": "english_Thriller",
+    "predicted_genre": "Pop",
+    "valence": 0.7866961359977722,
+    "arousal": 0.7426167130470276
+  },
+  {
+    "song_id": "english_Sultans_of_Swing",
+    "predicted_genre": "Pop",
+    "valence": 0.7661598324775696,
+    "arousal": 0.6987130641937256
+  },
+  {
+    "song_id": "english_The_Ocean",
+    "predicted_genre": "Pop",
+    "valence": 0.7818713188171387,
+    "arousal": 0.7574381232261658
+  },
+  {
+    "song_id": "english_Paradise",
+    "predicted_genre": "Pop",
+    "valence": 0.8033693432807922,
+    "arousal": 0.742804229259491
+  },
+  {
+    "song_id": "english_Respect",
+    "predicted_genre": "Pop",
+    "valence": 0.733178973197937,
+    "arousal": 0.7023087739944458
+  },
+  {
+    "song_id": "english_Crazy",
+    "predicted_genre": "Pop",
+    "valence": 0.7657082080841064,
+    "arousal": 0.7121577262878418
+  },
+  {
+    "song_id": "english_Runaway",
+    "predicted_genre": "Pop",
+    "valence": 0.7531673312187195,
+    "arousal": 0.6585636734962463
+  },
+  {
+    "song_id": "english_Jump",
+    "predicted_genre": "Pop",
+    "valence": 0.766782820224762,
+    "arousal": 0.6926695108413696
+  },
+  {
+    "song_id": "english_No_Scrubs",
+    "predicted_genre": "Pop",
+    "valence": 0.7655540108680725,
+    "arousal": 0.6746069192886353
+  },
+  {
+    "song_id": "english_Under_the_Bridge",
+    "predicted_genre": "Pop",
+    "valence": 0.7569344639778137,
+    "arousal": 0.6820948719978333
+  },
+  {
+    "song_id": "english_Sweet_Child_o'_Mine",
+    "predicted_genre": "Pop",
+    "valence": 0.8001061677932739,
+    "arousal": 0.7189788818359375
+  },
+  {
+    "song_id": "english_I_Want_to_Break_Free",
+    "predicted_genre": "Pop",
+    "valence": 0.7585603594779968,
+    "arousal": 0.7380149960517883
+  },
+  {
+    "song_id": "english_I_Bet_You_Look_Good_on_the_Dancefloor",
+    "predicted_genre": "Pop",
+    "valence": 0.759117603302002,
+    "arousal": 0.6618712544441223
+  },
+  {
+    "song_id": "english_Beautiful_Day",
+    "predicted_genre": "Pop",
+    "valence": 0.7799204587936401,
+    "arousal": 0.7062704563140869
+  },
+  {
+    "song_id": "english_Blue_Monday",
+    "predicted_genre": "Pop",
+    "valence": 0.7786067724227905,
+    "arousal": 0.7121942043304443
+  },
+  {
+    "song_id": "english_Harder,_Better,_Faster,_Stronger",
+    "predicted_genre": "Pop",
+    "valence": 0.7065789699554443,
+    "arousal": 0.7368452548980713
+  },
+  {
+    "song_id": "english_Blue_in_Green",
+    "predicted_genre": "Pop",
+    "valence": 0.632504940032959,
+    "arousal": 0.6185150146484375
+  },
+  {
+    "song_id": "english_London_Calling",
+    "predicted_genre": "Pop",
+    "valence": 0.7806848883628845,
+    "arousal": 0.7066168189048767
+  },
+  {
+    "song_id": "english_Walk_on_the_Wild_Side",
+    "predicted_genre": "Pop",
+    "valence": 0.7736437916755676,
+    "arousal": 0.7146282196044922
+  },
+  {
+    "song_id": "english_Stand_by_Me",
+    "predicted_genre": "Pop",
+    "valence": 0.7972218990325928,
+    "arousal": 0.710915744304657
+  },
+  {
+    "song_id": "english_Yesterday",
+    "predicted_genre": "Pop",
+    "valence": 0.7811091542243958,
+    "arousal": 0.7507455348968506
+  },
+  {
+    "song_id": "english_Brown_Eyed_Girl",
+    "predicted_genre": "Pop",
+    "valence": 0.7621921300888062,
+    "arousal": 0.7216708064079285
+  },
+  {
+    "song_id": "english_Don't_Stop_Believin'",
+    "predicted_genre": "Pop",
+    "valence": 0.8059407472610474,
+    "arousal": 0.7285772562026978
+  },
+  {
+    "song_id": "english_Hotel_California",
+    "predicted_genre": "Pop",
+    "valence": 0.7644741535186768,
+    "arousal": 0.7084324359893799
+  },
+  {
+    "song_id": "english_Take_Me_Home,_Country_Roads",
+    "predicted_genre": "Pop",
+    "valence": 0.7820680737495422,
+    "arousal": 0.6986103653907776
+  },
+  {
+    "song_id": "english_Sweet_Caroline",
+    "predicted_genre": "Pop",
+    "valence": 0.8357352614402771,
+    "arousal": 0.7651589512825012
+  },
+  {
+    "song_id": "english_Don't_Stop_Me_Now",
+    "predicted_genre": "Pop",
+    "valence": 0.8158614635467529,
+    "arousal": 0.7572519779205322
+  },
+  {
+    "song_id": "english_Waterloo_Sunset",
+    "predicted_genre": "Pop",
+    "valence": 0.8410207033157349,
+    "arousal": 0.7063711285591125
+  },
+  {
+    "song_id": "english_Born_to_Run",
+    "predicted_genre": "Pop",
+    "valence": 0.7910395264625549,
+    "arousal": 0.7570468187332153
+  },
+  {
+    "song_id": "english_Dancing_Queen",
+    "predicted_genre": "Pop",
+    "valence": 0.7097400426864624,
+    "arousal": 0.7336568832397461
+  },
+  {
+    "song_id": "english_Be_My_Baby",
+    "predicted_genre": "Pop",
+    "valence": 0.7402768731117249,
+    "arousal": 0.7447085380554199
+  },
+  {
+    "song_id": "english_Don't_Stop",
+    "predicted_genre": "Pop",
+    "valence": 0.7395683526992798,
+    "arousal": 0.6865262985229492
+  },
+  {
+    "song_id": "english_Let_It_Go",
+    "predicted_genre": "Pop",
+    "valence": 0.8315942287445068,
+    "arousal": 0.7295289635658264
+  },
+  {
+    "song_id": "english_Help!",
+    "predicted_genre": "Pop",
+    "valence": 0.8416897058486938,
+    "arousal": 0.7623984813690186
+  },
+  {
+    "song_id": "english_Ain't_No_Mountain_High_Enough",
+    "predicted_genre": "Pop",
+    "valence": 0.7794070243835449,
+    "arousal": 0.7463837265968323
+  },
+  {
+    "song_id": "english_To_Love_Somebody",
+    "predicted_genre": "Pop",
+    "valence": 0.7772306799888611,
+    "arousal": 0.7121837735176086
+  },
+  {
+    "song_id": "hindi_Zindagi_Kaisi_Hai_Paheli",
+    "predicted_genre": "Pop",
+    "valence": 0.5959333181381226,
+    "arousal": 0.5824968814849854
+  },
+  {
+    "song_id": "english_All_My_Life",
+    "predicted_genre": "Pop",
+    "valence": 0.7464966177940369,
+    "arousal": 0.712429940700531
+  },
+  {
+    "song_id": "english_Come_Together",
+    "predicted_genre": "Pop",
+    "valence": 0.784638524055481,
+    "arousal": 0.721453845500946
+  },
+  {
+    "song_id": "english_Crazy_Little_Thing_Called_Love",
+    "predicted_genre": "Pop",
+    "valence": 0.7907606959342957,
+    "arousal": 0.7216623425483704
+  },
+  {
+    "song_id": "english_Wake_Me_Up_Before_You_Go-Go",
+    "predicted_genre": "Pop",
+    "valence": 0.7991613745689392,
+    "arousal": 0.7246142625808716
+  }
+]
