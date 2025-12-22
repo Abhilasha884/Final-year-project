@@ -211,7 +211,6 @@ hindi_Jab_Saiyaan,Hindi,Shreya Ghoshal,0.8,0.6,Romantic
 hindi_Bhool_Bhulaiyaa_2_Title_Track,Hindi,Neeraj Shridhar,0.85,0.9,Pop
 english_Dynamite,English,BTS,0.9,0.8,K-Pop
 english_Old_Town_Road,English,Lil Nas X ft. Billy Ray Cyrus,0.8,0.8,Country Rap
-english_Señorita,English,"Shawn Mendes, Camila Cabello",0.7,0.6,Pop
 english_Positions,English,Ariana Grande,0.7,0.6,Pop
 english_Memories,English,Maroon 5,0.6,0.4,Pop
 english_Watermelon_Sugar,English,Harry Styles,0.9,0.7,Pop
@@ -397,3 +396,21 @@ english_Electric_Feel,English,MGMT,0.8,0.75,Psychedelic Pop
 english_Somewhere_Only_We_Know,English,Keane,0.6,0.55,Soft Rock
 english_The_Scientist,English,Coldplay,0.35,0.4,Emotional Ballad
 english_Shake_It_Out,English,Florence + The Machine,0.85,0.75,Alternative Pop
+english_A_Sky_Full_of_Stars,English,Coldplay,0.9,0.85,Uplifting Pop
+english_Pompeii,English,Bastille,0.75,0.8,Indie Pop Rock
+english_Little_Talks,English,Of Monsters and Men,0.7,0.75,Indie Folk Pop
+english_Some_Nights,English,fun.,0.65,0.8,Indie Pop
+english_Ho_Hey,English,The Lumineers,0.85,0.75,Indie Folk
+english_I_Lived,English,OneRepublic,0.9,0.85,Motivational Pop
+english_Fast_Car,English,Tracy Chapman,0.45,0.4,Storytelling Folk
+english_Youngblood,English,5 Seconds of Summer,0.8,0.85,Pop Rock
+english_Budapest,English,George Ezra,0.75,0.65,Indie Folk Pop
+english_Shotgun,English,George Ezra,0.9,0.8,Feel-Good Pop
+english_River,English,Leon Bridges,0.4,0.35,Soul Gospel
+english_Anchor,English,Novo Amor,0.2,0.3,Ambient Indie Folk
+english_Saturn,English,Sleeping At Last,0.25,0.35,Ambient Emotional
+english_To_Build_a_Home,English,The Cinematic Orchestra,0.15,0.3,Cinematic Emotional
+english_Hold_On,English,Chord Overstreet,0.3,0.4,Sad Piano Pop
+english_Let_Me_Down_Slowly,English,Alec Benjamin,0.3,0.45,Emotional Acoustic Pop
+english_Another_Love,English,Tom Odell,0.35,0.5,Emotional Indie Pop
+english_As_the_World_Caves_In,English,Matt Maltese,0.2,0.35,Melancholic Indie Pop

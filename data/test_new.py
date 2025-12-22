@@ -37,123 +37,63 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-("Clearest Blue", "CHVRCHES", "English", 0.80, 0.85, "Synth Pop",
+("Anchor", "Novo Amor", "English", 0.20, 0.30, "Ambient Indie Folk",
 [
-    "https://www.youtube.com/watch?v=BZyzX4c1vIs"
+    "https://www.youtube.com/watch?v=OmKAn8rNbKg"
 ]
 ),
 
-("Mylo Xyloto", "Coldplay", "English", 0.90, 0.85, "Uplifting Pop",
+("If the World Was Ending", "JP Saxe & Julia Michaels", "English", 0.30, 0.40, "Emotional Pop Duet",
 [
-    "https://www.youtube.com/watch?v=FxYw0XPEoKE"
+    "https://www.youtube.com/watch?v=1jO2wSpAoxA"
 ]
 ),
 
-("Ophelia", "The Lumineers", "English", 0.75, 0.65, "Indie Folk",
+("Saturn", "Sleeping At Last", "English", 0.25, 0.35, "Ambient Emotional",
 [
-    "https://www.youtube.com/watch?v=pTOC_q0NLTk"
+    "https://www.youtube.com/watch?v=dzNvk80XY9s"
 ]
 ),
 
-("Riptide", "Vance Joy", "English", 0.70, 0.60, "Indie Folk Pop",
-[
-    "https://www.youtube.com/watch?v=uJ_1HMAGb4k"
-]
-),
-
-("Run", "Snow Patrol", "English", 0.55, 0.45, "Emotional Rock",
-[
-    "https://www.youtube.com/watch?v=AOBs8dU4Pb8"
-]
-),
-
-("Take Me Out", "Franz Ferdinand", "English", 0.85, 0.80, "Indie Rock",
-[
-    "https://www.youtube.com/watch?v=Ijk4j-r7qPA"
-]
-),
-
-("Dreams", "Fleetwood Mac", "English", 0.65, 0.55, "Soft Rock",
-[
-    "https://www.youtube.com/watch?v=mrZRURcb1cM"
-]
-),
-
-("Dog Days Are Over", "Florence + The Machine", "English", 0.95, 0.90, "Indie Pop",
-[
-    "https://www.youtube.com/watch?v=iWOyfLBYtuU"
-]
-),
-
-("Yellow Flicker Beat", "Lorde", "English", 0.60, 0.70, "Alternative Pop",
-[
-    "https://www.youtube.com/watch?v=qs8kdiOw7lQ"
-]
-),
-
-("Stolen Dance", "Milky Chance", "English", 0.70, 0.60, "Indie Pop",
-[
-    "https://www.youtube.com/watch?v=iX-QaNzd-0Y"
-]
-),
-
-("The Less I Know the Better", "Tame Impala", "English", 0.65, 0.55, "Psychedelic Pop",
-[
-    "https://www.youtube.com/watch?v=sBzrzS1Ag_g"
-]
-),
-
-("Do I Wanna Know?", "Arctic Monkeys", "English", 0.40, 0.55, "Alternative Rock",
-[
-    "https://www.youtube.com/watch?v=bpOSxM0rNPM"
-]
-),
-
-("Youth", "Glass Animals", "English", 0.50, 0.45, "Indie Electronic",
+("Youth (Reprise)", "Glass Animals", "English", 0.25, 0.35, "Atmospheric Indie",
 [
     "https://www.youtube.com/watch?v=2QT5eGHCJdE"
 ]
 ),
 
-("Electric Feel", "MGMT", "English", 0.80, 0.75, "Psychedelic Pop",
+("To Build a Home", "The Cinematic Orchestra", "English", 0.15, 0.30, "Cinematic Emotional",
 [
-    "https://www.youtube.com/watch?v=MmZexg8sxyk"
+    "https://www.youtube.com/watch?v=oUFJJNQGwhk"
 ]
 ),
 
-("Lost in My Mind", "The Head and the Heart", "English", 0.70, 0.60, "Indie Folk",
+("Hold On", "Chord Overstreet", "English", 0.30, 0.40, "Sad Piano Pop",
 [
-    "https://www.youtube.com/watch?v=Vv7d_7MNj5Y"
+    "https://www.youtube.com/watch?v=8ofCZObsnOo"
 ]
 ),
 
-("Somewhere Only We Know", "Keane", "English", 0.60, 0.55, "Soft Rock",
+("Let Me Down Slowly", "Alec Benjamin", "English", 0.30, 0.45, "Emotional Acoustic Pop",
 [
-    "https://www.youtube.com/watch?v=Oextk-If8HQ"
+    "https://www.youtube.com/watch?v=50VNCymT-Cs"
 ]
 ),
 
-("The Scientist", "Coldplay", "English", 0.35, 0.40, "Emotional Ballad",
+("In the Stars", "Benson Boone", "English", 0.25, 0.45, "Emotional Piano Ballad",
 [
-    "https://www.youtube.com/watch?v=RB-RcX5DS5A"
+    "https://www.youtube.com/watch?v=Jb5v7KX0C0A"
 ]
 ),
 
-("Shake It Out", "Florence + The Machine", "English", 0.85, 0.75, "Alternative Pop",
+("Another Love", "Tom Odell", "English", 0.35, 0.50, "Emotional Indie Pop",
 [
-    "https://www.youtube.com/watch?v=WbN0nX61rIs"
+    "https://www.youtube.com/watch?v=MwpMEbgC7DA"
 ]
 ),
 
-("Sleeping on the Floor", "The Lumineers", "English", 0.80, 0.70, "Indie Folk Rock",
+("As the World Caves In", "Matt Maltese", "English", 0.20, 0.35, "Melancholic Indie Pop",
 [
-    "https://www.youtube.com/watch?v=v4pi1LxuDHc"
-]
-),
-
-("Chasing Cars", "Snow Patrol", "English", 0.45, 0.45, "Soft Rock Ballad",
-[
-    "https://www.youtube.com/watch?v=GemKqzILV4w"
+    "https://www.youtube.com/watch?v=SwXseZSjLsw"
 ]
 )
 
