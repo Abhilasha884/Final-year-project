@@ -5,6 +5,11 @@ import lyricsgenius
 from yt_dlp import YoutubeDL
 import logging
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+COOKIES_PATH = os.path.abspath(os.path.join(BASE_DIR, "..", "cookies.txt"))
+FFMPEG_PATH = r"C:\Users\HP\Downloads\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin"
+
+
 # ===============================
 # CONFIGURATION
 # ===============================
@@ -32,20 +37,126 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-("Rather Be", "Clean Bandit ft. Jess Glynne", "English", 0.85, 0.75, "Electropop",
-    [
-        "https://www.youtube.com/watch?v=m-M1AtrxztU",
-        "https://soundcloud.com/cleanbandit/rather-be-feat-jess-glynne",
-        "https://en.wikipedia.org/wiki/Rather_Be"
-    ]
+("Clearest Blue", "CHVRCHES", "English", 0.80, 0.85, "Synth Pop",
+[
+    "https://www.youtube.com/watch?v=BZyzX4c1vIs"
+]
 ),
-("The Nights", "Avicii", "English", 0.90, 0.80, "Progressive House",
-    [
-        "https://www.youtube.com/watch?v=UtF6Jej8yb4",
-        "https://soundcloud.com/avicii/avicii-the-nights",
-        "https://en.wikipedia.org/wiki/The_Nights"
-    ]
+
+("Mylo Xyloto", "Coldplay", "English", 0.90, 0.85, "Uplifting Pop",
+[
+    "https://www.youtube.com/watch?v=FxYw0XPEoKE"
+]
+),
+
+("Ophelia", "The Lumineers", "English", 0.75, 0.65, "Indie Folk",
+[
+    "https://www.youtube.com/watch?v=pTOC_q0NLTk"
+]
+),
+
+("Riptide", "Vance Joy", "English", 0.70, 0.60, "Indie Folk Pop",
+[
+    "https://www.youtube.com/watch?v=uJ_1HMAGb4k"
+]
+),
+
+("Run", "Snow Patrol", "English", 0.55, 0.45, "Emotional Rock",
+[
+    "https://www.youtube.com/watch?v=AOBs8dU4Pb8"
+]
+),
+
+("Take Me Out", "Franz Ferdinand", "English", 0.85, 0.80, "Indie Rock",
+[
+    "https://www.youtube.com/watch?v=Ijk4j-r7qPA"
+]
+),
+
+("Dreams", "Fleetwood Mac", "English", 0.65, 0.55, "Soft Rock",
+[
+    "https://www.youtube.com/watch?v=mrZRURcb1cM"
+]
+),
+
+("Dog Days Are Over", "Florence + The Machine", "English", 0.95, 0.90, "Indie Pop",
+[
+    "https://www.youtube.com/watch?v=iWOyfLBYtuU"
+]
+),
+
+("Yellow Flicker Beat", "Lorde", "English", 0.60, 0.70, "Alternative Pop",
+[
+    "https://www.youtube.com/watch?v=qs8kdiOw7lQ"
+]
+),
+
+("Stolen Dance", "Milky Chance", "English", 0.70, 0.60, "Indie Pop",
+[
+    "https://www.youtube.com/watch?v=iX-QaNzd-0Y"
+]
+),
+
+("The Less I Know the Better", "Tame Impala", "English", 0.65, 0.55, "Psychedelic Pop",
+[
+    "https://www.youtube.com/watch?v=sBzrzS1Ag_g"
+]
+),
+
+("Do I Wanna Know?", "Arctic Monkeys", "English", 0.40, 0.55, "Alternative Rock",
+[
+    "https://www.youtube.com/watch?v=bpOSxM0rNPM"
+]
+),
+
+("Youth", "Glass Animals", "English", 0.50, 0.45, "Indie Electronic",
+[
+    "https://www.youtube.com/watch?v=2QT5eGHCJdE"
+]
+),
+
+("Electric Feel", "MGMT", "English", 0.80, 0.75, "Psychedelic Pop",
+[
+    "https://www.youtube.com/watch?v=MmZexg8sxyk"
+]
+),
+
+("Lost in My Mind", "The Head and the Heart", "English", 0.70, 0.60, "Indie Folk",
+[
+    "https://www.youtube.com/watch?v=Vv7d_7MNj5Y"
+]
+),
+
+("Somewhere Only We Know", "Keane", "English", 0.60, 0.55, "Soft Rock",
+[
+    "https://www.youtube.com/watch?v=Oextk-If8HQ"
+]
+),
+
+("The Scientist", "Coldplay", "English", 0.35, 0.40, "Emotional Ballad",
+[
+    "https://www.youtube.com/watch?v=RB-RcX5DS5A"
+]
+),
+
+("Shake It Out", "Florence + The Machine", "English", 0.85, 0.75, "Alternative Pop",
+[
+    "https://www.youtube.com/watch?v=WbN0nX61rIs"
+]
+),
+
+("Sleeping on the Floor", "The Lumineers", "English", 0.80, 0.70, "Indie Folk Rock",
+[
+    "https://www.youtube.com/watch?v=v4pi1LxuDHc"
+]
+),
+
+("Chasing Cars", "Snow Patrol", "English", 0.45, 0.45, "Soft Rock Ballad",
+[
+    "https://www.youtube.com/watch?v=GemKqzILV4w"
+]
 )
+
 
 ]
 
@@ -83,14 +194,16 @@ def download_audio(url_list, filepath, duration=60, proxy=None):
     logger = logging.getLogger("yt_dlp")
     logger.setLevel(logging.ERROR)
 
-    for url in url_list:
+    for url in [u for u in url_list if "youtube.com" in u or "youtu.be" in u]:
         try:
+
             ydl_opts = {
                 'format': 'bestaudio/best',
                 'outtmpl': os.path.splitext(full_path)[0] + ".%(ext)s",
+                'cookies': COOKIES_PATH,
+                'ffmpeg_location': FFMPEG_PATH,
                 'noplaylist': True,
                 'geo_bypass': True,
-                'ignoreerrors': True,
                 'quiet': False,
                 'force_ipv4': True,  # ✅ Force IPv4 to avoid CDN issues
                 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',

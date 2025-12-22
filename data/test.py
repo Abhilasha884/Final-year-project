@@ -29,33 +29,166 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-    # 💖 Emotional Pop Ballads
-    ("My Heart Will Go On", "Celine Dion", "English", 0.4, 0.5, "Pop Ballad", "https://youtu.be/A3QAqZQYLIQ?si=g3Cj6YqhATw8NEMb"),
-    ("Because You Loved Me", "Celine Dion", "English", 0.55, 0.5, "Pop Ballad", "https://www.youtube.com/watch?v=JDcuRgk-Jd0"),
-    ("I Will Always Love You", "Whitney Houston", "English", 0.3, 0.4, "Soul Ballad", "https://www.youtube.com/watch?v=FxYw0XPEoKE"),
-    ("Un-break My Heart", "Toni Braxton", "English", 0.35, 0.45, "R&B Ballad", "https://www.youtube.com/watch?v=p2Rch6WvPJE"),
-    ("You’re Beautiful", "James Blunt", "English", 0.5, 0.4, "Pop Ballad", "https://www.youtube.com/watch?v=nX1VeFBo9AQ"),
+    ("Tujhe Dekha To", "Kumar Sanu", "Hindi", 0.65, 0.60, "Romantic Melody",
+[
+    "https://www.youtube.com/watch?v=cNV5hLSa9H8",
+    "https://soundcloud.com/kumarsanu/tujhe-dekha-to",
+    "https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge"
+]
+),
 
-    # 🎉 Feel-good / Funky Pop
-    ("Mambo No.5", "Lou Bega", "English", 0.95, 0.9, "Latin Pop", "https://www.youtube.com/watch?v=4kHl4FoK1Ys"),
-    ("Livin’ la Vida Loca", "Ricky Martin", "English", 0.9, 0.9, "Pop", "https://www.youtube.com/watch?v=4kHl4FoK1Ys"),
-    ("Can’t Get You Out of My Head", "Kylie Minogue", "English", 0.85, 0.8, "Dance Pop", "https://www.youtube.com/watch?v=c18441Eh_WE"),
-    ("Hey Ya!", "Outkast", "English", 0.95, 0.85, "Funk Pop", "https://www.youtube.com/watch?v=PWgvGjAhvIw"),
-    ("Crazy in Love", "Beyoncé ft. Jay-Z", "English", 0.9, 0.9, "R&B Pop", "https://www.youtube.com/watch?v=ViwtNLUqkMY"),
+("Phir Le Aaya Dil", "Arijit Singh", "Hindi", 0.30, 0.55, "Sad Romantic",
+[
+    "https://www.youtube.com/watch?v=5iZt7ZQ1XwQ",
+    "https://soundcloud.com/arijitsinghofficial/phir-le-aaya-dil",
+    "https://en.wikipedia.org/wiki/Phir_Le_Aaya_Dil"
+]
+),
 
-    # 🎸 Pop Rock / Feel-good Rock
-    ("It’s My Life", "Bon Jovi", "English", 0.8, 0.85, "Pop Rock", "https://www.youtube.com/watch?v=vx2u5uUu3DE"),
-    ("Complicated", "Avril Lavigne", "English", 0.75, 0.7, "Pop Rock", "https://www.youtube.com/watch?v=5NPBIwQyPWE"),
-    ("Smooth", "Santana ft. Rob Thomas", "English", 0.9, 0.85, "Latin Rock", "https://www.youtube.com/watch?v=6Whgn_iE5uc"),
-    ("Viva La Vida", "Coldplay", "English", 0.8, 0.6, "Pop Rock", "https://www.youtube.com/watch?v=dvgZkm1xWPE"),
-    ("Drops of Jupiter", "Train", "English", 0.7, 0.6, "Pop Rock", "https://www.youtube.com/watch?v=7Xf-Lesrkuc"),
+("Aaj Kal Zindagi", "Shankar Mahadevan", "Hindi", 0.75, 0.70, "Feel Good Pop",
+[
+    "https://www.youtube.com/watch?v=K2s6Z9yVxTQ",
+    "https://soundcloud.com/shankarehsaanloy/aaj-kal-zindagi",
+    "https://en.wikipedia.org/wiki/Wake_Up_Sid"
+]
+),
 
-    # 💃 Dance / Disco Revival
-    ("Hung Up", "Madonna", "English", 0.9, 0.85, "Dance Pop", "https://www.youtube.com/watch?v=EDwb9jOVRtU"),
-    ("Don’t Stop Movin’", "S Club 7", "English", 0.9, 0.8, "Dance Pop", "https://www.youtube.com/watch?v=5s9Xl5v7VnI"),
-    ("Rock Your Body", "Justin Timberlake", "English", 0.85, 0.9, "Funk Pop", "https://www.youtube.com/watch?v=TSVHoHyErBQ"),
-    ("Can’t Get Enough of You Baby", "Smash Mouth", "English", 0.85, 0.75, "Pop Rock", "https://www.youtube.com/watch?v=8e2xBf0tV2o"),
-    ("Don’t Stop Believin’", "Journey", "English", 0.9, 0.85, "Rock", "https://www.youtube.com/watch?v=1k8craCGpgs")
+("Abhi Mujh Mein Kahin", "Sonu Nigam", "Hindi", 0.25, 0.45, "Emotional Ballad",
+[
+    "https://www.youtube.com/watch?v=oWKgpB2zpgw",
+    "https://soundcloud.com/sonunigam/abhi-mujh-mein-kahin",
+    "https://en.wikipedia.org/wiki/Agneepath_(2012_film)"
+]
+),
+
+("Iktara", "Kavita Seth", "Hindi", 0.55, 0.50, "Indie Romantic",
+[
+    "https://www.youtube.com/watch?v=fSS_R91Nimw",
+    "https://soundcloud.com/kavitaseth/iktara",
+    "https://en.wikipedia.org/wiki/Iktara"
+]
+),
+
+("Dil Chahta Hai", "Shankar Mahadevan", "Hindi", 0.85, 0.80, "Friendship Pop",
+[
+    "https://www.youtube.com/watch?v=0u7Y8zjUu2M",
+    "https://soundcloud.com/shankarehsaanloy/dil-chahta-hai",
+    "https://en.wikipedia.org/wiki/Dil_Chahta_Hai_(song)"
+]
+),
+
+("Yeh Haseen Wadiyan", "S. P. Balasubrahmanyam", "Hindi", 0.70, 0.65, "Melodic Romance",
+[
+    "https://www.youtube.com/watch?v=8dA2xZ7z3hM",
+    "https://soundcloud.com/arrahman/yeh-haseen-wadiyan",
+    "https://en.wikipedia.org/wiki/Roja_(1992_film)"
+]
+),
+
+("Roja Jaaneman", "S. P. Balasubrahmanyam", "Hindi", 0.60, 0.60, "Romantic Melody",
+[
+    "https://www.youtube.com/watch?v=Z0B2Y2qYx9U",
+    "https://soundcloud.com/arrahman/roja-jaaneman",
+    "https://en.wikipedia.org/wiki/Roja_(1992_film)"
+]
+),
+
+("Taal Se Taal Mila", "Alka Yagnik", "Hindi", 0.90, 0.85, "Classical Fusion",
+[
+    "https://www.youtube.com/watch?v=5Kp9KpJ1KqY",
+    "https://soundcloud.com/arrahman/taal-se-taal-mila",
+    "https://en.wikipedia.org/wiki/Taal_(film)"
+]
+),
+
+("Pani Da Rang", "Ayushmann Khurrana", "Hindi", 0.40, 0.55, "Indie Folk",
+[
+    "https://www.youtube.com/watch?v=Y2zg9a6FqJ4",
+    "https://soundcloud.com/ayushmannkhurrana/pani-da-rang",
+    "https://en.wikipedia.org/wiki/Pani_Da_Rang"
+]
+),
+
+("Aye Khuda", "Salim Merchant", "Hindi", 0.20, 0.50, "Spiritual Sad",
+[
+    "https://www.youtube.com/watch?v=ZzQ9n3gTn8g",
+    "https://soundcloud.com/salimmerchant/aye-khuda",
+    "https://en.wikipedia.org/wiki/Murder_2"
+]
+),
+
+("Tu Hi Re", "Hariharan", "Hindi", 0.55, 0.60, "Romantic Classic",
+[
+    "https://www.youtube.com/watch?v=E5bRk6Zzq7A",
+    "https://soundcloud.com/arrahman/tu-hi-re",
+    "https://en.wikipedia.org/wiki/Bombay_(1995_film)"
+]
+),
+
+("Maa", "Shankar Mahadevan", "Hindi", 0.30, 0.45, "Emotional",
+[
+    "https://www.youtube.com/watch?v=Y2FJYzP5yF4",
+    "https://soundcloud.com/shankarehsaanloy/maa",
+    "https://en.wikipedia.org/wiki/Taare_Zameen_Par"
+]
+),
+
+("Jashn-e-Bahara", "Javed Ali", "Hindi", 0.65, 0.60, "Classical Romance",
+[
+    "https://www.youtube.com/watch?v=0X5Yp2QZ7ZQ",
+    "https://soundcloud.com/arrahman/jashn-e-bahara",
+    "https://en.wikipedia.org/wiki/Jodhaa_Akbar"
+]
+),
+
+("Saibo", "Shreya Ghoshal", "Hindi", 0.45, 0.55, "Soft Romantic",
+[
+    "https://www.youtube.com/watch?v=G6sZp5H9n8E",
+    "https://soundcloud.com/shreyaghoshal/saibo",
+    "https://en.wikipedia.org/wiki/Shor_in_the_City"
+]
+),
+
+("Tere Bina", "A. R. Rahman", "Hindi", 0.35, 0.50, "Romantic Sufi",
+[
+    "https://www.youtube.com/watch?v=9JDSGhhiOwI",
+    "https://soundcloud.com/arrahman/tere-bina",
+    "https://en.wikipedia.org/wiki/Guru_(2007_film)"
+]
+),
+
+("Luka Chuppi", "Lata Mangeshkar", "Hindi", 0.15, 0.40, "Emotional Lullaby",
+[
+    "https://www.youtube.com/watch?v=_ikZtc6G9SU",
+    "https://soundcloud.com/arrahman/luka-chuppi",
+    "https://en.wikipedia.org/wiki/Rang_De_Basanti"
+]
+),
+
+("Masakali", "Mohit Chauhan", "Hindi", 0.88, 0.82, "Indie Pop",
+[
+    "https://www.youtube.com/watch?v=SS3lIQdKP-A",
+    "https://soundcloud.com/arrahman/masakali",
+    "https://en.wikipedia.org/wiki/Delhi-6"
+]
+),
+
+("Khaabon Ke Parinday", "Mohit Chauhan", "Hindi", 0.85, 0.78, "Travel Pop",
+[
+    "https://www.youtube.com/watch?v=R0XjwtP_iTY",
+    "https://soundcloud.com/shankarehsaanloy/khaabon-ke-parinday",
+    "https://en.wikipedia.org/wiki/Zindagi_Na_Milegi_Dobara"
+]
+),
+
+("Zara Zara", "Bombay Jayashri", "Hindi", 0.45, 0.55, "Romantic Ghazal",
+[
+    "https://www.youtube.com/watch?v=Y0Q9qkXz1F8",
+    "https://soundcloud.com/bombayjayashri/zara-zara",
+    "https://en.wikipedia.org/wiki/Rehnaa_Hai_Terre_Dil_Mein"
+]
+)
+
 
 ]
 

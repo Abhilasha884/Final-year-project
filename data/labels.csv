@@ -261,7 +261,6 @@ english_Electric_Love,English,BØRNS,0.85,0.8,Indie Pop
 english_Feel_It_Still,English,Portugal. The Man,0.9,0.85,Alternative Pop
 english_Kings_&_Queens,English,Ava Max,0.85,0.8,Pop Rock
 english_Don’t_Go_Yet,English,Camila Cabello,0.75,0.85,Latin Pop
-english_Can't_Stop_the_Feeling!,English,Justin Timberlake,0.9,0.9,Pop
 english_Shut_Up_and_Dance,English,Walk the Moon,0.9,0.85,Pop Rock
 english_Smooth,English,Santana ft. Rob Thomas,0.9,0.85,Latin Rock
 english_Don’t_Stop_Believin’,English,Journey,0.9,0.85,Rock
@@ -277,7 +276,6 @@ english_Complicated,English,Avril Lavigne,0.75,0.7,Pop Rock
 english_God_Only_Knows,English,The Beach Boys,0.75,0.6,Baroque Rock
 english_Hallelujah,English,Leonard Cohen,0.65,0.5,Soft Rock
 english_Old_Time_Rock_and_Roll,English,Bob Seger,0.8,0.7,Rock and Roll
-english_I_Don't_Want_to_Miss_a_Thing,English,Aerosmith,0.8,0.55,Pop rock
 english_Kiss_from_a_Rose,English,Seal,0.78,0.6,Soul pop
 english_Unchained_Melody,English,The Righteous Brothers,0.75,0.4,Pop ballad
 english_Wonderful_Tonight,English,Eric Clapton,0.82,0.3,Soft rock
@@ -357,7 +355,6 @@ english_Come_Together,English,The Beatles,0.7,0.7,Rock
 english_Crazy_Little_Thing_Called_Love,English,Queen,0.8,0.85,Rock
 english_No_Woman_No_Cry,English,Bob Marley,0.6,0.6,Reggae
 english_Let's_Dance,English,David Bowie,0.9,0.85,Pop/Rock
-english_Wake_Me_Up_Before_You_Go-Go,English,Wham!,0.95,0.95,Pop
 english_Give_Me_One_Reason,English,Tracy Chapman,0.7,0.5,Blues
 english_Black_Hole_Sun,English,Soundgarden,0.6,0.7,Grunge
 english_September,English,"Earth, Wind & Fire",0.9,0.85,Funk/Disco
@@ -370,3 +367,33 @@ english_Somebody_That_I_Used_to_Know,English,Gotye feat. Kimbra,0.3,0.4,Indie Po
 english_Sky_Full_of_Stars,English,Coldplay,0.88,0.8,EDM Pop
 english_Hymn_for_the_Weekend,English,Coldplay,0.82,0.78,Pop
 english_Let_Her_Go,English,Passenger,0.2,0.45,Folk Rock
+english_Yellow,English,Coldplay,0.55,0.75,Alternative Rock
+english_Cherry_Wine,English,Hozier,0.4,0.8,Acoustic Folk
+english_Youth,English,Daughter,0.35,0.25,Indie Folk
+english_Holocene,English,Bon Iver,0.3,0.55,Indie Folk
+english_Slow_Dancing_in_the_Dark,English,Joji,0.45,0.3,Lo-Fi Pop
+english_Sweet_Disposition,English,The Temper Trap,0.7,0.75,Indie Rock
+english_Breathe_Me,English,Sia,0.25,0.2,Emotional Pop
+hindi_Iktara,Hindi,Kavita Seth,0.55,0.45,Soft Romantic
+hindi_Qaafirana,Hindi,Arijit Singh & Nikhita Gandhi,0.6,0.5,Romantic Folk
+hindi_Nazm_Nazm,Hindi,Arko,0.65,0.45,Romantic Acoustic
+hindi_Khuda_Jaane,Hindi,KK & Shilpa Rao,0.75,0.6,Romantic Pop
+hindi_Manjha,Hindi,Vishal Mishra,0.35,0.4,Emotional Acoustic
+hindi_Apna_Bana_Le,Hindi,Arijit Singh,0.7,0.55,Romantic Pop
+hindi_Chaudhary,Hindi,Mame Khan,0.8,0.75,Rajasthani Folk Fusion
+hindi_O_Sanam,Hindi,Lucky Ali,0.7,0.55,Indie Pop
+hindi_Alag_Aasmaan,Hindi,Anuv Jain,0.75,0.65,Indie Pop
+hindi_Phir_Se_Ud_Chala,Hindi,Mohit Chauhan,0.8,0.75,Travel Rock
+hindi_Choo_Lo,Hindi,The Local Train,0.5,0.45,Indie Rock Ballad
+english_Clearest_Blue,English,CHVRCHES,0.8,0.85,Synth Pop
+english_Ophelia,English,The Lumineers,0.75,0.65,Indie Folk
+english_Riptide,English,Vance Joy,0.7,0.6,Indie Folk Pop
+english_Run,English,Snow Patrol,0.55,0.45,Emotional Rock
+english_Take_Me_Out,English,Franz Ferdinand,0.85,0.8,Indie Rock
+english_Stolen_Dance,English,Milky Chance,0.7,0.6,Indie Pop
+english_The_Less_I_Know_the_Better,English,Tame Impala,0.65,0.55,Psychedelic Pop
+english_Do_I_Wanna_Know,English,Arctic Monkeys,0.4,0.55,Alternative Rock
+english_Electric_Feel,English,MGMT,0.8,0.75,Psychedelic Pop
+english_Somewhere_Only_We_Know,English,Keane,0.6,0.55,Soft Rock
+english_The_Scientist,English,Coldplay,0.35,0.4,Emotional Ballad
+english_Shake_It_Out,English,Florence + The Machine,0.85,0.75,Alternative Pop
