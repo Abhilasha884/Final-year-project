@@ -37,66 +37,125 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-("Anchor", "Novo Amor", "English", 0.20, 0.30, "Ambient Indie Folk",
+("Ho Hey", "The Lumineers", "English", 0.85, 0.75, "Indie Folk",
 [
-    "https://www.youtube.com/watch?v=OmKAn8rNbKg"
+    "https://www.youtube.com/watch?v=zvCBSSwgtg4"
 ]
 ),
 
-("If the World Was Ending", "JP Saxe & Julia Michaels", "English", 0.30, 0.40, "Emotional Pop Duet",
+("Little Talks", "Of Monsters and Men", "English", 0.80, 0.75, "Indie Folk Pop",
 [
-    "https://www.youtube.com/watch?v=1jO2wSpAoxA"
+    "https://www.youtube.com/watch?v=ghb6eDopW8I"
 ]
 ),
 
-("Saturn", "Sleeping At Last", "English", 0.25, 0.35, "Ambient Emotional",
+("Pompeii", "Bastille", "English", 0.75, 0.80, "Indie Pop",
 [
-    "https://www.youtube.com/watch?v=dzNvk80XY9s"
+    "https://www.youtube.com/watch?v=F90Cw4l-8NY"
 ]
 ),
 
-("Youth (Reprise)", "Glass Animals", "English", 0.25, 0.35, "Atmospheric Indie",
+("Some Nights", "fun.", "English", 0.65, 0.75, "Indie Pop Rock",
 [
-    "https://www.youtube.com/watch?v=2QT5eGHCJdE"
+    "https://www.youtube.com/watch?v=qQkBeOisNM0"
 ]
 ),
 
-("To Build a Home", "The Cinematic Orchestra", "English", 0.15, 0.30, "Cinematic Emotional",
+("Budapest", "George Ezra", "English", 0.70, 0.65, "Indie Pop",
 [
-    "https://www.youtube.com/watch?v=oUFJJNQGwhk"
+    "https://www.youtube.com/watch?v=VHrLPs3_1Fs"
 ]
 ),
 
-("Hold On", "Chord Overstreet", "English", 0.30, 0.40, "Sad Piano Pop",
+("Love Runs Out", "OneRepublic", "English", 0.90, 0.85, "Pop Rock",
 [
-    "https://www.youtube.com/watch?v=8ofCZObsnOo"
+    "https://www.youtube.com/watch?v=0OWj0CiM8WU"
 ]
 ),
 
-("Let Me Down Slowly", "Alec Benjamin", "English", 0.30, 0.45, "Emotional Acoustic Pop",
+("Take On Me", "a-ha", "English", 0.95, 0.90, "Synth Pop",
 [
-    "https://www.youtube.com/watch?v=50VNCymT-Cs"
+    "https://www.youtube.com/watch?v=djV11Xbc914"
 ]
 ),
 
-("In the Stars", "Benson Boone", "English", 0.25, 0.45, "Emotional Piano Ballad",
+("Africa", "Toto", "English", 0.85, 0.70, "Soft Rock",
 [
-    "https://www.youtube.com/watch?v=Jb5v7KX0C0A"
+    "https://www.youtube.com/watch?v=FTQbiNvZqaY"
 ]
 ),
 
-("Another Love", "Tom Odell", "English", 0.35, 0.50, "Emotional Indie Pop",
+("Everybody Wants to Rule the World", "Tears for Fears", "English", 0.80, 0.65, "New Wave Pop",
 [
-    "https://www.youtube.com/watch?v=MwpMEbgC7DA"
+    "https://www.youtube.com/watch?v=aGCdLKXNF3w"
 ]
 ),
 
-("As the World Caves In", "Matt Maltese", "English", 0.20, 0.35, "Melancholic Indie Pop",
+("Dreamer", "Supertramp", "English", 0.75, 0.65, "Classic Rock",
 [
-    "https://www.youtube.com/watch?v=SwXseZSjLsw"
+    "https://www.youtube.com/watch?v=Q0k5E6wz0sI"
+]
+),
+
+("Sunday Morning", "Maroon 5", "English", 0.65, 0.50, "Soft Pop",
+[
+    "https://www.youtube.com/watch?v=S2Cti12XBw4"
+]
+),
+
+("Latch", "Disclosure ft. Sam Smith", "English", 0.70, 0.60, "Electronic Soul",
+[
+    "https://www.youtube.com/watch?v=93ASUImTedo"
+]
+),
+
+("Royals", "Lorde", "English", 0.55, 0.60, "Minimal Pop",
+[
+    "https://www.youtube.com/watch?v=nlcIKh6sBtc"
+]
+),
+
+("Chandelier", "Sia", "English", 0.60, 0.85, "Emotional Pop",
+[
+    "https://www.youtube.com/watch?v=2vjPBrBU-TM"
+]
+),
+
+("Counting Stars", "OneRepublic", "English", 0.85, 0.80, "Pop Rock",
+[
+    "https://www.youtube.com/watch?v=hT_nvWreIhg"
+]
+),
+
+("Radioactive", "Imagine Dragons", "English", 0.65, 0.85, "Alternative Rock",
+[
+    "https://www.youtube.com/watch?v=ktvTqknDobU"
+]
+),
+
+("Shut Up and Dance", "WALK THE MOON", "English", 0.95, 0.90, "Dance Pop",
+[
+    "https://www.youtube.com/watch?v=6JCLY0Rlx6Q"
+]
+),
+
+("R U Mine?", "Arctic Monkeys", "English", 0.70, 0.80, "Garage Rock",
+[
+    "https://www.youtube.com/watch?v=VQH8ZTgna3Q"
+]
+),
+
+("Midnight Memories", "One Direction", "English", 0.90, 0.85, "Pop Rock",
+[
+    "https://www.youtube.com/watch?v=bpOSxM0rNPM"
+]
+),
+
+("Safe and Sound", "Capital Cities", "English", 0.80, 0.70, "Electro Pop",
+[
+    "https://www.youtube.com/watch?v=47dtFZ8CFo8"
 ]
 )
-
 
 ]
 
