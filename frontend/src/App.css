@@ -109,3 +109,167 @@ body {
   opacity: 0.75;
   margin-top: 8px;
 }
+
+.results-section {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.predicted-genre {
+  color: #ddd;
+  margin: 20px 0;
+}
+
+.predicted-genre span {
+  color: #b06cff;
+  font-weight: bold;
+}
+
+.genre-filters {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+
+.genre-btn {
+  padding: 8px 18px;
+  border-radius: 20px;
+  border: 1px solid #7f4dff;
+  background: transparent;
+  color: white;
+  cursor: pointer;
+}
+
+.genre-btn.active {
+  background: linear-gradient(135deg, #b06cff, #7f4dff);
+  border: none;
+}
+
+.recommendations {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.song-card {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 16px;
+  color: white;
+  backdrop-filter: blur(10px);
+}
+
+.analyze-page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.glass-upload-card {
+  width: 900px;
+  padding: 40px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(18px);
+  color: white;
+}
+
+.glass-upload-card h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.upload-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 25px;
+}
+
+.lyrics-box textarea {
+  width: 100%;
+  height: 180px;
+  background: rgba(255, 255, 255, 0.08);
+  border: none;
+  border-radius: 12px;
+  padding: 15px;
+  color: white;
+  resize: none;
+}
+
+.audio-box .drop-zone {
+  border: 2px dashed #b06cff;
+  border-radius: 14px;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+  position: relative;
+}
+
+.audio-box input {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.analyze-btn {
+  width: 100%;
+  margin-top: 30px;
+  padding: 14px;
+  border-radius: 30px;
+  border: none;
+  font-size: 16px;
+  color: white;
+  background: linear-gradient(135deg, #b06cff, #7f4dff);
+  cursor: pointer;
+}
+
+.results-preview {
+  margin-top: 30px;
+  color: #ccc;
+  text-align: center;
+}
+
+.results-section {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.result-card {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 18px;
+  padding: 20px;
+  color: #fff;
+  backdrop-filter: blur(12px);
+}
+
+.genre-pill {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 6px 16px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #a855f7, #ec4899);
+  font-weight: bold;
+}
+
+.emotion-values p {
+  margin: 6px 0;
+}
+
+.recommendation-list {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.recommendation-list li {
+  margin-bottom: 6px;
+}
+
