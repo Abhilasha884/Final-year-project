@@ -36,127 +36,176 @@ def safe_filename(name):
 # SONGS LIST WITH VERIFIED LINKS
 # ===============================
 songs_info = [
-
-("Ho Hey", "The Lumineers", "English", 0.85, 0.75, "Indie Folk",
+("Jolene", "Dolly Parton", "English", 0.45, 0.55, "Country",
 [
-    "https://www.youtube.com/watch?v=zvCBSSwgtg4"
+    "https://www.youtube.com/watch?v=Ixrje2rXLMA"
 ]
 ),
-
-("Little Talks", "Of Monsters and Men", "English", 0.80, 0.75, "Indie Folk Pop",
+("Ring of Fire", "Johnny Cash", "English", 0.70, 0.65, "Country",
 [
-    "https://www.youtube.com/watch?v=ghb6eDopW8I"
+    "https://www.youtube.com/watch?v=5WyLhwYFgmk"
 ]
 ),
-
-("Pompeii", "Bastille", "English", 0.75, 0.80, "Indie Pop",
+("Take Me Home, Country Roads", "John Denver", "English", 0.85, 0.45, "Country",
 [
-    "https://www.youtube.com/watch?v=F90Cw4l-8NY"
+    "https://www.youtube.com/watch?v=1vrEljMfXYo"
 ]
 ),
-
-("Some Nights", "fun.", "English", 0.65, 0.75, "Indie Pop Rock",
+("I Walk the Line", "Johnny Cash", "English", 0.65, 0.40, "Country",
 [
-    "https://www.youtube.com/watch?v=qQkBeOisNM0"
+    "https://www.youtube.com/watch?v=5WyLhwYFgmk"
 ]
 ),
-
-("Budapest", "George Ezra", "English", 0.70, 0.65, "Indie Pop",
+("Blue Eyes Crying in the Rain", "Willie Nelson", "English", 0.35, 0.25, "Country",
 [
-    "https://www.youtube.com/watch?v=VHrLPs3_1Fs"
+    "https://www.youtube.com/watch?v=crgtW3-zV1c"
 ]
 ),
-
-("Love Runs Out", "OneRepublic", "English", 0.90, 0.85, "Pop Rock",
+("Always On My Mind", "Willie Nelson", "English", 0.40, 0.30, "Country",
 [
-    "https://www.youtube.com/watch?v=0OWj0CiM8WU"
+    "https://www.youtube.com/watch?v=R7f189Z0v0Y"
 ]
 ),
-
-("Take On Me", "a-ha", "English", 0.95, 0.90, "Synth Pop",
+("Friends in Low Places", "Garth Brooks", "English", 0.80, 0.70, "Country",
 [
-    "https://www.youtube.com/watch?v=djV11Xbc914"
+    "https://www.youtube.com/watch?v=mvCgSqPZ4EM"
 ]
 ),
-
-("Africa", "Toto", "English", 0.85, 0.70, "Soft Rock",
+("The Gambler", "Kenny Rogers", "English", 0.65, 0.45, "Country",
 [
-    "https://www.youtube.com/watch?v=FTQbiNvZqaY"
+    "https://www.youtube.com/watch?v=7hx4gdlfamo"
 ]
 ),
-
-("Everybody Wants to Rule the World", "Tears for Fears", "English", 0.80, 0.65, "New Wave Pop",
+("Stand By Your Man", "Tammy Wynette", "English", 0.50, 0.35, "Country",
 [
-    "https://www.youtube.com/watch?v=aGCdLKXNF3w"
+    "https://www.youtube.com/watch?v=AM-b8P1yj9w"
 ]
 ),
-
-("Dreamer", "Supertramp", "English", 0.75, 0.65, "Classic Rock",
+("Crazy", "Patsy Cline", "English", 0.30, 0.25, "Country",
 [
-    "https://www.youtube.com/watch?v=Q0k5E6wz0sI"
+    "https://www.youtube.com/watch?v=CKTOvHw8qFM"
 ]
 ),
-
-("Sunday Morning", "Maroon 5", "English", 0.65, 0.50, "Soft Pop",
+("Mama Tried", "Merle Haggard", "English", 0.55, 0.60, "Country",
 [
-    "https://www.youtube.com/watch?v=S2Cti12XBw4"
+    "https://www.youtube.com/watch?v=XyRCvukVv6w"
 ]
 ),
-
-("Latch", "Disclosure ft. Sam Smith", "English", 0.70, 0.60, "Electronic Soul",
+("On the Road Again", "Willie Nelson", "English", 0.85, 0.65, "Country",
 [
-    "https://www.youtube.com/watch?v=93ASUImTedo"
+    "https://www.youtube.com/watch?v=dBN86y30Ufc"
 ]
 ),
-
-("Royals", "Lorde", "English", 0.55, 0.60, "Minimal Pop",
+("He Stopped Loving Her Today", "George Jones", "English", 0.15, 0.20, "Country",
 [
-    "https://www.youtube.com/watch?v=nlcIKh6sBtc"
+    "https://www.youtube.com/watch?v=VExw77xJsBQ"
 ]
 ),
-
-("Chandelier", "Sia", "English", 0.60, 0.85, "Emotional Pop",
+("Achy Breaky Heart", "Billy Ray Cyrus", "English", 0.80, 0.75, "Country",
 [
-    "https://www.youtube.com/watch?v=2vjPBrBU-TM"
+    "https://www.youtube.com/watch?v=byQIPdHMpjc"
 ]
 ),
-
-("Counting Stars", "OneRepublic", "English", 0.85, 0.80, "Pop Rock",
+("Check Yes or No", "George Strait", "English", 0.75, 0.55, "Country",
 [
-    "https://www.youtube.com/watch?v=hT_nvWreIhg"
+    "https://www.youtube.com/watch?v=9nwyvUO9xWI"
 ]
 ),
-
-("Radioactive", "Imagine Dragons", "English", 0.65, 0.85, "Alternative Rock",
+("Amarillo by Morning", "George Strait", "English", 0.50, 0.35, "Country",
 [
-    "https://www.youtube.com/watch?v=ktvTqknDobU"
+    "https://www.youtube.com/watch?v=F2_1tF7C2m4"
 ]
 ),
-
-("Shut Up and Dance", "WALK THE MOON", "English", 0.95, 0.90, "Dance Pop",
+("Coward of the County", "Kenny Rogers", "English", 0.40, 0.50, "Country",
 [
-    "https://www.youtube.com/watch?v=6JCLY0Rlx6Q"
+    "https://www.youtube.com/watch?v=8c1vH9Fz-Fc"
 ]
 ),
-
-("R U Mine?", "Arctic Monkeys", "English", 0.70, 0.80, "Garage Rock",
+("If Tomorrow Never Comes", "Garth Brooks", "English", 0.45, 0.30, "Country",
 [
-    "https://www.youtube.com/watch?v=VQH8ZTgna3Q"
+    "https://www.youtube.com/watch?v=Gn4Gf6asjUU"
 ]
 ),
-
-("Midnight Memories", "One Direction", "English", 0.90, 0.85, "Pop Rock",
+("She Thinks My Tractor's Sexy", "Kenny Chesney", "English", 0.85, 0.70, "Country",
 [
-    "https://www.youtube.com/watch?v=bpOSxM0rNPM"
+    "https://www.youtube.com/watch?v=uWu4aynBK7E"
 ]
 ),
-
-("Safe and Sound", "Capital Cities", "English", 0.80, 0.70, "Electro Pop",
+("Live Like You Were Dying", "Tim McGraw", "English", 0.70, 0.50, "Country",
 [
-    "https://www.youtube.com/watch?v=47dtFZ8CFo8"
+    "https://www.youtube.com/watch?v=_9TShlMkQnc"
+]
+),
+("Whiskey Lullaby", "Brad Paisley & Alison Krauss", "English", 0.10, 0.20, "Country",
+[
+    "https://www.youtube.com/watch?v=IZbN_nmxAGk"
+]
+),
+("Before He Cheats", "Carrie Underwood", "English", 0.55, 0.80, "Country",
+[
+    "https://www.youtube.com/watch?v=WaSy8yy-mr8"
+]
+),
+("Need You Now", "Lady A", "English", 0.35, 0.30, "Country",
+[
+    "https://www.youtube.com/watch?v=eM213aMKTHg"
+]
+),
+("Die a Happy Man", "Thomas Rhett", "English", 0.70, 0.35, "Country",
+[
+    "https://www.youtube.com/watch?v=w5hZqZ7h8yg"
+]
+),
+("Tennessee Whiskey", "Chris Stapleton", "English", 0.60, 0.40, "Country",
+[
+    "https://www.youtube.com/watch?v=4zAThXFOy2c"
+]
+),
+("Chicken Fried", "Zac Brown Band", "English", 0.85, 0.60, "Country",
+[
+    "https://www.youtube.com/watch?v=e4ujS1er1r0"
+]
+),
+("Take Your Time", "Sam Hunt", "English", 0.65, 0.45, "Country",
+[
+    "https://www.youtube.com/watch?v=2kV6sQ3O9nE"
+]
+),
+("God Bless the USA", "Lee Greenwood", "English", 0.80, 0.55, "Country",
+[
+    "https://www.youtube.com/watch?v=Q65KZIqay4E"
+]
+),
+("Humble and Kind", "Tim McGraw", "English", 0.75, 0.30, "Country",
+[
+    "https://www.youtube.com/watch?v=awzNHuGqoMc"
+]
+),
+("Fast as You", "Dwight Yoakam", "English", 0.70, 0.65, "Country",
+[
+    "https://www.youtube.com/watch?v=9z6rE0G9pYc"
+]
+),
+("Delta Dawn", "Tanya Tucker", "English", 0.45, 0.40, "Country",
+[
+    "https://www.youtube.com/watch?v=Kk2tI5Ovxv4"
+]
+),
+("Man! I Feel Like a Woman!", "Shania Twain", "English", 0.90, 0.85, "Country",
+[
+    "https://www.youtube.com/watch?v=ZJL4UGSbeFg"
+]
+),
+("Boot Scootin’ Boogie", "Brooks & Dunn", "English", 0.85, 0.80, "Country",
+[
+    "https://www.youtube.com/watch?v=d05tQrhNMkA"
+]
+),
+("Take It Easy", "Eagles", "English", 0.80, 0.55, "Country Rock",
+[
+    "https://www.youtube.com/watch?v=4v8KEbQA8kw"
 ]
 )
-
 ]
 
 
