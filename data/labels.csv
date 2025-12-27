@@ -520,7 +520,6 @@ english_Man!_I_Feel_Like_a_Woman!,English,Shania Twain,0.95,0.85,Country
 english_If_I_Die_Young,English,The Band Perry,0.25,0.3,Country
 english_Ring_of_Fire,English,Johnny Cash,0.7,0.6,Country
 english_I_Walk_the_Line,English,Johnny Cash,0.6,0.5,Country
-english_Always_On_My_Mind,English,Willie Nelson,0.35,0.3,Country
 english_Blue_Eyes_Crying_in_the_Rain,English,Willie Nelson,0.2,0.2,Country
 english_You're_Still_the_One,English,Shania Twain,0.8,0.35,Country
 "english_Jesus,_Take_the_Wheel",English,Carrie Underwood,0.55,0.3,Country
@@ -530,10 +529,123 @@ english_Girl_Crush,English,Little Big Town,0.25,0.25,Country
 english_I_Hope_You_Dance,English,Lee Ann Womack,0.9,0.4,Country
 english_He_Stopped_Loving_Her_Today,English,George Jones,0.1,0.2,Country
 "english_Courtesy_of_the_Red,_White_and_Blue",English,Toby Keith,0.7,0.85,Country
-english_Stand_By_Your_Man,English,Tammy Wynette,0.5,0.35,Country
 english_Mama_Tried,English,Merle Haggard,0.55,0.6,Country
 english_On_the_Road_Again,English,Willie Nelson,0.85,0.65,Country
 english_Achy_Breaky_Heart,English,Billy Ray Cyrus,0.8,0.75,Country
 english_She_Thinks_My_Tractor's_Sexy,English,Kenny Chesney,0.85,0.7,Country
 english_God_Bless_the_USA,English,Lee Greenwood,0.8,0.55,Country
 english_Boot_Scootin’_Boogie,English,Brooks & Dunn,0.85,0.8,Country
+english_Folsom_Prison_Blues,English,Johnny Cash,0.5,0.6,Country
+english_Amarillo_by_Morning,English,George Strait,0.5,0.45,Country
+english_Pancho_and_Lefty,English,Willie Nelson & Merle Haggard,0.4,0.35,Country
+english_Your_Cheatin'_Heart,English,Hank Williams,0.35,0.4,Country
+english_Take_This_Job_and_Shove_It,English,Johnny Paycheck,0.6,0.65,Country
+english_Hello_Darlin',English,Conway Twitty,0.3,0.3,Country
+english_The_Chair,English,George Strait,0.55,0.4,Country
+english_Mama's_Broken_Heart,English,Miranda Lambert,0.6,0.65,Country
+english_Chattahoochee,English,Alan Jackson,0.85,0.75,Country
+english_Coal_Miner's_Daughter,English,Loretta Lynn,0.65,0.45,Country
+english_You_Belong_With_Me,English,Taylor Swift,0.85,0.7,Country Pop
+english_Cruise,English,Florida Georgia Line,0.85,0.75,Country Pop
+english_Life_Is_a_Highway,English,Rascal Flatts,0.9,0.8,Country Pop
+english_Love_Story,English,Taylor Swift,0.88,0.65,Country Pop
+english_Take_Five,English,Dave Brubeck Quartet,0.6,0.5,Jazz
+english_My_Favorite_Things,English,John Coltrane,0.65,0.55,Jazz
+english_Feeling_Good,English,Nina Simone,0.8,0.5,Jazz
+english_Summertime,English,Ella Fitzgerald,0.4,0.25,Jazz
+english_Fly_Me_to_the_Moon,English,Frank Sinatra,0.75,0.45,Jazz
+english_Autumn_Leaves,English,Chet Baker,0.35,0.3,Jazz
+english_At_Last,English,Etta James,0.7,0.35,Jazz
+english_So_What,English,Miles Davis,0.55,0.6,Jazz
+english_Lisztomania,English,Phoenix,0.85,0.8,Indie Pop
+english_Kids,English,MGMT,0.8,0.75,Indie Pop
+english_Tongue_Tied,English,Grouplove,0.88,0.82,Indie Pop
+english_Oxford_Comma,English,Vampire Weekend,0.75,0.65,Indie Pop
+english_Pumped_Up_Kicks,English,Foster the People,0.55,0.7,Indie Pop
+english_Home,English,Edward Sharpe & The Magnetic Zeros,0.85,0.6,Indie Pop
+hindi_Kho_Gaye_Hum_Kahan,Hindi,Jasleen Royal,0.55,0.4,Indie Pop
+hindi_Mera_Mann,Hindi,Falak Shabir,0.65,0.45,Indie Pop
+hindi_Pyaar_Ke_Pal,Hindi,KK,0.7,0.5,Indian Soul
+hindi_Saiyaan,Hindi,Kailash Kher,0.5,0.45,Indian Soul
+hindi_Khoya_Khoya_Chand,Hindi,Mohammed Rafi,0.65,0.35,Indian Jazz
+hindi_Tu_Jaane_Na,Hindi,Atif Aslam,0.6,0.4,Indian Soul
+hindi_Baarishein,Hindi,Anuv Jain,0.4,0.3,Indian Indie Soul
+hindi_Riha,Hindi,Anuv Jain,0.55,0.4,Indian Indie Soul
+hindi_Dil_Mere,Hindi,The Local Train,0.45,0.55,Indian Indie Rock
+english_Fluorescent_Adolescent,English,Arctic Monkeys,0.6,0.65,Indie Rock
+hindi_Phir_Bhi_Tumko_Chaahunga,Hindi,Arijit Singh,0.3,0.35,Bollywood Sad
+english_Sun_Is_Shining,English,Axwell / Ingrosso,0.8,0.85,Electronic Pop
+english_Best_Part,English,Daniel Caesar ft. H.E.R.,0.65,0.4,R&B
+english_Reptilia,English,The Strokes,0.7,0.85,Indie Rock
+english_The_Logical_Song,English,Supertramp,0.6,0.55,Classic Rock
+hindi_Jiyein_Kyun,Hindi,Papon,0.35,0.4,Bollywood Sad
+hindi_Saaiyaan,Hindi,Kailash Kher,0.28,0.32,Bollywood Sad
+english_Ends_of_the_Earth,English,Lord Huron,0.65,0.55,Folk Pop
+english_Cornerstone,English,Arctic Monkeys,0.5,0.55,Indie Rock
+english_The_Boxer,English,Simon & Garfunkel,0.4,0.35,Classic Rock
+english_Carry_On_Wayward_Son,English,Kansas,0.75,0.8,Classic Rock
+english_Dust_in_the_Wind,English,Kansas,0.35,0.3,Classic Rock
+english_Mykonos,English,Fleet Foxes,0.55,0.5,Folk Pop
+english_Blue_Ridge_Mountains,English,Fleet Foxes,0.5,0.45,Folk Pop
+english_Japanese_Denim,English,Daniel Caesar,0.6,0.45,R&B
+english_Exchange,English,Bryson Tiller,0.55,0.4,R&B
+english_Breezeblocks,English,alt-J,0.55,0.7,Indie Rock
+english_Baker_Street,English,Gerry Rafferty,0.55,0.45,Classic Rock
+hindi_Koi_Fariyaad,Hindi,Jagjit Singh,0.22,0.25,Bollywood Sad
+english_Thinking_Bout_You,English,Frank Ocean,0.55,0.4,R&B
+english_Best_I_Ever_Had,English,Drake,0.7,0.6,R&B
+english_Human_(Acoustic),English,Rag'n'Bone Man,0.42,0.38,Acoustic Pop
+english_Someday,English,The Strokes,0.65,0.75,Indie Rock
+english_Bad_Moon_Rising,English,Creedence Clearwater Revival,0.65,0.75,Classic Rock
+english_Ventura_Highway,English,America,0.7,0.6,Classic Rock
+english_Keep_Your_Head_Up,English,Ben Howard,0.65,0.55,Folk Pop
+english_Love_Galore,English,SZA,0.6,0.5,R&B
+english_Pink_+_White,English,Frank Ocean,0.55,0.4,R&B
+english_Obstacle_1,English,Interpol,0.55,0.7,Indie Rock
+english_Free_Fallin',English,Tom Petty,0.55,0.45,Classic Rock
+english_Everybody's_Talkin',English,Harry Nilsson,0.6,0.5,Classic Rock
+english_Stubborn_Love,English,The Lumineers,0.6,0.55,Folk Pop
+english_Pretty_Little_Fears,English,6LACK ft. J. Cole,0.55,0.45,R&B
+english_Damage,English,H.E.R.,0.5,0.4,R&B
+english_Good_Days,English,SZA,0.6,0.45,R&B
+english_Chasing_Cars_(Acoustic),English,Snow Patrol,0.45,0.35,Acoustic Pop
+english_The_Suburbs,English,Arcade Fire,0.55,0.5,Indie Rock
+english_1901,English,Phoenix,0.75,0.8,Indie Rock
+english_Electric_Feel_(Justice_Remix),English,MGMT,0.7,0.8,Indie Rock
+english_Sweet_Emotion,English,Aerosmith,0.7,0.8,Classic Rock
+english_Bennie_and_the_Jets,English,Elton John,0.65,0.55,Classic Rock
+english_Vienna,English,Billy Joel,0.5,0.45,Classic Rock
+english_Alaska,English,Maggie Rogers,0.7,0.65,Folk Pop
+english_Love_on_the_Brain,English,Rihanna,0.55,0.45,R&B
+english_Earned_It,English,The Weeknd,0.45,0.4,R&B
+english_Adorn,English,Miguel,0.65,0.45,R&B
+english_Location,English,Khalid,0.55,0.4,R&B
+english_Bitter_Sweet_Symphony,English,The Verve,0.55,0.6,Indie Rock
+english_Horse_with_No_Name,English,America,0.55,0.45,Classic Rock
+english_New_Slang,English,The Shins,0.45,0.4,Folk Pop
+english_Emmylou,English,First Aid Kit,0.6,0.55,Folk Pop
+english_Untitled_(How_Does_It_Feel),English,D'Angelo,0.55,0.45,R&B
+english_Talk_Is_Cheap,English,Chet Faker,0.6,0.5,R&B
+english_Cranes_in_the_Sky,English,Solange,0.45,0.4,R&B
+english_Firestone_(Acoustic),English,Kygo ft. Conrad Sewell,0.6,0.45,Acoustic Pop
+english_Flume,English,Bon Iver,0.45,0.4,Indie Rock
+english_Brazil,English,Declan McKenna,0.7,0.65,Indie Rock
+english_Father_and_Son,English,Cat Stevens,0.45,0.35,Classic Rock
+english_Wild_World,English,Cat Stevens,0.55,0.45,Classic Rock
+english_Takin'_Care_of_Business,English,Bachman-Turner Overdrive,0.75,0.8,Classic Rock
+hindi_Mitti_Di_Khushboo,Hindi,Ayushmann Khurrana,0.35,0.38,Bollywood Sad
+english_Wait,English,M83,0.4,0.35,Folk Pop
+english_After_the_Storm,English,"Kali Uchis ft. Tyler, The Creator",0.65,0.55,R&B
+english_Bags,English,Clairo,0.45,0.5,Alternative Pop
+english_Supercut,English,Lorde,0.55,0.65,Alternative Pop
+english_Shuggie,English,Foxygen,0.65,0.7,Alternative Pop
+english_Hard_Place,English,H.E.R.,0.4,0.45,Alternative Pop
+english_Old_Pine,English,Ben Howard,0.5,0.45,Indie Folk
+english_Featherstone,English,The Paper Kites,0.55,0.5,Indie Folk
+hindi_Kala_Chashma,Hindi,"Amar Arshi, Badshah & Neha Kakkar",0.9,0.9,Bollywood Dance Pop
+hindi_Aankh_Marey,Hindi,"Mika Singh, Neha Kakkar",0.88,0.85,Bollywood Dance Pop
+english_Bloom,English,The Paper Kites,0.55,0.45,Folk Pop
+english_Rivers_and_Roads,English,The Head and the Heart,0.45,0.4,Folk Pop
+english_Sedona,English,Houndmouth,0.65,0.55,Folk Pop
+english_Don't_You_Want_Me,English,The Human League,0.7,0.75,Synth Pop
+english_West_End_Girls,English,Pet Shop Boys,0.65,0.6,Synth Pop
