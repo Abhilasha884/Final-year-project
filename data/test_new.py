@@ -36,8 +36,6 @@ def safe_filename(name):
 # SONGS LIST WITH VERIFIED LINKS
 # ===============================
 songs_info = [
-("Tainted Love", "Soft Cell", "English", 0.75, 0.80, "Synth Pop",
- ["https://www.youtube.com/watch?v=XZVpR3Pk-r8"])
 
 
 
