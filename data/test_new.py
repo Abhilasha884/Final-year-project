@@ -37,7 +37,11 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-
+("Jashn-e-Bahara", "Javed Ali", "Hindi", 0.55, 0.40, "BOLLYWOOD_CLASSICAL",
+[
+    "https://www.youtube.com/watch?v=44AOgqzBj44&t=2s"
+]
+)
 
 ]
 
