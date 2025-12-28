@@ -37,11 +37,38 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-("Jashn-e-Bahara", "Javed Ali", "Hindi", 0.55, 0.40, "BOLLYWOOD_CLASSICAL",
-[
-    "https://www.youtube.com/watch?v=44AOgqzBj44&t=2s"
-]
-)
+("Master of Puppets", "Metallica", "English", 0.45, 0.90, "METAL",
+["https://www.youtube.com/watch?v=E0ozmU9cJDg"]),
+
+("Walk", "Pantera", "English", 0.50, 0.85, "METAL",
+["https://www.youtube.com/watch?v=AkFqg5wAuFk"]),
+
+("Psychosocial", "Slipknot", "English", 0.40, 0.90, "METAL",
+["https://www.youtube.com/watch?v=5abamRO41fE"]),
+
+("Crazy Train", "Ozzy Osbourne", "English", 0.60, 0.80, "METAL",
+["https://www.youtube.com/watch?v=tMDFv5m18Pw"]),
+
+("Ace of Spades", "Motörhead", "English", 0.65, 0.85, "METAL",
+["https://www.youtube.com/watch?v=3mbvWn1EY6g"]),
+
+("The Trooper", "Iron Maiden", "English", 0.55, 0.85, "METAL",
+["https://www.youtube.com/watch?v=2G5rfPISIwo"]),
+
+("Raining Blood", "Slayer", "English", 0.40, 0.95, "METAL",
+["https://www.youtube.com/watch?v=z8ZqFlw6hYg"]),
+
+("Bat Country", "Avenged Sevenfold", "English", 0.55, 0.80, "METAL",
+["https://www.youtube.com/watch?v=IHS3qJdxefY"]),
+
+("Smells Like Teen Spirit", "Nirvana", "English", 0.55, 0.75, "METAL",
+["https://www.youtube.com/watch?v=hTWKbfoikeg"]),
+
+("Aerials", "System Of A Down", "English", 0.45, 0.70, "METAL",
+["https://www.youtube.com/watch?v=L-iepu3EtyE"])
+
+
+
 
 ]
 

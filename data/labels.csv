@@ -27,7 +27,7 @@ english_In_the_End,English,Linkin Park,0.3,0.85,METAL
 english_Happier,English,Marshmello ft. Bastille,0.5,0.6,POP
 english_Bad_Guy,English,Billie Eilish,0.6,0.7,POP
 english_Clocks,English,Coldplay,0.7,0.6,ALTERNATIVE
-english_Smells_Like_Teen_Spirit,English,Nirvana,0.4,0.95,POP
+english_Smells_Like_Teen_Spirit,English,Nirvana,0.4,0.95,ROCK
 english_Grenade,English,Bruno Mars,0.2,0.7,POP
 english_Hello,English,Adele,0.2,0.4,POP
 english_Can’t_Stop_the_Feeling!,English,Justin Timberlake,0.95,0.85,POP
@@ -741,3 +741,62 @@ english_Bangarang,English,Skrillex,0.75,0.95,EDM
 hindi_Aayat,Hindi,Arijit Singh,0.35,0.4,BOLLYWOOD_CLASSICAL
 hindi_Laal_Ishq,Hindi,Arijit Singh,0.3,0.45,BOLLYWOOD_CLASSICAL
 hindi_Jashn-e-Bahara,Hindi,Javed Ali,0.55,0.4,BOLLYWOOD_CLASSICAL
+hindi_Sach_Keh_Raha_Hai_Deewana,Hindi,KK,0.2,0.35,BOLLYWOOD_SAD
+hindi_Ae_Dil_Hai_Mushkil_(Title_Track_–_Reprise),Hindi,Arijit Singh,0.25,0.4,BOLLYWOOD_SAD
+hindi_Hamari_Adhuri_Kahani_(Title_Track),Hindi,Arijit Singh,0.25,0.35,BOLLYWOOD_SAD
+hindi_Main_Dhoondne_Ko_Zamaane_Mein,Hindi,Arijit Singh,0.22,0.4,BOLLYWOOD_SAD
+hindi_Judaai,Hindi,Arijit Singh,0.2,0.33,BOLLYWOOD_SAD
+hindi_Bhula_Dena,Hindi,Mustafa Zahid,0.28,0.42,BOLLYWOOD_SAD
+english_Silhouettes,English,Avicii,0.65,0.82,EDM
+english_I_Remember,English,Deadmau5 & Kaskade,0.55,0.75,EDM
+english_Innerbloom,English,RÜFÜS DU SOL,0.6,0.78,EDM
+english_Divinity,English,Porter Robinson,0.68,0.83,EDM
+english_Language,English,Porter Robinson,0.72,0.88,EDM
+english_POWER,English,Kanye West,0.6,0.82,HIP_HOP
+english_Stan,English,Eminem,0.25,0.45,HIP_HOP
+english_Changes,English,2Pac,0.4,0.5,HIP_HOP
+english_God's_Plan,English,Drake,0.65,0.7,HIP_HOP
+english_Mockingbird,English,Eminem,0.3,0.4,HIP_HOP
+english_Juicy,English,The Notorious B.I.G.,0.7,0.65,HIP_HOP
+english_Down_With_The_Sickness,English,Disturbed,0.3,0.93,METAL
+english_Psychosocial,English,Slipknot,0.38,0.94,METAL
+hindi_Jaane_Woh_Kaise_Log_The,Hindi,Hemant Kumar,0.22,0.2,BOLLYWOOD_SAD
+hindi_Tujhse_Naraz_Nahi_Zindagi_(Male),Hindi,Anup Ghoshal,0.35,0.25,BOLLYWOOD_SAD
+hindi_Dil_Dhoondta_Hai,Hindi,Bhupinder Singh,0.3,0.25,BOLLYWOOD_SAD
+hindi_Tere_Bina_Zindagi_Se_Koi,Hindi,Lata Mangeshkar & Kishore Kumar,0.35,0.3,BOLLYWOOD_SAD
+hindi_Genda_Phool,Hindi,Rekha Bhardwaj,0.6,0.5,BOLLYWOOD_FOLK
+hindi_Rangabati,Hindi,Sona Mohapatra,0.65,0.55,BOLLYWOOD_FOLK
+hindi_Navrai_Majhi,Hindi,Sunidhi Chauhan,0.72,0.7,BOLLYWOOD_FOLK
+hindi_Aaj_Jaane_Ki_Zid_Na_Karo,Hindi,Farida Khanum,0.28,0.22,BOLLYWOOD_CLASSICAL
+hindi_Mohe_Panghat_Pe,Hindi,Lata Mangeshkar,0.45,0.4,BOLLYWOOD_CLASSICAL
+hindi_Raina_Beeti_Jaaye,Hindi,Lata Mangeshkar,0.3,0.28,BOLLYWOOD_CLASSICAL
+english_Round_Midnight,English,Thelonious Monk,0.3,0.25,JAZZ
+english_Strange_Fruit,English,Billie Holiday,0.15,0.2,JAZZ
+english_Cry_Me_a_River,English,Ella Fitzgerald,0.32,0.28,JAZZ
+english_Take_the_A_Train,English,Duke Ellington,0.65,0.55,JAZZ
+english_Moanin',English,Art Blakey & The Jazz Messengers,0.7,0.6,JAZZ
+english_Song_for_My_Father,English,Horace Silver,0.65,0.55,JAZZ
+english_Maiden_Voyage,English,Herbie Hancock,0.55,0.45,JAZZ
+english_Stolen_Moments,English,Oliver Nelson,0.6,0.5,JAZZ
+english_Naima,English,John Coltrane,0.35,0.25,JAZZ
+english_Someday_My_Prince_Will_Come,English,Miles Davis,0.45,0.35,JAZZ
+english_Waltz_for_Debby,English,Bill Evans Trio,0.45,0.3,JAZZ
+english_The_Sidewinder,English,Lee Morgan,0.7,0.6,JAZZ
+english_Little_Sunflower,English,Freddie Hubbard,0.55,0.45,JAZZ
+english_A_Night_in_Tunisia,English,Dizzy Gillespie,0.7,0.65,JAZZ
+english_Goodbye_Pork_Pie_Hat,English,Charles Mingus,0.35,0.3,JAZZ
+english_Lush_Life,English,Billy Strayhorn,0.3,0.25,JAZZ
+hindi_Piya_Tose_Naina_Laage_Re,Hindi,Lata Mangeshkar,0.3,0.28,BOLLYWOOD_CLASSICAL
+hindi_Baiyan_Na_Dharo,Hindi,Lata Mangeshkar,0.3,0.28,BOLLYWOOD_CLASSICAL
+hindi_Mohe_Chhedo_Na,Hindi,Lata Mangeshkar,0.34,0.3,BOLLYWOOD_CLASSICAL
+hindi_Kuhu_Kuhu_Bole_Koyaliya,Hindi,Lata Mangeshkar,0.5,0.45,BOLLYWOOD_CLASSICAL
+english_Adagio_for_Strings,English,Tiësto,0.55,0.7,EDM
+english_Ghosts_'n'_Stuff,English,Deadmau5 ft. Rob Swire,0.6,0.85,EDM
+english_Spectrum,English,Zedd ft. Matthew Koma,0.75,0.7,EDM
+english_Runaway_(U_&_I),English,Galantis,0.75,0.7,EDM
+english_Master_of_Puppets,English,Metallica,0.45,0.9,METAL
+english_Crazy_Train,English,Ozzy Osbourne,0.6,0.8,METAL
+english_Ace_of_Spades,English,Motörhead,0.65,0.85,METAL
+english_Raining_Blood,English,Slayer,0.4,0.95,METAL
+english_Bat_Country,English,Avenged Sevenfold,0.55,0.8,METAL
+english_Aerials,English,System Of A Down,0.45,0.7,METAL
