@@ -206,25 +206,24 @@ import pandas as pd
 from torch.optim.lr_scheduler import StepLR
 
 from dataset import MusicDataset
-from model import ModelConfig, MultiTaskMultimodalLSTM, compute_multitask_loss
+from model import ModelConfig, MultiTaskMultimodalLSTM
 from genre_mapper import MAIN_GENRES
+
+import numpy as np
+from sklearn.utils.class_weight import compute_class_weight
+import torch.nn.functional as F
 
 
 # =========================
 # Collate function
 # =========================
 def collate_fn(batch):
-    # keep only samples that have genre
     batch = [x for x in batch if x is not None and "genre" in x]
-
     if len(batch) == 0:
         return None
 
     mel_lens = [item["mel_len"] for item in batch]
-    mel_padded = pad_sequence(
-        [item["mel"] for item in batch],
-        batch_first=True
-    )
+    mel_padded = pad_sequence([item["mel"] for item in batch], batch_first=True)
 
     tok_lens = [item["tok_len"] for item in batch]
     tokens_padded = pad_sequence(
@@ -233,7 +232,7 @@ def collate_fn(batch):
         padding_value=0
     )
 
-    result = {
+    return {
         "mel": mel_padded,
         "mel_lens": torch.tensor(mel_lens),
         "tokens": tokens_padded,
@@ -242,9 +241,6 @@ def collate_fn(batch):
         "arousal": torch.stack([item["arousal"] for item in batch]),
         "genre": torch.stack([item["genre"] for item in batch]),
     }
-
-    return result
-
 
 
 # =========================
@@ -256,7 +252,7 @@ LYRICS_DIR = "../data/lyrics"
 
 
 # =========================
-# Simple tokenizer
+# Tokenizer
 # =========================
 def simple_tokenizer(text):
     return [ord(c) % 256 for c in text]
@@ -268,7 +264,6 @@ def simple_tokenizer(text):
 df = pd.read_csv(CSV_FILE, encoding="utf-8")
 have_genre = "genre" in df.columns and df["genre"].notna().any()
 
-# 🔥 MAIN GENRE MAP ONLY
 genre_map = {g: i for i, g in enumerate(MAIN_GENRES)} if have_genre else None
 
 print("🎵 Training on MAIN genres only:")
@@ -280,8 +275,7 @@ print(genre_map)
 # =========================
 if __name__ == "__main__":
 
-    # Dataset
-    full_dataset = MusicDataset(
+    dataset = MusicDataset(
         CSV_FILE,
         AUDIO_DIR,
         LYRICS_DIR,
@@ -289,60 +283,66 @@ if __name__ == "__main__":
         tokenizer=simple_tokenizer
     )
 
-    train_size = int(0.9 * len(full_dataset))
-    test_size = len(full_dataset) - train_size
+    # =========================
+    # 🔥 CLASS WEIGHTS (CRITICAL FIX)
+    # =========================
+    genre_labels = []
+    for i in range(len(dataset)):
+        item = dataset[i]
+        if item and "genre" in item:
+            genre_labels.append(item["genre"].item())
 
-    train_dataset, test_dataset = random_split(
-        full_dataset, [train_size, test_size]
+    genre_labels = np.array(genre_labels)
+
+    class_weights = compute_class_weight(
+        class_weight="balanced",
+        classes=np.unique(genre_labels),
+        y=genre_labels
     )
 
-    print(f"📊 Dataset split: {train_size} train | {test_size} test")
-
-    train_loader = DataLoader(
-        train_dataset,
-        batch_size=8,
-        shuffle=True,
-        collate_fn=collate_fn
-    )
-
-    test_loader = DataLoader(
-        test_dataset,
-        batch_size=8,
-        shuffle=False,
-        collate_fn=collate_fn
-    )
+    class_weights = torch.tensor(class_weights, dtype=torch.float32)
+    print(" Genre class weights:", class_weights.tolist())
 
     # =========================
-    # Model setup
+    # Split
+    # =========================
+    train_size = int(0.9 * len(dataset))
+    test_size = len(dataset) - train_size
+    train_dataset, test_dataset = random_split(dataset, [train_size, test_size])
+
+    print(f" Dataset split: {train_size} train | {test_size} test")
+
+    train_loader = DataLoader(train_dataset, batch_size=8, shuffle=True, collate_fn=collate_fn)
+    test_loader = DataLoader(test_dataset, batch_size=8, shuffle=False, collate_fn=collate_fn)
+
+    # =========================
+    # Model
     # =========================
     cfg = ModelConfig(
         n_mels=80,
         vocab_size=256,
         pad_idx=0,
-        n_genre=len(genre_map) if have_genre else None,
-        hidden_size=64,        # ✅ FINAL
+        n_genre=len(genre_map),
+        hidden_size=64,
         num_layers=2
     )
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model = MultiTaskMultimodalLSTM(cfg).to(device)
+    class_weights = class_weights.to(device)
 
     optimizer = optim.Adam(model.parameters(), lr=1e-4)
     scheduler = StepLR(optimizer, step_size=5, gamma=0.5)
 
-    # =========================
-    # Save directory
-    # =========================
-    SAVE_DIR = os.path.join(os.path.dirname(__file__), "Save_model")
+    SAVE_DIR = "Save_model"
     os.makedirs(SAVE_DIR, exist_ok=True)
 
     best_loss = float("inf")
-
-    # =========================
-    # Training loop
-    # =========================
     EPOCHS = 5
 
+    # =========================
+    # Training
+    # =========================
     for epoch in range(EPOCHS):
         model.train()
         total_loss = 0.0
@@ -355,20 +355,22 @@ if __name__ == "__main__":
             mel_lens = batch["mel_lens"].to(device)
             tokens = batch["tokens"].to(device)
             tok_lens = batch["tok_lens"].to(device)
+            genre = batch["genre"].to(device)
 
             optimizer.zero_grad()
-
             outputs = model(mel, mel_lens, tokens, tok_lens)
 
-            targets = {
-                "valence": batch["valence"].to(device),
-                "arousal": batch["arousal"].to(device),
-            }
+            # 🔥 Weighted genre loss
+            genre_loss = F.cross_entropy(
+                outputs["genre"],
+                genre,
+                weight=class_weights
+            )
 
-            if "genre" in batch:
-                targets["genre"] = batch["genre"].to(device)
+            valence_loss = F.mse_loss(outputs["valence"], batch["valence"].to(device))
+            arousal_loss = F.mse_loss(outputs["arousal"], batch["arousal"].to(device))
 
-            loss, losses = compute_multitask_loss(outputs, targets)
+            loss = valence_loss + arousal_loss + genre_loss
             loss.backward()
             optimizer.step()
 
@@ -377,54 +379,11 @@ if __name__ == "__main__":
         scheduler.step()
         avg_loss = total_loss / len(train_loader)
 
-        print(
-            f"Epoch {epoch+1}/{EPOCHS} | "
-            f"Loss: {avg_loss:.4f} | "
-            f"Components: {losses}"
-        )
+        print(f"Epoch {epoch+1}/{EPOCHS} | Loss: {avg_loss:.4f}")
 
         if avg_loss < best_loss:
             best_loss = avg_loss
-            save_path = os.path.join(SAVE_DIR, "best_model.pth")
-            torch.save(model.state_dict(), save_path)
-            print(f"✅ Saved best model → {save_path}")
+            torch.save(model.state_dict(), os.path.join(SAVE_DIR, "best_model.pth"))
+            print("✅ Saved best model")
 
-    print("\n🎉 Training complete!")
-
-
-    # =========================
-    # Evaluation
-    # =========================
-    best_model_path = os.path.join(SAVE_DIR, "best_model.pth")
-    if os.path.exists(best_model_path):
-        model.load_state_dict(torch.load(best_model_path, map_location=device))
-        print("🔥 Loaded best model for evaluation")
-
-    model.eval()
-    test_loss = 0.0
-
-    with torch.no_grad():
-        for batch in test_loader:
-            if batch is None:
-                continue
-
-            mel = batch["mel"].to(device)
-            mel_lens = batch["mel_lens"].to(device)
-            tokens = batch["tokens"].to(device)
-            tok_lens = batch["tok_lens"].to(device)
-
-            outputs = model(mel, mel_lens, tokens, tok_lens)
-
-            targets = {
-                "valence": batch["valence"].to(device),
-                "arousal": batch["arousal"].to(device),
-            }
-
-            if "genre" in batch:
-                targets["genre"] = batch["genre"].to(device)
-
-            loss, _ = compute_multitask_loss(outputs, targets)
-            test_loss += loss.item()
-
-    avg_test_loss = test_loss / len(test_loader)
-    print(f"📉 Test Loss: {avg_test_loss:.4f}")
+    print("\n Training complete!")

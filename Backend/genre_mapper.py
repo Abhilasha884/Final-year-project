@@ -105,13 +105,54 @@ GENRE_MAPPING = {
 }
 
 
+# def map_to_main_genre(genre: str):
+#     """
+#     Maps fine-grained genre to one of the 8 MAIN genres.
+#     Returns None if unmapped.
+#     """
+#     if not genre:
+#         return None
+
+#     genre = genre.strip()
+#     return GENRE_MAPPING.get(genre, None)
+
 def map_to_main_genre(genre: str):
-    """
-    Maps fine-grained genre to one of the 8 MAIN genres.
-    Returns None if unmapped.
-    """
     if not genre:
         return None
 
-    genre = genre.strip()
-    return GENRE_MAPPING.get(genre, None)
+    g = genre.lower()
+
+    # ROCK
+    if any(x in g for x in ["rock", "metal", "grunge", "alternative"]):
+        return "Rock"
+
+    # POP
+    if any(x in g for x in ["pop", "k-pop", "dance pop", "synth"]):
+        return "Pop"
+
+    # HIP-HOP
+    if any(x in g for x in ["hip", "rap", "trap"]):
+        return "Hip-Hop"
+
+    # R&B / SOUL
+    if any(x in g for x in ["r&b", "soul", "neo-soul"]):
+        return "R&B"
+
+    # ELECTRONIC
+    if any(x in g for x in ["edm", "electronic", "dance", "house", "techno"]):
+        return "Electronic"
+
+    # JAZZ
+    if "jazz" in g:
+        return "Jazz"
+
+    # CLASSICAL / INDIAN
+    if any(x in g for x in ["classical", "instrumental", "orchestral"]):
+        return "Classical"
+
+    # COUNTRY / FOLK / PATRIOTIC
+    if any(x in g for x in ["country", "folk", "patriotic", "devotional"]):
+        return "Country"
+
+    return None
+
