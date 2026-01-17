@@ -198,18 +198,17 @@
 import os
 import torch
 import torch.optim as optim
-from torch.utils.data import DataLoader, random_split
+from torch.utils.data import DataLoader
 from torch.nn.utils.rnn import pad_sequence
 import pandas as pd
-from torch.optim.lr_scheduler import StepLR
-import torch.nn.functional as F
-
 import numpy as np
+import torch.nn.functional as F
+from torch.optim.lr_scheduler import StepLR
 from sklearn.utils.class_weight import compute_class_weight
 
 from dataset import MusicDataset
 from model import ModelConfig, MultiTaskMultimodalLSTM
-from genre_mapper import MAIN_GENRES, GENRE_TO_IDX
+from genre_mapper import MAIN_GENRES
 
 
 # =========================
@@ -221,10 +220,7 @@ def collate_fn(batch):
         return None
 
     mel_lens = [item["mel_len"] for item in batch]
-    mel_padded = pad_sequence(
-        [item["mel"] for item in batch],
-        batch_first=True
-    )
+    mel_padded = pad_sequence([item["mel"] for item in batch], batch_first=True)
 
     tok_lens = [item["tok_len"] for item in batch]
     tokens_padded = pad_sequence(
@@ -245,9 +241,9 @@ def collate_fn(batch):
 
 
 # =========================
-# Paths (FINAL CSV)
+# Paths (TRAIN ONLY)
 # =========================
-CSV_FILE = "../data/labels_mapped.csv"   # ✅ processed CSV
+CSV_FILE = "../data/labels_train.csv"
 AUDIO_DIR = "../data/audio"
 LYRICS_DIR = "../data/lyrics"
 
@@ -260,35 +256,30 @@ def simple_tokenizer(text):
 
 
 # =========================
-# Load CSV (NO GENRE LOGIC)
+# Genre map (FIXED 8 genres)
 # =========================
-df = pd.read_csv(CSV_FILE, encoding="utf-8")
-
-assert "main_genre" in df.columns, "❌ main_genre column missing in CSV"
-
-print("📊 Genre distribution used for training:")
-print(df["main_genre"].value_counts())
-
-genre_map = GENRE_TO_IDX
+genre_map = {g: i for i, g in enumerate(MAIN_GENRES)}
 print("🎵 Training on MAIN genres:")
 print(genre_map)
 
 
 # =========================
-# Main
+# Main Training
 # =========================
 if __name__ == "__main__":
 
     dataset = MusicDataset(
-        csv_file=CSV_FILE,
-        audio_dir=AUDIO_DIR,
-        lyrics_dir=LYRICS_DIR,
+        CSV_FILE,
+        AUDIO_DIR,
+        LYRICS_DIR,
         genre_map=genre_map,
         tokenizer=simple_tokenizer
     )
 
+    print(f"✅ Training samples: {len(dataset)}")
+
     # =========================
-    # 🔥 CLASS WEIGHTS (IMBALANCE FIX)
+    # 🔥 CLASS WEIGHTS
     # =========================
     genre_labels = []
     for i in range(len(dataset)):
@@ -305,28 +296,15 @@ if __name__ == "__main__":
     )
 
     class_weights = torch.tensor(class_weights, dtype=torch.float32)
-    print("⚖️ Genre class weights:", class_weights.tolist())
+    print("⚖ Genre class weights:", class_weights.tolist())
 
     # =========================
-    # Split
+    # DataLoader
     # =========================
-    train_size = int(0.9 * len(dataset))
-    test_size = len(dataset) - train_size
-    train_dataset, test_dataset = random_split(dataset, [train_size, test_size])
-
-    print(f"📊 Dataset split: {train_size} train | {test_size} test")
-
     train_loader = DataLoader(
-        train_dataset,
+        dataset,
         batch_size=8,
         shuffle=True,
-        collate_fn=collate_fn
-    )
-
-    test_loader = DataLoader(
-        test_dataset,
-        batch_size=8,
-        shuffle=False,
         collate_fn=collate_fn
     )
 
@@ -337,7 +315,7 @@ if __name__ == "__main__":
         n_mels=80,
         vocab_size=256,
         pad_idx=0,
-        n_genre=len(MAIN_GENRES),
+        n_genre=len(genre_map),
         hidden_size=64,
         num_layers=2
     )
@@ -356,7 +334,7 @@ if __name__ == "__main__":
     EPOCHS = 5
 
     # =========================
-    # Training
+    # Training loop
     # =========================
     for epoch in range(EPOCHS):
         model.train()
@@ -375,22 +353,14 @@ if __name__ == "__main__":
             optimizer.zero_grad()
             outputs = model(mel, mel_lens, tokens, tok_lens)
 
-            # 🔥 Weighted genre loss
             genre_loss = F.cross_entropy(
                 outputs["genre"],
                 genre,
                 weight=class_weights
             )
 
-            valence_loss = F.mse_loss(
-                outputs["valence"],
-                batch["valence"].to(device)
-            )
-
-            arousal_loss = F.mse_loss(
-                outputs["arousal"],
-                batch["arousal"].to(device)
-            )
+            valence_loss = F.mse_loss(outputs["valence"], batch["valence"].to(device))
+            arousal_loss = F.mse_loss(outputs["arousal"], batch["arousal"].to(device))
 
             loss = valence_loss + arousal_loss + genre_loss
             loss.backward()
@@ -406,6 +376,6 @@ if __name__ == "__main__":
         if avg_loss < best_loss:
             best_loss = avg_loss
             torch.save(model.state_dict(), os.path.join(SAVE_DIR, "best_model.pth"))
-            print("✅ Saved best model")
+            print(" Saved best model")
 
-    print("\n🎉 Training complete!")
+    print("\n Training complete!")

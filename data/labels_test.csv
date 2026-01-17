@@ -1,0 +1,83 @@
+song_id,language,singer,valence,arousal,genre,main_genre
+english_Asleep,English,The Smiths,0.15,0.25,Dream Pop,Pop
+english_Breezeblocks,English,alt-J,0.55,0.7,Indie Rock,Rock
+english_Chandelier,English,Sia,0.6,0.85,Electropop,Electronic
+english_High_Hopes,English,Kodaline,0.8,0.75,Pop Rock,Rock
+english_Savage_Love,English,Jawsh 685 & Jason Derulo,0.8,0.8,Dance Pop,Pop
+hindi_Chaleya,Hindi,"Arijit Singh, Shilpa Rao",0.8,0.5,Indian Film Romantic Ballad,Pop
+hindi_Manike,Hindi,"Jubin Nautiyal, Yohani",0.75,0.8,Indo-Pop Dance,Electronic
+english_Master_of_Puppets,English,Metallica,0.45,0.9,Thrash Metal,Rock
+english_Video_Games,English,Lana Del Rey,0.3,0.35,Dream Pop,Pop
+english_Some_Nights,English,fun.,0.65,0.8,Indie Pop,Pop
+english_Billie_Jean,English,Michael Jackson,0.9,0.8,Post-Disco,R&B
+hindi_Kabira,Hindi,Tochi Raina & Rekha Bhardwaj,0.5,0.5,Indian Film Folk Ballad,Country
+hindi_Param_Sundari,Hindi,Shreya Ghoshal,0.9,0.8,Bollywood Dance Pop,Pop
+english_I_Will_Always_Love_You,English,Whitney Houston,0.3,0.4,Soul Pop Ballad,R&B
+english_Last_Night,English,Morgan Wallen,0.7,0.6,Country Pop,Country
+marathi_Yad_Lagla,Marathi,Ajay Gogavale,0.85,0.7,Marathi Romantic Ballad,Classical
+english_Between_the_Bars,English,Elliott Smith,0.25,0.3,Indie Folk,Country
+english_Ends_of_the_Earth,English,Lord Huron,0.65,0.55,Indie Folk,Country
+hindi_Cutiepie,Hindi,Nakash Aziz,0.9,0.88,Bollywood Dance Pop,Pop
+english_Radioactive,English,Imagine Dragons,0.6,0.9,Alternative Electronic Rock,Rock
+english_Breezin’,English,George Benson,0.68,0.55,Smooth Jazz,Jazz
+"english_No_Light,_No_Light",English,Florence + The Machine,0.7,0.75,Indie Rock,Rock
+english_Saint_Valentine,English,Gregory Alan Isakov,0.4,0.36,Indie Folk,Country
+english_Die_For_You,English,"The Weeknd, Ariana Grande",0.4,0.55,Synth Pop,Pop
+english_Cruise,English,Florida Georgia Line,0.85,0.75,Country Pop,Country
+hindi_Aaj_Jaane_Ki_Zid_Na_Karo,Hindi,Farida Khanum,0.28,0.22,Indian Classical Ghazal,Classical
+hindi_Kyun,Hindi,Papon,0.45,0.51,Indian Film Sad Ballad,Classical
+english_Do_I_Wanna_Know,English,Arctic Monkeys,0.4,0.55,Alternative Rock,Rock
+english_Willow,English,Taylor Swift,0.7,0.6,Folk Pop,Pop
+english_Moanin',English,Art Blakey & The Jazz Messengers,0.7,0.6,Hard Bop,Jazz
+english_Electric_Feel_(Justice_Remix),English,MGMT,0.7,0.8,Electronic Dance,Electronic
+english_Riders_on_the_Storm,English,The Doors,0.5,0.6,Psychedelic Rock,Rock
+english_Be_Alright,English,Dean Lewis,0.3,0.45,Pop Ballad,Pop
+english_God_Bless_the_USA,English,Lee Greenwood,0.8,0.55,Patriotic Country,Country
+english_Mockingbird,English,Eminem,0.3,0.4,Hip-Hop,Hip-Hop
+english_Don't_You_Want_Me,English,The Human League,0.7,0.75,Synth Pop,Pop
+english_Ventura_Highway,English,America,0.7,0.6,Soft Rock,Rock
+english_Friends_in_Low_Places,English,Garth Brooks,0.9,0.7,Country,Country
+english_Imagine,English,John Lennon,0.75,0.25,Soft Rock,Rock
+english_Post_Break-Up_Sex,English,The Vaccines,0.46,0.72,Indie Rock,Rock
+english_Ordinary,English,Alex Warren,0.75,0.7,Pop Ballad,Pop
+english_Therefore_I_Am,English,Billie Eilish,0.7,0.6,Alternative Pop,Rock
+english_Say_So,English,Doja Cat,0.8,0.75,Disco Pop,Pop
+english_Bridge_Over_Troubled_Water,English,Simon & Garfunkel,0.4,0.35,Gospel Pop,R&B
+english_Butter,English,BTS,0.9,0.85,Dance Pop,Pop
+english_Death_Bed,English,Powfu,0.25,0.35,Bedroom Pop,Pop
+english_Zombie,English,The Cranberries,0.25,0.75,Alternative Rock,Rock
+english_No_Woman_No_Cry,English,Bob Marley,0.6,0.6,Reggae,R&B
+english_Something_in_the_Orange,English,Zach Bryan,0.35,0.45,Country Folk,Country
+english_Divinity,English,Porter Robinson,0.68,0.83,Progressive House,Electronic
+english_Lose_Yourself,English,Eminem,0.6,0.9,Hardcore Hip-Hop,Hip-Hop
+hindi_Mann_Bharrya,Hindi,B Praak,0.15,0.4,Punjabi Folk Pop,Country
+hindi_Chura_Liya_Hai_Tumne_Jo_Dil_Ko,Hindi,"Asha Bhosle, Mohammed Rafi",0.6,0.5,Indian Film Romantic Ballad,Pop
+english_Black_Dog,English,Led Zeppelin,0.6,0.9,Hard Rock,Rock
+english_Bad_Moon_Rising,English,Creedence Clearwater Revival,0.65,0.75,Roots Rock,Country
+english_Naima,English,John Coltrane,0.35,0.25,Modal Jazz,Jazz
+english_Shuggie,English,Foxygen,0.65,0.7,Indie Rock,Rock
+english_Pumped_Up_Kicks,English,Foster the People,0.55,0.7,Indie Pop,Pop
+english_Numb,English,Linkin Park,0.2,0.8,Alternative Metal,Rock
+english_Rock_Your_Body,English,Justin Timberlake,0.85,0.9,Pop R&B,R&B
+hindi_Deva_Deva,Hindi,"Arijit Singh, Jonita Gandhi",0.8,0.7,Indian Film Devotional Pop,Classical
+english_To_Love_Somebody,English,Bee Gees,0.8,0.7,Blue-Eyed Soul,R&B
+english_Don’t_Go_Yet,English,Camila Cabello,0.75,0.85,Latin Pop,Pop
+english_Night_Owl,English,Gerry Rafferty,0.5,0.4,Jazz Fusion,Jazz
+english_Vienna,English,Billy Joel,0.5,0.45,Soft Rock,Rock
+english_Permission_to_Dance,English,BTS,0.95,0.85,Dance Pop,Pop
+english_Hurt,English,Johnny Cash,0.2,0.35,Alternative Rock,Rock
+english_Take_Five,English,Dave Brubeck Quartet,0.6,0.5,Cool Jazz,Jazz
+english_Already_Gone,English,Sleeping At Last,0.35,0.4,Pop Rock Ballad,Rock
+english_Hotline_Bling,English,Drake,0.75,0.7,Pop R&B,R&B
+english_Blue_Monday,English,New Order,0.75,0.85,Synth Pop,Pop
+english_Go_Your_Own_Way,English,Fleetwood Mac,0.85,0.8,Pop Rock,Rock
+english_Fancy_Like,English,Walker Hayes,0.8,0.7,Country Pop,Country
+english_Alaska,English,Maggie Rogers,0.7,0.65,Indie Pop,Pop
+english_Seven_Nation_Army,English,The White Stripes,0.55,0.7,Garage Rock,Rock
+english_True_Love_Waits,English,Radiohead,0.15,0.3,Alternative Rock,Rock
+hindi_Apna_Bana_Le,Hindi,Arijit Singh,0.7,0.55,Indian Film Romantic Ballad,Pop
+english_Untitled_(How_Does_It_Feel),English,D'Angelo,0.55,0.45,Neo-Soul,R&B
+"english_Jesus,_Take_the_Wheel",English,Carrie Underwood,0.55,0.3,Country Pop,Country
+hindi_Bhula_Dena,Hindi,Mustafa Zahid,0.28,0.42,Indian Film Sad Ballad,Classical
+english_Stay,English,"The Kid LAROI, Justin Bieber",0.8,0.9,Pop Rap,Hip-Hop
+english_Ho_Hey,English,The Lumineers,0.85,0.75,Folk Pop,Pop
