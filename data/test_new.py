@@ -36,13 +36,54 @@ def safe_filename(name):
 # SONGS LIST WITH VERIFIED LINKS
 # ===============================
 songs_info = [
-
+(
+ "Embraceable You", "Ella Fitzgerald", "English", 0.36, 0.30, "Jazz Vocal",
+ ["https://www.youtube.com/watch?v=RF1yQMPMEMo&pp=ygUfRWxsYSBGaXR6Z2VyYWxkIEVtYnJhY2VhYmxlIFlvdQ%3D%3D"]
+),
 
 (
- "Star Eyes", "Charlie Parker", "English", 0.33, 0.24, "Jazz Ballad",
- [
-     "https://in.video.search.yahoo.com/search/video;_ylt=Awr1SkjzAm1pBgIAaJi7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E211IN1357G0&p=%22Star+Eyes%22%2C+%22Charlie+Parker%22&fr=mcafee&turl=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOVP.8AVDBtC4sYAA90h989iTdQHgFo%3Fpid%3DApi%26w%3D296%26h%3D156%26c%3D7%26p%3D0&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8CsKnTUbth0&tit=Charlie+Parker%3A+Star+Eyes&pos=11&vid=c1d6e78717be312734f959da43464ca7&sigr=R9bDp2mGuswr&sigt=rAZUOqytiNbs&sigi=BtWeUa6uqZ.."  # Charlie Parker – Star Eyes (classic jazz instrumental) :contentReference[oaicite:2]{index=2}
- ]
+ "You Go to My Head", "Billie Holiday", "English", 0.33, 0.27, "Jazz Ballad",
+ ["https://www.youtube.com/watch?v=V7xQd3yt590&pp=ygUgQmlsbGllIEhvbGlkYXkgWW91IEdvIHRvIE15IEhlYWQ%3D"]
+),
+
+(
+ "When Sunny Gets Blue", "Nancy Wilson", "English", 0.35, 0.29, "Jazz Ballad",
+ ["https://www.youtube.com/watch?v=vVJyqIiEHto&pp=ygUhTmFuY3kgV2lsc29uIFdoZW4gU3VubnkgR2V0cyBCbHVl"]
+),
+
+(
+ "Almost Like Being in Love", "Ella Fitzgerald", "English", 0.70, 0.65, "Swing Jazz",
+ ["https://www.youtube.com/watch?v=1sTe80kHhyw&pp=ygUpRWxsYSBGaXR6Z2VyYWxkIEFsbW9zdCBMaWtlIEJlaW5nIGluIExvdmU%3D"]
+),
+
+(
+ "Detour Ahead", "Sarah Vaughan", "English", 0.30, 0.25, "Jazz Ballad",
+ ["https://www.youtube.com/watch?v=1Hyps3oh9tc&pp=ygUaU2FyYWggVmF1Z2hhbiBEZXRvdXIgQWhlYWQ%3D"]
+),
+
+(
+ "I'm Glad There Is You", "Julie London", "English", 0.32, 0.26, "Cool Jazz",
+ ["https://www.youtube.com/watch?v=qcwHFY_6PyE&pp=ygUiSnVsaWUgTG9uZG9uIEknbSBHbGFkIFRoZXJlIElzIFlvdQ%3D%3D"]
+),
+
+(
+ "East of the Sun", "Frank Sinatra", "English", 0.38, 0.32, "Jazz Vocal",
+ ["https://www.youtube.com/watch?v=1CvZqCNyEBc&pp=ygUdRnJhbmsgU2luYXRyYSBFYXN0IG9mIHRoZSBTdW4%3D"]
+),
+
+(
+ "Black Coffee", "Peggy Lee", "English", 0.29, 0.23, "Jazz Ballad",
+ ["https://www.youtube.com/watch?v=_udW-G6VEhg&pp=ygUWUGVnZ3kgTGVlIEJsYWNrIENvZmZlZdIHCQlPCgGHKiGM7w%3D%3D"]
+),
+
+(
+ "But Not for Me", "Chet Baker", "English", 0.34, 0.28, "Jazz Vocal",
+ ["https://www.youtube.com/watch?v=QwAwtMt8t4s&pp=ygUZQ2hldCBCYWtlciBCdXQgTm90IGZvciBNZQ%3D%3D"]
+),
+
+(
+ "You're My Thrill", "Billie Holiday", "English", 0.31, 0.25, "Jazz Ballad",
+ ["https://www.youtube.com/watch?v=tZJoVPFoYPM&pp=ygUfQmlsbGllIEhvbGlkYXkgWW91J3JlIE15IFRocmlsbA%3D%3D"]
 )
 
 

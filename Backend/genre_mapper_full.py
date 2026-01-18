@@ -129,6 +129,7 @@ SUBGENRE_TO_MAIN = {
     "Indie Soul": "R&B",
     "Indo-Pop Dance": "Electronic",
     "Jazz Ballad": "Jazz",
+    "Modern Jazz" : "Jazz",
     "Jazz Funk": "Jazz",
     "Jazz Fusion": "Jazz",
     "Jazz Rap": "Jazz",
