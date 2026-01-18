@@ -37,8 +37,37 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-("Power", "Marcus Miller", "English", 0.65, 0.80, "JAZZ",
-["https://www.youtube.com/watch?v=047OjeEg1Xg"]),
+("Valerie", "Amy Winehouse", "English", 0.85, 0.70, "Soul Pop",
+["https://www.youtube.com/watch?v=bixuI_GV5I0"]),
+
+("Back to Black", "Amy Winehouse", "English", 0.45, 0.55, "Soul Pop",
+["https://www.youtube.com/watch?v=TJAfLE39ZZ8"]),
+
+("Rolling in the Deep", "Adele", "English", 0.70, 0.80, "Soul Pop",
+["https://www.youtube.com/watch?v=rYEDA3JcQqw"]),
+
+("Put Your Records On", "Corinne Bailey Rae", "English", 0.85, 0.45, "Soul Pop",
+["https://www.youtube.com/watch?v=rjOhZZyn30k"]),
+
+("Rehab", "Amy Winehouse", "English", 0.80, 0.75, "Soul Pop",
+["https://www.youtube.com/watch?v=KUmZp8pR1uc"]),
+
+
+("All I Ask", "Adele", "English", 0.40, 0.30, "Soul Pop Ballad",
+["https://www.youtube.com/watch?v=K2P39ost14k"]),
+
+("Love on the Brain", "Rihanna", "English", 0.45, 0.40, "Soul Pop Ballad",
+["https://www.youtube.com/watch?v=0RyInjfgNc4"]),
+
+("I Have Nothing", "Whitney Houston", "English", 0.45, 0.45, "Soul Pop Ballad",
+["https://www.youtube.com/watch?v=FxYw0XPEoKE"]),
+
+("When I Was Your Man", "Bruno Mars", "English", 0.35, 0.30, "Soul Pop Ballad",
+["https://www.youtube.com/watch?v=ekzHIouo8Q4"]),
+
+("If I Were a Boy", "Beyoncé", "English", 0.40, 0.35, "Soul Pop Ballad",
+["https://www.youtube.com/watch?v=AWpsOqh8q0M"])
+
 
 
 ]

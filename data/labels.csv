@@ -111,7 +111,6 @@ english_Everybody_Wants_to_Rule_the_World,English,Tears for Fears,0.75,0.55,New 
 english_Eye_of_the_Tiger,English,Survivor,0.75,0.95,Arena Rock
 english_The_Sound_of_Silence,English,Simon & Garfunkel,0.2,0.25,Folk Rock
 english_Under_Pressure,English,Queen & David Bowie,0.55,0.7,Art Rock
-english_Killing_Me_Softly_With_His_Song,English,Fugees,0.4,0.45,Soul Pop
 english_Man_in_the_Mirror,English,Michael Jackson,0.65,0.55,Pop Soul
 english_The_Winner_Takes_It_All,English,ABBA,0.3,0.4,Pop Ballad
 english_Every_Rose_Has_Its_Thorn,English,Poison,0.35,0.45,Glam Metal Ballad
@@ -219,7 +218,6 @@ english_Goosebumps,English,Travis Scott,0.7,0.8,Trap Pop
 english_Mood,English,24kGoldn ft. Iann Dior,0.8,0.8,Pop Rap
 english_Therefore_I_Am,English,Billie Eilish,0.7,0.6,Alternative Pop
 english_Willow,English,Taylor Swift,0.7,0.6,Folk Pop
-english_Leave_The_Door_Open,English,Silk Sonic,0.9,0.8,Retro Soul
 english_Kiss_Me_More,English,Doja Cat ft. SZA,0.9,0.8,Pop Rap
 hindi_Dil_Bechara,Hindi,A.R. Rahman,0.9,0.9,Indian Film Sad Ballad
 hindi_Duniyaa,Hindi,"Akhil, Dhvani Bhanushali",0.8,0.8,Indian Film Romantic Ballad
@@ -752,13 +750,11 @@ english_I_Remember,English,Deadmau5 & Kaskade,0.55,0.75,Progressive House
 english_Innerbloom,English,RÜFÜS DU SOL,0.6,0.78,Progressive House
 english_Divinity,English,Porter Robinson,0.68,0.83,Progressive House
 english_Language,English,Porter Robinson,0.72,0.88,Progressive House
-english_POWER,English,Kanye West,0.6,0.82,Hip-Hop
 english_Stan,English,Eminem,0.25,0.45,Hip-Hop
 english_Changes,English,2Pac,0.4,0.5,Hip-Hop
 english_God's_Plan,English,Drake,0.65,0.7,Hip-Hop
 english_Mockingbird,English,Eminem,0.3,0.4,Hip-Hop
 english_Juicy,English,The Notorious B.I.G.,0.7,0.65,Hip-Hop
-english_Down_With_The_Sickness,English,Disturbed,0.3,0.93,Nu Metal
 english_Psychosocial,English,Slipknot,0.38,0.94,Heavy Metal
 hindi_Jaane_Woh_Kaise_Log_The,Hindi,Hemant Kumar,0.22,0.2,Indian Film Ghazal
 hindi_Tujhse_Naraz_Nahi_Zindagi_(Male),Hindi,Anup Ghoshal,0.35,0.25,Indian Film Philosophical Ballad
@@ -817,4 +813,171 @@ english_Don’t_Know_Why,English,Norah Jones,0.45,0.3,Vocal Jazz
 english_Butterfly,English,Herbie Hancock,0.5,0.45,Smooth Jazz
 english_Soulful_Strut,English,Young-Holt Unlimited,0.75,0.55,Jazz Funk
 english_Steps_Ahead,English,Steps Ahead,0.6,0.65,Jazz Fusion
-english_Power,English,Marcus Miller,0.65,0.8,Jazz Fusion
+english_Ain't_It_Funny,English,Danny Brown,0.45,0.85,Hip-Hop
+english_Daydreamin',English,Lupe Fiasco,0.6,0.65,Hip-Hop
+english_Lost_Ones,English,Lauryn Hill,0.4,0.6,Hip-Hop
+english_Electric_Relaxation,English,A Tribe Called Quest,0.65,0.55,Hip-Hop
+english_Rebirth_of_Slick_(Cool_Like_Dat),English,Digable Planets,0.75,0.55,Hip-Hop
+english_Potholderz,English,MF DOOM,0.5,0.7,Hip-Hop
+english_Shadowboxin',English,GZA,0.45,0.8,Hip-Hop
+english_Country_Grammar,English,Nelly,0.7,0.75,Hip-Hop
+english_Dirt_Road_Anthem,English,Jason Aldean,0.65,0.6,Hip-Hop
+english_Raise_Hell,English,Brantley Gilbert,0.6,0.85,Hip-Hop
+english_Ride_Through_the_Country,English,Colt Ford ft. John Michael Montgomery,0.65,0.7,Hip-Hop
+english_Hit_'Em_Up,English,2Pac,0.35,0.95,Hip-Hop
+english_Protect_Ya_Neck,English,Wu-Tang Clan,0.45,0.85,Hip-Hop
+english_Ante_Up,English,M.O.P.,0.4,0.95,Hip-Hop
+english_Bring_Da_Ruckus,English,Wu-Tang Clan,0.45,0.9,Hip-Hop
+english_NY_State_of_Mind,English,Nas,0.35,0.8,Hip-Hop
+english_Twinz_(Deep_Cover_'98),English,Big Pun,0.4,0.9,Hip-Hop
+english_Simon_Says,English,Pharoahe Monch,0.5,0.85,Hip-Hop
+english_The_What,English,The Notorious B.I.G. ft. Method Man,0.45,0.85,Hip-Hop
+english_Slow_Jamz,English,"Twista ft. Kanye West, Jamie Foxx",0.75,0.55,Hip-Hop R&B
+english_Poetic_Justice,English,Kendrick Lamar ft. Drake,0.65,0.45,Hip-Hop R&B
+english_You_Got_Me,English,The Roots ft. Erykah Badu,0.6,0.4,Hip-Hop R&B
+english_I'll_Be_Missing_You,English,Puff Daddy ft. Faith Evans,0.55,0.35,Hip-Hop R&B
+english_One_Dance,English,Drake ft. Wizkid,0.8,0.65,Hip-Hop R&B
+english_Love_Lockdown,English,Kanye West,0.6,0.7,Hip-Hop R&B
+english_Come_Through_and_Chill,English,Miguel ft. J. Cole,0.7,0.45,Hip-Hop R&B
+english_Focus,English,H.E.R.,0.55,0.4,Hip-Hop R&B
+english_Ascension_(Don't_Ever_Wonder),English,Maxwell,0.7,0.45,Hip-Hop Soul
+english_Love,English,Keyshia Cole,0.6,0.4,Hip-Hop Soul
+english_Brown_Sugar,English,D'Angelo,0.7,0.45,Hip-Hop Soul
+english_So_Beautiful,English,Musiq Soulchild,0.75,0.35,Hip-Hop Soul
+english_Fortunate,English,Maxwell,0.65,0.4,Hip-Hop Soul
+english_Back_to_the_World,English,Tevin Campbell,0.6,0.35,Hip-Hop Soul
+english_Can't_Hold_Us,English,Macklemore & Ryan Lewis,0.85,0.9,Pop Rap
+english_Love_the_Way_You_Lie,English,Eminem ft. Rihanna,0.45,0.7,Pop Rap
+english_See_You_Again,English,Wiz Khalifa ft. Charlie Puth,0.55,0.5,Pop Rap
+english_Old_Town_Road_(Remix),English,Lil Nas X ft. Billy Ray Cyrus,0.85,0.75,Pop Rap
+english_I_Like_It,English,Cardi B ft. Bad Bunny & J Balvin,0.9,0.85,Pop Rap
+english_The_Hills_(Remix),English,The Weeknd ft. Eminem,0.4,0.8,Pop Rap
+english_Empire_State_of_Mind,English,Jay-Z ft. Alicia Keys,0.75,0.8,Pop Rap
+english_Bring_Me_to_Life,English,Evanescence,0.4,0.9,Rap Metal
+english_Papercut,English,Linkin Park,0.45,0.85,Rap Metal
+english_Break_Stuff,English,Limp Bizkit,0.3,0.95,Rap Metal
+english_Rollin',English,Limp Bizkit,0.65,0.95,Rap Metal
+english_Bodies,English,Drowning Pool,0.25,0.98,Rap Metal
+english_Last_Resort,English,Papa Roach,0.2,0.9,Rap Metal
+english_Faint,English,Linkin Park,0.45,0.9,Rap Metal
+english_Killing_in_the_Name,English,Rage Against the Machine,0.3,0.95,Rap Rock
+english_Nookie,English,Limp Bizkit,0.55,0.85,Rap Rock
+english_My_Generation,English,Limp Bizkit,0.6,0.9,Rap Rock
+english_Psycho_Social,English,Slipknot,0.4,0.95,Rap Rock
+english_By_the_Way,English,Red Hot Chili Peppers,0.7,0.8,Rap Rock
+english_Give_It_Away,English,Red Hot Chili Peppers,0.75,0.85,Rap Rock
+english_Boom,English,P.O.D.,0.65,0.9,Rap Rock
+english_Alive,English,P.O.D.,0.8,0.85,Rap Rock
+english_Mask_Off,English,Future,0.55,0.8,Trap Hip-Hop
+english_Bad_and_Boujee,English,Migos ft. Lil Uzi Vert,0.7,0.85,Trap Hip-Hop
+english_Black_Beatles,English,Rae Sremmurd,0.75,0.7,Trap Hip-Hop
+english_XO_TOUR_Llif3,English,Lil Uzi Vert,0.45,0.85,Trap Hip-Hop
+english_Life_Is_Good,English,Future ft. Drake,0.7,0.75,Trap Hip-Hop
+english_Stir_Fry,English,Migos,0.8,0.85,Trap Hip-Hop
+english_No_Role_Modelz,English,J. Cole,0.65,0.7,Trap Hip-Hop
+english_Bank_Account,English,21 Savage,0.4,0.75,Trap Hip-Hop
+english_California_Love,English,2Pac ft. Dr. Dre,0.85,0.9,West Coast Hip-Hop
+english_Regulate,English,Warren G ft. Nate Dogg,0.7,0.65,West Coast Hip-Hop
+english_Gin_and_Juice,English,Snoop Dogg,0.8,0.7,West Coast Hip-Hop
+english_The_Next_Episode,English,Dr. Dre ft. Snoop Dogg,0.85,0.95,West Coast Hip-Hop
+english_Boyz-N-The-Hood,English,Eazy-E,0.45,0.85,West Coast Hip-Hop
+english_Nuthin'_but_a_'G'_Thang,English,Dr. Dre ft. Snoop Dogg,0.85,0.7,West Coast Hip-Hop
+english_Ambitionz_Az_a_Ridah,English,2Pac,0.55,0.9,West Coast Hip-Hop
+english_California_Love_(Remix),English,2Pac ft. Dr. Dre,0.8,0.85,West Coast Hip-Hop
+english_Thinkin_Bout_You,English,Frank Ocean,0.55,0.45,Alternative R&B
+english_The_Worst,English,Jhene Aiko,0.4,0.35,Alternative R&B
+english_Just_the_Two_of_Us,English,Bill Withers & Grover Washington Jr.,0.75,0.45,Blue-Eyed Soul
+english_How_Deep_Is_Your_Love,English,Bee Gees,0.7,0.4,Blue-Eyed Soul
+english_Careless_Whisper,English,George Michael,0.65,0.3,Blue-Eyed Soul
+english_She's_Gone,English,Hall & Oates,0.55,0.25,Blue-Eyed Soul
+english_Sara_Smile,English,Hall & Oates,0.8,0.35,Blue-Eyed Soul
+english_When_a_Man_Loves_a_Woman,English,Percy Sledge,0.4,0.35,Country Soul
+english_A_Change_Is_Gonna_Come,English,Sam Cooke,0.5,0.4,Country Soul
+english_I'd_Rather_Go_Blind,English,Etta James,0.35,0.3,Country Soul
+english_These_Arms_of_Mine,English,Otis Redding,0.45,0.3,Country Soul
+english_Take_Me_to_the_River,English,Al Green,0.55,0.45,Country Soul
+english_Le_Freak,English,Chic,0.85,0.75,Disco
+english_I_Will_Survive,English,Gloria Gaynor,0.7,0.6,Disco
+english_Don't_Leave_Me_This_Way,English,Thelma Houston,0.8,0.7,Disco
+english_Get_Up_(I_Feel_Like_Being_a)_Sex_Machine,English,James Brown,0.8,0.85,Funk
+english_Give_Up_the_Funk_(Tear_the_Roof_Off_the_Sucker),English,Parliament,0.9,0.85,Funk
+english_Flash_Light,English,Parliament,0.75,0.8,Funk
+english_Can't_Stop_the_Feeling!,English,Justin Timberlake,0.9,0.85,Funk Pop
+english_Treasure,English,Bruno Mars,0.9,0.8,Funk Pop
+english_Kiss,English,Prince,0.85,0.8,Funk Pop
+english_24K_Magic,English,Bruno Mars,0.95,0.85,Funk Pop
+english_Are_You_Gonna_Go_My_Way,English,Lenny Kravitz,0.9,0.9,Funk Rock
+english_Fly_Away,English,Lenny Kravitz,0.85,0.85,Funk Rock
+english_Can't_Stop,English,Red Hot Chili Peppers,0.85,0.9,Funk Rock
+english_Higher_Ground,English,Red Hot Chili Peppers,0.8,0.85,Funk Rock
+english_Boogie_Wonderland,English,"Earth, Wind & Fire",0.95,0.9,Disco Funk
+english_Get_Down_On_It,English,Kool & The Gang,0.9,0.8,Disco Funk
+english_I_Want_Your_Love,English,Chic,0.85,0.75,Disco Soul
+english_He's_the_Greatest_Dancer,English,Sister Sledge,0.9,0.8,Disco Soul
+english_Love_Hangover,English,Diana Ross,0.7,0.6,Disco Soul
+english_Ring_My_Bell,English,Anita Ward,0.85,0.75,Disco Soul
+english_Good_Times,English,Chic,0.95,0.85,Disco Funk
+english_Oceans_(Where_Feet_May_Fail),English,Hillsong United,0.6,0.4,Gospel Pop
+english_Poison,English,Bell Biv DeVoe,0.7,0.65,Hip-Hop R&B
+english_No_Diggity,English,Blackstreet ft. Dr. Dre,0.85,0.75,Hip-Hop R&B
+english_Dilemma,English,Nelly ft. Kelly Rowland,0.65,0.5,Hip-Hop R&B
+english_Yeah!,English,Usher ft. Lil Jon & Ludacris,0.9,0.9,Hip-Hop R&B
+english_If_I_Ruled_the_World_(Imagine_That),English,Nas ft. Lauryn Hill,0.7,0.6,Hip-Hop Soul
+english_Ex-Factor,English,Lauryn Hill,0.45,0.35,Hip-Hop Soul
+english_You_Know_How_We_Do_It,English,Ice Cube,0.75,0.6,Hip-Hop Soul
+english_Hey!_Lover,English,LL Cool J ft. Boyz II Men,0.7,0.55,Hip-Hop Soul
+english_All_I_Need,English,Method Man ft. Mary J. Blige,0.65,0.55,Hip-Hop Soul
+english_Take_Me_to_the_King,English,Tamela Mann,0.45,0.35,Gospel Pop
+english_I_Smile,English,Kirk Franklin,0.8,0.65,Gospel Pop
+english_Ignition_(Remix),English,R. Kelly,0.85,0.85,Hip-Hop R&B
+english_Break_Every_Chain,English,Tasha Cobbs Leonard,0.55,0.5,Gospel Pop
+english_You_Are_Good,English,Israel & New Breed,0.85,0.75,Gospel Pop
+english_I_Heard_It_Through_the_Grapevine,English,Marvin Gaye,0.55,0.5,Motown Soul
+english_On_&_On,English,Erykah Badu,0.65,0.45,Neo-Soul
+english_Come_Down,English,Anderson .Paak,0.8,0.85,Neo-Soul Funk Pop
+english_Put_Your_Records_On,English,Corinne Bailey Rae,0.85,0.45,Neo-Soul Funk Pop
+english_My_Girl,English,The Temptations,0.8,0.45,Motown Soul
+english_Stop!_In_the_Name_of_Love,English,The Supremes,0.7,0.55,Motown Soul
+"english_Signed,_Sealed,_Delivered_I'm_Yours",English,Stevie Wonder,0.95,0.75,Motown Soul
+english_Irreplaceable,English,Beyoncé,0.55,0.45,Pop R&B
+english_No_Air,English,Jordin Sparks & Chris Brown,0.65,0.5,Pop R&B
+english_Let_Me_Love_You,English,Mario,0.7,0.55,Pop R&B
+english_We_Belong_Together,English,Mariah Carey,0.45,0.4,Pop R&B
+english_If_I_Ain't_Got_You,English,Alicia Keys,0.55,0.4,Pop Soul
+english_Ordinary_People,English,John Legend,0.45,0.35,Pop Soul
+english_When_I_Was_Your_Man,English,Bruno Mars,0.35,0.3,Pop Soul Ballad
+english_Too_Good_at_Goodbyes,English,Sam Smith,0.3,0.35,Pop Soul Ballad
+english_Rock_with_You,English,Michael Jackson,0.9,0.8,Post-Disco
+english_Tighten_Up,English,Archie Bell & The Drells,0.8,0.7,Psychedelic Soul
+english_Ball_of_Confusion,English,The Temptations,0.55,0.75,Psychedelic Soul
+english_Papa_Was_a_Rollin'_Stone,English,The Temptations,0.45,0.7,Psychedelic Soul
+english_Ain't_No_Stoppin'_Us_Now,English,McFadden & Whitehead,0.9,0.8,Post-Disco
+english_Cloud_Nine,English,The Temptations,0.7,0.8,Psychedelic Soul
+english_Say_My_Name,English,Destiny's Child,0.7,0.6,R&B
+english_Boo'd_Up,English,Ella Mai,0.75,0.5,R&B
+english_We_Found_Love,English,Rihanna ft. Calvin Harris,0.9,0.85,R&B Pop
+english_Umbrella,English,Rihanna ft. Jay-Z,0.8,0.75,R&B Pop
+english_Ain't_No_Sunshine,English,Bill Withers,0.35,0.3,R&B Soul
+english_Let's_Stay_Together,English,Al Green,0.8,0.45,R&B Soul
+english_Neither_One_of_Us_(Wants_to_Be_the_First_to_Say_Goodbye),English,Gladys Knight & The Pips,0.4,0.35,R&B Soul
+"english_No_Woman,_No_Cry",English,Bob Marley & The Wailers,0.6,0.45,Reggae
+english_Three_Little_Birds,English,Bob Marley & The Wailers,0.85,0.55,Reggae
+english_Is_This_Love,English,Bob Marley & The Wailers,0.75,0.5,Reggae
+english_Electric_Avenue,English,Eddy Grant,0.85,0.75,Reggae
+english_Sweat_(A_La_La_La_La_Long),English,Inner Circle,0.9,0.7,Reggae
+english_Temperature,English,Sean Paul,0.9,0.9,Reggae Fusion
+english_Turn_Me_On,English,Kevin Lyttle,0.85,0.75,Reggae Fusion
+english_Cheerleader_(Remix),English,OMI,0.9,0.7,Reggae Fusion
+english_Rude,English,MAGIC!,0.8,0.65,Reggae Fusion
+english_Get_Busy,English,Sean Paul,0.9,0.85,Reggae Fusion
+english_What’s_Going_On,English,Marvin Gaye,0.65,0.45,Retro Soul
+english_Sitting_On_The_Dock_of_the_Bay,English,Otis Redding,0.6,0.35,Retro Soul
+english_Chain_of_Fools,English,Aretha Franklin,0.7,0.55,Retro Soul
+english_Let's_Get_It_On,English,Marvin Gaye,0.75,0.5,Soul
+english_A_Natural_Woman,English,Aretha Franklin,0.55,0.4,Soul
+english_Try_a_Little_Tenderness,English,Otis Redding,0.65,0.55,Soul
+english_Valerie,English,Amy Winehouse,0.85,0.7,Soul Pop
+english_Rehab,English,Amy Winehouse,0.8,0.75,Soul Pop
+english_All_I_Ask,English,Adele,0.4,0.3,Soul Pop Ballad
+english_I_Have_Nothing,English,Whitney Houston,0.45,0.45,Soul Pop Ballad
+english_If_I_Were_a_Boy,English,Beyoncé,0.4,0.35,Soul Pop Ballad
