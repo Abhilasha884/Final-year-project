@@ -188,6 +188,7 @@ SUBGENRE_TO_MAIN = {
     "Rockabilly": "Country",
     "Roots Rock": "Country",
     "Smooth Jazz": "Jazz",
+    "Jazz": "Jazz",
     "Soft Rock": "Rock",
     "Soft Rock Ballad": "Rock",
     "Soul": "R&B",
