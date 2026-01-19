@@ -36,55 +36,7 @@ def safe_filename(name):
 # SONGS LIST WITH VERIFIED LINKS
 # ===============================
 songs_info = [
-(
- "Embraceable You", "Ella Fitzgerald", "English", 0.36, 0.30, "Jazz Vocal",
- ["https://www.youtube.com/watch?v=RF1yQMPMEMo&pp=ygUfRWxsYSBGaXR6Z2VyYWxkIEVtYnJhY2VhYmxlIFlvdQ%3D%3D"]
-),
 
-(
- "You Go to My Head", "Billie Holiday", "English", 0.33, 0.27, "Jazz Ballad",
- ["https://www.youtube.com/watch?v=V7xQd3yt590&pp=ygUgQmlsbGllIEhvbGlkYXkgWW91IEdvIHRvIE15IEhlYWQ%3D"]
-),
-
-(
- "When Sunny Gets Blue", "Nancy Wilson", "English", 0.35, 0.29, "Jazz Ballad",
- ["https://www.youtube.com/watch?v=vVJyqIiEHto&pp=ygUhTmFuY3kgV2lsc29uIFdoZW4gU3VubnkgR2V0cyBCbHVl"]
-),
-
-(
- "Almost Like Being in Love", "Ella Fitzgerald", "English", 0.70, 0.65, "Swing Jazz",
- ["https://www.youtube.com/watch?v=1sTe80kHhyw&pp=ygUpRWxsYSBGaXR6Z2VyYWxkIEFsbW9zdCBMaWtlIEJlaW5nIGluIExvdmU%3D"]
-),
-
-(
- "Detour Ahead", "Sarah Vaughan", "English", 0.30, 0.25, "Jazz Ballad",
- ["https://www.youtube.com/watch?v=1Hyps3oh9tc&pp=ygUaU2FyYWggVmF1Z2hhbiBEZXRvdXIgQWhlYWQ%3D"]
-),
-
-(
- "I'm Glad There Is You", "Julie London", "English", 0.32, 0.26, "Cool Jazz",
- ["https://www.youtube.com/watch?v=qcwHFY_6PyE&pp=ygUiSnVsaWUgTG9uZG9uIEknbSBHbGFkIFRoZXJlIElzIFlvdQ%3D%3D"]
-),
-
-(
- "East of the Sun", "Frank Sinatra", "English", 0.38, 0.32, "Jazz Vocal",
- ["https://www.youtube.com/watch?v=1CvZqCNyEBc&pp=ygUdRnJhbmsgU2luYXRyYSBFYXN0IG9mIHRoZSBTdW4%3D"]
-),
-
-(
- "Black Coffee", "Peggy Lee", "English", 0.29, 0.23, "Jazz Ballad",
- ["https://www.youtube.com/watch?v=_udW-G6VEhg&pp=ygUWUGVnZ3kgTGVlIEJsYWNrIENvZmZlZdIHCQlPCgGHKiGM7w%3D%3D"]
-),
-
-(
- "But Not for Me", "Chet Baker", "English", 0.34, 0.28, "Jazz Vocal",
- ["https://www.youtube.com/watch?v=QwAwtMt8t4s&pp=ygUZQ2hldCBCYWtlciBCdXQgTm90IGZvciBNZQ%3D%3D"]
-),
-
-(
- "You're My Thrill", "Billie Holiday", "English", 0.31, 0.25, "Jazz Ballad",
- ["https://www.youtube.com/watch?v=tZJoVPFoYPM&pp=ygUfQmlsbGllIEhvbGlkYXkgWW91J3JlIE15IFRocmlsbA%3D%3D"]
-)
 
 
 ]
