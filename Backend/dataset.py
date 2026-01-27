@@ -256,7 +256,7 @@ class MusicDataset(torch.utils.data.Dataset):
         lyrics_dir,
         genre_map,
         tokenizer=None,
-        max_len=130
+        max_len=2600  # ~60 seconds
     ):
         self.data = pd.read_csv(csv_file, encoding="utf-8")
         self.audio_dir = audio_dir
@@ -273,6 +273,7 @@ class MusicDataset(torch.utils.data.Dataset):
 
         self.clean_name = clean_name
 
+        # Map audio files
         self.audio_files = {
             self.clean_name(os.path.splitext(f)[0]): os.path.join(audio_dir, f)
             for f in os.listdir(audio_dir)
@@ -296,23 +297,50 @@ class MusicDataset(torch.utils.data.Dataset):
                 return None
             song_key = match[0]
 
-        wav, sr = librosa.load(self.audio_files[song_key], sr=22050)
-        mel = librosa.feature.melspectrogram(y=wav, sr=sr, n_mels=80)
-        mel = librosa.power_to_db(mel, ref=np.max)
+        wav, sr = librosa.load(
+            self.audio_files[song_key],
+            sr=22050,
+            mono=True
+        )
 
+        mel = librosa.feature.melspectrogram(
+            y=wav,
+            sr=sr,
+            n_mels=80,
+            n_fft=2048,
+            hop_length=512
+        )
+
+        # 🔥 Log-mel
+        mel = librosa.power_to_db(mel)
+
+        # 🔥 Mean-Variance Normalization (CRITICAL)
+        mel = (mel - mel.mean()) / (mel.std() + 1e-6)
+
+        # Pad / trim to 60 seconds
         mel = mel[:, :self.max_len]
-        mel = np.pad(mel, ((0, 0), (0, max(0, self.max_len - mel.shape[1]))))
+        if mel.shape[1] < self.max_len:
+            mel = np.pad(
+                mel,
+                ((0, 0), (0, self.max_len - mel.shape[1])),
+                mode="constant"
+            )
+
         mel = torch.tensor(mel, dtype=torch.float32).transpose(0, 1)
 
         # ================= LYRICS =================
         lyrics_path = os.path.join(self.lyrics_dir, f"{row['song_id']}.txt")
-        text = open(lyrics_path, "r", encoding="utf-8").read() if os.path.exists(lyrics_path) else ""
+        if os.path.exists(lyrics_path):
+            with open(lyrics_path, "r", encoding="utf-8", errors="ignore") as f:
+                text = f.read()
+        else:
+            text = ""
 
-        tokens = torch.tensor(self.tokenizer(text), dtype=torch.long)
+        tokens = torch.tensor(self.tokenizer(text), dtype=torch.long) if self.tokenizer else torch.tensor([0])
         if len(tokens) == 0:
             tokens = torch.tensor([0])
 
-        # ================= GENRE (FINAL CSV) =================
+        # ================= GENRE (FROM FINAL CSV) =================
         if pd.isna(row["main_genre"]) or row["main_genre"] not in self.genre_map:
             return None
 
