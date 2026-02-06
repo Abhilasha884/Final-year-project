@@ -1,0 +1,128 @@
+song_id,language,singer,valence,arousal,genre,main_genre
+english_Chandelier,English,Sia,0.6,0.85,Electropop,Electronic
+english_Funeral,English,Phoebe Bridgers,0.25,0.35,Indie Folk,Country
+english_Waterloo_Sunset,English,The Kinks,0.7,0.5,Baroque Pop,Pop
+english_Boot_Scootin’_Boogie,English,Brooks & Dunn,0.85,0.8,Country Dance,Country
+english_Love_Shack,English,The B-52s,0.8,0.85,New Wave Pop,Pop
+english_Live_Like_You_Were_Dying,English,Tim McGraw,0.75,0.45,Country,Country
+hindi_Mere_To_Giridhar_Gopal,Hindi,Lata Mangeshkar,0.55,0.35,Hindu Devotional,Classical
+english_I_Can't_Get_Started,English,Lester Young,0.33,0.25,Jazz Ballad,Jazz
+english_Ship_to_Wreck,English,Florence + The Machine,0.72,0.68,Indie Rock,Rock
+english_Smooth,English,Santana ft. Rob Thomas,0.9,0.85,Latin Pop,Pop
+english_Can't_Stop_the_Feeling!,English,Justin Timberlake,0.9,0.85,Funk Pop,R&B
+english_It’s_My_Life,English,Bon Jovi,0.8,0.85,Pop Rock,Rock
+english_By_the_Way,English,Red Hot Chili Peppers,0.7,0.8,Rap Rock,Hip-Hop
+english_Come_Together,English,The Beatles,0.7,0.7,Blues Rock,Rock
+english_Blue_Ain't_Your_Color,English,Keith Urban,0.4,0.45,Country Soul,R&B
+hindi_Dil_Mere,Hindi,The Local Train,0.45,0.55,Indian Indie Rock,Rock
+english_When_I_Was_Your_Man,English,Bruno Mars,0.35,0.3,Pop Soul Ballad,R&B
+english_It's_Tricky,English,Run-D.M.C.,0.8,0.75,Rap Rock,Hip-Hop
+english_Bangarang,English,Skrillex,0.75,0.95,Dubstep,Electronic
+hindi_Alag_Aasmaan,Hindi,Anuv Jain,0.75,0.65,Indian Indie Pop,Pop
+hindi_Ya_Rabba,Hindi,Kailash Kher,0.46,0.41,Indian Film Sufi Ballad,Classical
+english_Shape_of_You,English,Ed Sheeran,0.9,0.8,Tropical Pop,Pop
+english_Alive,English,P.O.D.,0.8,0.85,Rap Rock,Hip-Hop
+english_Clocks,English,Coldplay,0.7,0.6,Alternative Rock,Rock
+english_Hall_of_Fame,English,The Script ft. will.i.am,0.8,0.85,Pop Rock,Rock
+english_Testify,English,Rage Against the Machine,0.5,0.92,Rap Metal,Hip-Hop
+english_Arlington,English,Trace Adkins,0.48,0.42,Patriotic Country,Country
+english_Fade_Into_Darkness,English,Avicii,0.67,0.79,Progressive House,Electronic
+english_Take_the_'A'_Train,English,Duke Ellington,0.75,0.65,Swing Jazz,Jazz
+english_Savage_Love,English,Jawsh 685 & Jason Derulo,0.8,0.8,Dance Pop,Pop
+english_Dissolve,English,Absofacto,0.5,0.6,Indie Electronic,Electronic
+english_Alaska,English,Maggie Rogers,0.7,0.65,Indie Pop,Pop
+english_So_What,English,Miles Davis,0.55,0.6,Modal Jazz,Jazz
+english_Crazy_in_Love,English,BeyoncÃ© ft. Jay-Z,0.9,0.9,R&B Pop,R&B
+english_All_the_Pretty_Girls,English,KALEO,0.65,0.6,Indie Pop,Pop
+english_Follow_You_to_Virgie,English,Tyler Childers,0.45,0.4,Country Folk,Country
+english_Mariners_Apartment_Complex,English,Lana Del Rey,0.35,0.45,Indie Folk,Country
+hindi_Banno,Hindi,Brijesh Shandilya,0.7,0.65,Rajasthani Folk Pop,Country
+hindi_Jiyein_Kyun,Hindi,Papon,0.35,0.4,Indian Indie Rock,Rock
+english_Great_Balls_of_Fire,English,Jerry Lee Lewis,0.82,0.8,Rockabilly,Country
+english_Spit_It_Out,English,Slipknot,0.5,0.98,Rap Metal,Hip-Hop
+"english_You'll_be_OK,_Kid",English,Demi Lovato,0.8,0.8,Indie Folk,Country
+hindi_Deva_Deva,Hindi,"Arijit Singh, Jonita Gandhi",0.8,0.7,Indian Film Devotional Pop,Classical
+english_Death_Bed,English,Powfu,0.25,0.35,Bedroom Pop,Pop
+hindi_Kala_Chashma,Hindi,"Amar Arshi, Badshah & Neha Kakkar",0.9,0.9,Bollywood Dance Pop,Pop
+english_Chattahoochee,English,Alan Jackson,0.85,0.75,Country,Country
+english_Goosebumps,English,Travis Scott,0.7,0.8,Trap Pop,Pop
+english_Ace_of_Spades,English,MotÃ¶rhead,0.65,0.85,Speed Metal,Rock
+english_Kill_Bill,English,SZA,0.5,0.6,R&B Pop,R&B
+english_Team,English,Lorde,0.48,0.58,Electronic Pop,Electronic
+english_Help!,English,The Beatles,0.82,0.78,Beat Pop,Pop
+english_Empire_State_of_Mind,English,Jay-Z ft. Alicia Keys,0.75,0.8,Pop Rap,Hip-Hop
+english_Hotline_Bling,English,Drake,0.75,0.7,Pop R&B,R&B
+english_The_Lord's_Prayer,English,Andrea Bocelli,0.28,0.2,Sacred Classical,Classical
+english_Night_Owl,English,Gerry Rafferty,0.5,0.4,Jazz Fusion,Jazz
+hindi_Halka_Halka,Hindi,Rahat Fateh Ali Khan,0.41,0.35,Indian Film Sufi Ballad,Classical
+english_Someday_My_Prince_Will_Come,English,Miles Davis,0.45,0.35,Jazz Standard,Jazz
+english_She_Will_Be_Loved,English,Maroon 5,0.55,0.45,Pop Rock Ballad,Rock
+english_Bring_Me_to_Life,English,Evanescence,0.4,0.9,Rap Metal,Hip-Hop
+english_Sunshine,English,Atmosphere,0.65,0.6,Alternative Hip-Hop,Hip-Hop
+english_Dancing_With_A_Stranger,English,"Sam Smith, Normani",0.6,0.7,Dance Pop,Pop
+english_But_Not_for_Me,English,Chet Baker,0.34,0.28,Jazz Vocal,Jazz
+english_Teenage_Dream,English,Katy Perry,0.88,0.78,Pop,Pop
+english_I_Like_It,English,Cardi B ft. Bad Bunny & J Balvin,0.9,0.85,Pop Rap,Hip-Hop
+english_Sweet_Child_o'_Mine,English,Guns N' Roses,0.9,0.85,Hard Rock,Rock
+english_Sweet_Nothing,English,Calvin Harris ft. Florence Welch,0.7,0.8,Electropop,Electronic
+hindi_Pehla_Nasha,Hindi,"Udit Narayan, Sadhana Sargam",0.8,0.7,Indian Film Romantic Ballad,Pop
+english_Kids,English,MGMT,0.8,0.75,Indie Pop,Pop
+english_Crank_It_(Woah!),English,Kideko & George Kwali,0.78,0.91,Big Room House,Electronic
+english_Video_Games,English,Lana Del Rey,0.3,0.35,Dream Pop,Pop
+english_Be-Bop-A-Lula,English,Gene Vincent,0.78,0.75,Rockabilly,Country
+english_Sure_Thing,English,Miguel,0.7,0.5,R&B,R&B
+english_Crazy_Train,English,Ozzy Osbourne,0.6,0.8,Heavy Metal,Rock
+english_Stand_by_Me,English,Ben E. King,0.85,0.6,Soul,R&B
+english_Yeah!,English,Usher ft. Lil Jon & Ludacris,0.9,0.9,Hip-Hop R&B,R&B
+english_All_I_Want,English,Kodaline,0.2,0.45,Indie Folk,Country
+english_Someone_to_Watch_Over_Me,English,George Gershwin standard (multiple versions exist),0.46,0.36,Jazz Vocal,Jazz
+english_Hard_to_Handle,English,The Black Crowes,0.7,0.8,Blues Rock,Rock
+english_Scared_to_Be_Lonely,English,Martin Garrix & Dua Lipa,0.73,0.72,Electronic Dance Pop,Electronic
+english_Faint,English,Linkin Park,0.45,0.9,Rap Metal,Hip-Hop
+english_Who_Shot_Ya,English,The Notorious B.I.G.,0.3,0.85,Hardcore Hip-Hop,Hip-Hop
+english_American_Soldier,English,Toby Keith,0.6,0.55,Patriotic Country,Country
+english_Love_Someone,English,Lukas Graham,0.55,0.62,Pop,Pop
+english_Don't_Leave_Me_This_Way,English,Thelma Houston,0.8,0.7,Disco,R&B
+english_Propaganda,English,DJ Snake,0.7,0.96,EDM Trap,Electronic
+english_Breezin’,English,George Benson,0.68,0.55,Smooth Jazz,Jazz
+hindi_Pyar_Hua_Ikrar_Hua,Hindi,Lata Mangeshkar & Manna Dey,0.9,0.3,Indian Film Romantic Duet,Pop
+english_November,English,Max Richter,0.28,0.18,Ambient Classical,Classical
+english_Electric_Feel,English,MGMT,0.8,0.75,Psychedelic Pop,Rock
+english_Heartbeats,English,JosÃ© GonzÃ¡lez,0.3,0.35,Indie Pop,Pop
+english_River_of_Tears,English,Alessia Cara,0.3,0.4,Indie Folk,Country
+english_Boogie_Wonderland,English,"Earth, Wind & Fire",0.95,0.9,Disco Funk,R&B
+english_Give_Up_the_Funk_(Tear_the_Roof_Off_the_Sucker),English,Parliament,0.9,0.85,Funk,R&B
+hindi_Ghar_More_Pardesiya,Hindi,Shreya Ghoshal,0.34,0.26,Indian Film Classical Ballad,Classical
+english_Almost_Like_Being_in_Love,English,Ella Fitzgerald,0.7,0.65,Swing Jazz,Jazz
+hindi_Aasan_Nahin_Yahan,Hindi,Arijit Singh,0.2,0.35,Indian Film Sad Ballad,Classical
+english_Uptown_Funk,English,Bruno Mars,0.95,0.9,Funk Pop,R&B
+english_Ho_Hey,English,The Lumineers,0.85,0.75,Folk Pop,Pop
+english_The_Gambler,English,Kenny Rogers,0.65,0.45,Country Folk,Country
+hindi_Chand_Sifarish,Hindi,"Shaan, Kailash Kher",0.5,0.6,Indian Film Romantic Ballad,Pop
+english_Someone_You_Loved,English,Lewis Capaldi,0.4,0.3,Pop Soul Ballad,R&B
+english_Body_Like_a_Back_Road,English,Sam Hunt,0.75,0.8,Country Dance,Country
+english_The_Pretender,English,Foo Fighters,0.45,0.85,Alternative Rock,Rock
+english_Rolling_in_the_Deep,English,Adele,0.2,0.7,Soul Pop,R&B
+english_Teen_Town,English,Weather Report,0.9,0.88,Jazz Fusion,Jazz
+english_Counting_Stars,English,OneRepublic,0.85,0.85,Pop Rock,Rock
+english_What_You_Know,English,Two Door Cinema Club,0.55,0.61,Indie Rock,Rock
+english_Fly_Me_to_the_Moon,English,Frank Sinatra,0.75,0.45,Jazz Standard,Jazz
+english_Shadowboxin',English,GZA,0.45,0.8,Hip-Hop,Hip-Hop
+english_A_Whiter_Shade_of_Pale,English,Procol Harum,0.8,0.55,Progressive Rock,Rock
+english_Song_2,English,Blur,0.85,0.9,Big Beat,Electronic
+english_Louder,English,DJ Fresh ft. Sian Evans,0.76,0.92,Electro House,Electronic
+english_Imagine,English,John Lennon,0.75,0.25,Soft Rock,Rock
+english_Try_a_Little_Tenderness,English,Otis Redding,0.65,0.55,Soul,R&B
+english_Rockstar,English,Post Malone ft. 21 Savage,0.6,0.7,Pop Rap,Hip-Hop
+english_Baker_Street,English,Gerry Rafferty,0.55,0.45,Soft Rock,Rock
+english_Are_You_Gonna_Go_My_Way,English,Lenny Kravitz,0.9,0.9,Funk Rock,R&B
+english_Sultans_of_Swing,English,Dire Straits,0.75,0.75,Roots Rock,Country
+english_Twinz_(Deep_Cover_'98),English,Big Pun,0.4,0.9,Hip-Hop,Hip-Hop
+english_Man_in_the_Mirror,English,Michael Jackson,0.65,0.55,Pop Soul,R&B
+english_Eye_of_the_Tiger,English,Survivor,0.75,0.95,Arena Rock,Rock
+hindi_Ishq_Sufiyana,Hindi,Kamal Khan,0.5,0.45,Indian Film Sufi Ballad,Classical
+english_We_Belong_Together,English,Mariah Carey,0.45,0.4,Pop R&B,R&B
+english_La_Grange,English,ZZ Top,0.78,0.75,Southern Rock,Country
+english_Woman,English,Doja Cat,0.8,0.7,Afrobeats Pop,Pop
+hindi_Mohe_Rang_Do_Laal,Hindi,Shreya Ghoshal,0.35,0.25,Indian Film Classical Ballad,Classical
+english_Master_of_Puppets,English,Metallica,0.45,0.9,Thrash Metal,Rock
