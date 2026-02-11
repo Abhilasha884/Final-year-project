@@ -1,4 +1,4 @@
-﻿song_id,language,singer,valence,arousal,genre,main_genre
+song_id,language,singer,valence,arousal,genre,main_genre
 english_Shape_of_You,English,Ed Sheeran,0.9,0.8,Tropical Pop,Pop
 english_Someone_Like_You,English,Adele,0.2,0.3,Soul Pop Ballad,R&B
 english_Happy,English,Pharrell Williams,0.95,0.9,Neo-Soul Funk Pop,R&B
@@ -118,7 +118,7 @@ english_Tears_in_Heaven,English,Eric Clapton,0.15,0.25,Soft Rock Ballad,Rock
 english_She_Will_Be_Loved,English,Maroon 5,0.55,0.45,Pop Rock Ballad,Rock
 english_Seven_Nation_Army,English,The White Stripes,0.55,0.7,Garage Rock,Rock
 english_Highway_to_Hell,English,AC/DC,0.65,0.95,Hard Rock,Rock
-english_Patience,English,Guns Nâ Roses,0.35,0.35,Hard Rock Ballad,Rock
+english_Patience,English,Guns N’ Roses,0.35,0.35,Hard Rock Ballad,Rock
 english_Imagine,English,John Lennon,0.75,0.25,Soft Rock,Rock
 hindi_Chaiyya_Chaiyya,Hindi,"Sukhwinder Singh, Sapna Awasthi",0.8,0.7,Sufi Pop,Classical
 hindi_Lag_Jaa_Gale,Hindi,Lata Mangeshkar,0.3,0.4,Indian Film Ghazal,Classical
@@ -247,14 +247,14 @@ english_Born_Again,English,Lisa ft. Doja Cat and Raye,0.88,0.85,Pop Rock,Rock
 english_Twilight_Zone,English,Ariana Grande,0.75,0.8,Synth Pop,Pop
 english_Soft_Girl_Era,English,Ari Lennox,0.7,0.6,Indie Pop,Pop
 english_Physical,English,Dua Lipa ft. Troye Sivan,0.85,0.9,Dance Pop,Pop
-english_APT.,English,RosÃ© & Bruno Mars,0.8,0.85,Electropop,Electronic
+english_APT.,English,Rosé & Bruno Mars,0.8,0.85,Electropop,Electronic
 english_Ordinary,English,Alex Warren,0.75,0.7,Pop Ballad,Pop
 english_Havana,English,Camila Cabello ft. Young Thug,0.85,0.8,Latin Pop,Pop
 english_Before_He_Cheats,English,Carrie Underwood,0.7,0.65,Country Pop,Country
 english_Say_So,English,Doja Cat,0.8,0.75,Disco Pop,Pop
 english_Savage_Love,English,Jawsh 685 & Jason Derulo,0.8,0.8,Dance Pop,Pop
 english_Truth_Hurts,English,Lizzo,0.75,0.85,Hip-Hop Soul,R&B
-english_Electric_Love,English,BÃRNS,0.85,0.8,Indie Pop,Pop
+english_Electric_Love,English,BØRNS,0.85,0.8,Indie Pop,Pop
 english_Feel_It_Still,English,Portugal. The Man,0.9,0.85,Alternative Pop,Rock
 english_Kings_&_Queens,English,Ava Max,0.85,0.8,Dance Pop,Pop
 english_Don’t_Go_Yet,English,Camila Cabello,0.75,0.85,Latin Pop,Pop
@@ -265,7 +265,7 @@ english_Drops_of_Jupiter,English,Train,0.7,0.6,Pop Rock,Rock
 english_Rock_Your_Body,English,Justin Timberlake,0.85,0.9,Pop R&B,R&B
 english_My_Heart_Will_Go_On,English,Celine Dion,0.4,0.5,Pop Ballad,Pop
 english_Because_You_Loved_Me,English,Celine Dion,0.55,0.5,Pop Ballad,Pop
-english_Crazy_in_Love,English,BeyoncÃ© ft. Jay-Z,0.9,0.9,R&B Pop,R&B
+english_Crazy_in_Love,English,Beyoncé ft. Jay-Z,0.9,0.9,R&B Pop,R&B
 english_Un-break_My_Heart,English,Toni Braxton,0.35,0.45,Pop Ballad,Pop
 english_You’re_Beautiful,English,James Blunt,0.5,0.4,Pop Ballad,Pop
 english_It’s_My_Life,English,Bon Jovi,0.8,0.85,Pop Rock,Rock
@@ -429,7 +429,7 @@ english_Re_Stacks,English,Bon Iver,0.2,0.3,Indie Folk,Country
 english_True_Love_Waits,English,Radiohead,0.15,0.3,Alternative Rock,Rock
 english_Mariners_Apartment_Complex,English,Lana Del Rey,0.35,0.45,Indie Folk,Country
 english_Video_Games,English,Lana Del Rey,0.3,0.35,Dream Pop,Pop
-english_Heartbeats,English,JosÃ© GonzÃ¡lez,0.3,0.35,Indie Pop,Pop
+english_Heartbeats,English,José González,0.3,0.35,Indie Pop,Pop
 english_Naked_as_We_Came,English,Iron & Wine,0.35,0.4,Indie Folk,Country
 hindi_Humsafar,Hindi,Akhil Sachdeva,0.5,0.45,Indian Film Romantic Ballad,Pop
 hindi_Aasan_Nahin_Yahan,Hindi,Arijit Singh,0.2,0.35,Indian Film Sad Ballad,Classical
@@ -446,7 +446,7 @@ english_Say_Something,English,A Great Big World & Christina Aguilera,0.25,0.35,P
 english_Hey_Ya!,English,Outkast,0.95,0.85,Pop Funk,R&B
 english_Stayin'_Alive,English,Bee Gees,0.85,0.75,Disco,R&B
 english_Lean_On,English,Major Lazer & DJ Snake,0.85,0.8,Tropical House,Electronic
-english_Halo,English,BeyoncÃ©,0.7,0.55,Pop Soul,R&B
+english_Halo,English,Beyoncé,0.7,0.55,Pop Soul,R&B
 english_We_Will_Rock_You,English,Queen,0.9,0.85,Arena Rock,Rock
 hindi_Dooba_Dooba,Hindi,Silk Route,0.65,0.55,Indian Indie Pop,Pop
 hindi_Piya_Basanti,Hindi,"Ustad Sultan Khan, K.S. Chithra",0.65,0.45,Indian Indie Folk,Country
@@ -476,7 +476,7 @@ english_Sea_of_Love,English,Cat Power,0.35,0.4,Dream Pop,Pop
 english_Apocalypse,English,Cigarettes After Sex,0.35,0.3,Dream Pop,Pop
 english_Nothing’s_Gonna_Hurt_You_Baby,English,Cigarettes After Sex,0.45,0.3,Dream Pop,Pop
 english_When_the_Party’s_Over,English,Billie Eilish,0.2,0.35,Alternative Pop,Rock
-english_Breathe,English,TÃ©lÃ©popmusik,0.45,0.35,Indie Pop,Pop
+english_Breathe,English,Télépopmusik,0.45,0.35,Indie Pop,Pop
 english_River_of_Tears,English,Alessia Cara,0.3,0.4,Indie Folk,Country
 english_I’m_Not_the_Only_One,English,Sam Smith,0.35,0.45,Pop Soul,R&B
 english_Poison_&_Wine,English,The Civil Wars,0.35,0.4,Indie Folk,Country
@@ -679,8 +679,8 @@ hindi_Ghoomar,Hindi,"Shreya Ghoshal, Swaroop Khan",0.85,0.8,Rajasthani Folk Danc
 hindi_Nagada_Sang_Dhol,Hindi,"Shreya Ghoshal, Osman Mir",0.9,0.92,Gujarati Folk Fusion,Country
 english_What_You_Know,English,Two Door Cinema Club,0.55,0.61,Indie Rock,Rock
 hindi_Kyun,Hindi,Papon,0.45,0.51,Indian Film Sad Ballad,Classical
-english_Falling_Slowly,English,Glen Hansard & MarkÃ©ta IrglovÃ¡,0.4,0.31,Folk Pop,Pop
-english_Heartbeats_(Acoustic),English,JosÃ© GonzÃ¡lez,0.5,0.61,Indie Pop Acoustic,Pop
+english_Falling_Slowly,English,Glen Hansard & Markéta Irglová,0.4,0.31,Folk Pop,Pop
+english_Heartbeats_(Acoustic),English,José González,0.5,0.61,Indie Pop Acoustic,Pop
 english_Human_Nature,English,Michael Jackson,0.52,0.56,Pop Funk,R&B
 english_Sunrise,English,Norah Jones,0.49,0.52,Neo-Soul,R&B
 hindi_O_Saathi,Hindi,Atif Aslam,0.45,0.53,Indian Film Romantic Ballad,Pop
@@ -688,7 +688,7 @@ english_Post_Break-Up_Sex,English,The Vaccines,0.46,0.72,Indie Rock,Rock
 english_Hate_to_Say_I_Told_You_So,English,The Hives,0.59,0.77,Indie Rock,Rock
 english_Shake_It,English,Metro Station,0.63,0.81,Indie Rock,Rock
 english_Get_You,English,Daniel Caesar,0.55,0.61,Indie Pop,Pop
-english_While_We're_Young,English,JhenÃ© Aiko,0.73,0.53,Pop,Pop
+english_While_We're_Young,English,Jhené Aiko,0.73,0.53,Pop,Pop
 english_Let_It_Go_(Acoustic),English,James Bay,0.46,0.47,Pop Ballad,Pop
 english_Breathe_Me_(Acoustic),English,Sia,0.27,0.36,Ambient Pop,Pop
 english_Photograph_(Acoustic),English,Ed Sheeran,0.47,0.49,Pop Ballad,Pop
@@ -740,14 +740,14 @@ hindi_Aayat,Hindi,Arijit Singh,0.35,0.4,Indian Film Sufi Ballad,Classical
 hindi_Laal_Ishq,Hindi,Arijit Singh,0.3,0.45,Indian Film Classical Ballad,Classical
 hindi_Jashn-e-Bahara,Hindi,Javed Ali,0.55,0.4,Indian Film Classical Ballad,Classical
 hindi_Sach_Keh_Raha_Hai_Deewana,Hindi,KK,0.2,0.35,Indian Film Sad Ballad,Classical
-hindi_Ae_Dil_Hai_Mushkil_(Title_Track_â_Reprise),Hindi,Arijit Singh,0.25,0.4,Indian Film Sad Ballad,Classical
+hindi_Ae_Dil_Hai_Mushkil_(Title_Track_–_Reprise),Hindi,Arijit Singh,0.25,0.4,Indian Film Sad Ballad,Classical
 hindi_Hamari_Adhuri_Kahani_(Title_Track),Hindi,Arijit Singh,0.25,0.35,Indian Film Sad Ballad,Classical
 hindi_Main_Dhoondne_Ko_Zamaane_Mein,Hindi,Arijit Singh,0.22,0.4,Indian Film Sad Ballad,Classical
 hindi_Judaai,Hindi,Arijit Singh,0.2,0.33,Indian Film Sad Ballad,Classical
 hindi_Bhula_Dena,Hindi,Mustafa Zahid,0.28,0.42,Indian Film Sad Ballad,Classical
 english_Silhouettes,English,Avicii,0.65,0.82,Electronic,Electronic
 english_I_Remember,English,Deadmau5 & Kaskade,0.55,0.75,Progressive House,Electronic
-english_Innerbloom,English,RÃFÃS DU SOL,0.6,0.78,Progressive House,Electronic
+english_Innerbloom,English,RÜFÜS DU SOL,0.6,0.78,Progressive House,Electronic
 english_Divinity,English,Porter Robinson,0.68,0.83,Progressive House,Electronic
 english_Language,English,Porter Robinson,0.72,0.88,Progressive House,Electronic
 english_Stan,English,Eminem,0.25,0.45,Hip-Hop,Hip-Hop
@@ -786,13 +786,13 @@ hindi_Piya_Tose_Naina_Laage_Re,Hindi,Lata Mangeshkar,0.3,0.28,Indian Classical T
 hindi_Baiyan_Na_Dharo,Hindi,Lata Mangeshkar,0.3,0.28,Indian Classical,Classical
 hindi_Mohe_Chhedo_Na,Hindi,Lata Mangeshkar,0.34,0.3,Indian Classical,Classical
 hindi_Kuhu_Kuhu_Bole_Koyaliya,Hindi,Lata Mangeshkar,0.5,0.45,Indian Classical,Classical
-english_Adagio_for_Strings,English,TiÃ«sto,0.55,0.7,Classical,Classical
+english_Adagio_for_Strings,English,Tiësto,0.55,0.7,Classical,Classical
 english_Ghosts_'n'_Stuff,English,Deadmau5 ft. Rob Swire,0.6,0.85,Electro House,Electronic
 english_Spectrum,English,Zedd ft. Matthew Koma,0.75,0.7,Electro House,Electronic
 english_Runaway_(U_&_I),English,Galantis,0.75,0.7,Progressive House,Electronic
 english_Master_of_Puppets,English,Metallica,0.45,0.9,Thrash Metal,Rock
 english_Crazy_Train,English,Ozzy Osbourne,0.6,0.8,Heavy Metal,Rock
-english_Ace_of_Spades,English,MotÃ¶rhead,0.65,0.85,Speed Metal,Rock
+english_Ace_of_Spades,English,Motörhead,0.65,0.85,Speed Metal,Rock
 english_Raining_Blood,English,Slayer,0.4,0.95,Thrash Metal,Rock
 english_Bat_Country,English,Avenged Sevenfold,0.55,0.8,Heavy Metal,Rock
 english_Aerials,English,System Of A Down,0.45,0.7,Alternative Metal,Rock
@@ -939,7 +939,7 @@ english_Put_Your_Records_On,English,Corinne Bailey Rae,0.85,0.45,Neo-Soul Funk P
 english_My_Girl,English,The Temptations,0.8,0.45,Motown Soul,R&B
 english_Stop!_In_the_Name_of_Love,English,The Supremes,0.7,0.55,Motown Soul,R&B
 "english_Signed,_Sealed,_Delivered_I'm_Yours",English,Stevie Wonder,0.95,0.75,Motown Soul,R&B
-english_Irreplaceable,English,BeyoncÃ©,0.55,0.45,Pop R&B,R&B
+english_Irreplaceable,English,Beyoncé,0.55,0.45,Pop R&B,R&B
 english_No_Air,English,Jordin Sparks & Chris Brown,0.65,0.5,Pop R&B,R&B
 english_Let_Me_Love_You,English,Mario,0.7,0.55,Pop R&B,R&B
 english_We_Belong_Together,English,Mariah Carey,0.45,0.4,Pop R&B,R&B
@@ -980,7 +980,7 @@ english_Valerie,English,Amy Winehouse,0.85,0.7,Soul Pop,R&B
 english_Rehab,English,Amy Winehouse,0.8,0.75,Soul Pop,R&B
 english_All_I_Ask,English,Adele,0.4,0.3,Soul Pop Ballad,R&B
 english_I_Have_Nothing,English,Whitney Houston,0.45,0.45,Soul Pop Ballad,R&B
-english_If_I_Were_a_Boy,English,BeyoncÃ©,0.4,0.35,Soul Pop Ballad,R&B
+english_If_I_Were_a_Boy,English,Beyoncé,0.4,0.35,Soul Pop Ballad,R&B
 english_Cherry_Wine_(Live),English,Hozier,0.4,0.35,Acoustic Folk,Country
 english_Springsteen,English,Eric Church,0.6,0.55,Country,Country
 english_Whiskey_Lullaby,English,Brad Paisley ft. Alison Krauss,0.3,0.25,Country Ballad,Country
@@ -1051,7 +1051,7 @@ english_Stompin'_at_the_Savoy,English,Benny Goodman,0.76,0.7,Swing Jazz,Jazz
 english_Caravan,English,Duke Ellington,0.7,0.65,Swing Jazz,Jazz
 "english_A-Tisket,_A-Tasket",English,Ella Fitzgerald,0.85,0.8,Swing Jazz,Jazz
 english_Begin_the_Beguine,English,Artie Shaw,0.74,0.68,Swing Jazz,Jazz
-"english_A_Love_Supreme,_Part_I_â_Acknowledgement",English,John Coltrane,0.65,0.55,Modal Jazz,Jazz
+"english_A_Love_Supreme,_Part_I_–_Acknowledgement",English,John Coltrane,0.65,0.55,Modal Jazz,Jazz
 english_Teen_Town,English,Weather Report,0.9,0.88,Jazz Fusion,Jazz
 english_Oye_Como_Va,English,Tito Puente,0.9,0.88,Afro-Cuban Jazz,Jazz
 english_Tin_Tin_Deo,English,Chano Pozo,0.8,0.75,Afro-Cuban Jazz,Jazz
@@ -1227,7 +1227,7 @@ english_Bad_Liar,English,Imagine Dragons,0.58,0.68,Electronic Pop,Electronic
 english_Elastic_Heart,English,Sia,0.5,0.65,Electronic Pop,Electronic
 english_Dusk_Till_Dawn,English,ZAYN ft. Sia,0.6,0.7,Electronic Pop,Electronic
 english_Love_Again,English,Dua Lipa,0.78,0.82,Electronic Pop,Electronic
-english_Rather_Die_Young,English,BeyoncÃ©,0.52,0.63,Electronic Pop,Electronic
+english_Rather_Die_Young,English,Beyoncé,0.52,0.63,Electronic Pop,Electronic
 english_Slow_Burn,English,Kacey Musgraves,0.4,0.5,Electronic Pop,Electronic
 english_Higher_Love,English,Kygo & Whitney Houston,0.75,0.8,Progressive House,Electronic
 english_Ocean_Drive,English,Duke Dumont,0.78,0.74,Progressive House,Electronic
@@ -1267,3 +1267,107 @@ english_Black_Milk,English,Massive Attack,0.42,0.4,Trip Hop,Electronic
 english_Galang,English,M.I.A.,0.7,0.88,Big Beat,Electronic
 english_Girls,English,The Prodigy,0.6,0.88,Big Beat,Electronic
 english_Overcome,English,Tricky,0.48,0.42,Trip Hop,Electronic
+english_Angel,English,Massive Attack,0.46,0.44,Trip Hop,Electronic
+english_Inertia_Creeps,English,Massive Attack,0.49,0.43,Trip Hop,Electronic
+english_6_Underground,English,Sneaker Pimps,0.58,0.42,Trip Hop,Electronic
+english_Protection,English,Massive Attack,0.54,0.4,Trip Hop,Electronic
+english_Risingson,English,Massive Attack,0.56,0.45,Trip Hop,Electronic
+english_Strangers,English,Portishead,0.46,0.36,Trip Hop,Electronic
+english_Man_Next_Door,English,Massive Attack,0.45,0.43,Trip Hop,Electronic
+english_2Wicky,English,Hooverphonic,0.57,0.47,Trip Hop,Electronic
+english_Lebanese_Blonde,English,Thievery Corporation,0.6,0.48,Trip Hop,Electronic
+english_Górecki,English,Lamb,0.46,0.42,Trip Hop,Electronic
+english_Daydream_in_Blue,English,I Monster,0.56,0.45,Trip Hop,Electronic
+english_Eyesdown,English,Bonobo,0.62,0.49,Trip Hop,Electronic
+english_La_Femme_d’Argent,English,Air,0.6,0.47,Trip Hop,Electronic
+english_Windowlicker,English,Aphex Twin,0.53,0.44,Trip Hop,Electronic
+english_Porcelain,English,Moby,0.5,0.41,Trip Hop,Electronic
+english_Sleepyhead,English,Passion Pit,0.55,0.44,Trip Hop,Electronic
+english_Fade_Into_You,English,Mazzy Star,0.45,0.38,Trip Hop,Electronic
+english_Sour_Times,English,Portishead,0.53,0.41,Trip Hop,Electronic
+english_Underwater_Love,English,Smoke City,0.58,0.47,Trip Hop,Electronic
+english_All_Mine,English,Portishead,0.51,0.39,Trip Hop,Electronic
+english_Paradise_Circus,English,Massive Attack,0.48,0.42,Trip Hop,Electronic
+english_Low_Place_Like_Home,English,Sneaker Pimps,0.58,0.47,Trip Hop,Electronic
+english_Half_Day_Closing,English,Portishead,0.45,0.36,Trip Hop,Electronic
+english_Roads_(Live),English,Portishead,0.46,0.37,Trip Hop,Electronic
+english_Come_With_Us,English,The Chemical Brothers,0.6,0.49,Big Beat,Electronic
+english_Londinium,English,Archive,0.48,0.41,Trip Hop,Electronic
+english_Humming,English,Portishead,0.44,0.35,Trip Hop,Electronic
+english_Heaven_Sent,English,Esthero,0.52,0.45,Trip Hop,Electronic
+english_Cherry_Blossom_Girl,English,Air,0.57,0.44,Dream Pop,Pop
+hindi_Baju_Band_Khul_Khul_Jaye,Hindi,Bhimsen Joshi,0.58,0.52,Classical,Classical
+hindi_Piya_Milan_Ki_Aas,Hindi,Kishori Amonkar,0.4,0.36,Classical,Classical
+hindi_Payoji_Maine_Ram_Ratan_Dhan,Hindi,Anup Jalota,0.68,0.48,Classical,Classical
+hindi_Raga_Darbari,Hindi,Rashid Khan,0.46,0.35,Classical,Classical
+hindi_Raga_Multani,Hindi,Kishori Amonkar,0.45,0.33,Classical,Classical
+hindi_Om_Jai_Jagdish_Hare,Hindi,Lata Mangeshkar,0.74,0.58,Classical,Classical
+sanskrit_Bhaja_Govindam,Sanskrit,MS Subbulakshmi,0.58,0.44,Classical,Classical
+sanskrit_Vatapi_Ganapatim,Sanskrit,MS Subbulakshmi,0.55,0.45,Classical,Classical
+telugu_Nagumomu,Telugu,Dr Balamuralikrishna,0.52,0.41,Classical,Classical
+telugu_Endaro_Mahanubhavulu,Telugu,Semmangudi,0.5,0.4,Classical,Classical
+sanskrit_Bhavayami_Gopalabalam,Sanskrit,MS Subbulakshmi,0.62,0.46,Classical,Classical
+hindi_Babul_Mora,Hindi,Girija Devi,0.52,0.42,Classical,Classical
+urdu_Aaj_Jaane_Ki_Zid,Urdu,Farida Khanum,0.46,0.3,Classical,Classical
+hindi_Kahe_Ko_Byahi,Hindi,Shobha Gurtu,0.48,0.39,Classical,Classical
+hindi_Jhuki_Jhuki_Si_Nazar,Hindi,Jagjit Singh,0.56,0.44,Ghazal,Classical
+hindi_Woh_Kagaz_Ki_Kashti,Hindi,Jagjit Singh,0.62,0.46,Ghazal,Classical
+hindi_Tumko_Dekha_To_Yeh_Khayal,Hindi,Jagjit Singh,0.64,0.5,Ghazal,Classical
+urdu_Hazaron_Khwahishen_Aisi,Urdu,Jagjit Singh,0.48,0.37,Ghazal,Classical
+urdu_Patta_Patta_Boota_Boota,Urdu,Mehdi Hassan,0.46,0.35,Ghazal,Classical
+urdu_Rafta_Rafta,Urdu,Mehdi Hassan,0.52,0.41,Ghazal,Classical
+urdu_Kal_Chaudhvin_Ki_Raat,Urdu,Ghulam Ali,0.5,0.39,Ghazal,Classical
+urdu_Deewana_Banana_Hai,Urdu,Begum Akhtar,0.49,0.36,Ghazal,Classical
+hindi_Chitthi_Aayi_Hai,Hindi,Pankaj Udhas,0.63,0.49,Ghazal,Classical
+hindi_Na_Kajre_Ki_Dhar,Hindi,Pankaj Udhas,0.61,0.48,Ghazal,Classical
+hindi_Kaash_Aisa,Hindi,Hariharan,0.58,0.45,Ghazal,Classical
+hindi_Yeh_Daulat_Bhi_Le_Lo,Hindi,Jagjit Singh,0.59,0.45,Ghazal,Classical
+hindi_Kisi_Nazar_Ko_Tera,Hindi,Jagjit Singh,0.62,0.47,Ghazal,Classical
+hindi_Baat_Niklegi,Hindi,Jagjit Singh,0.57,0.44,Ghazal,Classical
+hindi_Apni_Aankhon_Ke_Samundar,Hindi,Jagjit Singh,0.55,0.42,Ghazal,Classical
+urdu_Faasle_Aise_Bhi_Honge,Urdu,Ghulam Ali,0.42,0.3,Ghazal,Classical
+urdu_Kuch_Din_To_Baso,Urdu,Ghulam Ali,0.47,0.36,Ghazal,Classical
+urdu_Hum_Ko_Kiske_Gham,Urdu,Ghulam Ali,0.45,0.33,Ghazal,Classical
+urdu_Aaye_Kuch_Abr,Urdu,Mehdi Hassan,0.47,0.36,Ghazal,Classical
+urdu_Mohabbat_Karne_Wale,Urdu,Farida Khanum,0.46,0.34,Ghazal,Classical
+hindi_Thodi_Thodi_Piya_Karo,Hindi,Pankaj Udhas,0.57,0.44,Ghazal,Classical
+urdu_Duniya_Kisi_Ke_Pyar_Mein,Urdu,Mehdi Hassan,0.43,0.31,Ghazal,Classical
+urdu_Mere_Humnafas,Urdu,Begum Akhtar,0.45,0.33,Ghazal,Classical
+urdu_Dil_Ki_Baat,Urdu,Begum Akhtar,0.41,0.29,Ghazal,Classical
+hindi_Itna_To_Hua,Hindi,Talat Aziz,0.56,0.43,Ghazal,Classical
+hindi_Tera_Chehra,Hindi,Jagjit Singh,0.64,0.49,Ghazal,Classical
+hindi_Koi_Yeh_Kaise_Bataye,Hindi,Jagjit Singh,0.52,0.4,Ghazal,Classical
+urdu_Apni_Dhun_Mein_Rehta_Hoon,Urdu,Ghulam Ali,0.55,0.43,Ghazal,Classical
+urdu_Dil_Cheez_Kya_Hai,Urdu,Begum Akhtar,0.51,0.39,Ghazal,Classical
+hindi_Zindagi_Ka_Safar,Hindi,Talat Aziz,0.57,0.45,Ghazal,Classical
+hindi_Hoshwalon_Ko_Khabar,Hindi,Jagjit Singh,0.66,0.5,Ghazal,Classical
+urdu_Mujhse_Pehli_Si_Mohabbat,Urdu,Noor Jehan,0.49,0.38,Ghazal,Classical
+hindi_Saiyaan_Nikas_Gaye,Hindi,Shobha Gurtu,0.47,0.35,Semi-Classical,Classical
+hindi_Mohe_Bhool_Gaye_Sanwariya,Hindi,Lata Mangeshkar,0.55,0.42,Semi-Classical,Classical
+hindi_Mohe_Bhool_Gaye_Sanwariya_(HD),Hindi,Lata Mangeshkar,0.56,0.43,Semi-Classical,Classical
+hindi_Albela_Sajan_(Classical_Version),Hindi,Ustad Sultan Khan,0.63,0.5,Semi-Classical,Classical
+hindi_Payoji_Maine_Ram_Ratan_Dhan_Payo,Hindi,Anup Jalota,0.65,0.5,Semi-Classical,Classical
+hindi_Payoji_Maine_Ram_Ratan_(Album),Hindi,Anup Jalota,0.64,0.49,Semi-Classical,Classical
+hindi_Payoji_Maine_Ram_Ratan_(Bhajan_Version),Hindi,Anup Jalota,0.66,0.51,Semi-Classical,Classical
+hindi_Saiyaan_Nikas_Gaye_(Concert),Hindi,Shobha Gurtu,0.48,0.36,Semi-Classical,Classical
+hindi_Baju_Band_Khul_Khul_Jaye_(Live),Hindi,Girija Devi,0.53,0.41,Semi-Classical,Classical
+hindi_Baju_Band_Khul_Khul_Jaye_(Thumri),Hindi,Girija Devi,0.51,0.39,Semi-Classical,Classical
+hindi_Man_Tarpat_Hari_Darshan,Hindi,Mohammed Rafi,0.58,0.44,Semi-Classical,Classical
+hindi_Kahe_Ko_Byahi_Bides,Hindi,Shobha Gurtu,0.5,0.38,Semi-Classical,Classical
+hindi_Saiyan_Bina_Ghar_Suna,Hindi,Shobha Gurtu,0.46,0.34,Semi-Classical,Classical
+hindi_Thumak_Chalat_Ramchandra,Hindi,Pandit Jasraj,0.55,0.42,Semi-Classical,Classical
+hindi_Saiyan_Bina,Hindi,Rashid Khan,0.51,0.38,Semi-Classical,Classical
+hindi_Nadiya_Kinare_Mora,Hindi,Girija Devi,0.49,0.37,Semi-Classical,Classical
+hindi_Piya_More,Hindi,Rashid Khan,0.54,0.41,Semi-Classical,Classical
+hindi_Saiyan_Bole,Hindi,Rashid Khan,0.52,0.39,Semi-Classical,Classical
+hindi_More_Naina,Hindi,Rashid Khan,0.51,0.38,Semi-Classical,Classical
+hindi_Nadiya_Kinare,Hindi,Naina Devi,0.48,0.35,Semi-Classical,Classical
+hindi_Saiyan_Aiso,Hindi,Naina Devi,0.49,0.36,Semi-Classical,Classical
+hindi_Kanha_Re_Kanha,Hindi,Vidya Rao,0.52,0.39,Semi-Classical,Classical
+hindi_Saiyan_More,Hindi,Vidya Rao,0.5,0.37,Semi-Classical,Classical
+hindi_Kanha_Mori,Hindi,Malini Rajurkar,0.51,0.38,Semi-Classical,Classical
+hindi_Piya_Ghar_Aaye,Hindi,Malini Rajurkar,0.53,0.4,Semi-Classical,Classical
+hindi_Naina_Ki_Baat,Hindi,Traditional,0.5,0.37,Semi-Classical,Classical
+hindi_Piya_Milan,Hindi,Traditional,0.49,0.36,Semi-Classical,Classical
+hindi_Saiyan_Sang,Hindi,Traditional,0.51,0.38,Semi-Classical,Classical
+hindi_More_Balam,Hindi,Traditional,0.49,0.37,Semi-Classical,Classical

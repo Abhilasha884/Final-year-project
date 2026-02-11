@@ -1,0 +1,10 @@
+Our systems have detected unusual activity from your IP address (computer network). 
+
+              This page checks to see if it's really you sending the requests, and not a robot.
+      
+ We're checking your browser, please wait...
+            
+Please check the box below to regain access to AZLyrics.com.
+Type the characters from the picture above:
+Input is case-insensitive
+Submit
