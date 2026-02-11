@@ -41,236 +41,80 @@ def safe_filename(name):
 # ===============================
 songs_info = [
 
-("Hate Me Now", "Nas", "English", 0.64, 0.86, "Hip-Hop",
- ["https://www.youtube.com/watch?v=dKSJN3WWR3E"]),
 
-("If I Ruled the World", "Nas", "English", 0.78, 0.74, "Hip-Hop",
- ["https://www.youtube.com/watch?v=mlp-IIG9ApU"]),
-
-("The Message", "Grandmaster Flash", "English", 0.60, 0.70, "Hip-Hop",
- ["https://www.youtube.com/watch?v=PobrSpMwKk4"]),
-
-("Rapper's Delight", "The Sugarhill Gang", "English", 0.85, 0.76, "Hip-Hop",
- ["https://www.youtube.com/watch?v=rKTUAESacQM"]),
-
-("Juicy", "The Notorious B.I.G.", "English", 0.82, 0.73, "Hip-Hop",
- ["https://www.youtube.com/watch?v=_JZom_gVfuw"]),
-
-("California Love", "2Pac", "English", 0.88, 0.89, "Hip-Hop",
- ["https://www.youtube.com/watch?v=5wBTdfAkqGU"]),
-
-("Changes", "2Pac", "English", 0.67, 0.65, "Hip-Hop",
- ["https://www.youtube.com/watch?v=eXvBjCO19QY"]),
-
-("Dear Mama", "2Pac", "English", 0.72, 0.61, "Hip-Hop",
- ["https://www.youtube.com/watch?v=Mb1ZvUDvLDY"]),
-
-("Ambitionz Az a Ridah", "2Pac", "English", 0.58, 0.87, "Hip-Hop",
- ["https://www.youtube.com/watch?v=77nB_9uIcN4"]),
-
-("Still D.R.E.", "Dr. Dre", "English", 0.74, 0.83, "Hip-Hop",
- ["https://www.youtube.com/watch?v=_CL6n0FJZpk"]),
-
-("The Next Episode", "Dr. Dre", "English", 0.79, 0.85, "Hip-Hop",
- ["https://www.youtube.com/watch?v=QZXc39hT8t4"]),
-
-("In Da Club", "50 Cent", "English", 0.86, 0.84, "Hip-Hop",
- ["https://www.youtube.com/watch?v=5qm8PH4xAss"]),
-
-("Candy Shop", "50 Cent", "English", 0.80, 0.78, "Hip-Hop",
- ["https://www.youtube.com/watch?v=SRcnnId15BA"]),
-
-("Many Men", "50 Cent", "English", 0.52, 0.69, "Hip-Hop",
- ["https://www.youtube.com/watch?v=5D3crqpClPY"]),
-
-("P.I.M.P.", "50 Cent", "English", 0.77, 0.73, "Hip-Hop",
- ["https://www.youtube.com/watch?v=UDApZhXTpH8"]),
-
-
-
- ("Protect Ya Neck", "Wu-Tang Clan", "English", 0.63, 0.88, "Hip-Hop",
- ["https://www.youtube.com/watch?v=R0IUR4gkPIE"]),
-
-("Triumph", "Wu-Tang Clan", "English", 0.66, 0.91, "Hip-Hop",
- ["https://www.youtube.com/watch?v=cPRKsKwEdUQ"]),
-
-("Grindin'", "Clipse", "English", 0.69, 0.86, "Hip-Hop",
- ["https://www.youtube.com/watch?v=TjWAWcx4xdE"]),
-
-("Drop It Like It's Hot", "Snoop Dogg", "English", 0.78, 0.77, "Hip-Hop",
- ["https://www.youtube.com/watch?v=GtUVQei3nX4"]),
-
-("Gin and Juice", "Snoop Dogg", "English", 0.82, 0.73, "Hip-Hop",
- ["https://www.youtube.com/watch?v=fWCZse1iwE0"]),
-
-("Beautiful", "Snoop Dogg", "English", 0.84, 0.69, "Hip-Hop",
- ["https://www.youtube.com/watch?v=_FE194VN6c4"]),
-
-("Passin' Me By", "The Pharcyde", "English", 0.74, 0.66, "Hip-Hop",
- ["https://www.youtube.com/watch?v=a-mAK3uB2_0"]),
-
-("Scenario", "A Tribe Called Quest", "English", 0.76, 0.85, "Hip-Hop",
- ["https://www.youtube.com/watch?v=Q6TLWqn82J4"]),
-
-("Electric Relaxation", "A Tribe Called Quest", "English", 0.71, 0.67, "Hip-Hop",
- ["https://www.youtube.com/watch?v=WHRnvjCkTsw"]),
-
-("Award Tour", "A Tribe Called Quest", "English", 0.79, 0.78, "Hip-Hop",
- ["https://www.youtube.com/watch?v=P800UWoE9xs"]),
-
-("Rosa Parks", "OutKast", "English", 0.77, 0.80, "Hip-Hop",
- ["https://www.youtube.com/watch?v=drsQLEU0N1Y"]),
-
-("ATLiens", "OutKast", "English", 0.58, 0.74, "Hip-Hop",
- ["https://www.youtube.com/watch?v=N7rE7k1FQ1A"]),
-
-("So Fresh, So Clean", "OutKast", "English", 0.83, 0.76, "Hip-Hop",
- ["https://www.youtube.com/watch?v=-JfEJq56IwI"]),
-
-("International Players Anthem", "UGK", "English", 0.75, 0.72, "Hip-Hop",
- ["https://www.youtube.com/watch?v=awMIbA34MT8"]),
-
-("Still Tippin'", "Mike Jones", "English", 0.73, 0.84, "Hip-Hop",
- ["https://www.youtube.com/watch?v=7ZAYzLjQAd4"]),
-
-
-
- ("Make Em Say Uhh!", "Master P", "English", 0.74, 0.86, "Hip-Hop",
- ["https://www.youtube.com/watch?v=h1fBYUWxaKQ"]),
-
-("Back That Azz Up", "Juvenile", "English", 0.81, 0.88, "Hip-Hop",
- ["https://www.youtube.com/watch?v=9GvB9ySUJ3A"]),
-
-("Ha", "Juvenile", "English", 0.68, 0.83, "Hip-Hop",
- ["https://www.youtube.com/watch?v=Ww9VlmXKYgs"]),
-
-("Still Fly", "Big Tymers", "English", 0.84, 0.82, "Hip-Hop",
- ["https://www.youtube.com/watch?v=9iCd6UHR-3I"]),
-
-("Get Your Roll On", "Big Tymers", "English", 0.79, 0.80, "Hip-Hop",
- ["https://www.youtube.com/watch?v=9fJ3sZ0M8xA"]),
-
-("Bling Bling", "B.G.", "English", 0.77, 0.79, "Hip-Hop",
- ["https://www.youtube.com/watch?v=3GwjfUFyY6M"]),
-
-("What Happened to That Boy", "Birdman", "English", 0.70, 0.84, "Hip-Hop",
- ["https://www.youtube.com/watch?v=7o8zN8lWn-0"]),
-
-("Number One Stunna", "Big Tymers", "English", 0.76, 0.81, "Hip-Hop",
- ["https://www.youtube.com/watch?v=2X_2IdybTV0"]),
-
-("Slow Motion", "Juvenile", "English", 0.72, 0.68, "Hip-Hop",
- ["https://www.youtube.com/watch?v=JWeJHN5P-E8"]),
-
-("Ridin'", "Chamillionaire", "English", 0.66, 0.83, "Hip-Hop",
- ["https://www.youtube.com/watch?v=CtwJvgPJ9xw"]),
-
-("Turn My Swag On", "Soulja Boy", "English", 0.85, 0.78, "Hip-Hop",
- ["https://www.youtube.com/watch?v=R7yfISlGLNU"]),
-
-("Crank That (Soulja Boy)", "Soulja Boy", "English", 0.91, 0.90, "Hip-Hop",
- ["https://www.youtube.com/watch?v=8UFIYGkROII"]),
-
-("Teach Me How to Dougie", "Cali Swag District", "English", 0.88, 0.86, "Hip-Hop",
- ["https://www.youtube.com/watch?v=4Vys9GZq0mE"]),
-
-("Rack City", "Tyga", "English", 0.74, 0.81, "Hip-Hop",
- ["https://www.youtube.com/watch?v=AE3yia1AJeQ"]),
-
-("A Milli", "Lil Wayne", "English", 0.63, 0.89, "Hip-Hop",
- ["https://www.youtube.com/watch?v=1Vf4mMCpNY0"]),
-
-
- ("Go DJ", "Lil Wayne", "English", 0.72, 0.86, "Hip-Hop",
- ["https://www.youtube.com/watch?v=7u1aZqLq4Jk"]),
-
-("Fireman", "Lil Wayne", "English", 0.70, 0.88, "Hip-Hop",
- ["https://www.youtube.com/watch?v=7q2xZQ7Q3BY"]),
-
-("Lollipop", "Lil Wayne", "English", 0.83, 0.82, "Hip-Hop",
- ["https://www.youtube.com/watch?v=2IH8tNQAzSs"]),
-
-("6 Foot 7 Foot", "Lil Wayne", "English", 0.66, 0.90, "Hip-Hop",
- ["https://www.youtube.com/watch?v=c7tOAGY59uQ"]),
-
-("How to Love", "Lil Wayne", "English", 0.64, 0.58, "Hip-Hop",
- ["https://www.youtube.com/watch?v=y8Gf4-eT3w0"]),
-
-("Mrs. Officer", "Lil Wayne", "English", 0.78, 0.73, "Hip-Hop",
- ["https://www.youtube.com/watch?v=Jf1Vh8G5FJQ"]),
-
-("Every Girl", "Young Money", "English", 0.75, 0.84, "Hip-Hop",
- ["https://www.youtube.com/watch?v=1n7qfJ7bZQg"]),
-
-("BedRock", "Young Money", "English", 0.80, 0.76, "Hip-Hop",
- ["https://www.youtube.com/watch?v=Ha80ZaecGkQ"]),
-
-("Right Above It", "Lil Wayne", "English", 0.79, 0.88, "Hip-Hop",
- ["https://www.youtube.com/watch?v=CHZtMNbrmWE"]),
-
-("Look at Me Now", "Chris Brown", "English", 0.82, 0.91, "Hip-Hop",
- ["https://www.youtube.com/watch?v=8gyLR4NfMiI"]),
-
-("No Hands", "Waka Flocka Flame", "English", 0.84, 0.89, "Hip-Hop",
- ["https://www.youtube.com/watch?v=skhxizRYxps"]),
-
-("Hard in da Paint", "Waka Flocka Flame", "English", 0.61, 0.92, "Hip-Hop",
- ["https://www.youtube.com/watch?v=WkkC9cK8Hz0"]),
-
-("Grove St. Party", "Waka Flocka Flame", "English", 0.86, 0.90, "Hip-Hop",
- ["https://www.youtube.com/watch?v=ZKXGkB5ZuKk"]),
-
-("Round of Applause", "Waka Flocka Flame", "English", 0.80, 0.88, "Hip-Hop",
- ["https://www.youtube.com/watch?v=ALsHox5sYCk"]),
-
-("O Let's Do It", "Waka Flocka Flame", "English", 0.74, 0.87, "Hip-Hop",
- ["https://www.youtube.com/watch?v=4gK8J1d2Z7A"]),
-
-
- ("U Don't Know", "Jay-Z", "English", 0.68, 0.86, "Hip-Hop",
- ["https://www.youtube.com/watch?v=HAjQf0zag_4"]),
-
-("Public Service Announcement", "Jay-Z", "English", 0.72, 0.84, "Hip-Hop",
- ["https://www.youtube.com/watch?v=e2XE3bP8wIY"]),
-
-("Izzo (H.O.V.A.)", "Jay-Z", "English", 0.83, 0.81, "Hip-Hop",
- ["https://www.youtube.com/watch?v=JrL6b9YFYb0"]),
-
-("Dirt Off Your Shoulder", "Jay-Z", "English", 0.79, 0.78, "Hip-Hop",
- ["https://www.youtube.com/watch?v=Oz_-VaTHpc8"]),
-
-("Show Me What You Got", "Jay-Z", "English", 0.80, 0.82, "Hip-Hop",
- ["https://www.youtube.com/watch?v=FS4U-HAHwps"]),
-
-("Encore", "Jay-Z", "English", 0.85, 0.80, "Hip-Hop",
- ["https://www.youtube.com/watch?v=FQ3slUz7Jo8"]),
-
-("Can I Kick It?", "A Tribe Called Quest", "English", 0.90, 0.74, "Hip-Hop",
- ["https://www.youtube.com/watch?v=O3pyCGnZzYA"]),
-
-("Bonita Applebum", "A Tribe Called Quest", "English", 0.86, 0.69, "Hip-Hop",
- ["https://www.youtube.com/watch?v=KSCYjxdjmJg"]),
-
-("Check the Rhime", "A Tribe Called Quest", "English", 0.88, 0.78, "Hip-Hop",
- ["https://www.youtube.com/watch?v=1QWEPdgS3As"]),
-
-("Jazz (We've Got)", "A Tribe Called Quest", "English", 0.82, 0.73, "Hip-Hop",
- ["https://www.youtube.com/watch?v=cxN4nKk2cfk"]),
-
-("Award Tour Remix", "A Tribe Called Quest", "English", 0.80, 0.79, "Hip-Hop",
- ["https://www.youtube.com/watch?v=krpC1q1J0nI"]),
-
-("Breakadawn", "De La Soul", "English", 0.85, 0.72, "Hip-Hop",
- ["https://www.youtube.com/watch?v=V6a7hG6aB2Q"]),
-
-("Me Myself and I", "De La Soul", "English", 0.88, 0.70, "Hip-Hop",
- ["https://www.youtube.com/watch?v=7z0lQF3p1f0"]),
-
-("Ring Ring Ring", "De La Soul", "English", 0.84, 0.75, "Hip-Hop",
- ["https://www.youtube.com/watch?v=PXAlCazm3J0"]),
-
-("Buddy", "De La Soul", "English", 0.83, 0.79, "Hip-Hop",
- ["https://www.youtube.com/watch?v=F3Wg4z0b9r0"])
+("Alright Now", "Freeway", "English", 0.66, 0.88, "Hip-Hop", ["https://www.youtube.com/watch?v=3rhYvrssbJo"]),
+("What We Do", "Freeway", "English", 0.63, 0.89, "Hip-Hop", ["https://www.youtube.com/watch?v=1swlUtEkXZ0"]),
+("Roc the Mic", "Freeway", "English", 0.68, 0.91, "Hip-Hop", ["https://www.youtube.com/watch?v=XKr1mrpBwIM"]),
+("Flashing Lights", "Kanye West", "English", 0.58, 0.74, "Hip-Hop", ["https://www.youtube.com/watch?v=ila-hAUXR5U"]),
+("Good Morning", "Kanye West", "English", 0.82, 0.72, "Hip-Hop", ["https://www.youtube.com/watch?v=6CHs4x2uqcQ"]),
+("Homecoming", "Kanye West", "English", 0.85, 0.7, "Hip-Hop", ["https://www.youtube.com/watch?v=LQ488QrqGE4"]),
+("Champion", "Kanye West", "English", 0.9, 0.83, "Hip-Hop", ["https://www.youtube.com/watch?v=FoLE8FmooIM"]),
+("Spaceship", "Kanye West", "English", 0.55, 0.68, "Hip-Hop", ["https://www.youtube.com/watch?v=wGM6N0qXeu4"]),
+("Jesus Walks", "Kanye West", "English", 0.6, 0.86, "Hip-Hop", ["https://www.youtube.com/watch?v=MYF7H_fpc-g"]),
+("Diamonds from Sierra Leone", "Kanye West", "English", 0.52, 0.78, "Hip-Hop", ["https://www.youtube.com/watch?v=92FCRmggNqQ"]),
+("Drive Slow", "Kanye West", "English", 0.57, 0.6, "Hip-Hop", ["https://www.youtube.com/watch?v=xvAFTiP3vzk"]),
+("Touch the Sky Remix", "Kanye West", "English", 0.88, 0.9, "Hip-Hop", ["https://www.youtube.com/watch?v=YkwQbuAGLj4"]),
+("Crack Music", "Kanye West", "English", 0.5, 0.89, "Hip-Hop", ["https://www.youtube.com/watch?v=2tmPSK-w90o"]),
+("We Major", "Kanye West", "English", 0.8, 0.82, "Hip-Hop", ["https://www.youtube.com/watch?v=L-otjVPGEQg"]),
+("Heard 'Em Say", "Kanye West", "English", 0.7, 0.64, "Hip-Hop", ["https://www.youtube.com/watch?v=elVF7oG0pQs"]),
+("Late", "Kanye West", "English", 0.76, 0.69, "Hip-Hop", ["https://www.youtube.com/watch?v=V9QN2YFSKM4"]),
+("Bring the Pain", "Method Man", "English", 0.58, 0.92, "Hip-Hop", ["https://www.youtube.com/watch?v=T0BlXy3Roj4"]),
+("Da Rockwilder", "Method Man", "English", 0.64, 0.94, "Hip-Hop", ["https://www.youtube.com/watch?v=WCYy8jpp7R8"]),
+("All I Need", "Method Man", "English", 0.82, 0.75, "Hip-Hop", ["https://www.youtube.com/watch?v=XW1HNWqdVbk"]),
+("Judgement Day", "Method Man", "English", 0.54, 0.86, "Hip-Hop", ["https://www.youtube.com/watch?v=5F4kTIFsg_M"]),
+("Ice Cream", "Raekwon", "English", 0.84, 0.8, "Hip-Hop", ["https://www.youtube.com/watch?v=jgh10of6DKA"]),
+("Incarcerated Scarfaces", "Raekwon", "English", 0.48, 0.88, "Hip-Hop", ["https://www.youtube.com/watch?v=1ZYau0hJHFk"]),
+("Verbal Intercourse", "Raekwon", "English", 0.5, 0.9, "Hip-Hop", ["https://www.youtube.com/watch?v=9ZX1pk7rL8k"]),
+("Heaven & Hell", "Raekwon", "English", 0.46, 0.85, "Hip-Hop", ["https://www.youtube.com/watch?v=fF4frZmtJ1U"]),
+("Daytona 500", "Ghostface Killah", "English", 0.55, 0.91, "Hip-Hop", ["https://www.youtube.com/watch?v=5ZGi2lyQJQs"]),
+("Apollo Kids", "Ghostface Killah", "English", 0.68, 0.89, "Hip-Hop", ["https://www.youtube.com/watch?v=S0bYHTApml0"]),
+("Cherchez LaGhost", "Ghostface Killah", "English", 0.78, 0.77, "Hip-Hop", ["https://www.youtube.com/watch?v=eIdPfbwNV3w"]),
+("Run", "Ghostface Killah", "English", 0.6, 0.88, "Hip-Hop", ["https://www.youtube.com/watch?v=eMSY3zfLxRA"]),
+("Above the Clouds", "Gang Starr", "English", 0.58, 0.83, "Hip-Hop", ["https://www.youtube.com/watch?v=N_4O5iodyOA"]),
+("Mass Appeal", "Gang Starr", "English", 0.7, 0.74, "Hip-Hop", ["https://www.youtube.com/watch?v=y9lNbNGbo24"]),
+("Full Clip", "Gang Starr", "English", 0.66, 0.87, "Hip-Hop", ["https://www.youtube.com/watch?v=qmj1q67NDAk"]),
+("DWYCK", "Gang Starr", "English", 0.72, 0.82, "Hip-Hop", ["https://www.youtube.com/watch?v=TgelVkHEKdw"]),
+("Work", "Gang Starr", "English", 0.68, 0.89, "Hip-Hop", ["https://www.youtube.com/watch?v=GSszWXkDHa8"]),
+("Above the Rim", "2Pac", "English", 0.6, 0.86, "Hip-Hop", ["https://www.youtube.com/watch?v=Gcxwei78rTI"]),
+("I Get Around", "2Pac", "English", 0.88, 0.82, "Hip-Hop", ["https://www.youtube.com/watch?v=YqJAnQTwmJs"]),
+("Hail Mary", "2Pac", "English", 0.44, 0.92, "Hip-Hop", ["https://www.youtube.com/watch?v=vw-O1JdXcXk"]),
+("Keep Ya Head Up", "2Pac", "English", 0.76, 0.69, "Hip-Hop", ["https://www.youtube.com/watch?v=SHVzWMFMH6Y"]),
+("So Many Tears", "2Pac", "English", 0.42, 0.73, "Hip-Hop", ["https://www.youtube.com/watch?v=1Z52-lIZMbQ"]),
+("Picture Me Rollin'", "2Pac", "English", 0.66, 0.84, "Hip-Hop", ["https://www.youtube.com/watch?v=YcmnPvZjk_4"]),
+("Life Goes On", "2Pac", "English", 0.74, 0.66, "Hip-Hop", ["https://www.youtube.com/watch?v=KrHmzJI8z3M"]),
+("Brenda's Got a Baby", "2Pac", "English", 0.36, 0.58, "Hip-Hop", ["https://www.youtube.com/watch?v=NRWUs0KtB-I"]),
+("Temptations", "2Pac", "English", 0.7, 0.79, "Hip-Hop", ["https://www.youtube.com/watch?v=skg0w8DpEe4"]),
+("How Do U Want It", "2Pac", "English", 0.86, 0.86, "Hip-Hop", ["https://www.youtube.com/watch?v=PJWpyKvHZAk"]),
+("Me Against the World", "2Pac", "English", 0.5, 0.74, "Hip-Hop", ["https://www.youtube.com/watch?v=QlPYub-gTjE"]),
+("Ambitionz Remix", "2Pac", "English", 0.52, 0.91, "Hip-Hop", ["https://www.youtube.com/watch?v=6r4abhWnW-Y"]),
+("I Ain't Mad at Cha", "2Pac", "English", 0.78, 0.69, "Hip-Hop", ["https://www.youtube.com/watch?v=oXkKURgzYVY"]),
+("Pour Out a Little Liquor", "2Pac", "English", 0.58, 0.8, "Hip-Hop", ["https://www.youtube.com/watch?v=C0EBY9_XnFE"]),
+("Heartz of Men", "2Pac", "English", 0.46, 0.88, "Hip-Hop", ["https://www.youtube.com/watch?v=8k2GywV1QC8"]),
+("Troublesome '96", "2Pac", "English", 0.5, 0.92, "Hip-Hop", ["https://www.youtube.com/watch?v=KUQmABnX964"]),
+("Can't C Me", "2Pac", "English", 0.64, 0.88, "Hip-Hop", ["https://www.youtube.com/watch?v=Pz5F0Ju97r0"]),
+("Skandalouz", "2Pac", "English", 0.72, 0.8, "Hip-Hop", ["https://www.youtube.com/watch?v=-2bGyHt7sg8"]),
+("Shorty Wanna Ride", "Young Buck", "English", 0.7, 0.86, "Hip-Hop", ["https://www.youtube.com/watch?v=GsyJVv-9ygM"]),
+("Let Me In", "Young Buck", "English", 0.68, 0.85, "Hip-Hop", ["https://www.youtube.com/watch?v=4AFjbiv-kHA"]),
+("Stunt 101", "G-Unit", "English", 0.84, 0.89, "Hip-Hop", ["https://www.youtube.com/watch?v=c6qk1AFH9Y4"]),
+("Wanna Get to Know You", "G-Unit", "English", 0.82, 0.75, "Hip-Hop", ["https://www.youtube.com/watch?v=YF7TvXu4lSY"]),
+("Smile", "G-Unit", "English", 0.76, 0.7, "Hip-Hop", ["https://www.youtube.com/watch?v=1CHNkaCn_zY"]),
+("Poppin Them Thangs", "G-Unit", "English", 0.78, 0.88, "Hip-Hop", ["https://www.youtube.com/watch?v=lc0zKB88XPM"]),
+("Outta Control", "50 Cent", "English", 0.8, 0.9, "Hip-Hop", ["https://www.youtube.com/watch?v=Z3Oux1lN__4"]),
+("Just a Lil Bit", "50 Cent", "English", 0.83, 0.78, "Hip-Hop", ["https://www.youtube.com/watch?v=GllEDACUbNo"]),
+("Window Shopper", "50 Cent", "English", 0.86, 0.76, "Hip-Hop", ["https://www.youtube.com/watch?v=bFLow5StvvU"]),
+("Hate It or Love It", "The Game", "English", 0.8, 0.75, "Hip-Hop", ["https://www.youtube.com/watch?v=BuMBmK5uksg"]),
+("How We Do", "The Game", "English", 0.86, 0.88, "Hip-Hop", ["https://www.youtube.com/watch?v=PH34kMOjmQk"]),
+("Dreams", "The Game", "English", 0.68, 0.69, "Hip-Hop", ["https://www.youtube.com/watch?v=2K0q74jtV8s"]),
+("Westside Story", "The Game", "English", 0.72, 0.9, "Hip-Hop", ["https://www.youtube.com/watch?v=E4yqZdzDixk"]),
+("Put You on the Game", "The Game", "English", 0.6, 0.85, "Hip-Hop", ["https://www.youtube.com/watch?v=3OYojGxshoI"]),
+("Wouldn't Get Far", "The Game", "English", 0.78, 0.83, "Hip-Hop", ["https://www.youtube.com/watch?v=MlzrC-B6n-M"]),
+("Let's Ride", "The Game", "English", 0.82, 0.84, "Hip-Hop", ["https://www.youtube.com/watch?v=tDkmhZIQ9jo"]),
+("Church for Thugs", "The Game", "English", 0.58, 0.82, "Hip-Hop", ["https://www.youtube.com/watch?v=0p5CC8t7Eg0"]),
+("One Blood", "The Game", "English", 0.64, 0.92, "Hip-Hop", ["https://www.youtube.com/watch?v=q0ZUbFVgZpc"]),
+("Ali Bomaye", "The Game", "English", 0.52, 0.94, "Hip-Hop", ["https://www.youtube.com/watch?v=eU4ZvfkmOck"]),
+("Red Nation", "The Game", "English", 0.66, 0.93, "Hip-Hop", ["https://www.youtube.com/watch?v=jSAwWrbdoEQ"]),
+("El Chapo", "The Game", "English", 0.62, 0.9, "Hip-Hop", ["https://www.youtube.com/watch?v=RviOwY0OKyE"]),
+("Hate It or Love It Remix", "The Game", "English", 0.82, 0.79, "Hip-Hop", ["https://www.youtube.com/watch?v=BuMBmK5uksg"]),
 
 
 

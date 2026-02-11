@@ -1371,9 +1371,6 @@ hindi_Naina_Ki_Baat,Hindi,Traditional,0.5,0.37,Semi-Classical
 hindi_Piya_Milan,Hindi,Traditional,0.49,0.36,Semi-Classical
 hindi_Saiyan_Sang,Hindi,Traditional,0.51,0.38,Semi-Classical
 hindi_More_Balam,Hindi,Traditional,0.49,0.37,Semi-Classical
-english_C.R.E.A.M.,English,Wu-Tang Clan,0.58,0.74,Hip-Hop
-english_Shook_Ones_Pt._II,English,Mobb Deep,0.52,0.8,Hip-Hop
-english_Ms._Jackson,English,OutKast,0.72,0.76,Hip-Hop
 english_Big_Poppa,English,The Notorious B.I.G.,0.7,0.68,Hip-Hop
 english_Through_the_Wire,English,Kanye West,0.65,0.79,Hip-Hop
 english_Can't_Tell_Me_Nothing,English,Kanye West,0.6,0.83,Hip-Hop
@@ -1382,7 +1379,6 @@ english_Forgot_About_Dre,English,Dr. Dre,0.66,0.88,Hip-Hop
 english_Rap_God,English,Eminem,0.59,0.92,Hip-Hop
 english_Black_Skinhead,English,Kanye West,0.57,0.91,Hip-Hop
 english_King_Kunta,English,Kendrick Lamar,0.73,0.84,Hip-Hop
-english_N.Y._State_of_Mind,English,Nas,0.54,0.78,Hip-Hop
 english_Swimming_Pools_(Drank),English,Kendrick Lamar,0.55,0.73,Hip-Hop
 english_i,English,Kendrick Lamar,0.88,0.79,Hip-Hop
 english_Bodak_Yellow,English,Cardi B,0.69,0.86,Hip-Hop
@@ -1393,3 +1389,239 @@ english_Pick_Up_the_Phone,English,Young Thug,0.7,0.79,Hip-Hop
 english_Lifestyle,English,Rich Gang,0.71,0.76,Hip-Hop
 english_Mask_Off_Remix,English,Future,0.63,0.78,Hip-Hop
 english_T-Shirt,English,Migos,0.68,0.8,Hip-Hop
+english_Hate_Me_Now,English,Nas,0.64,0.86,Hip-Hop
+english_If_I_Ruled_the_World,English,Nas,0.78,0.74,Hip-Hop
+english_The_Message,English,Grandmaster Flash,0.6,0.7,Hip-Hop
+english_Rapper's_Delight,English,The Sugarhill Gang,0.85,0.76,Hip-Hop
+english_Dear_Mama,English,2Pac,0.72,0.61,Hip-Hop
+english_In_Da_Club,English,50 Cent,0.86,0.84,Hip-Hop
+english_Candy_Shop,English,50 Cent,0.8,0.78,Hip-Hop
+english_Many_Men,English,50 Cent,0.52,0.69,Hip-Hop
+english_Triumph,English,Wu-Tang Clan,0.66,0.91,Hip-Hop
+english_Drop_It_Like_It's_Hot,English,Snoop Dogg,0.78,0.77,Hip-Hop
+english_Beautiful,English,Snoop Dogg,0.84,0.69,Hip-Hop
+english_Passin'_Me_By,English,The Pharcyde,0.74,0.66,Hip-Hop
+english_Scenario,English,A Tribe Called Quest,0.76,0.85,Hip-Hop
+english_Award_Tour,English,A Tribe Called Quest,0.79,0.78,Hip-Hop
+english_Rosa_Parks,English,OutKast,0.77,0.8,Hip-Hop
+"english_So_Fresh,_So_Clean",English,OutKast,0.83,0.76,Hip-Hop
+english_International_Players_Anthem,English,UGK,0.75,0.72,Hip-Hop
+english_Still_Tippin',English,Mike Jones,0.73,0.84,Hip-Hop
+english_Back_That_Azz_Up,English,Juvenile,0.81,0.88,Hip-Hop
+english_Ha,English,Juvenile,0.68,0.83,Hip-Hop
+english_Still_Fly,English,Big Tymers,0.84,0.82,Hip-Hop
+english_Bling_Bling,English,B.G.,0.77,0.79,Hip-Hop
+english_Number_One_Stunna,English,Big Tymers,0.76,0.81,Hip-Hop
+english_Slow_Motion,English,Juvenile,0.72,0.68,Hip-Hop
+english_Ridin',English,Chamillionaire,0.66,0.83,Hip-Hop
+english_Turn_My_Swag_On,English,Soulja Boy,0.85,0.78,Hip-Hop
+english_Crank_That_(Soulja_Boy),English,Soulja Boy,0.91,0.9,Hip-Hop
+english_Rack_City,English,Tyga,0.74,0.81,Hip-Hop
+english_A_Milli,English,Lil Wayne,0.63,0.89,Hip-Hop
+english_Lollipop,English,Lil Wayne,0.83,0.82,Hip-Hop
+english_6_Foot_7_Foot,English,Lil Wayne,0.66,0.9,Hip-Hop
+english_How_to_Love,English,Lil Wayne,0.64,0.58,Hip-Hop
+english_BedRock,English,Young Money,0.8,0.76,Hip-Hop
+english_Right_Above_It,English,Lil Wayne,0.79,0.88,Hip-Hop
+english_Look_at_Me_Now,English,Chris Brown,0.82,0.91,Hip-Hop
+english_No_Hands,English,Waka Flocka Flame,0.84,0.89,Hip-Hop
+english_Hard_in_da_Paint,English,Waka Flocka Flame,0.61,0.92,Hip-Hop
+english_Round_of_Applause,English,Waka Flocka Flame,0.8,0.88,Hip-Hop
+english_Dirt_Off_Your_Shoulder,English,Jay-Z,0.79,0.78,Hip-Hop
+english_Show_Me_What_You_Got,English,Jay-Z,0.8,0.82,Hip-Hop
+english_Encore,English,Jay-Z,0.85,0.8,Hip-Hop
+english_Can_I_Kick_It,English,A Tribe Called Quest,0.9,0.74,Hip-Hop
+english_Check_the_Rhime,English,A Tribe Called Quest,0.88,0.78,Hip-Hop
+english_Ring_Ring_Ring,English,De La Soul,0.84,0.75,Hip-Hop
+english_Airplanes,English,B.o.B,0.74,0.71,Hip-Hop
+english_Nothin'_on_You,English,B.o.B,0.86,0.72,Hip-Hop
+english_So_Good,English,B.o.B,0.88,0.76,Hip-Hop
+english_Down,English,Jay Sean,0.9,0.78,Hip-Hop
+english_Do_You_Remember,English,Jay Sean,0.84,0.76,Hip-Hop
+english_Replay,English,Iyaz,0.88,0.74,Hip-Hop
+english_Low,English,Flo Rida,0.89,0.88,Hip-Hop
+english_Right_Round,English,Flo Rida,0.86,0.84,Hip-Hop
+english_Whistle,English,Flo Rida,0.92,0.79,Hip-Hop
+english_Wild_Ones,English,Flo Rida,0.9,0.87,Hip-Hop
+english_Club_Can't_Handle_Me,English,Flo Rida,0.93,0.9,Hip-Hop
+english_My_House,English,Flo Rida,0.91,0.82,Hip-Hop
+english_Good_Feeling,English,Flo Rida,0.94,0.89,Hip-Hop
+english_Forever,English,Drake,0.78,0.88,Hip-Hop
+english_Over,English,Drake,0.72,0.85,Hip-Hop
+english_Headlines,English,Drake,0.7,0.83,Hip-Hop
+english_Started_From_The_Bottom,English,Drake,0.79,0.84,Hip-Hop
+english_HYFR,English,Drake,0.75,0.8,Hip-Hop
+"english_Hold_On,_We're_Going_Home",English,Drake,0.84,0.6,Hip-Hop
+english_The_Motto,English,Drake,0.81,0.82,Hip-Hop
+english_Take_Care,English,Drake,0.69,0.64,Hip-Hop
+english_Find_Your_Love,English,Drake,0.86,0.7,Hip-Hop
+english_Up_All_Night,English,Drake,0.76,0.81,Hip-Hop
+english_Tap_In,English,Saweetie,0.85,0.88,Hip-Hop
+english_My_Type,English,Saweetie,0.88,0.86,Hip-Hop
+english_Best_Friend,English,Saweetie,0.9,0.84,Hip-Hop
+english_Big_Energy,English,Latto,0.91,0.89,Hip-Hop
+english_Big_Ole_Freak,English,Megan Thee Stallion,0.86,0.88,Hip-Hop
+english_Savage,English,Megan Thee Stallion,0.84,0.89,Hip-Hop
+english_Body,English,Megan Thee Stallion,0.88,0.91,Hip-Hop
+english_Thot_Shit,English,Megan Thee Stallion,0.82,0.9,Hip-Hop
+english_ATLiens,English,OutKast,0.58,0.74,Hip-Hop
+english_Make_Em_Say_Uhh!,English,Master P,0.74,0.86,Hip-Hop
+english_Get_Your_Roll_On,English,Big Tymers,0.79,0.8,Hip-Hop
+english_What_Happened_to_That_Boy,English,Birdman,0.7,0.84,Hip-Hop
+english_Teach_Me_How_to_Dougie,English,Cali Swag District,0.88,0.86,Hip-Hop
+english_Go_DJ,English,Lil Wayne,0.72,0.86,Hip-Hop
+english_Fireman,English,Lil Wayne,0.7,0.88,Hip-Hop
+english_Every_Girl,English,Young Money,0.75,0.84,Hip-Hop
+english_O_Let's_Do_It,English,Waka Flocka Flame,0.74,0.87,Hip-Hop
+english_Me_Myself_and_I,English,De La Soul,0.88,0.7,Hip-Hop
+english_Buddy,English,De La Soul,0.83,0.79,Hip-Hop
+english_Miss_Me,English,Drake,0.71,0.78,Hip-Hop
+english_Sunday_Service,English,Latto,0.84,0.86,Hip-Hop
+english_U_Don't_Know,English,Jay-Z,0.68,0.86,Hip-Hop
+english_Public_Service_Announcement,English,Jay-Z,0.72,0.84,Hip-Hop
+english_Bonita_Applebum,English,A Tribe Called Quest,0.86,0.69,Hip-Hop
+english_Breakadawn,English,De La Soul,0.85,0.72,Hip-Hop
+english_HeadBand,English,B.o.B,0.7,0.83,Hip-Hop
+english_We_Still_in_This_Bitch,English,B.o.B,0.71,0.85,Hip-Hop
+english_Worst_Behavior,English,Drake,0.68,0.88,Hip-Hop
+english_Successful,English,Drake,0.74,0.66,Hip-Hop
+english_Make_Me_Proud,English,Drake,0.82,0.77,Hip-Hop
+english_Act_Up,English,City Girls,0.82,0.87,Hip-Hop
+english_Lottery,English,Latto,0.89,0.87,Hip-Hop
+english_Cash_Shit,English,Megan Thee Stallion,0.8,0.87,Hip-Hop
+english_Plan_B,English,Megan Thee Stallion,0.68,0.85,Hip-Hop
+english_Her,English,Megan Thee Stallion,0.81,0.88,Hip-Hop
+english_Super_Bass,English,Nicki Minaj,0.92,0.9,Hip-Hop
+english_Beez_in_the_Trap,English,Nicki Minaj,0.72,0.84,Hip-Hop
+english_Fly,English,Nicki Minaj,0.81,0.76,Hip-Hop
+english_Only,English,Nicki Minaj,0.75,0.81,Hip-Hop
+english_Anaconda,English,Nicki Minaj,0.84,0.92,Hip-Hop
+english_Chun-Li,English,Nicki Minaj,0.78,0.88,Hip-Hop
+english_MEGATRON,English,Nicki Minaj,0.83,0.89,Hip-Hop
+english_Yikes,English,Nicki Minaj,0.71,0.87,Hip-Hop
+english_Gummo,English,6ix9ine,0.6,0.93,Hip-Hop
+english_Gooba,English,6ix9ine,0.78,0.94,Hip-Hop
+english_Trollz,English,6ix9ine,0.8,0.9,Hip-Hop
+english_Bad_Boy_for_Life,English,Diddy,0.82,0.84,Hip-Hop
+english_I_Need_a_Girl_(Part_One),English,Diddy,0.86,0.74,Hip-Hop
+english_I_Need_a_Girl_(Part_Two),English,Diddy,0.84,0.76,Hip-Hop
+english_Victory,English,Diddy,0.69,0.9,Hip-Hop
+english_Been_Around_the_World,English,Diddy,0.83,0.78,Hip-Hop
+english_All_About_the_Benjamins,English,Diddy,0.8,0.86,Hip-Hop
+english_Mo_Money_Mo_Problems,English,The Notorious B.I.G.,0.88,0.82,Hip-Hop
+english_Hypnotize,English,The Notorious B.I.G.,0.85,0.79,Hip-Hop
+english_One_More_Chance,English,The Notorious B.I.G.,0.82,0.75,Hip-Hop
+english_Get_Money,English,Junior M.A.F.I.A.,0.84,0.78,Hip-Hop
+english_Flava_in_Ya_Ear_Remix,English,Craig Mack,0.81,0.83,Hip-Hop
+english_Ride_wit_Me,English,Nelly,0.9,0.79,Hip-Hop
+english_Hot_in_Herre,English,Nelly,0.92,0.88,Hip-Hop
+english_Air_Force_Ones,English,Nelly,0.82,0.85,Hip-Hop
+english_Grillz,English,Nelly,0.8,0.83,Hip-Hop
+english_Shake_Ya_Tailfeather,English,Nelly,0.89,0.9,Hip-Hop
+english_EI,English,Nelly,0.87,0.81,Hip-Hop
+english_Just_a_Dream,English,Nelly,0.78,0.68,Hip-Hop
+english_Work_It,English,Missy Elliott,0.88,0.86,Hip-Hop
+english_Get_Ur_Freak_On,English,Missy Elliott,0.86,0.89,Hip-Hop
+english_Lose_Control,English,Missy Elliott,0.91,0.92,Hip-Hop
+english_The_Rain_(Supa_Dupa_Fly),English,Missy Elliott,0.84,0.78,Hip-Hop
+english_One_Minute_Man,English,Missy Elliott,0.82,0.83,Hip-Hop
+english_Sock_It_2_Me,English,Missy Elliott,0.83,0.86,Hip-Hop
+english_WTF_(Where_They_From),English,Missy Elliott,0.87,0.91,Hip-Hop
+english_Gossip_Folks,English,Missy Elliott,0.9,0.86,Hip-Hop
+english_Moment_4_Life,English,Nicki Minaj,0.86,0.78,Hip-Hop
+english_Right_Thru_Me,English,Nicki Minaj,0.74,0.7,Hip-Hop
+english_Did_It_On'em,English,Nicki Minaj,0.7,0.86,Hip-Hop
+english_Truffle_Butter,English,Nicki Minaj,0.79,0.83,Hip-Hop
+english_Pills_N_Potions,English,Nicki Minaj,0.67,0.65,Hip-Hop
+english_Barbie_Dreams,English,Nicki Minaj,0.73,0.82,Hip-Hop
+english_Red_Ruby_Da_Sleeze,English,Nicki Minaj,0.8,0.86,Hip-Hop
+english_Rake_It_Up,English,Yo Gotti,0.84,0.88,Hip-Hop
+english_Down_in_the_DM,English,Yo Gotti,0.79,0.83,Hip-Hop
+english_Act_Right,English,Yo Gotti,0.76,0.84,Hip-Hop
+english_Put_a_Date_On_It,English,Yo Gotti,0.82,0.86,Hip-Hop
+english_Fefe,English,6ix9ine,0.85,0.91,Hip-Hop
+english_Kooda,English,6ix9ine,0.66,0.9,Hip-Hop
+english_Billy,English,6ix9ine,0.63,0.88,Hip-Hop
+english_Tati,English,6ix9ine,0.74,0.89,Hip-Hop
+english_Stoopid,English,6ix9ine,0.68,0.92,Hip-Hop
+english_Zaza,English,6ix9ine,0.75,0.88,Hip-Hop
+english_Punani,English,6ix9ine,0.71,0.86,Hip-Hop
+english_Can't_You_See,English,Total,0.79,0.76,Hip-Hop
+english_Player's_Anthem,English,Junior M.A.F.I.A.,0.77,0.8,Hip-Hop
+english_Kick_in_the_Door,English,The Notorious B.I.G.,0.63,0.9,Hip-Hop
+english_Tip_Drill,English,Nelly,0.74,0.86,Hip-Hop
+english_Pimp_Juice,English,Nelly,0.7,0.79,Hip-Hop
+english_Pass_That_Dutch,English,Missy Elliott,0.87,0.88,Hip-Hop
+english_I'm_Really_Hot,English,Missy Elliott,0.86,0.89,Hip-Hop
+english_Hot_Boyz,English,Missy Elliott,0.85,0.88,Hip-Hop
+english_We_Run_This,English,Missy Elliott,0.89,0.9,Hip-Hop
+english_Ching-A-Ling,English,Missy Elliott,0.88,0.87,Hip-Hop
+english_Pep_Rally,English,Missy Elliott,0.86,0.88,Hip-Hop
+english_All_N_My_Grill,English,Missy Elliott,0.83,0.8,Hip-Hop
+english_She's_a_Bitch,English,Missy Elliott,0.74,0.84,Hip-Hop
+english_Beep_Me_911,English,Missy Elliott,0.78,0.76,Hip-Hop
+english_Take_Away,English,Missy Elliott,0.7,0.68,Hip-Hop
+english_Alright_Now,English,Freeway,0.66,0.88,Hip-Hop
+english_What_We_Do,English,Freeway,0.63,0.89,Hip-Hop
+english_Roc_the_Mic,English,Freeway,0.68,0.91,Hip-Hop
+english_Flashing_Lights,English,Kanye West,0.58,0.74,Hip-Hop
+english_Good_Morning,English,Kanye West,0.82,0.72,Hip-Hop
+english_Homecoming,English,Kanye West,0.85,0.7,Hip-Hop
+english_Champion,English,Kanye West,0.9,0.83,Hip-Hop
+english_Spaceship,English,Kanye West,0.55,0.68,Hip-Hop
+english_Jesus_Walks,English,Kanye West,0.6,0.86,Hip-Hop
+english_Diamonds_from_Sierra_Leone,English,Kanye West,0.52,0.78,Hip-Hop
+english_Drive_Slow,English,Kanye West,0.57,0.6,Hip-Hop
+english_Touch_the_Sky_Remix,English,Kanye West,0.88,0.9,Hip-Hop
+english_Crack_Music,English,Kanye West,0.5,0.89,Hip-Hop
+english_We_Major,English,Kanye West,0.8,0.82,Hip-Hop
+english_Late,English,Kanye West,0.76,0.69,Hip-Hop
+english_Bring_the_Pain,English,Method Man,0.58,0.92,Hip-Hop
+english_Da_Rockwilder,English,Method Man,0.64,0.94,Hip-Hop
+english_Ice_Cream,English,Raekwon,0.84,0.8,Hip-Hop
+english_Incarcerated_Scarfaces,English,Raekwon,0.48,0.88,Hip-Hop
+english_Verbal_Intercourse,English,Raekwon,0.5,0.9,Hip-Hop
+english_Heaven_&_Hell,English,Raekwon,0.46,0.85,Hip-Hop
+english_Daytona_500,English,Ghostface Killah,0.55,0.91,Hip-Hop
+english_Apollo_Kids,English,Ghostface Killah,0.68,0.89,Hip-Hop
+english_Cherchez_LaGhost,English,Ghostface Killah,0.78,0.77,Hip-Hop
+english_Above_the_Clouds,English,Gang Starr,0.58,0.83,Hip-Hop
+english_Full_Clip,English,Gang Starr,0.66,0.87,Hip-Hop
+english_DWYCK,English,Gang Starr,0.72,0.82,Hip-Hop
+english_Above_the_Rim,English,2Pac,0.6,0.86,Hip-Hop
+english_I_Get_Around,English,2Pac,0.88,0.82,Hip-Hop
+english_Hail_Mary,English,2Pac,0.44,0.92,Hip-Hop
+english_Keep_Ya_Head_Up,English,2Pac,0.76,0.69,Hip-Hop
+english_So_Many_Tears,English,2Pac,0.42,0.73,Hip-Hop
+english_Picture_Me_Rollin',English,2Pac,0.66,0.84,Hip-Hop
+english_Life_Goes_On,English,2Pac,0.74,0.66,Hip-Hop
+english_Brenda's_Got_a_Baby,English,2Pac,0.36,0.58,Hip-Hop
+english_Temptations,English,2Pac,0.7,0.79,Hip-Hop
+english_How_Do_U_Want_It,English,2Pac,0.86,0.86,Hip-Hop
+english_Me_Against_the_World,English,2Pac,0.5,0.74,Hip-Hop
+english_Ambitionz_Remix,English,2Pac,0.52,0.91,Hip-Hop
+english_I_Ain't_Mad_at_Cha,English,2Pac,0.78,0.69,Hip-Hop
+english_Pour_Out_a_Little_Liquor,English,2Pac,0.58,0.8,Hip-Hop
+english_Heartz_of_Men,English,2Pac,0.46,0.88,Hip-Hop
+english_Troublesome_'96,English,2Pac,0.5,0.92,Hip-Hop
+english_Can't_C_Me,English,2Pac,0.64,0.88,Hip-Hop
+english_Skandalouz,English,2Pac,0.72,0.8,Hip-Hop
+english_Shorty_Wanna_Ride,English,Young Buck,0.7,0.86,Hip-Hop
+english_Let_Me_In,English,Young Buck,0.68,0.85,Hip-Hop
+english_Stunt_101,English,G-Unit,0.84,0.89,Hip-Hop
+english_Wanna_Get_to_Know_You,English,G-Unit,0.82,0.75,Hip-Hop
+english_Smile,English,G-Unit,0.76,0.7,Hip-Hop
+english_Poppin_Them_Thangs,English,G-Unit,0.78,0.88,Hip-Hop
+english_Outta_Control,English,50 Cent,0.8,0.9,Hip-Hop
+english_Just_a_Lil_Bit,English,50 Cent,0.83,0.78,Hip-Hop
+english_Window_Shopper,English,50 Cent,0.86,0.76,Hip-Hop
+english_Westside_Story,English,The Game,0.72,0.9,Hip-Hop
+english_Put_You_on_the_Game,English,The Game,0.6,0.85,Hip-Hop
+english_Wouldn't_Get_Far,English,The Game,0.78,0.83,Hip-Hop
+english_Let's_Ride,English,The Game,0.82,0.84,Hip-Hop
+english_Church_for_Thugs,English,The Game,0.58,0.82,Hip-Hop
+english_One_Blood,English,The Game,0.64,0.92,Hip-Hop
+english_Ali_Bomaye,English,The Game,0.52,0.94,Hip-Hop
+english_Red_Nation,English,The Game,0.66,0.93,Hip-Hop
+english_El_Chapo,English,The Game,0.62,0.9,Hip-Hop
+english_Hate_It_or_Love_It_Remix,English,The Game,0.82,0.79,Hip-Hop
