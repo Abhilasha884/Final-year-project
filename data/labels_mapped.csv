@@ -95,7 +95,6 @@ english_Viva_Forever,English,Spice Girls,0.6,0.4,Pop Ballad,Pop
 english_Dream_On,English,Aerosmith,0.5,0.7,Hard Rock Ballad,Rock
 english_Karma_Police,English,Radiohead,0.35,0.5,Alternative Rock,Rock
 english_Everybody_Hurts,English,R.E.M.,0.25,0.3,Alternative Rock Ballad,Rock
-english_No_Tears_Left_To_Cry,English,Ariana Grande,0.8,0.7,Dance Pop,Pop
 english_Stronger_(What_Doesn't_Kill_You),English,Kelly Clarkson,0.7,0.85,Dance Pop,Pop
 english_Creep,English,Radiohead,0.2,0.5,Alternative Rock,Rock
 english_I_Don’t_Want_to_Miss_a_Thing,English,Aerosmith,0.8,0.6,Power Ballad Rock,Rock
@@ -195,7 +194,6 @@ english_I'm_Good_(Blue),English,"David Guetta, Bebe Rexha",0.95,0.9,Dance Pop,Po
 hindi_Param_Sundari,Hindi,Shreya Ghoshal,0.9,0.8,Bollywood Dance Pop,Pop
 hindi_Raataan_Lambiyan,Hindi,"Jubin Nautiyal, Asees Kaur",0.8,0.5,Indian Film Romantic Ballad,Pop
 english_Flowers,English,Miley Cyrus,0.8,0.6,Pop Rock,Rock
-english_Die_For_You,English,"The Weeknd, Ariana Grande",0.4,0.55,Synth Pop,Pop
 english_Made_You_Look,English,Meghan Trainor,0.9,0.8,Retro Pop,Pop
 english_Under_The_Influence,English,Chris Brown,0.7,0.75,R&B,R&B
 english_Celestial,English,Ed Sheeran,0.8,0.65,Pop Rock,Rock
@@ -226,10 +224,8 @@ hindi_O_Saki_Saki,Hindi,"Neha Kakkar, Tulsi Kumar",0.8,0.8,Bollywood Dance Pop,P
 english_Save_Your_Tears,English,The Weeknd,0.5,0.4,Synth Pop,Pop
 english_Senorita,English,"Shawn Mendes, Camila Cabello",0.7,0.6,Latin Pop,Pop
 english_Butter,English,BTS,0.9,0.85,Dance Pop,Pop
-english_drivers_license,English,Olivia Rodrigo,0.2,0.3,Pop Ballad,Pop
 english_Peaches,English,"Justin Bieber ft. Daniel Caesar, Giveon",0.7,0.5,R&B Pop,R&B
 english_Shivers,English,Ed Sheeran,0.85,0.8,Dance Pop,Pop
-english_Sweet_But_Psycho,English,Ava Max,0.8,0.85,Electropop,Electronic
 english_Adore_You,English,Harry Styles,0.8,0.7,Pop Rock,Rock
 english_Cold_Heart_(PNAU_Remix),English,Elton John & Dua Lipa,0.85,0.75,Dance Pop,Pop
 english_Heat_Waves,English,Glass Animals,0.6,0.5,Indie Pop,Pop
@@ -1218,7 +1214,6 @@ english_Head_&_Heart,English,Joel Corry ft. MNEK,0.88,0.86,Electronic Dance Pop,
 english_Habits_(Stay_High),English,Tove Lo,0.55,0.65,Electropop,Electronic
 english_Sweet_Nothing,English,Calvin Harris ft. Florence Welch,0.7,0.8,Electropop,Electronic
 english_Stitches_(SeeB_Remix),English,Shawn Mendes,0.62,0.74,Electropop,Electronic
-english_Dancing_On_My_Own,English,Robyn,0.58,0.66,Electropop,Electronic
 english_Run_Away_With_Me,English,Carly Rae Jepsen,0.75,0.78,Electropop,Electronic
 english_Nightcall,English,Kavinsky,0.45,0.6,Electropop,Electronic
 english_Team,English,Lorde,0.48,0.58,Electronic Pop,Electronic
@@ -1625,3 +1620,282 @@ english_Ali_Bomaye,English,The Game,0.52,0.94,Hip-Hop,Hip-Hop
 english_Red_Nation,English,The Game,0.66,0.93,Hip-Hop,Hip-Hop
 english_El_Chapo,English,The Game,0.62,0.9,Hip-Hop,Hip-Hop
 english_Hate_It_or_Love_It_Remix,English,The Game,0.82,0.79,Hip-Hop,Hip-Hop
+english_Don't_Start_Now,English,Dua Lipa,0.91,0.85,Pop,Pop
+english_Intentions,English,Justin Bieber,0.89,0.75,Pop,Pop
+english_Blank_Space,English,Taylor Swift,0.85,0.72,Pop,Pop
+english_Wildest_Dreams,English,Taylor Swift,0.78,0.65,Pop,Pop
+english_Delicate,English,Taylor Swift,0.8,0.6,Pop,Pop
+english_Call_Me_Maybe,English,Carly Rae Jepsen,0.96,0.84,Pop,Pop
+english_Cut_to_the_Feeling,English,Carly Rae Jepsen,0.94,0.88,Pop,Pop
+english_Since_U_Been_Gone,English,Kelly Clarkson,0.9,0.87,Pop,Pop
+english_Unconditionally,English,Katy Perry,0.89,0.7,Pop,Pop
+english_Wide_Awake,English,Katy Perry,0.82,0.74,Pop,Pop
+english_Lucky,English,Britney Spears,0.78,0.7,Pop,Pop
+english_Circus,English,Britney Spears,0.87,0.83,Pop,Pop
+english_Womanizer,English,Britney Spears,0.85,0.88,Pop,Pop
+english_Hollaback_Girl,English,Gwen Stefani,0.89,0.9,Pop,Pop
+english_The_Sweet_Escape,English,Gwen Stefani,0.91,0.82,Pop,Pop
+english_Rich_Girl,English,Gwen Stefani,0.88,0.79,Pop,Pop
+english_Cool,English,Gwen Stefani,0.8,0.66,Pop,Pop
+english_What_You_Waiting_For,English,Gwen Stefani,0.83,0.87,Pop,Pop
+english_A_Thousand_Miles,English,Vanessa Carlton,0.92,0.68,Pop,Pop
+english_Ordinary_Day,English,Vanessa Carlton,0.86,0.7,Pop,Pop
+english_White_Houses,English,Vanessa Carlton,0.84,0.72,Pop,Pop
+english_Brave,English,Sara Bareilles,0.95,0.82,Pop,Pop
+english_Domino,English,Jessie J,0.94,0.88,Pop,Pop
+english_Price_Tag,English,Jessie J,0.92,0.84,Pop,Pop
+english_Bang_Bang,English,Jessie J,0.9,0.89,Pop,Pop
+english_Flashlight,English,Jessie J,0.88,0.7,Pop,Pop
+english_Nobody's_Perfect,English,Jessie J,0.82,0.78,Pop,Pop
+english_Skyscraper,English,Demi Lovato,0.78,0.68,Pop,Pop
+english_Heart_Attack,English,Demi Lovato,0.86,0.9,Pop,Pop
+english_Give_Your_Heart_a_Break,English,Demi Lovato,0.9,0.82,Pop,Pop
+english_Cool_for_the_Summer,English,Demi Lovato,0.88,0.87,Pop,Pop
+english_Sorry_Not_Sorry,English,Demi Lovato,0.84,0.86,Pop,Pop
+english_Never_Be_the_Same,English,Camila Cabello,0.82,0.7,Pop,Pop
+english_Liar,English,Camila Cabello,0.86,0.8,Pop,Pop
+english_Bam_Bam,English,Camila Cabello,0.92,0.84,Pop,Pop
+english_Don't_Go_Yet,English,Camila Cabello,0.93,0.88,Pop,Pop
+english_Mirrors,English,Justin Timberlake,0.88,0.76,Pop,Pop
+english_SexyBack,English,Justin Timberlake,0.85,0.91,Pop,Pop
+english_Genie_in_a_Bottle,English,Christina Aguilera,0.89,0.8,Pop,Pop
+english_Fighter,English,Christina Aguilera,0.86,0.88,Pop,Pop
+english_Ain't_No_Other_Man,English,Christina Aguilera,0.9,0.87,Pop,Pop
+english_Candyman,English,Christina Aguilera,0.94,0.89,Pop,Pop
+english_Sk8er_Boi,English,Avril Lavigne,0.88,0.86,Pop,Pop
+english_I'm_With_You,English,Avril Lavigne,0.78,0.64,Pop,Pop
+english_Girlfriend,English,Avril Lavigne,0.92,0.9,Pop,Pop
+english_What_the_Hell,English,Avril Lavigne,0.89,0.88,Pop,Pop
+english_Rude_Boy,English,Rihanna,0.92,0.89,Pop,Pop
+english_It's_All_Coming_Back_to_Me_Now,English,Celine Dion,0.84,0.68,Pop,Pop
+english_I'm_Alive,English,Celine Dion,0.95,0.82,Pop,Pop
+english_That's_the_Way_It_Is,English,Celine Dion,0.93,0.78,Pop,Pop
+english_Hero,English,Mariah Carey,0.9,0.65,Pop,Pop
+english_Fantasy,English,Mariah Carey,0.92,0.84,Pop,Pop
+english_Always_Be_My_Baby,English,Mariah Carey,0.94,0.8,Pop,Pop
+english_Touch_My_Body,English,Mariah Carey,0.91,0.82,Pop,Pop
+english_Vision_of_Love,English,Mariah Carey,0.86,0.68,Pop,Pop
+english_Emotions,English,Mariah Carey,0.93,0.86,Pop,Pop
+english_Obsessed,English,Mariah Carey,0.84,0.83,Pop,Pop
+english_Honey,English,Mariah Carey,0.9,0.84,Pop,Pop
+english_I_Still_Haven't_Found_What_I'm_Looking_For,English,U2,0.88,0.72,Pop,Pop
+english_Stuck_in_a_Moment_You_Can't_Get_Out_Of,English,U2,0.82,0.6,Pop,Pop
+english_Sweetest_Thing,English,U2,0.9,0.7,Pop,Pop
+english_Adventure_of_a_Lifetime,English,Coldplay,0.95,0.88,Pop,Pop
+english_Speed_of_Sound,English,Coldplay,0.89,0.76,Pop,Pop
+english_Magic,English,Coldplay,0.86,0.64,Pop,Pop
+english_Take_Me_Home_Tonight,English,Eddie Money,0.9,0.8,Pop,Pop
+english_Everywhere,English,Fleetwood Mac,0.92,0.78,Pop,Pop
+english_Hold_Me_Now,English,Thompson Twins,0.88,0.72,Pop,Pop
+english_Don't_Dream_It's_Over,English,Crowded House,0.86,0.66,Pop,Pop
+english_Walking_on_Sunshine,English,Katrina and the Waves,0.98,0.9,Pop,Pop
+english_Kiss_Me,English,Sixpence None the Richer,0.94,0.7,Pop,Pop
+english_Torn,English,Natalie Imbruglia,0.84,0.68,Pop,Pop
+english_Bubbly,English,Colbie Caillat,0.92,0.66,Pop,Pop
+english_Realize,English,Colbie Caillat,0.88,0.64,Pop,Pop
+english_I'm_Yours,English,Jason Mraz,0.96,0.7,Pop,Pop
+english_I_Won't_Give_Up,English,Jason Mraz,0.9,0.6,Pop,Pop
+english_Count_on_Me,English,Bruno Mars,0.95,0.68,Pop,Pop
+english_This_Love,English,Maroon 5,0.91,0.86,Pop,Pop
+english_Girls_Like_You,English,Maroon 5,0.93,0.78,Pop,Pop
+english_One_More_Night,English,Maroon 5,0.89,0.85,Pop,Pop
+english_Stitches,English,Shawn Mendes,0.86,0.84,Pop,Pop
+english_Treat_You_Better,English,Shawn Mendes,0.88,0.78,Pop,Pop
+english_There's_Nothing_Holdin'_Me_Back,English,Shawn Mendes,0.94,0.9,Pop,Pop
+english_If_I_Can't_Have_You,English,Shawn Mendes,0.91,0.86,Pop,Pop
+english_Attention,English,Charlie Puth,0.89,0.8,Pop,Pop
+english_We_Don't_Talk_Anymore,English,Charlie Puth,0.86,0.74,Pop,Pop
+english_How_Long,English,Charlie Puth,0.9,0.82,Pop,Pop
+english_One_Call_Away,English,Charlie Puth,0.92,0.7,Pop,Pop
+english_Left_and_Right,English,Charlie Puth,0.94,0.84,Pop,Pop
+english_Attention_to_Me,English,Zara Larsson,0.88,0.82,Pop,Pop
+english_Never_Forget_You,English,Zara Larsson,0.9,0.86,Pop,Pop
+english_Ruin_My_Life,English,Zara Larsson,0.86,0.84,Pop,Pop
+english_Symphony,English,Zara Larsson,0.92,0.8,Pop,Pop
+english_Bad_at_Love,English,Halsey,0.84,0.78,Pop,Pop
+english_Graveyard,English,Halsey,0.82,0.72,Pop,Pop
+english_Now_or_Never,English,Halsey,0.8,0.76,Pop,Pop
+english_Colors,English,Halsey,0.78,0.7,Pop,Pop
+english_Back_to_You,English,Selena Gomez,0.88,0.76,Pop,Pop
+english_Same_Old_Love,English,Selena Gomez,0.82,0.74,Pop,Pop
+english_Hands_to_Myself,English,Selena Gomez,0.84,0.78,Pop,Pop
+english_Lose_You_to_Love_Me,English,Selena Gomez,0.72,0.6,Pop,Pop
+english_Look_at_Her_Now,English,Selena Gomez,0.9,0.84,Pop,Pop
+english_Only_Human,English,Jonas Brothers,0.92,0.86,Pop,Pop
+english_Sucker,English,Jonas Brothers,0.94,0.88,Pop,Pop
+english_What_a_Man_Gotta_Do,English,Jonas Brothers,0.93,0.87,Pop,Pop
+english_Waffle_House,English,Jonas Brothers,0.91,0.84,Pop,Pop
+english_Castle_on_the_Hill,English,Ed Sheeran,0.94,0.86,Pop,Pop
+english_Galway_Girl,English,Ed Sheeran,0.92,0.84,Pop,Pop
+english_Need_to_Know,English,Doja Cat,0.88,0.84,Pop,Pop
+english_Paint_the_Town_Red,English,Doja Cat,0.9,0.89,Pop,Pop
+english_Greedy,English,Tate McRae,0.86,0.82,Pop,Pop
+english_You_Broke_Me_First,English,Tate McRae,0.74,0.64,Pop,Pop
+english_She's_All_I_Wanna_Be,English,Tate McRae,0.88,0.86,Pop,Pop
+english_Exes,English,Tate McRae,0.84,0.8,Pop,Pop
+english_Run_for_the_Hills,English,Tate McRae,0.9,0.88,Pop,Pop
+english_Overpass_Graffiti,English,Ed Sheeran,0.88,0.84,Pop,Pop
+english_Eyes_Closed,English,Ed Sheeran,0.82,0.74,Pop,Pop
+english_Afterglow,English,Ed Sheeran,0.86,0.7,Pop,Pop
+english_Good_as_Hell,English,Lizzo,0.97,0.9,Pop,Pop
+english_Juice,English,Lizzo,0.98,0.92,Pop,Pop
+english_Special,English,Lizzo,0.94,0.82,Pop,Pop
+english_2_Be_Loved,English,Lizzo,0.95,0.88,Pop,Pop
+english_Greedy_Love,English,Zara Larsson,0.88,0.82,Pop,Pop
+english_Look_What_You've_Done,English,Zara Larsson,0.8,0.72,Pop,Pop
+english_Poster_Girl,English,Zara Larsson,0.92,0.86,Pop,Pop
+english_All_the_Time,English,Zara Larsson,0.9,0.84,Pop,Pop
+english_I_Would_Like,English,Zara Larsson,0.91,0.87,Pop,Pop
+english_Starboy,English,The Weeknd,0.86,0.84,Pop,Pop
+english_I_Feel_It_Coming,English,The Weeknd,0.92,0.76,Pop,Pop
+english_Out_of_Time,English,The Weeknd,0.88,0.72,Pop,Pop
+english_Into_You,English,Ariana Grande,0.94,0.9,Pop,Pop
+english_Dangerous_Woman,English,Ariana Grande,0.88,0.84,Pop,Pop
+english_Break_Free,English,Ariana Grande,0.96,0.92,Pop,Pop
+english_Call_Your_Girlfriend,English,Robyn,0.9,0.84,Pop,Pop
+english_Be_Mine!,English,Robyn,0.84,0.8,Pop,Pop
+english_Deja_Vu,English,Olivia Rodrigo,0.74,0.7,Pop,Pop
+english_Traitor,English,Olivia Rodrigo,0.6,0.55,Pop,Pop
+english_Good_Time,English,Owl City,0.98,0.86,Pop,Pop
+english_Fireflies,English,Owl City,0.92,0.7,Pop,Pop
+english_When_Can_I_See_You_Again,English,Owl City,0.96,0.84,Pop,Pop
+english_Vanilla_Twilight,English,Owl City,0.88,0.68,Pop,Pop
+english_Umbrella_Beach,English,Owl City,0.9,0.82,Pop,Pop
+english_Time_to_Pretend,English,MGMT,0.88,0.84,Pop,Pop
+english_Little_Dark_Age,English,MGMT,0.72,0.8,Pop,Pop
+english_Me_and_Michael,English,MGMT,0.84,0.78,Pop,Pop
+english_One_Foot,English,Walk the Moon,0.94,0.88,Pop,Pop
+english_Tightrope,English,Walk the Moon,0.92,0.86,Pop,Pop
+english_Anna_Sun,English,Walk the Moon,0.95,0.9,Pop,Pop
+english_Different_Colors,English,Walk the Moon,0.93,0.87,Pop,Pop
+english_Good_Grief,English,Bastille,0.88,0.84,Pop,Pop
+english_Things_We_Lost_in_the_Fire,English,Bastille,0.8,0.72,Pop,Pop
+english_Flaws,English,Bastille,0.76,0.68,Pop,Pop
+english_Apologize,English,OneRepublic,0.74,0.66,Pop,Pop
+english_Secrets,English,OneRepublic,0.88,0.82,Pop,Pop
+english_Kangaroo_Court,English,Capital Cities,0.9,0.84,Pop,Pop
+english_One_Minute_More,English,Capital Cities,0.92,0.86,Pop,Pop
+english_Farrah_Fawcett_Hair,English,Capital Cities,0.88,0.82,Pop,Pop
+english_Vowels,English,Capital Cities,0.86,0.8,Pop,Pop
+english_Ways_to_Go,English,Grouplove,0.94,0.86,Pop,Pop
+english_Itchin'_on_a_Photograph,English,Grouplove,0.9,0.88,Pop,Pop
+english_Colours,English,Grouplove,0.92,0.84,Pop,Pop
+english_On_Top_of_the_World,English,Imagine Dragons,0.98,0.92,Pop,Pop
+english_It's_Time,English,Imagine Dragons,0.94,0.88,Pop,Pop
+english_Whatever_It_Takes,English,Imagine Dragons,0.92,0.91,Pop,Pop
+english_Follow_You,English,Imagine Dragons,0.9,0.86,Pop,Pop
+english_Bones,English,Imagine Dragons,0.88,0.89,Pop,Pop
+english_Best_Day_of_My_Life,English,American Authors,0.99,0.94,Pop,Pop
+english_Go_Big_or_Go_Home,English,American Authors,0.95,0.91,Pop,Pop
+english_Pride,English,American Authors,0.9,0.84,Pop,Pop
+english_Luck,English,American Authors,0.93,0.88,Pop,Pop
+english_Coming_Home,English,Sheppard,0.92,0.84,Pop,Pop
+english_Learning_to_Fly,English,Sheppard,0.94,0.88,Pop,Pop
+english_Let_Me_Down_Easy,English,Sheppard,0.9,0.8,Pop,Pop
+english_Die_Young,English,Sheppard,0.95,0.9,Pop,Pop
+english_Sleep_on_the_Floor,English,The Lumineers,0.9,0.8,Pop,Pop
+english_Angela,English,The Lumineers,0.86,0.74,Pop,Pop
+english_A_Moment_Like_This,English,Kelly Clarkson,0.92,0.74,Pop,Pop
+english_Breakaway,English,Kelly Clarkson,0.94,0.8,Pop,Pop
+english_Behind_These_Hazel_Eyes,English,Kelly Clarkson,0.86,0.82,Pop,Pop
+english_Walk_Away,English,Kelly Clarkson,0.88,0.84,Pop,Pop
+english_Domino_Effect,English,Jessie J,0.9,0.86,Pop,Pop
+english_LaserLight,English,Jessie J,0.94,0.9,Pop,Pop
+english_Thunder,English,Jessie J,0.88,0.84,Pop,Pop
+english_Think_About_That,English,Jessie J,0.82,0.78,Pop,Pop
+english_Queen,English,Jessie J,0.92,0.88,Pop,Pop
+"english_Sit_Still,_Look_Pretty",English,Daya,0.94,0.86,Pop,Pop
+english_Hide_Away,English,Daya,0.92,0.82,Pop,Pop
+english_Don't_Let_Me_Down,English,Daya,0.88,0.8,Pop,Pop
+english_Words,English,Daya,0.86,0.78,Pop,Pop
+english_Insomnia,English,Daya,0.84,0.82,Pop,Pop
+english_So_Am_I,English,Ava Max,0.94,0.86,Pop,Pop
+english_My_Head_&_My_Heart,English,Ava Max,0.93,0.89,Pop,Pop
+english_Maybe_You're_the_Problem,English,Ava Max,0.88,0.87,Pop,Pop
+english_Love_Myself,English,Hailee Steinfeld,0.96,0.88,Pop,Pop
+english_Most_Girls,English,Hailee Steinfeld,0.95,0.86,Pop,Pop
+english_Starving,English,Hailee Steinfeld,0.9,0.84,Pop,Pop
+english_Let_Me_Go,English,Hailee Steinfeld,0.88,0.8,Pop,Pop
+english_Wrong_Direction,English,Hailee Steinfeld,0.74,0.66,Pop,Pop
+english_IDGAF,English,Dua Lipa,0.92,0.9,Pop,Pop
+english_Be_the_One,English,Dua Lipa,0.88,0.78,Pop,Pop
+english_Hotter_Than_Hell,English,Dua Lipa,0.9,0.86,Pop,Pop
+english_New_Rules,English,Dua Lipa,0.92,0.88,Pop,Pop
+english_Break_My_Heart,English,Dua Lipa,0.94,0.9,Pop,Pop
+english_Hallucinate,English,Dua Lipa,0.95,0.91,Pop,Pop
+english_Levitating_(Remix),English,Dua Lipa,0.96,0.92,Pop,Pop
+english_We're_Good,English,Dua Lipa,0.86,0.74,Pop,Pop
+english_Into_the_Unknown,English,Idina Menzel,0.9,0.82,Pop,Pop
+english_Show_Yourself,English,Idina Menzel,0.92,0.84,Pop,Pop
+english_Defying_Gravity,English,Idina Menzel,0.94,0.9,Pop,Pop
+english_For_the_First_Time_in_Forever,English,Idina Menzel,0.96,0.86,Pop,Pop
+english_Dark_Side,English,Kelly Clarkson,0.82,0.76,Pop,Pop
+english_Invincible,English,Kelly Clarkson,0.9,0.88,Pop,Pop
+english_Piece_by_Piece,English,Kelly Clarkson,0.78,0.64,Pop,Pop
+english_No,English,Meghan Trainor,0.92,0.86,Pop,Pop
+english_All_About_That_Bass,English,Meghan Trainor,0.98,0.9,Pop,Pop
+english_Dear_Future_Husband,English,Meghan Trainor,0.95,0.84,Pop,Pop
+english_Lips_Are_Movin,English,Meghan Trainor,0.96,0.88,Pop,Pop
+english_Heartbeat,English,Enrique Iglesias,0.9,0.82,Pop,Pop
+english_Escape,English,Enrique Iglesias,0.94,0.86,Pop,Pop
+english_Tonight_(I'm_Lovin'_You),English,Enrique Iglesias,0.95,0.9,Pop,Pop
+english_Bailamos,English,Enrique Iglesias,0.93,0.84,Pop,Pop
+english_Burn,English,Ellie Goulding,0.96,0.9,Pop,Pop
+english_Lights,English,Ellie Goulding,0.92,0.86,Pop,Pop
+english_Anything_Could_Happen,English,Ellie Goulding,0.95,0.88,Pop,Pop
+english_Army,English,Ellie Goulding,0.9,0.84,Pop,Pop
+english_On_My_Mind,English,Ellie Goulding,0.9,0.86,Pop,Pop
+english_Still_Falling_for_You,English,Ellie Goulding,0.92,0.8,Pop,Pop
+english_Something_in_the_Way_You_Move,English,Ellie Goulding,0.94,0.88,Pop,Pop
+english_Close_to_Me,English,Ellie Goulding,0.91,0.84,Pop,Pop
+english_Easy_Lover,English,Ellie Goulding,0.95,0.9,Pop,Pop
+english_Teenage_Dirtbag,English,Wheatus,0.86,0.78,Pop,Pop
+english_A_Thousand_Miles_Away,English,Hoodie Allen,0.9,0.82,Pop,Pop
+english_No_Interruption,English,Hoodie Allen,0.92,0.88,Pop,Pop
+english_Act_My_Age,English,Hoodie Allen,0.94,0.9,Pop,Pop
+english_The_Chase_Is_On,English,Hoodie Allen,0.88,0.84,Pop,Pop
+english_This_Is_What_It_Feels_Like,English,Armin van Buuren,0.93,0.9,Pop,Pop
+english_Not_Giving_Up_on_Love,English,Armin van Buuren,0.92,0.88,Pop,Pop
+english_Another_You,English,Armin van Buuren,0.9,0.86,Pop,Pop
+english_Sunny_Days,English,Armin van Buuren,0.95,0.89,Pop,Pop
+english_Heading_Up_High,English,Armin van Buuren,0.94,0.9,Pop,Pop
+english_All_the_Small_Things,English,blink-182,0.95,0.9,Pop,Pop
+english_First_Date,English,blink-182,0.94,0.88,Pop,Pop
+english_What's_My_Age_Again,English,blink-182,0.92,0.86,Pop,Pop
+english_I_Miss_You,English,blink-182,0.78,0.64,Pop,Pop
+english_The_Rock_Show,English,blink-182,0.93,0.89,Pop,Pop
+english_Stacy's_Mom,English,Fountains of Wayne,0.94,0.88,Pop,Pop
+english_1985,English,Bowling for Soup,0.92,0.86,Pop,Pop
+english_Girl_All_the_Bad_Guys_Want,English,Bowling for Soup,0.9,0.84,Pop,Pop
+english_High_School_Never_Ends,English,Bowling for Soup,0.93,0.88,Pop,Pop
+english_Punk_Rock_101,English,Bowling for Soup,0.91,0.87,Pop,Pop
+english_Check_Yes_Juliet,English,We the Kings,0.95,0.9,Pop,Pop
+english_Skyway_Avenue,English,We the Kings,0.9,0.84,Pop,Pop
+english_Say_You_Like_Me,English,We the Kings,0.94,0.88,Pop,Pop
+english_Secret_Valentine,English,We the Kings,0.88,0.8,Pop,Pop
+english_Heaven_Can_Wait,English,We the Kings,0.92,0.86,Pop,Pop
+english_Teenage_Dream_(Acoustic),English,Katy Perry,0.9,0.7,Pop,Pop
+english_Never_Really_Over,English,Katy Perry,0.94,0.88,Pop,Pop
+english_Daisies,English,Katy Perry,0.88,0.74,Pop,Pop
+english_Electric,English,Katy Perry,0.9,0.78,Pop,Pop
+english_Want_U_Back,English,Cher Lloyd,0.95,0.9,Pop,Pop
+english_Swagger_Jagger,English,Cher Lloyd,0.93,0.88,Pop,Pop
+english_With_Ur_Love,English,Cher Lloyd,0.94,0.86,Pop,Pop
+english_Oath,English,Cher Lloyd,0.96,0.92,Pop,Pop
+english_Sirens,English,Cher Lloyd,0.84,0.72,Pop,Pop
+english_Live_While_We're_Young,English,One Direction,0.98,0.92,Pop,Pop
+english_Night_Changes,English,One Direction,0.9,0.72,Pop,Pop
+english_Story_of_My_Life,English,One Direction,0.88,0.7,Pop,Pop
+english_Steal_My_Girl,English,One Direction,0.94,0.88,Pop,Pop
+english_Best_Song_Ever,English,One Direction,0.97,0.91,Pop,Pop
+english_Too_Sweet,English,Hozier,0.88,0.82,Pop,Pop
+english_Almost_(Sweet_Music),English,Hozier,0.9,0.8,Pop,Pop
+english_Movement,English,Hozier,0.78,0.72,Pop,Pop
+english_Pompeii_(Acoustic),English,Bastille,0.86,0.68,Pop,Pop
+english_Quarter_Past_Midnight,English,Bastille,0.92,0.88,Pop,Pop
+english_Send_Them_Off!,English,Bastille,0.88,0.84,Pop,Pop
+english_World_Gone_Mad,English,Bastille,0.8,0.76,Pop,Pop
+english_Laura_Palmer,English,Bastille,0.82,0.78,Pop,Pop
+english_Paris,English,The Chainsmokers,0.9,0.84,Pop,Pop
+english_Roses,English,The Chainsmokers,0.88,0.8,Pop,Pop
+english_All_We_Know,English,The Chainsmokers,0.86,0.78,Pop,Pop
