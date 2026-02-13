@@ -2,94 +2,149 @@ from yt_dlp import YoutubeDL
 
 songs = [
 
-("Untitled","Killer Mike",0.66,0.86),
-("Ric Flair","Killer Mike",0.78,0.88),
-("Burn","Killer Mike",0.60,0.91),
+("Are You Experienced?","Jimi Hendrix",0.82,0.90),
+("Purple Haze","Jimi Hendrix",0.80,0.96),
+("Voodoo Child (Slight Return)","Jimi Hendrix",0.84,0.98),
+("Hey Joe","Jimi Hendrix",0.86,0.82),
+("Little Wing","Jimi Hendrix",0.88,0.76),
 
-("Close Your Eyes","Run the Jewels",0.68,0.94),
-("Legend Has It","Run the Jewels",0.72,0.92),
-("Blockbuster Night Part 1","Run the Jewels",0.70,0.95),
-("Talk to Me","Run the Jewels",0.74,0.90),
-("Ooh La La","Run the Jewels",0.82,0.88),
+("Black Magic Woman","Santana",0.90,0.84),
+("Smooth","Santana",0.94,0.88),
+("Maria Maria","Santana",0.92,0.82),
+("Oye Como Va","Santana",0.96,0.86),
+("Europa","Santana",0.88,0.70),
 
-("Nobody Speak","DJ Shadow",0.78,0.89),
-("Six Days","DJ Shadow",0.76,0.86),
-("Organ Donor","DJ Shadow",0.68,0.84),
-("Building Steam With a Grain of Salt","DJ Shadow",0.72,0.80),
-("Midnight in a Perfect World","DJ Shadow",0.74,0.78),
+("Born to Be Wild","Steppenwolf",0.92,0.96),
+("Magic Carpet Ride","Steppenwolf",0.90,0.88),
+("Rock Me","Steppenwolf",0.88,0.90),
+("Monster","Steppenwolf",0.82,0.92),
+("The Pusher","Steppenwolf",0.80,0.84),
+
+("We Built This City","Starship",0.94,0.86),
+("Nothing's Gonna Stop Us Now","Starship",0.96,0.82),
+("Sara","Starship",0.88,0.74),
+("It's Not Enough","Starship",0.86,0.80),
+("Find Your Way Back","Starship",0.90,0.84),
+
+("Centerfold","The J. Geils Band",0.94,0.88),
+("Freeze Frame","The J. Geils Band",0.92,0.90),
+("Love Stinks","The J. Geils Band",0.88,0.86),
+("Give It to Me","The J. Geils Band",0.90,0.88),
+("Musta Got Lost","The J. Geils Band",0.86,0.82),
+
+("The Boys Are Back in Town","Thin Lizzy",0.92,0.90),
+("Jailbreak","Thin Lizzy",0.88,0.92),
+("Whiskey in the Jar","Thin Lizzy",0.90,0.84),
+("Rosalie","Thin Lizzy",0.86,0.90),
+("Still in Love With You","Thin Lizzy",0.88,0.76),
+
+("Barracuda","Heart",0.90,0.94),
+("Crazy on You","Heart",0.92,0.90),
+("Alone","Heart",0.88,0.70),
+("Magic Man","Heart",0.86,0.88),
+("These Dreams","Heart",0.90,0.74),
+
+("More Than Words","Extreme",0.92,0.68),
+("Hole Hearted","Extreme",0.90,0.82),
+("Get the Funk Out","Extreme",0.88,0.90),
+("Decadence Dance","Extreme",0.86,0.92),
+("Rest in Peace","Extreme",0.84,0.88),
+
+("Plush (Acoustic)","Stone Temple Pilots",0.84,0.70),
+("Creep (Acoustic)","Stone Temple Pilots",0.82,0.66),
+("Interstate Love Song (Acoustic)","Stone Temple Pilots",0.86,0.72),
+("Big Bang Baby","Stone Temple Pilots",0.88,0.90),
+("Sour Girl","Stone Temple Pilots",0.90,0.80),
 
 
-("Protect Ya Neck","Wu-Tang Clan",0.64,0.94),
-("Method Man","Wu-Tang Clan",0.70,0.90),
-("C.R.E.A.M.","Wu-Tang Clan",0.60,0.82),
-("Triumph","Wu-Tang Clan",0.68,0.96),
-("Wu-Tang Clan Ain't Nuthing ta F' Wit","Wu-Tang Clan",0.72,0.92),
+("Under the Bridge", "Red Hot Chili Peppers", 0.90, 0.74),
+("Californication", "Red Hot Chili Peppers", 0.88, 0.78),
+("Scar Tissue", "Red Hot Chili Peppers", 0.92, 0.70),
+("Otherside", "Red Hot Chili Peppers", 0.84, 0.76),
+("Dani California", "Red Hot Chili Peppers", 0.90, 0.88),
 
-("Shimmy Shimmy Ya","Ol' Dirty Bastard",0.78,0.90),
-("Got Your Money","Ol' Dirty Bastard",0.82,0.88),
-("Brooklyn Zoo","Ol' Dirty Bastard",0.74,0.92),
-("Raw Hide","Ol' Dirty Bastard",0.68,0.89),
-("Return to the 36 Chambers","Ol' Dirty Bastard",0.66,0.91),
+("Numb", "Linkin Park", 0.86, 0.82),
+("In the End", "Linkin Park", 0.88, 0.90),
+("Crawling", "Linkin Park", 0.78, 0.86),
+("Somewhere I Belong", "Linkin Park", 0.82, 0.88),
+("Breaking the Habit", "Linkin Park", 0.84, 0.80),
 
-("Liquid Swords","GZA",0.58,0.90),
-("Shadowboxin'","GZA",0.60,0.88),
-("4th Chamber","GZA",0.56,0.94),
-("Cold World","GZA",0.54,0.86),
-("Duel of the Iron Mic","GZA",0.62,0.92),
+("Bring Me to Life (Acoustic)", "Evanescence", 0.80, 0.72),
+("Lithium (Acoustic)", "Evanescence", 0.78, 0.68),
+("Tourniquet", "Evanescence", 0.72, 0.86),
+("Imaginary", "Evanescence", 0.84, 0.78),
+("Everybody's Fool", "Evanescence", 0.80, 0.82),
 
-("Glaciers of Ice","Raekwon",0.58,0.88),
-("Criminology","Raekwon",0.62,0.90),
-("Knowledge God","Raekwon",0.60,0.86),
-("Ice Water","Raekwon",0.64,0.84),
-("Knuckleheadz","Raekwon",0.66,0.89),
+("Take Me Out", "Franz Ferdinand", 0.92, 0.88),
+("Do You Want To", "Franz Ferdinand", 0.94, 0.90),
+("Walk Away", "Franz Ferdinand", 0.88, 0.82),
+("No You Girls", "Franz Ferdinand", 0.90, 0.86),
+("Love Illumination", "Franz Ferdinand", 0.92, 0.88),
 
-("Mighty Healthy","Ghostface Killah",0.70,0.92),
-("Nutmeg","Ghostface Killah",0.68,0.88),
-("Ghost Deini","Ghostface Killah",0.72,0.86),
-("Malcolm","Ghostface Killah",0.66,0.84),
-("Be Easy","Ghostface Killah",0.74,0.80),
+("Seven Nation Army (Acoustic)", "The White Stripes", 0.86, 0.70),
+("Hotel Yorba", "The White Stripes", 0.88, 0.82),
+("We're Going to Be Friends", "The White Stripes", 0.90, 0.68),
+("Dead Leaves and the Dirty Ground", "The White Stripes", 0.82, 0.90),
+("The Denial Twist", "The White Stripes", 0.84, 0.88),
+
+("Howlin' for You", "The Black Keys", 0.92, 0.88),
+("Lonely Boy", "The Black Keys", 0.94, 0.90),
+("Gold on the Ceiling", "The Black Keys", 0.90, 0.92),
+("Tighten Up", "The Black Keys", 0.88, 0.84),
+("Little Black Submarines", "The Black Keys", 0.86, 0.80),
+
+("Use Me", "Hozier", 0.82, 0.76),
+("Almost (Sweet Music)", "Hozier", 0.88, 0.80),
+("From Eden", "Hozier", 0.84, 0.78),
+("Angel of Small Death", "Hozier", 0.80, 0.82),
+("Cherry Wine", "Hozier", 0.86, 0.66),
+
+("Take Me to Church (Acoustic)", "Hozier", 0.82, 0.70),
+("Someone New (Acoustic)", "Hozier", 0.84, 0.68),
+("Work Song", "Hozier", 0.86, 0.72),
+("Movement (Acoustic)", "Hozier", 0.80, 0.66),
+("Dinner & Diatribes", "Hozier", 0.88, 0.86),
+
+("Sex on Fire (Acoustic)", "Kings of Leon", 0.84, 0.70),
+("Use Somebody (Live)", "Kings of Leon", 0.88, 0.76),
+("Temple (Live)", "Kings of Leon", 0.82, 0.78),
+("Pyro (Live)", "Kings of Leon", 0.80, 0.74),
+("Closer (Live)", "Kings of Leon", 0.82, 0.76),
 
 
-("B.O.B.","OutKast",0.78,0.98),
-("ATLiens","OutKast",0.70,0.86),
-("Elevators (Me & You)","OutKast",0.82,0.74),
-("SpottieOttieDopaliscious","OutKast",0.84,0.72),
-("Rosa Parks","OutKast",0.88,0.80),
-("Hey Ya! Remix","OutKast",0.92,0.90),
-("Player's Ball","OutKast",0.86,0.78),
-("Da Art of Storytellin' Pt. 1","OutKast",0.80,0.76),
-("Ms. Jackson Remix","OutKast",0.88,0.84),
-("So Fresh, So Clean Remix","OutKast",0.90,0.86),
-("Southernplayalisticadillacmuzik","OutKast",0.84,0.82),
-("Git Up, Git Out","OutKast",0.76,0.80),
-("Wheelz of Steel","OutKast",0.74,0.82),
-("Return of the 'G'","OutKast",0.78,0.86),
-("Hootie Hoo","OutKast",0.86,0.90),
-
-("Kryptonite","Big Boi",0.82,0.84),
-("Shutterbugg","Big Boi",0.88,0.86),
-("Follow Us","Big Boi",0.80,0.88),
-("General Patton","Big Boi",0.74,0.90),
-("In the A","Big Boi",0.78,0.86),
-("The Way You Move","Big Boi",0.92,0.84),
-("Apple of My Eye","Big Boi",0.88,0.76),
-
-("War","Kendrick Lamar",0.60,0.92),
-("Ronald Reagan Era","Kendrick Lamar",0.64,0.90),
-("Rigamortus","Kendrick Lamar",0.68,0.94),
 
 
 ]
 
-ydl_opts = {"quiet": True, "skip_download": True}
+ydl_opts = {
+    "quiet": True,
+    "skip_download": True,
+    "noplaylist": True,
+    "extract_flat": True,
+    "ignoreerrors": True
+}
 
 def get_link(song, artist):
-    query = f"ytsearch1:{song} {artist} official video"
-    with YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(query, download=False)
-        return f"https://www.youtube.com/watch?v={info['entries'][0]['id']}"
+    try:
+        query = f"ytsearch1:{song} {artist} official video"
+        with YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(query, download=False)
 
-with open("hiphop_links_filled.py", "w", encoding="utf-8") as f:
+            if not info or "entries" not in info or not info["entries"]:
+                return ""
+
+            vid = info["entries"][0].get("id")
+            if vid:
+                return f"https://www.youtube.com/watch?v={vid}"
+            return ""
+
+    except Exception:
+        return ""
+
+# generate rock dataset with links
+with open("rock_links_filled.py", "w", encoding="utf-8") as f:
     for song, artist, v, a in songs:
         link = get_link(song, artist)
-        f.write(f'("{song}", "{artist}", "English", {v}, {a}, "Hip-Hop", ["{link}"]),\n')
+        f.write(f'("{song}", "{artist}", "English", {v}, {a}, "Rock", ["{link}"]),\n')
+
+print("✅ rock_links_filled.py created with YouTube links")

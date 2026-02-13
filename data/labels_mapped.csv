@@ -301,7 +301,6 @@ english_Jump,English,Van Halen,0.9,0.95,Hard Rock,Rock
 english_No_Scrubs,English,TLC,0.75,0.7,R&B Pop,R&B
 english_Love_Shack,English,The B-52s,0.8,0.85,New Wave Pop,Pop
 english_Under_the_Bridge,English,Red Hot Chili Peppers,0.6,0.5,Alternative Rock,Rock
-english_Sweet_Child_o'_Mine,English,Guns N' Roses,0.9,0.85,Hard Rock,Rock
 english_I_Want_to_Break_Free,English,Queen,0.85,0.8,Pop Rock,Rock
 english_Take_Me_to_Church,English,Hozier,0.7,0.6,Indie Soul,R&B
 english_Hotline_Bling,English,Drake,0.75,0.7,Pop R&B,R&B
@@ -1898,7 +1897,6 @@ english_Laura_Palmer,English,Bastille,0.82,0.78,Pop,Pop
 english_Paris,English,The Chainsmokers,0.9,0.84,Pop,Pop
 english_Roses,English,The Chainsmokers,0.88,0.8,Pop,Pop
 english_All_We_Know,English,The Chainsmokers,0.86,0.78,Pop,Pop
-english_Shook_Ones_Pt._II,English,Mobb Deep,0.48,0.92,Hip-Hop,Hip-Hop
 english_Quiet_Storm,English,Mobb Deep,0.52,0.86,Hip-Hop,Hip-Hop
 english_Hell_on_Earth,English,Mobb Deep,0.44,0.91,Hip-Hop,Hip-Hop
 english_Temperature's_Rising,English,Mobb Deep,0.5,0.8,Hip-Hop,Hip-Hop
@@ -1906,7 +1904,6 @@ english_Definition,English,Black Star,0.66,0.88,Hip-Hop,Hip-Hop
 english_Thieves_in_the_Night,English,Black Star,0.52,0.84,Hip-Hop,Hip-Hop
 english_Brown_Skin_Lady,English,Black Star,0.72,0.76,Hip-Hop,Hip-Hop
 english_ReDefinition,English,Black Star,0.7,0.89,Hip-Hop,Hip-Hop
-english_Ms._Fat_Booty,English,Mos Def,0.74,0.82,Hip-Hop,Hip-Hop
 english_Mathematics,English,Mos Def,0.6,0.88,Hip-Hop,Hip-Hop
 english_Umi_Says,English,Mos Def,0.8,0.7,Hip-Hop,Hip-Hop
 english_Auditorium,English,Mos Def,0.58,0.84,Hip-Hop,Hip-Hop
@@ -1937,7 +1934,6 @@ english_MC's_Act_Like_They_Don't_Know,English,KRS-One,0.7,0.92,Hip-Hop,Hip-Hop
 english_Sound_of_da_Police,English,KRS-One,0.6,0.94,Hip-Hop,Hip-Hop
 english_My_Philosophy,English,Boogie Down Productions,0.68,0.88,Hip-Hop,Hip-Hop
 english_South_Bronx,English,Boogie Down Productions,0.64,0.9,Hip-Hop,Hip-Hop
-english_Eric_B._Is_President,English,Eric B. & Rakim,0.7,0.86,Hip-Hop,Hip-Hop
 english_Paid_in_Full,English,Eric B. & Rakim,0.74,0.88,Hip-Hop,Hip-Hop
 english_I_Ain't_No_Joke,English,Eric B. & Rakim,0.68,0.9,Hip-Hop,Hip-Hop
 english_Follow_the_Leader,English,Eric B. & Rakim,0.72,0.91,Hip-Hop,Hip-Hop
@@ -1952,7 +1948,6 @@ english_The_Show,English,Doug E. Fresh,0.92,0.84,Hip-Hop,Hip-Hop
 english_Children's_Story,English,Slick Rick,0.82,0.8,Hip-Hop,Hip-Hop
 english_Mona_Lisa,English,Slick Rick,0.88,0.78,Hip-Hop,Hip-Hop
 english_Teenage_Love,English,Slick Rick,0.86,0.76,Hip-Hop,Hip-Hop
-english_I_Used_to_Love_H.E.R.,English,Common,0.7,0.78,Hip-Hop,Hip-Hop
 english_Go!,English,Common,0.82,0.84,Hip-Hop,Hip-Hop
 english_Universal_Mind_Control,English,Common,0.86,0.82,Hip-Hop,Hip-Hop
 "english_Kick,_Push",English,Lupe Fiasco,0.84,0.78,Hip-Hop,Hip-Hop
@@ -1972,7 +1967,6 @@ english_Organ_Donor,English,DJ Shadow,0.68,0.84,Hip-Hop,Hip-Hop
 english_Building_Steam_With_a_Grain_of_Salt,English,DJ Shadow,0.72,0.8,Hip-Hop,Hip-Hop
 english_Midnight_in_a_Perfect_World,English,DJ Shadow,0.74,0.78,Hip-Hop,Hip-Hop
 english_Method_Man,English,Wu-Tang Clan,0.7,0.9,Hip-Hop,Hip-Hop
-english_C.R.E.A.M.,English,Wu-Tang Clan,0.6,0.82,Hip-Hop,Hip-Hop
 english_Wu-Tang_Clan_Ain't_Nuthing_ta_F'_Wit,English,Wu-Tang Clan,0.72,0.92,Hip-Hop,Hip-Hop
 english_Shimmy_Shimmy_Ya,English,Ol' Dirty Bastard,0.78,0.9,Hip-Hop,Hip-Hop
 english_Got_Your_Money,English,Ol' Dirty Bastard,0.82,0.88,Hip-Hop,Hip-Hop
@@ -1993,13 +1987,10 @@ english_Nutmeg,English,Ghostface Killah,0.68,0.88,Hip-Hop,Hip-Hop
 english_Ghost_Deini,English,Ghostface Killah,0.72,0.86,Hip-Hop,Hip-Hop
 english_Malcolm,English,Ghostface Killah,0.66,0.84,Hip-Hop,Hip-Hop
 english_Be_Easy,English,Ghostface Killah,0.74,0.8,Hip-Hop,Hip-Hop
-english_B.O.B.,English,OutKast,0.78,0.98,Hip-Hop,Hip-Hop
 english_Elevators_(Me_&_You),English,OutKast,0.82,0.74,Hip-Hop,Hip-Hop
 english_SpottieOttieDopaliscious,English,OutKast,0.84,0.72,Hip-Hop,Hip-Hop
 english_Hey_Ya!_Remix,English,OutKast,0.92,0.9,Hip-Hop,Hip-Hop
 english_Player's_Ball,English,OutKast,0.86,0.78,Hip-Hop,Hip-Hop
-english_Da_Art_of_Storytellin'_Pt._1,English,OutKast,0.8,0.76,Hip-Hop,Hip-Hop
-english_Ms._Jackson_Remix,English,OutKast,0.88,0.84,Hip-Hop,Hip-Hop
 "english_So_Fresh,_So_Clean_Remix",English,OutKast,0.9,0.86,Hip-Hop,Hip-Hop
 english_Southernplayalisticadillacmuzik,English,OutKast,0.84,0.82,Hip-Hop,Hip-Hop
 "english_Git_Up,_Git_Out",English,OutKast,0.76,0.8,Hip-Hop,Hip-Hop
@@ -2016,3 +2007,317 @@ english_Apple_of_My_Eye,English,Big Boi,0.88,0.76,Hip-Hop,Hip-Hop
 english_War,English,Kendrick Lamar,0.6,0.92,Hip-Hop,Hip-Hop
 english_Ronald_Reagan_Era,English,Kendrick Lamar,0.64,0.9,Hip-Hop,Hip-Hop
 english_Rigamortus,English,Kendrick Lamar,0.68,0.94,Hip-Hop,Hip-Hop
+english_Another_One_Bites_the_Dust,English,Queen,0.84,0.88,Rock,Rock
+english_Somebody_to_Love,English,Queen,0.9,0.8,Rock,Rock
+english_Stairway_to_Heaven,English,Led Zeppelin,0.78,0.82,Rock,Rock
+english_Whole_Lotta_Love,English,Led Zeppelin,0.82,0.94,Rock,Rock
+english_Kashmir,English,Led Zeppelin,0.74,0.88,Rock,Rock
+english_Immigrant_Song,English,Led Zeppelin,0.72,0.96,Rock,Rock
+english_Comfortably_Numb,English,Pink Floyd,0.66,0.76,Rock,Rock
+english_Another_Brick_in_the_Wall,English,Pink Floyd,0.78,0.84,Rock,Rock
+english_Wish_You_Were_Here,English,Pink Floyd,0.82,0.66,Rock,Rock
+english_Time,English,Pink Floyd,0.72,0.78,Rock,Rock
+english_Money,English,Pink Floyd,0.8,0.82,Rock,Rock
+english_Life_in_the_Fast_Lane,English,Eagles,0.84,0.82,Rock,Rock
+english_New_Kid_in_Town,English,Eagles,0.88,0.7,Rock,Rock
+english_Desperado,English,Eagles,0.78,0.6,Rock,Rock
+english_Welcome_to_the_Jungle,English,Guns N' Roses,0.74,0.96,Rock,Rock
+english_Paradise_City,English,Guns N' Roses,0.88,0.94,Rock,Rock
+english_November_Rain,English,Guns N' Roses,0.84,0.72,Rock,Rock
+english_Don't_Cry,English,Guns N' Roses,0.8,0.68,Rock,Rock
+english_Back_in_Black,English,AC/DC,0.86,0.94,Rock,Rock
+english_You_Shook_Me_All_Night_Long,English,AC/DC,0.9,0.92,Rock,Rock
+english_Fade_to_Black,English,Metallica,0.72,0.78,Rock,Rock
+english_Livin'_on_a_Prayer,English,Bon Jovi,0.96,0.9,Rock,Rock
+english_It's_My_Life,English,Bon Jovi,0.94,0.88,Rock,Rock
+english_You_Give_Love_a_Bad_Name,English,Bon Jovi,0.92,0.92,Rock,Rock
+english_Always,English,Bon Jovi,0.84,0.7,Rock,Rock
+english_Wonderwall,English,Oasis,0.9,0.7,Rock,Rock
+english_Don't_Look_Back_in_Anger,English,Oasis,0.92,0.76,Rock,Rock
+english_Champagne_Supernova,English,Oasis,0.86,0.74,Rock,Rock
+english_Live_Forever,English,Oasis,0.94,0.8,Rock,Rock
+english_Supersonic,English,Oasis,0.88,0.84,Rock,Rock
+english_Paint_It_Black,English,The Rolling Stones,0.78,0.88,Rock,Rock
+english_Gimme_Shelter,English,The Rolling Stones,0.7,0.9,Rock,Rock
+english_Start_Me_Up,English,The Rolling Stones,0.88,0.86,Rock,Rock
+english_Angie,English,The Rolling Stones,0.84,0.68,Rock,Rock
+english_Sympathy_for_the_Devil,English,The Rolling Stones,0.82,0.92,Rock,Rock
+english_Break_On_Through,English,The Doors,0.78,0.9,Rock,Rock
+english_People_Are_Strange,English,The Doors,0.72,0.74,Rock,Rock
+english_Love_Me_Two_Times,English,The Doors,0.84,0.82,Rock,Rock
+english_Dancing_in_the_Dark,English,Bruce Springsteen,0.92,0.84,Rock,Rock
+english_Thunder_Road,English,Bruce Springsteen,0.86,0.76,Rock,Rock
+english_Hungry_Heart,English,Bruce Springsteen,0.9,0.8,Rock,Rock
+english_American_Woman,English,The Guess Who,0.82,0.86,Rock,Rock
+english_No_Sugar_Tonight,English,The Guess Who,0.84,0.8,Rock,Rock
+english_These_Eyes,English,The Guess Who,0.88,0.72,Rock,Rock
+english_Laughing,English,The Guess Who,0.86,0.7,Rock,Rock
+english_Share_the_Land,English,The Guess Who,0.9,0.76,Rock,Rock
+english_More_Than_a_Feeling,English,Boston,0.94,0.86,Rock,Rock
+english_Peace_of_Mind,English,Boston,0.92,0.84,Rock,Rock
+english_ForeplayLong_Time,English,Boston,0.88,0.9,Rock,Rock
+english_Rock_and_Roll_Band,English,Boston,0.9,0.88,Rock,Rock
+english_Smokin',English,Boston,0.86,0.92,Rock,Rock
+english_Point_of_Know_Return,English,Kansas,0.88,0.82,Rock,Rock
+english_Play_the_Game_Tonight,English,Kansas,0.9,0.84,Rock,Rock
+english_The_Wall,English,Kansas,0.84,0.74,Rock,Rock
+english_Burning_Heart,English,Survivor,0.9,0.92,Rock,Rock
+english_High_on_You,English,Survivor,0.88,0.84,Rock,Rock
+english_I_Can't_Hold_Back,English,Survivor,0.86,0.8,Rock,Rock
+english_The_Search_Is_Over,English,Survivor,0.84,0.7,Rock,Rock
+english_Owner_of_a_Lonely_Heart,English,Yes,0.88,0.86,Rock,Rock
+english_Roundabout,English,Yes,0.9,0.88,Rock,Rock
+english_I've_Seen_All_Good_People,English,Yes,0.86,0.82,Rock,Rock
+english_Long_Distance_Runaround,English,Yes,0.84,0.84,Rock,Rock
+english_Heart_of_the_Sunrise,English,Yes,0.8,0.9,Rock,Rock
+english_Rosanna,English,Toto,0.92,0.82,Rock,Rock
+english_Hold_the_Line,English,Toto,0.9,0.88,Rock,Rock
+english_I_Won't_Hold_You_Back,English,Toto,0.86,0.7,Rock,Rock
+english_99,English,Toto,0.88,0.76,Rock,Rock
+english_Roll_Over_Beethoven,English,Chuck Berry,0.92,0.88,Rock,Rock
+english_Maybellene,English,Chuck Berry,0.9,0.86,Rock,Rock
+english_Rock_and_Roll_Music,English,Chuck Berry,0.95,0.92,Rock,Rock
+english_Sweet_Little_Sixteen,English,Chuck Berry,0.93,0.9,Rock,Rock
+english_Hound_Dog,English,Elvis Presley,0.96,0.88,Rock,Rock
+english_Jailhouse_Rock,English,Elvis Presley,0.98,0.92,Rock,Rock
+english_Heartbreak_Hotel,English,Elvis Presley,0.84,0.74,Rock,Rock
+english_All_Shook_Up,English,Elvis Presley,0.96,0.88,Rock,Rock
+english_Baba_O'Riley,English,The Who,0.92,0.88,Rock,Rock
+english_Behind_Blue_Eyes,English,The Who,0.82,0.7,Rock,Rock
+english_Pinball_Wizard,English,The Who,0.9,0.9,Rock,Rock
+english_Won't_Get_Fooled_Again,English,The Who,0.86,0.94,Rock,Rock
+english_Sunshine_of_Your_Love,English,Cream,0.82,0.88,Rock,Rock
+english_White_Room,English,Cream,0.78,0.86,Rock,Rock
+english_Crossroads,English,Cream,0.8,0.9,Rock,Rock
+english_Badge,English,Cream,0.84,0.82,Rock,Rock
+english_Strange_Brew,English,Cream,0.86,0.8,Rock,Rock
+english_Layla,English,Derek and the Dominos,0.9,0.88,Rock,Rock
+english_Bell_Bottom_Blues,English,Derek and the Dominos,0.84,0.76,Rock,Rock
+english_Little_Wing,English,Derek and the Dominos,0.82,0.74,Rock,Rock
+english_Tell_the_Truth,English,Derek and the Dominos,0.86,0.84,Rock,Rock
+english_Why_Does_Love_Got_to_Be_So_Sad,English,Derek and the Dominos,0.8,0.86,Rock,Rock
+english_Born_on_the_Bayou,English,Creedence Clearwater Revival,0.82,0.86,Rock,Rock
+english_Proud_Mary,English,Creedence Clearwater Revival,0.92,0.88,Rock,Rock
+english_Have_You_Ever_Seen_the_Rain,English,Creedence Clearwater Revival,0.86,0.72,Rock,Rock
+english_American_Pie,English,Don McLean,0.88,0.78,Rock,Rock
+english_Vincent,English,Don McLean,0.84,0.66,Rock,Rock
+english_Castles_in_the_Air,English,Don McLean,0.86,0.7,Rock,Rock
+english_And_I_Love_You_So,English,Don McLean,0.88,0.68,Rock,Rock
+english_Money_for_Nothing,English,Dire Straits,0.88,0.9,Rock,Rock
+english_Walk_of_Life,English,Dire Straits,0.94,0.86,Rock,Rock
+english_Romeo_and_Juliet,English,Dire Straits,0.86,0.7,Rock,Rock
+english_Brothers_in_Arms,English,Dire Straits,0.8,0.68,Rock,Rock
+english_Don't_Fear_the_Reaper,English,Blue Oyster Cult,0.84,0.82,Rock,Rock
+english_Burnin'_for_You,English,Blue Oyster Cult,0.88,0.86,Rock,Rock
+english_Godzilla,English,Blue Oyster Cult,0.82,0.88,Rock,Rock
+english_Astronomy,English,Blue Oyster Cult,0.8,0.78,Rock,Rock
+english_Cities_on_Flame,English,Blue Oyster Cult,0.78,0.9,Rock,Rock
+english_American_Girl,English,Tom Petty,0.94,0.88,Rock,Rock
+english_Refugee,English,Tom Petty,0.88,0.9,Rock,Rock
+english_I_Won't_Back_Down,English,Tom Petty,0.9,0.84,Rock,Rock
+english_The_Chain,English,Fleetwood Mac,0.86,0.84,Rock,Rock
+english_Rhiannon,English,Fleetwood Mac,0.88,0.78,Rock,Rock
+english_Where_the_Streets_Have_No_Name,English,U2,0.9,0.86,Rock,Rock
+english_Pride_(In_the_Name_of_Love),English,U2,0.92,0.88,Rock,Rock
+english_Sunday_Bloody_Sunday,English,U2,0.78,0.9,Rock,Rock
+english_Losing_My_Religion,English,R.E.M.,0.82,0.7,Rock,Rock
+english_The_One_I_Love,English,R.E.M.,0.86,0.8,Rock,Rock
+english_Man_on_the_Moon,English,R.E.M.,0.88,0.78,Rock,Rock
+english_It's_the_End_of_the_World_as_We_Know_It,English,R.E.M.,0.9,0.92,Rock,Rock
+english_Paranoid_Android,English,Radiohead,0.74,0.88,Rock,Rock
+english_High_and_Dry,English,Radiohead,0.84,0.7,Rock,Rock
+english_No_Surprises,English,Radiohead,0.78,0.6,Rock,Rock
+english_Supersoaker,English,Kings of Leon,0.9,0.88,Rock,Rock
+english_The_Bucket,English,Kings of Leon,0.84,0.86,Rock,Rock
+english_Cold_Hard_Bitch,English,Jet,0.86,0.92,Rock,Rock
+english_Rollover_DJ,English,Jet,0.88,0.9,Rock,Rock
+english_Put_Your_Money_Where_Your_Mouth_Is,English,Jet,0.9,0.92,Rock,Rock
+english_Somebody_Told_Me,English,The Killers,0.92,0.88,Rock,Rock
+english_When_You_Were_Young,English,The Killers,0.94,0.86,Rock,Rock
+english_All_These_Things_That_I've_Done,English,The Killers,0.88,0.84,Rock,Rock
+english_Last_Nite,English,The Strokes,0.9,0.88,Rock,Rock
+english_Reptilia,English,The Strokes,0.86,0.92,Rock,Rock
+english_Hard_to_Explain,English,The Strokes,0.88,0.84,Rock,Rock
+english_You_Only_Live_Once,English,The Strokes,0.94,0.88,Rock,Rock
+english_Jeremy,English,Pearl Jam,0.72,0.88,Rock,Rock
+english_Even_Flow,English,Pearl Jam,0.78,0.92,Rock,Rock
+english_Black,English,Pearl Jam,0.8,0.7,Rock,Rock
+english_Better_Man,English,Pearl Jam,0.82,0.74,Rock,Rock
+english_Spoonman,English,Soundgarden,0.74,0.92,Rock,Rock
+english_Fell_on_Black_Days,English,Soundgarden,0.7,0.82,Rock,Rock
+english_Rusty_Cage,English,Soundgarden,0.72,0.94,Rock,Rock
+english_Outshined,English,Soundgarden,0.76,0.88,Rock,Rock
+english_Would,English,Alice in Chains,0.66,0.88,Rock,Rock
+english_Man_in_the_Box,English,Alice in Chains,0.7,0.92,Rock,Rock
+english_Rooster,English,Alice in Chains,0.72,0.82,Rock,Rock
+english_No_Excuses,English,Alice in Chains,0.8,0.78,Rock,Rock
+english_Down_in_a_Hole,English,Alice in Chains,0.74,0.7,Rock,Rock
+english_Interstate_Love_Song,English,Stone Temple Pilots,0.86,0.84,Rock,Rock
+english_Plush,English,Stone Temple Pilots,0.8,0.86,Rock,Rock
+english_Vasoline,English,Stone Temple Pilots,0.78,0.88,Rock,Rock
+english_Big_Empty,English,Stone Temple Pilots,0.74,0.76,Rock,Rock
+english_Sex_Type_Thing,English,Stone Temple Pilots,0.7,0.94,Rock,Rock
+english_Trippin'_on_a_Hole_in_a_Paper_Heart,English,Stone Temple Pilots,0.78,0.92,Rock,Rock
+english_Lady_Picture_Show,English,Stone Temple Pilots,0.82,0.82,Rock,Rock
+english_Crackerman,English,Stone Temple Pilots,0.74,0.9,Rock,Rock
+english_Dead_&_Bloated,English,Stone Temple Pilots,0.72,0.88,Rock,Rock
+english_How_You_Remind_Me,English,Nickelback,0.88,0.86,Rock,Rock
+english_Far_Away,English,Nickelback,0.86,0.7,Rock,Rock
+english_My_Immortal,English,Evanescence,0.82,0.64,Rock,Rock
+english_Going_Under,English,Evanescence,0.74,0.9,Rock,Rock
+english_Call_Me_When_You're_Sober,English,Evanescence,0.8,0.86,Rock,Rock
+english_Lithium,English,Evanescence,0.72,0.76,Rock,Rock
+english_American_Idiot,English,Green Day,0.92,0.94,Rock,Rock
+english_Holiday,English,Green Day,0.9,0.92,Rock,Rock
+english_Wake_Me_Up_When_September_Ends,English,Green Day,0.84,0.7,Rock,Rock
+english_Basket_Case,English,Green Day,0.94,0.9,Rock,Rock
+english_Run_to_the_Hills,English,Iron Maiden,0.8,0.96,Rock,Rock
+english_The_Trooper,English,Iron Maiden,0.82,0.98,Rock,Rock
+english_Wasted_Years,English,Iron Maiden,0.86,0.88,Rock,Rock
+english_Breaking_the_Law,English,Judas Priest,0.84,0.94,Rock,Rock
+english_You've_Got_Another_Thing_Comin',English,Judas Priest,0.9,0.92,Rock,Rock
+english_Living_After_Midnight,English,Judas Priest,0.94,0.9,Rock,Rock
+english_Turbo_Lover,English,Judas Priest,0.88,0.86,Rock,Rock
+english_Iron_Man,English,Black Sabbath,0.72,0.9,Rock,Rock
+english_War_Pigs,English,Black Sabbath,0.7,0.94,Rock,Rock
+english_Children_of_the_Grave,English,Black Sabbath,0.68,0.96,Rock,Rock
+english_Heaven_and_Hell,English,Black Sabbath,0.76,0.88,Rock,Rock
+english_Overkill,English,Motorhead,0.8,0.96,Rock,Rock
+english_Iron_Fist,English,Motorhead,0.78,0.94,Rock,Rock
+english_Killed_by_Death,English,Motorhead,0.76,0.92,Rock,Rock
+english_The_Game,English,Motorhead,0.88,0.9,Rock,Rock
+english_Rock_You_Like_a_Hurricane,English,Scorpions,0.9,0.96,Rock,Rock
+english_Still_Loving_You,English,Scorpions,0.86,0.72,Rock,Rock
+english_Wind_of_Change,English,Scorpions,0.88,0.7,Rock,Rock
+english_No_One_Like_You,English,Scorpions,0.92,0.88,Rock,Rock
+english_Here_I_Go_Again,English,Whitesnake,0.94,0.86,Rock,Rock
+english_Still_of_the_Night,English,Whitesnake,0.82,0.92,Rock,Rock
+english_Love_Ain't_No_Stranger,English,Whitesnake,0.86,0.8,Rock,Rock
+english_Fool_for_Your_Loving,English,Whitesnake,0.88,0.84,Rock,Rock
+english_Talk_Dirty_to_Me,English,Poison,0.92,0.88,Rock,Rock
+english_Nothin'_but_a_Good_Time,English,Poison,0.96,0.92,Rock,Rock
+english_Unskinny_Bop,English,Poison,0.94,0.9,Rock,Rock
+english_Ride_the_Wind,English,Poison,0.9,0.88,Rock,Rock
+english_Home_Sweet_Home,English,Motley Crue,0.88,0.7,Rock,Rock
+english_Kickstart_My_Heart,English,Motley Crue,0.92,0.96,Rock,Rock
+"english_Girls,_Girls,_Girls",English,Motley Crue,0.9,0.92,Rock,Rock
+english_Live_Wire,English,Motley Crue,0.88,0.9,Rock,Rock
+english_No_More_Tears,English,Ozzy Osbourne,0.86,0.88,Rock,Rock
+"english_Mama,_I'm_Coming_Home",English,Ozzy Osbourne,0.88,0.72,Rock,Rock
+english_Bark_at_the_Moon,English,Ozzy Osbourne,0.84,0.94,Rock,Rock
+english_Everlong_(Acoustic),English,Foo Fighters,0.86,0.72,Rock,Rock
+english_Times_Like_These,English,Foo Fighters,0.9,0.84,Rock,Rock
+english_Monkey_Wrench,English,Foo Fighters,0.82,0.92,Rock,Rock
+english_My_Hero,English,Foo Fighters,0.88,0.86,Rock,Rock
+english_All_Apologies,English,Nirvana,0.74,0.7,Rock,Rock
+english_About_a_Girl,English,Nirvana,0.84,0.78,Rock,Rock
+english_Sliver,English,Nirvana,0.8,0.86,Rock,Rock
+english_Breed,English,Nirvana,0.72,0.94,Rock,Rock
+english_Aneurysm,English,Nirvana,0.7,0.96,Rock,Rock
+english_How_to_Save_a_Life,English,The Fray,0.82,0.7,Rock,Rock
+english_Over_My_Head,English,The Fray,0.86,0.78,Rock,Rock
+english_You_Found_Me,English,The Fray,0.84,0.76,Rock,Rock
+english_Syndicate,English,The Fray,0.86,0.8,Rock,Rock
+english_Use_Somebody_(Acoustic),English,Kings of Leon,0.88,0.7,Rock,Rock
+english_Temple,English,Kings of Leon,0.86,0.84,Rock,Rock
+english_On_Call,English,Kings of Leon,0.84,0.86,Rock,Rock
+english_Notion,English,Kings of Leon,0.88,0.88,Rock,Rock
+english_Pyro,English,Kings of Leon,0.82,0.76,Rock,Rock
+english_Best_of_You_(Acoustic),English,Foo Fighters,0.86,0.74,Rock,Rock
+english_Breakout,English,Foo Fighters,0.9,0.92,Rock,Rock
+english_Resolve,English,Foo Fighters,0.84,0.8,Rock,Rock
+english_Arlandria,English,Foo Fighters,0.88,0.9,Rock,Rock
+english_These_Days,English,Foo Fighters,0.86,0.82,Rock,Rock
+english_Mr._Jones,English,Counting Crows,0.92,0.84,Rock,Rock
+english_Accidentally_in_Love,English,Counting Crows,0.94,0.86,Rock,Rock
+english_Round_Here,English,Counting Crows,0.86,0.74,Rock,Rock
+english_Big_Yellow_Taxi,English,Counting Crows,0.9,0.8,Rock,Rock
+english_A_Long_December,English,Counting Crows,0.84,0.68,Rock,Rock
+english_Drive,English,Incubus,0.9,0.78,Rock,Rock
+english_Pardon_Me,English,Incubus,0.84,0.88,Rock,Rock
+english_Anna_Molly,English,Incubus,0.86,0.9,Rock,Rock
+english_Megalomaniac,English,Incubus,0.8,0.92,Rock,Rock
+english_All_These_Things_That_I've_Done_(Acoustic),English,The Killers,0.86,0.72,Rock,Rock
+english_Read_My_Mind,English,The Killers,0.9,0.82,Rock,Rock
+english_Runaways,English,The Killers,0.88,0.86,Rock,Rock
+english_Smile_Like_You_Mean_It,English,The Killers,0.92,0.84,Rock,Rock
+english_For_Reasons_Unknown,English,The Killers,0.86,0.88,Rock,Rock
+english_Send_Me_an_Angel,English,Scorpions,0.84,0.74,Rock,Rock
+english_Are_You_Experienced,English,Jimi Hendrix,0.82,0.9,Rock,Rock
+english_Purple_Haze,English,Jimi Hendrix,0.8,0.96,Rock,Rock
+english_Voodoo_Child_(Slight_Return),English,Jimi Hendrix,0.84,0.98,Rock,Rock
+english_Hey_Joe,English,Jimi Hendrix,0.86,0.82,Rock,Rock
+english_Black_Magic_Woman,English,Santana,0.9,0.84,Rock,Rock
+english_Maria_Maria,English,Santana,0.92,0.82,Rock,Rock
+english_Europa,English,Santana,0.88,0.7,Rock,Rock
+english_Born_to_Be_Wild,English,Steppenwolf,0.92,0.96,Rock,Rock
+english_Magic_Carpet_Ride,English,Steppenwolf,0.9,0.88,Rock,Rock
+english_Rock_Me,English,Steppenwolf,0.88,0.9,Rock,Rock
+english_Monster,English,Steppenwolf,0.82,0.92,Rock,Rock
+english_The_Pusher,English,Steppenwolf,0.8,0.84,Rock,Rock
+english_We_Built_This_City,English,Starship,0.94,0.86,Rock,Rock
+english_Nothing's_Gonna_Stop_Us_Now,English,Starship,0.96,0.82,Rock,Rock
+english_Sara,English,Starship,0.88,0.74,Rock,Rock
+english_It's_Not_Enough,English,Starship,0.86,0.8,Rock,Rock
+english_Find_Your_Way_Back,English,Starship,0.9,0.84,Rock,Rock
+english_Centerfold,English,The J. Geils Band,0.94,0.88,Rock,Rock
+english_Freeze_Frame,English,The J. Geils Band,0.92,0.9,Rock,Rock
+english_Love_Stinks,English,The J. Geils Band,0.88,0.86,Rock,Rock
+english_Give_It_to_Me,English,The J. Geils Band,0.9,0.88,Rock,Rock
+english_Musta_Got_Lost,English,The J. Geils Band,0.86,0.82,Rock,Rock
+english_The_Boys_Are_Back_in_Town,English,Thin Lizzy,0.92,0.9,Rock,Rock
+english_Jailbreak,English,Thin Lizzy,0.88,0.92,Rock,Rock
+english_Whiskey_in_the_Jar,English,Thin Lizzy,0.9,0.84,Rock,Rock
+english_Rosalie,English,Thin Lizzy,0.86,0.9,Rock,Rock
+english_Still_in_Love_With_You,English,Thin Lizzy,0.88,0.76,Rock,Rock
+english_Barracuda,English,Heart,0.9,0.94,Rock,Rock
+english_Crazy_on_You,English,Heart,0.92,0.9,Rock,Rock
+english_Alone,English,Heart,0.88,0.7,Rock,Rock
+english_Magic_Man,English,Heart,0.86,0.88,Rock,Rock
+english_These_Dreams,English,Heart,0.9,0.74,Rock,Rock
+english_More_Than_Words,English,Extreme,0.92,0.68,Rock,Rock
+english_Hole_Hearted,English,Extreme,0.9,0.82,Rock,Rock
+english_Get_the_Funk_Out,English,Extreme,0.88,0.9,Rock,Rock
+english_Decadence_Dance,English,Extreme,0.86,0.92,Rock,Rock
+english_Rest_in_Peace,English,Extreme,0.84,0.88,Rock,Rock
+english_Plush_(Acoustic),English,Stone Temple Pilots,0.84,0.7,Rock,Rock
+english_Creep_(Acoustic),English,Stone Temple Pilots,0.82,0.66,Rock,Rock
+english_Interstate_Love_Song_(Acoustic),English,Stone Temple Pilots,0.86,0.72,Rock,Rock
+english_Big_Bang_Baby,English,Stone Temple Pilots,0.88,0.9,Rock,Rock
+english_Sour_Girl,English,Stone Temple Pilots,0.9,0.8,Rock,Rock
+english_Californication,English,Red Hot Chili Peppers,0.88,0.78,Rock,Rock
+english_Scar_Tissue,English,Red Hot Chili Peppers,0.92,0.7,Rock,Rock
+english_Otherside,English,Red Hot Chili Peppers,0.84,0.76,Rock,Rock
+english_Dani_California,English,Red Hot Chili Peppers,0.9,0.88,Rock,Rock
+english_Crawling,English,Linkin Park,0.78,0.86,Rock,Rock
+english_Somewhere_I_Belong,English,Linkin Park,0.82,0.88,Rock,Rock
+english_Breaking_the_Habit,English,Linkin Park,0.84,0.8,Rock,Rock
+english_Bring_Me_to_Life_(Acoustic),English,Evanescence,0.8,0.72,Rock,Rock
+english_Lithium_(Acoustic),English,Evanescence,0.78,0.68,Rock,Rock
+english_Tourniquet,English,Evanescence,0.72,0.86,Rock,Rock
+english_Imaginary,English,Evanescence,0.84,0.78,Rock,Rock
+english_Everybody's_Fool,English,Evanescence,0.8,0.82,Rock,Rock
+english_Do_You_Want_To,English,Franz Ferdinand,0.94,0.9,Rock,Rock
+english_No_You_Girls,English,Franz Ferdinand,0.9,0.86,Rock,Rock
+english_Love_Illumination,English,Franz Ferdinand,0.92,0.88,Rock,Rock
+english_Seven_Nation_Army_(Acoustic),English,The White Stripes,0.86,0.7,Rock,Rock
+english_Hotel_Yorba,English,The White Stripes,0.88,0.82,Rock,Rock
+english_We're_Going_to_Be_Friends,English,The White Stripes,0.9,0.68,Rock,Rock
+english_Dead_Leaves_and_the_Dirty_Ground,English,The White Stripes,0.82,0.9,Rock,Rock
+english_The_Denial_Twist,English,The White Stripes,0.84,0.88,Rock,Rock
+english_Howlin'_for_You,English,The Black Keys,0.92,0.88,Rock,Rock
+english_Lonely_Boy,English,The Black Keys,0.94,0.9,Rock,Rock
+english_Gold_on_the_Ceiling,English,The Black Keys,0.9,0.92,Rock,Rock
+english_Little_Black_Submarines,English,The Black Keys,0.86,0.8,Rock,Rock
+english_Use_Me,English,Hozier,0.82,0.76,Rock,Rock
+english_From_Eden,English,Hozier,0.84,0.78,Rock,Rock
+english_Angel_of_Small_Death,English,Hozier,0.8,0.82,Rock,Rock
+english_Take_Me_to_Church_(Acoustic),English,Hozier,0.82,0.7,Rock,Rock
+english_Someone_New_(Acoustic),English,Hozier,0.84,0.68,Rock,Rock
+english_Movement_(Acoustic),English,Hozier,0.8,0.66,Rock,Rock
+english_Dinner_&_Diatribes,English,Hozier,0.88,0.86,Rock,Rock
+english_Sex_on_Fire_(Acoustic),English,Kings of Leon,0.84,0.7,Rock,Rock
+english_Use_Somebody_(Live),English,Kings of Leon,0.88,0.76,Rock,Rock
+english_Temple_(Live),English,Kings of Leon,0.82,0.78,Rock,Rock
+english_Pyro_(Live),English,Kings of Leon,0.8,0.74,Rock,Rock
+english_Closer_(Live),English,Kings of Leon,0.82,0.76,Rock,Rock

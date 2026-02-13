@@ -148,6 +148,7 @@ SUBGENRE_TO_MAIN = {
     "Nu Metal": "Rock",
     "Patriotic Country": "Country",
     "Pop": "Pop",
+    "Rock": "Rock",
     "Pop Anthem": "Pop",
     "Semi-Classical": "Classical",
     "Pop Ballad": "Pop",
