@@ -262,7 +262,6 @@ english_Rock_Your_Body,English,Justin Timberlake,0.85,0.9,Pop R&B,R&B
 english_My_Heart_Will_Go_On,English,Celine Dion,0.4,0.5,Pop Ballad,Pop
 english_Because_You_Loved_Me,English,Celine Dion,0.55,0.5,Pop Ballad,Pop
 english_Crazy_in_Love,English,Beyoncé ft. Jay-Z,0.9,0.9,R&B Pop,R&B
-english_Un-break_My_Heart,English,Toni Braxton,0.35,0.45,Pop Ballad,Pop
 english_You’re_Beautiful,English,James Blunt,0.5,0.4,Pop Ballad,Pop
 english_It’s_My_Life,English,Bon Jovi,0.8,0.85,Pop Rock,Rock
 english_Complicated,English,Avril Lavigne,0.75,0.7,Pop Rock,Rock
@@ -2228,7 +2227,6 @@ english_Breakout,English,Foo Fighters,0.9,0.92,Rock,Rock
 english_Resolve,English,Foo Fighters,0.84,0.8,Rock,Rock
 english_Arlandria,English,Foo Fighters,0.88,0.9,Rock,Rock
 english_These_Days,English,Foo Fighters,0.86,0.82,Rock,Rock
-english_Mr._Jones,English,Counting Crows,0.92,0.84,Rock,Rock
 english_Accidentally_in_Love,English,Counting Crows,0.94,0.86,Rock,Rock
 english_Round_Here,English,Counting Crows,0.86,0.74,Rock,Rock
 english_Big_Yellow_Taxi,English,Counting Crows,0.9,0.8,Rock,Rock
@@ -2321,3 +2319,333 @@ english_Use_Somebody_(Live),English,Kings of Leon,0.88,0.76,Rock,Rock
 english_Temple_(Live),English,Kings of Leon,0.82,0.78,Rock,Rock
 english_Pyro_(Live),English,Kings of Leon,0.8,0.74,Rock,Rock
 english_Closer_(Live),English,Kings of Leon,0.82,0.76,Rock,Rock
+english_Waterfalls,English,TLC,0.86,0.74,R&B,R&B
+english_Unpretty,English,TLC,0.82,0.7,R&B,R&B
+english_Diggin'_on_You,English,TLC,0.88,0.76,R&B,R&B
+english_So_Sick,English,Ne-Yo,0.84,0.68,R&B,R&B
+english_Miss_Independent,English,Ne-Yo,0.92,0.82,R&B,R&B
+english_Sexy_Love,English,Ne-Yo,0.9,0.8,R&B,R&B
+english_Coffee,English,Miguel,0.88,0.72,R&B,R&B
+english_How_Many_Drinks,English,Miguel,0.86,0.76,R&B,R&B
+english_Sky_Walker,English,Miguel,0.94,0.84,R&B,R&B
+english_Lady,English,D'Angelo,0.9,0.78,R&B,R&B
+english_Cruisin',English,D'Angelo,0.88,0.72,R&B,R&B
+english_Me_and_Those_Dreamin'_Eyes_of_Mine,English,D'Angelo,0.86,0.68,R&B,R&B
+english_Confessions_Part_II,English,Usher,0.86,0.74,R&B,R&B
+english_U_Got_It_Bad,English,Usher,0.84,0.7,R&B,R&B
+english_Nice_&_Slow,English,Usher,0.88,0.68,R&B,R&B
+english_You_Make_Me_Wanna,English,Usher,0.9,0.76,R&B,R&B
+english_Breathe_Again,English,Toni Braxton,0.84,0.64,R&B,R&B
+english_You're_Makin'_Me_High,English,Toni Braxton,0.88,0.76,R&B,R&B
+english_Another_Sad_Love_Song,English,Toni Braxton,0.82,0.7,R&B,R&B
+english_He_Wasn't_Man_Enough,English,Toni Braxton,0.9,0.82,R&B,R&B
+english_The_Boy_Is_Mine,English,Brandy,0.88,0.78,R&B,R&B
+english_Have_You_Ever,English,Brandy,0.84,0.66,R&B,R&B
+english_Almost_Doesn't_Count,English,Brandy,0.82,0.64,R&B,R&B
+english_Angel_in_Disguise,English,Brandy,0.86,0.72,R&B,R&B
+english_Baby,English,Brandy,0.9,0.8,R&B,R&B
+english_Motivation,English,Kelly Rowland,0.92,0.84,R&B,R&B
+english_Like_This,English,Kelly Rowland,0.9,0.82,R&B,R&B
+english_Kisses_Down_Low,English,Kelly Rowland,0.88,0.78,R&B,R&B
+english_Dirty_Laundry,English,Kelly Rowland,0.82,0.7,R&B,R&B
+english_Commander,English,Kelly Rowland,0.94,0.86,R&B,R&B
+english_Pretty_Wings,English,Maxwell,0.88,0.72,R&B,R&B
+english_Lifetime,English,Maxwell,0.86,0.74,R&B,R&B
+english_Sumthin'_Sumthin',English,Maxwell,0.9,0.78,R&B,R&B
+english_Green_Light,English,John Legend,0.94,0.86,R&B,R&B
+english_Save_Room,English,John Legend,0.9,0.78,R&B,R&B
+english_Used_to_Love_U,English,John Legend,0.88,0.8,R&B,R&B
+english_Trust,English,Keyshia Cole,0.82,0.66,R&B,R&B
+english_I_Should_Have_Cheated,English,Keyshia Cole,0.8,0.74,R&B,R&B
+english_Spotlight,English,Jennifer Hudson,0.88,0.8,R&B,R&B
+english_If_This_Isn't_Love,English,Jennifer Hudson,0.86,0.74,R&B,R&B
+english_And_I_Am_Telling_You,English,Jennifer Hudson,0.82,0.78,R&B,R&B
+english_Where_You_At,English,Jennifer Hudson,0.84,0.72,R&B,R&B
+english_No_One_Gonna_Love_You,English,Jennifer Hudson,0.88,0.76,R&B,R&B
+english_Love_on_Top,English,Beyonce,0.96,0.88,R&B,R&B
+english_Listen,English,Beyonce,0.86,0.72,R&B,R&B
+english_Love_in_This_Club,English,Usher,0.92,0.86,R&B,R&B
+english_There_Goes_My_Baby,English,Usher,0.86,0.76,R&B,R&B
+english_Trading_Places,English,Usher,0.9,0.8,R&B,R&B
+english_Can_U_Help_Me,English,Usher,0.82,0.68,R&B,R&B
+english_Pretty_Girl_Rock,English,Keri Hilson,0.94,0.86,R&B,R&B
+english_Knock_You_Down,English,Keri Hilson,0.88,0.8,R&B,R&B
+english_Energy,English,Keri Hilson,0.86,0.76,R&B,R&B
+english_Turnin_Me_On,English,Keri Hilson,0.9,0.84,R&B,R&B
+english_We_Need_a_Resolution,English,Aaliyah,0.84,0.78,R&B,R&B
+english_Rock_the_Boat,English,Aaliyah,0.9,0.82,R&B,R&B
+english_Try_Again,English,Aaliyah,0.92,0.86,R&B,R&B
+english_Are_You_That_Somebody,English,Aaliyah,0.88,0.84,R&B,R&B
+english_More_Than_a_Woman,English,Aaliyah,0.94,0.88,R&B,R&B
+english_We_Find_Love,English,Daniel Caesar,0.84,0.66,R&B,R&B
+english_Blessed,English,Daniel Caesar,0.9,0.7,R&B,R&B
+english_Talk,English,Khalid,0.9,0.82,R&B,R&B
+english_Better,English,Khalid,0.88,0.76,R&B,R&B
+english_Young_Dumb_&_Broke,English,Khalid,0.94,0.84,R&B,R&B
+english_Love_Lies,English,Khalid,0.92,0.82,R&B,R&B
+english_Back_at_One,English,Brian McKnight,0.92,0.7,R&B,R&B
+english_Anytime,English,Brian McKnight,0.88,0.66,R&B,R&B
+english_One_Last_Cry,English,Brian McKnight,0.84,0.62,R&B,R&B
+english_Love_of_My_Life,English,Brian McKnight,0.9,0.72,R&B,R&B
+english_Still,English,Brian McKnight,0.86,0.64,R&B,R&B
+english_Differences,English,Ginuwine,0.9,0.7,R&B,R&B
+english_Pony,English,Ginuwine,0.92,0.86,R&B,R&B
+english_So_Anxious,English,Ginuwine,0.88,0.72,R&B,R&B
+english_In_Those_Jeans,English,Ginuwine,0.94,0.82,R&B,R&B
+english_None_of_Ur_Friends_Business,English,Ginuwine,0.9,0.78,R&B,R&B
+english_Just_a_Friend_2002,English,Mario,0.92,0.8,R&B,R&B
+english_How_Could_You,English,Mario,0.86,0.7,R&B,R&B
+english_Crying_Out_for_Me,English,Mario,0.88,0.72,R&B,R&B
+english_Thinkin'_About_You,English,Mario,0.84,0.68,R&B,R&B
+english_Fallin',English,Alicia Keys,0.88,0.7,R&B,R&B
+english_No_One,English,Alicia Keys,0.92,0.78,R&B,R&B
+english_Girl_on_Fire,English,Alicia Keys,0.94,0.84,R&B,R&B
+english_Unthinkable,English,Alicia Keys,0.88,0.72,R&B,R&B
+english_Heard_It_All_Before,English,Sunshine Anderson,0.9,0.76,R&B,R&B
+english_Something_I_Wanna_Give_You,English,Sunshine Anderson,0.88,0.74,R&B,R&B
+english_Crazy_Love,English,Sunshine Anderson,0.86,0.72,R&B,R&B
+english_Force_of_Nature,English,Sunshine Anderson,0.84,0.7,R&B,R&B
+english_Being_with_You,English,Sunshine Anderson,0.9,0.76,R&B,R&B
+english_Can_We_Talk,English,Tevin Campbell,0.94,0.78,R&B,R&B
+english_I'm_Ready,English,Tevin Campbell,0.92,0.74,R&B,R&B
+english_Tell_Me_What_You_Want_Me_to_Do,English,Tevin Campbell,0.9,0.72,R&B,R&B
+english_Alone_with_You,English,Tevin Campbell,0.88,0.7,R&B,R&B
+english_Always_in_My_Heart,English,Tevin Campbell,0.86,0.68,R&B,R&B
+english_The_First_Time_Ever_I_Saw_Your_Face,English,Roberta Flack,0.88,0.62,R&B,R&B
+english_Killing_Me_Softly,English,Roberta Flack,0.9,0.64,R&B,R&B
+english_Feel_Like_Makin'_Love,English,Roberta Flack,0.92,0.7,R&B,R&B
+english_Where_Is_the_Love,English,Roberta Flack,0.88,0.68,R&B,R&B
+english_The_Closer_I_Get_to_You,English,Roberta Flack,0.9,0.7,R&B,R&B
+english_You_Are_Not_Alone,English,Michael Jackson,0.92,0.66,R&B,R&B
+english_The_Lady_in_My_Life,English,Michael Jackson,0.9,0.7,R&B,R&B
+english_Butterflies,English,Michael Jackson,0.88,0.72,R&B,R&B
+english_Break_of_Dawn,English,Michael Jackson,0.86,0.7,R&B,R&B
+english_I'm_Not_the_Only_One,English,Sam Smith,0.84,0.68,R&B,R&B
+english_Lay_Me_Down,English,Sam Smith,0.82,0.7,R&B,R&B
+english_How_Do_You_Sleep,English,Sam Smith,0.9,0.8,R&B,R&B
+english_Take_a_Bow,English,Rihanna,0.88,0.7,R&B,R&B
+english_Kiss_It_Better,English,Rihanna,0.92,0.8,R&B,R&B
+english_Call_Out_My_Name,English,The Weeknd,0.82,0.66,R&B,R&B
+english_Die_for_You,English,The Weeknd,0.86,0.72,R&B,R&B
+english_Often,English,The Weeknd,0.9,0.82,R&B,R&B
+english_Wicked_Games,English,The Weeknd,0.84,0.74,R&B,R&B
+english_Trip,English,Ella Mai,0.92,0.8,R&B,R&B
+english_Naked,English,Ella Mai,0.9,0.74,R&B,R&B
+english_Shot_Clock,English,Ella Mai,0.88,0.78,R&B,R&B
+english_Gut_Feeling,English,Ella Mai,0.86,0.76,R&B,R&B
+english_Comfortable,English,H.E.R.,0.86,0.72,R&B,R&B
+english_Pick_Up_Your_Feelings,English,Jazmine Sullivan,0.88,0.8,R&B,R&B
+english_Bust_Your_Windows,English,Jazmine Sullivan,0.84,0.82,R&B,R&B
+english_Need_U_Bad,English,Jazmine Sullivan,0.9,0.78,R&B,R&B
+english_Let_It_Burn,English,Jazmine Sullivan,0.86,0.74,R&B,R&B
+"english_Lions,_Tigers_&_Bears",English,Jazmine Sullivan,0.82,0.7,R&B,R&B
+english_Streetcar,English,Daniel Caesar,0.88,0.66,R&B,R&B
+english_Freudian,English,Daniel Caesar,0.86,0.7,R&B,R&B
+english_Hold_Me_Down,English,Daniel Caesar,0.9,0.72,R&B,R&B
+english_Transform,English,Daniel Caesar,0.84,0.68,R&B,R&B
+english_Get_You_(Acoustic),English,Daniel Caesar,0.88,0.66,R&B,R&B
+english_End_of_the_Road,English,Boyz II Men,0.9,0.66,R&B,R&B
+english_I'll_Make_Love_to_You,English,Boyz II Men,0.92,0.7,R&B,R&B
+english_On_Bended_Knee,English,Boyz II Men,0.88,0.64,R&B,R&B
+english_Water_Runs_Dry,English,Boyz II Men,0.86,0.68,R&B,R&B
+english_Motownphilly,English,Boyz II Men,0.94,0.84,R&B,R&B
+english_I_Want_You_Back,English,NSYNC,0.96,0.88,R&B,R&B
+english_Tearin'_Up_My_Heart,English,NSYNC,0.94,0.86,R&B,R&B
+english_This_I_Promise_You,English,NSYNC,0.9,0.7,R&B,R&B
+english_Gone,English,NSYNC,0.88,0.72,R&B,R&B
+english_Before_I_Let_You_Go,English,Blackstreet,0.9,0.76,R&B,R&B
+english_Don't_Leave_Me,English,Blackstreet,0.88,0.72,R&B,R&B
+english_Joy,English,Blackstreet,0.92,0.8,R&B,R&B
+english_Tonight's_the_Night,English,Blackstreet,0.94,0.82,R&B,R&B
+english_Bump_n'_Grind,English,R. Kelly,0.9,0.8,R&B,R&B
+english_Step_in_the_Name_of_Love,English,R. Kelly,0.92,0.84,R&B,R&B
+english_When_a_Woman's_Fed_Up,English,R. Kelly,0.84,0.68,R&B,R&B
+english_I_Believe_I_Can_Fly,English,R. Kelly,0.88,0.7,R&B,R&B
+english_Let's_Get_Married,English,Jagged Edge,0.94,0.82,R&B,R&B
+english_Promise,English,Jagged Edge,0.92,0.78,R&B,R&B
+english_Where_the_Party_At,English,Jagged Edge,0.96,0.9,R&B,R&B
+english_Walked_Outta_Heaven,English,Jagged Edge,0.88,0.72,R&B,R&B
+english_He_Can't_Love_U,English,Jagged Edge,0.9,0.8,R&B,R&B
+english_Tell_Me,English,Groove Theory,0.92,0.78,R&B,R&B
+english_Keep_Tryin',English,Groove Theory,0.9,0.74,R&B,R&B
+english_10_Minute_High,English,Groove Theory,0.88,0.76,R&B,R&B
+english_Am_I_Dreaming,English,Groove Theory,0.86,0.7,R&B,R&B
+english_Come_Home,English,Groove Theory,0.84,0.72,R&B,R&B
+english_Love_Like_This,English,Faith Evans,0.94,0.84,R&B,R&B
+english_Soon_as_I_Get_Home,English,Faith Evans,0.9,0.76,R&B,R&B
+english_All_Night_Long,English,Faith Evans,0.92,0.82,R&B,R&B
+english_You_Used_to_Love_Me,English,Faith Evans,0.88,0.74,R&B,R&B
+english_Again,English,Faith Evans,0.86,0.72,R&B,R&B
+english_Return_of_the_Mack,English,Mark Morrison,0.96,0.88,R&B,R&B
+english_Trippin',English,Mark Morrison,0.9,0.82,R&B,R&B
+english_Moan_&_Groan,English,Mark Morrison,0.86,0.78,R&B,R&B
+english_Let's_Get_Down,English,Mark Morrison,0.92,0.84,R&B,R&B
+english_Differences_(Remix),English,Ginuwine,0.9,0.76,R&B,R&B
+english_So_Anxious_(Remix),English,Ginuwine,0.88,0.78,R&B,R&B
+english_In_Those_Jeans_(Remix),English,Ginuwine,0.92,0.82,R&B,R&B
+english_Pony_(Live),English,Ginuwine,0.9,0.84,R&B,R&B
+english_Hell_Yeah,English,Ginuwine,0.94,0.86,R&B,R&B
+english_Rock_Wit_U,English,Ashanti,0.92,0.8,R&B,R&B
+english_Foolish,English,Ashanti,0.9,0.74,R&B,R&B
+english_Rain_on_Me,English,Ashanti,0.88,0.72,R&B,R&B
+english_Like_a_Boy,English,Ciara,0.9,0.82,R&B,R&B
+"english_1,_2_Step",English,Ciara,0.96,0.9,R&B,R&B
+english_Goodies,English,Ciara,0.92,0.86,R&B,R&B
+english_Oh,English,Ciara,0.9,0.82,R&B,R&B
+english_Survivor,English,Destiny's Child,0.94,0.9,R&B,R&B
+"english_Bills,_Bills,_Bills",English,Destiny's Child,0.92,0.86,R&B,R&B
+"english_Jumpin',_Jumpin'",English,Destiny's Child,0.96,0.9,R&B,R&B
+english_Independent_Women,English,Destiny's Child,0.94,0.88,R&B,R&B
+english_He_Wasn't_Man_Enough_(Remix),English,Toni Braxton,0.92,0.84,R&B,R&B
+english_You're_Makin'_Me_High_(Remix),English,Toni Braxton,0.9,0.82,R&B,R&B
+english_Un-Break_My_Heart_(Live),English,Toni Braxton,0.84,0.68,R&B,R&B
+english_Breathe_Again_(Live),English,Toni Braxton,0.88,0.7,R&B,R&B
+english_Family_Affair,English,Mary J. Blige,0.94,0.86,R&B,R&B
+english_Be_Without_You,English,Mary J. Blige,0.92,0.74,R&B,R&B
+english_Real_Love,English,Mary J. Blige,0.96,0.88,R&B,R&B
+english_Not_Gon'_Cry,English,Mary J. Blige,0.88,0.72,R&B,R&B
+english_No_More_Drama,English,Mary J. Blige,0.86,0.78,R&B,R&B
+english_Golden,English,Jill Scott,0.96,0.82,R&B,R&B
+english_A_Long_Walk,English,Jill Scott,0.94,0.8,R&B,R&B
+english_He_Loves_Me,English,Jill Scott,0.9,0.74,R&B,R&B
+english_Gettin'_in_the_Way,English,Jill Scott,0.88,0.78,R&B,R&B
+english_It's_Love,English,Jill Scott,0.92,0.8,R&B,R&B
+english_Brown_Skin,English,India.Arie,0.94,0.72,R&B,R&B
+english_Video,English,India.Arie,0.92,0.76,R&B,R&B
+english_I_Am_Not_My_Hair,English,India.Arie,0.9,0.7,R&B,R&B
+english_Ready_for_Love,English,India.Arie,0.88,0.68,R&B,R&B
+english_Little_Things,English,India.Arie,0.9,0.72,R&B,R&B
+english_Halfcrazy,English,Musiq Soulchild,0.9,0.74,R&B,R&B
+english_Just_Friends,English,Musiq Soulchild,0.92,0.8,R&B,R&B
+english_Teachme,English,Musiq Soulchild,0.86,0.7,R&B,R&B
+english_Back_to_Sleep,English,Chris Brown,0.92,0.8,R&B,R&B
+english_Take_You_Down,English,Chris Brown,0.9,0.82,R&B,R&B
+english_Yo_(Excuse_Me_Miss),English,Chris Brown,0.94,0.84,R&B,R&B
+english_With_You,English,Chris Brown,0.92,0.78,R&B,R&B
+english_No_Guidance,English,Chris Brown,0.9,0.82,R&B,R&B
+english_Dangerously_in_Love,English,Beyonce,0.88,0.7,R&B,R&B
+"english_Me,_Myself_and_I",English,Beyonce,0.9,0.76,R&B,R&B
+english_Best_Thing_I_Never_Had,English,Beyonce,0.92,0.84,R&B,R&B
+english_1+1,English,Beyonce,0.88,0.72,R&B,R&B
+english_You_Don't_Know_My_Name,English,Alicia Keys,0.9,0.74,R&B,R&B
+english_Diary,English,Alicia Keys,0.88,0.72,R&B,R&B
+english_Karma,English,Alicia Keys,0.92,0.82,R&B,R&B
+english_Try_Sleeping_with_a_Broken_Heart,English,Alicia Keys,0.9,0.8,R&B,R&B
+english_Teenage_Love_Affair,English,Alicia Keys,0.94,0.82,R&B,R&B
+english_Love_on_Top_(Live),English,Beyonce,0.94,0.86,R&B,R&B
+english_Halo_(Acoustic),English,Beyonce,0.9,0.7,R&B,R&B
+english_Irreplaceable_(Acoustic),English,Beyonce,0.88,0.68,R&B,R&B
+english_If_I_Were_a_Boy_(Live),English,Beyonce,0.86,0.7,R&B,R&B
+english_Listen_(Live),English,Beyonce,0.84,0.72,R&B,R&B
+english_Can't_Let_Go,English,Mariah Carey,0.88,0.72,R&B,R&B
+english_Dreamlover,English,Mariah Carey,0.92,0.84,R&B,R&B
+english_My_All,English,Mariah Carey,0.86,0.68,R&B,R&B
+english_Everything_Is_Everything,English,Lauryn Hill,0.92,0.8,R&B,R&B
+english_Doo_Wop_(That_Thing),English,Lauryn Hill,0.94,0.86,R&B,R&B
+english_Nothing_Even_Matters,English,Lauryn Hill,0.86,0.68,R&B,R&B
+english_Can't_Take_My_Eyes_Off_You,English,Lauryn Hill,0.92,0.82,R&B,R&B
+english_Superwoman,English,Karyn White,0.9,0.72,R&B,R&B
+english_Romantic,English,Karyn White,0.92,0.82,R&B,R&B
+english_Secret_Rendezvous,English,Karyn White,0.94,0.84,R&B,R&B
+english_The_Way_I_Feel_About_You,English,Karyn White,0.88,0.76,R&B,R&B
+english_Love_Saw_It,English,Karyn White,0.86,0.74,R&B,R&B
+english_Just_Be_a_Man_About_It,English,Toni Braxton,0.84,0.68,R&B,R&B
+english_Spanish_Guitar,English,Toni Braxton,0.88,0.72,R&B,R&B
+english_You_Mean_the_World_to_Me,English,Toni Braxton,0.9,0.7,R&B,R&B
+english_Seven_Whole_Days,English,Toni Braxton,0.86,0.74,R&B,R&B
+english_I_Love_Me_Some_Him,English,Toni Braxton,0.88,0.76,R&B,R&B
+english_Bed,English,J. Holiday,0.92,0.82,R&B,R&B
+english_Suffocate,English,J. Holiday,0.88,0.74,R&B,R&B
+english_Be_With_Me,English,J. Holiday,0.9,0.78,R&B,R&B
+english_Come_Here,English,J. Holiday,0.86,0.72,R&B,R&B
+english_It's_Yours,English,J. Holiday,0.92,0.8,R&B,R&B
+english_Where_My_Girls_At,English,702,0.94,0.86,R&B,R&B
+english_Steelo,English,702,0.92,0.84,R&B,R&B
+english_Get_It_Together,English,702,0.88,0.74,R&B,R&B
+english_I_Still_Love_You,English,702,0.9,0.76,R&B,R&B
+english_Don't_Be_Cruel,English,Bobby Brown,0.92,0.86,R&B,R&B
+english_Roni,English,Bobby Brown,0.88,0.78,R&B,R&B
+english_If_It_Isn't_Love,English,New Edition,0.94,0.86,R&B,R&B
+english_Can_You_Stand_the_Rain,English,New Edition,0.88,0.7,R&B,R&B
+english_Mr._Telephone_Man,English,New Edition,0.92,0.8,R&B,R&B
+english_Cool_It_Now,English,New Edition,0.94,0.84,R&B,R&B
+english_Candy_Girl,English,New Edition,0.96,0.88,R&B,R&B
+english_I_Wish,English,Stevie Wonder,0.98,0.9,R&B,R&B
+english_Me,English,Tamia,0.9,0.74,R&B,R&B
+english_Adore,English,Prince,0.92,0.74,R&B,R&B
+english_Cream,English,Prince,0.94,0.88,R&B,R&B
+english_Sexual_Healing,English,Marvin Gaye,0.92,0.78,R&B,R&B
+english_Ain't_That_Peculiar,English,Marvin Gaye,0.9,0.82,R&B,R&B
+english_How_Sweet_It_Is,English,Marvin Gaye,0.96,0.86,R&B,R&B
+english_Got_to_Give_It_Up,English,Marvin Gaye,0.98,0.9,R&B,R&B
+english_Rock_Steady,English,Aretha Franklin,0.96,0.88,R&B,R&B
+english_Think,English,Aretha Franklin,0.98,0.9,R&B,R&B
+english_Baby_I_Love_You,English,Aretha Franklin,0.94,0.82,R&B,R&B
+english_Brick_House,English,Commodores,0.96,0.88,R&B,R&B
+english_Easy,English,Commodores,0.9,0.68,R&B,R&B
+english_Nightshift,English,Commodores,0.92,0.74,R&B,R&B
+english_Three_Times_a_Lady,English,Commodores,0.88,0.7,R&B,R&B
+english_Lady_(You_Bring_Me_Up),English,Commodores,0.94,0.86,R&B,R&B
+english_Give_It_to_Me_Baby,English,Rick James,0.96,0.9,R&B,R&B
+english_Super_Freak,English,Rick James,0.98,0.92,R&B,R&B
+english_Mary_Jane,English,Rick James,0.94,0.86,R&B,R&B
+english_Cold_Blooded,English,Rick James,0.92,0.88,R&B,R&B
+english_You_and_I,English,Rick James,0.96,0.9,R&B,R&B
+english_Between_the_Sheets,English,The Isley Brothers,0.9,0.74,R&B,R&B
+english_For_the_Love_of_You,English,The Isley Brothers,0.92,0.7,R&B,R&B
+english_Groove_with_You,English,The Isley Brothers,0.94,0.8,R&B,R&B
+english_Voyage_to_Atlantis,English,The Isley Brothers,0.88,0.72,R&B,R&B
+english_It's_Your_Thing,English,The Isley Brothers,0.96,0.88,R&B,R&B
+english_Lady_Marmalade,English,Labelle,0.98,0.92,R&B,R&B
+english_What_Can_I_Do_for_You,English,Labelle,0.94,0.86,R&B,R&B
+english_You_Turn_Me_On,English,Labelle,0.92,0.84,R&B,R&B
+english_Nightbirds,English,Labelle,0.9,0.78,R&B,R&B
+english_Messin'_with_My_Mind,English,Labelle,0.88,0.8,R&B,R&B
+english_On_the_Wings_of_Love,English,Jeffrey Osborne,0.92,0.7,R&B,R&B
+english_Stay_with_Me_Tonight,English,Jeffrey Osborne,0.94,0.82,R&B,R&B
+english_You_Should_Be_Mine,English,Jeffrey Osborne,0.9,0.8,R&B,R&B
+english_We're_Going_All_the_Way,English,Jeffrey Osborne,0.88,0.78,R&B,R&B
+english_Plane_Love,English,Jeffrey Osborne,0.86,0.74,R&B,R&B
+english_Shining_Star,English,The Manhattans,0.92,0.74,R&B,R&B
+english_Kiss_and_Say_Goodbye,English,The Manhattans,0.88,0.68,R&B,R&B
+english_There's_No_Me_Without_You,English,The Manhattans,0.9,0.7,R&B,R&B
+english_Wish_That_You_Were_Mine,English,The Manhattans,0.88,0.72,R&B,R&B
+english_Before_You_Walk_Out_of_My_Life,English,Monica,0.88,0.72,R&B,R&B
+english_Angel_of_Mine,English,Monica,0.92,0.74,R&B,R&B
+english_For_You_I_Will,English,Monica,0.9,0.7,R&B,R&B
+english_So_Gone,English,Monica,0.94,0.86,R&B,R&B
+english_Everything_to_Me,English,Monica,0.88,0.74,R&B,R&B
+english_Why_I_Love_You_So_Much,English,Monica,0.92,0.76,R&B,R&B
+english_Don't_Take_It_Personal,English,Monica,0.9,0.78,R&B,R&B
+english_Like_This_and_Like_That,English,Monica,0.94,0.86,R&B,R&B
+english_The_First_Night,English,Monica,0.96,0.88,R&B,R&B
+english_Sideline_Ho,English,Monica,0.88,0.82,R&B,R&B
+english_Pretty_Wings_(Live),English,Maxwell,0.88,0.7,R&B,R&B
+english_Ascension_(Live),English,Maxwell,0.9,0.76,R&B,R&B
+english_Lifetime_(Live),English,Maxwell,0.86,0.74,R&B,R&B
+english_This_Woman's_Work,English,Maxwell,0.84,0.68,R&B,R&B
+english_Break_You_Off,English,The Roots,0.92,0.82,R&B,R&B
+english_Silent_Treatment,English,The Roots,0.88,0.74,R&B,R&B
+english_Don't_Say_Nuthin',English,The Roots,0.86,0.76,R&B,R&B
+english_Stingy,English,Ginuwine,0.92,0.82,R&B,R&B
+english_There_It_Is,English,Ginuwine,0.88,0.8,R&B,R&B
+english_When_Doves_Cry,English,Ginuwine,0.86,0.78,R&B,R&B
+english_Piece_of_My_Love,English,Guy,0.92,0.8,R&B,R&B
+english_Groove_Me,English,Guy,0.94,0.84,R&B,R&B
+english_Let's_Chill,English,Guy,0.9,0.74,R&B,R&B
+english_D-O-G_Me_Out,English,Guy,0.88,0.82,R&B,R&B
+english_I_Like,English,Guy,0.92,0.8,R&B,R&B
+english_Someone_to_Love,English,Jon B.,0.9,0.78,R&B,R&B
+english_They_Don't_Know,English,Jon B.,0.92,0.76,R&B,R&B
+english_Are_U_Still_Down,English,Jon B.,0.88,0.74,R&B,R&B
+english_Cool_Relax,English,Jon B.,0.94,0.8,R&B,R&B
+english_Pretty_Girl,English,Jon B.,0.9,0.78,R&B,R&B
+english_Don't_Leave,English,Blackstreet,0.9,0.74,R&B,R&B
+english_No_Diggity_(Live),English,Blackstreet,0.94,0.84,R&B,R&B
+english_Fix,English,Blackstreet,0.88,0.76,R&B,R&B
+english_Joy_(Live),English,Blackstreet,0.9,0.78,R&B,R&B
+english_GirlfriendBoyfriend,English,Blackstreet,0.92,0.82,R&B,R&B
+english_Knockin'_Da_Boots,English,H-Town,0.92,0.82,R&B,R&B
+english_They_Like_It_Slow,English,H-Town,0.9,0.76,R&B,R&B
+english_Lick_U_Up,English,H-Town,0.94,0.84,R&B,R&B
+english_Part_Time_Lover,English,H-Town,0.88,0.78,R&B,R&B
