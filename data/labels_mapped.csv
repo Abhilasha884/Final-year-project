@@ -350,7 +350,6 @@ english_Give_Me_One_Reason,English,Tracy Chapman,0.7,0.5,Blues Rock,Rock
 english_Black_Hole_Sun,English,Soundgarden,0.6,0.7,Grunge,Rock
 english_September,English,"Earth, Wind & Fire",0.9,0.85,Disco Funk,R&B
 english_Play_That_Funky_Music,English,Wild Cherry,0.85,0.9,Funk Rock,R&B
-english_Best_Of_My_Love,English,The Emotions,0.9,0.87,Disco Pop,Pop
 english_We_Are_Family,English,Sister Sledge,0.92,0.8,Disco Soul,R&B
 english_Tainted_Love,English,Soft Cell,0.7,0.8,Synth Pop,Pop
 english_Midnight_City,English,M83,0.8,0.7,Synth Pop,Pop
@@ -2567,7 +2566,6 @@ english_Don't_Be_Cruel,English,Bobby Brown,0.92,0.86,R&B,R&B
 english_Roni,English,Bobby Brown,0.88,0.78,R&B,R&B
 english_If_It_Isn't_Love,English,New Edition,0.94,0.86,R&B,R&B
 english_Can_You_Stand_the_Rain,English,New Edition,0.88,0.7,R&B,R&B
-english_Mr._Telephone_Man,English,New Edition,0.92,0.8,R&B,R&B
 english_Cool_It_Now,English,New Edition,0.94,0.84,R&B,R&B
 english_Candy_Girl,English,New Edition,0.96,0.88,R&B,R&B
 english_I_Wish,English,Stevie Wonder,0.98,0.9,R&B,R&B
@@ -2649,3 +2647,331 @@ english_Knockin'_Da_Boots,English,H-Town,0.92,0.82,R&B,R&B
 english_They_Like_It_Slow,English,H-Town,0.9,0.76,R&B,R&B
 english_Lick_U_Up,English,H-Town,0.94,0.84,R&B,R&B
 english_Part_Time_Lover,English,H-Town,0.88,0.78,R&B,R&B
+english_Annie's_Song,English,John Denver,0.92,0.7,Country,Country
+english_Sunshine_on_My_Shoulders,English,John Denver,0.94,0.68,Country,Country
+english_Rocky_Mountain_High,English,John Denver,0.96,0.8,Country,Country
+english_Back_Home_Again,English,John Denver,0.92,0.74,Country,Country
+english_A_Boy_Named_Sue,English,Johnny Cash,0.94,0.88,Country,Country
+english_Man_in_Black,English,Johnny Cash,0.86,0.78,Country,Country
+english_9_to_5,English,Dolly Parton,0.96,0.9,Country,Country
+english_Coat_of_Many_Colors,English,Dolly Parton,0.92,0.7,Country,Country
+english_Here_You_Come_Again,English,Dolly Parton,0.94,0.78,Country,Country
+english_Islands_in_the_Stream,English,Dolly Parton,0.96,0.82,Country,Country
+english_The_Dance,English,Garth Brooks,0.9,0.7,Country,Country
+english_If_Tomorrow_Never_Comes,English,Garth Brooks,0.92,0.72,Country,Country
+english_Thunder_Rolls,English,Garth Brooks,0.86,0.8,Country,Country
+english_Ain't_Goin'_Down_('Til_the_Sun_Comes_Up),English,Garth Brooks,0.96,0.92,Country,Country
+english_Cowboy_Casanova,English,Carrie Underwood,0.92,0.86,Country,Country
+english_Blown_Away,English,Carrie Underwood,0.88,0.9,Country,Country
+english_Something_in_the_Water,English,Carrie Underwood,0.94,0.82,Country,Country
+english_My_Best_Friend,English,Tim McGraw,0.96,0.76,Country,Country
+english_Just_to_See_You_Smile,English,Tim McGraw,0.9,0.72,Country,Country
+english_Something_Like_That,English,Tim McGraw,0.98,0.88,Country,Country
+english_Somebody_Like_You,English,Keith Urban,0.96,0.84,Country,Country
+english_Days_Go_By,English,Keith Urban,0.98,0.88,Country,Country
+english_You'll_Think_of_Me,English,Keith Urban,0.9,0.72,Country,Country
+english_Wasted_Time,English,Keith Urban,0.94,0.82,Country,Country
+english_Just_a_Kiss,English,Lady A,0.94,0.76,Country,Country
+english_Downtown,English,Lady A,0.96,0.86,Country,Country
+english_American_Honey,English,Lady A,0.9,0.72,Country,Country
+english_Bartender,English,Lady A,0.96,0.88,Country,Country
+english_This_Is_How_We_Roll,English,Florida Georgia Line,0.96,0.9,Country,Country
+english_Simple,English,Florida Georgia Line,0.94,0.82,Country,Country
+english_Lucille,English,Kenny Rogers,0.86,0.72,Country,Country
+english_Coward_of_the_County,English,Kenny Rogers,0.88,0.74,Country,Country
+english_Through_the_Years,English,Kenny Rogers,0.92,0.68,Country,Country
+english_Check_Yes_or_No,English,George Strait,0.96,0.82,Country,Country
+english_Carrying_Your_Love_with_Me,English,George Strait,0.92,0.74,Country,Country
+english_Write_This_Down,English,George Strait,0.94,0.78,Country,Country
+english_Neon_Moon,English,Brooks & Dunn,0.88,0.7,Country,Country
+english_My_Maria,English,Brooks & Dunn,0.96,0.82,Country,Country
+english_Red_Dirt_Road,English,Brooks & Dunn,0.92,0.72,Country,Country
+english_Colder_Weather,English,Zac Brown Band,0.9,0.72,Country,Country
+english_Free,English,Zac Brown Band,0.94,0.74,Country,Country
+english_Homegrown,English,Zac Brown Band,0.96,0.84,Country,Country
+english_Knee_Deep,English,Zac Brown Band,0.98,0.88,Country,Country
+english_My_Church,English,Maren Morris,0.96,0.84,Country,Country
+english_The_Bones,English,Maren Morris,0.94,0.76,Country,Country
+english_80s_Mercedes,English,Maren Morris,0.96,0.86,Country,Country
+english_Girl,English,Maren Morris,0.92,0.8,Country,Country
+english_I_Could_Use_a_Love_Song,English,Maren Morris,0.9,0.72,Country,Country
+english_Come_Back_Song,English,Darius Rucker,0.94,0.82,Country,Country
+english_Homegrown_Honey,English,Darius Rucker,0.96,0.84,Country,Country
+english_If_I_Told_You,English,Darius Rucker,0.9,0.72,Country,Country
+english_Crash_and_Burn,English,Thomas Rhett,0.94,0.82,Country,Country
+english_Marry_Me,English,Thomas Rhett,0.88,0.7,Country,Country
+english_Life_Changes,English,Thomas Rhett,0.96,0.84,Country,Country
+english_Beer_Can't_Fix,English,Thomas Rhett,0.98,0.9,Country,Country
+english_Take_Your_Time,English,Sam Hunt,0.92,0.72,Country,Country
+english_House_Party,English,Sam Hunt,0.98,0.92,Country,Country
+english_Break_Up_in_a_Small_Town,English,Sam Hunt,0.9,0.78,Country,Country
+english_Make_You_Miss_Me,English,Sam Hunt,0.92,0.74,Country,Country
+english_Beautiful_Crazy,English,Luke Combs,0.96,0.72,Country,Country
+english_When_It_Rains_It_Pours,English,Luke Combs,0.98,0.88,Country,Country
+english_Hurricane,English,Luke Combs,0.92,0.82,Country,Country
+english_She_Got_the_Best_of_Me,English,Luke Combs,0.9,0.74,Country,Country
+english_Lovin'_on_You,English,Luke Combs,0.96,0.86,Country,Country
+"english_Forever_and_Ever,_Amen",English,Randy Travis,0.96,0.8,Country,Country
+english_Deeper_Than_the_Holler,English,Randy Travis,0.92,0.74,Country,Country
+english_Three_Wooden_Crosses,English,Randy Travis,0.9,0.7,Country,Country
+english_On_the_Other_Hand,English,Randy Travis,0.88,0.68,Country,Country
+english_Diggin'_Up_Bones,English,Randy Travis,0.86,0.76,Country,Country
+english_Strawberry_Wine,English,Deana Carter,0.92,0.7,Country,Country
+english_Did_I_Shave_My_Legs_for_This,English,Deana Carter,0.94,0.78,Country,Country
+english_We_Danced_Anyway,English,Deana Carter,0.96,0.82,Country,Country
+english_Count_Me_In,English,Deana Carter,0.9,0.74,Country,Country
+english_How_Do_I_Get_There,English,Deana Carter,0.88,0.72,Country,Country
+english_Independence_Day,English,Martina McBride,0.88,0.82,Country,Country
+english_A_Broken_Wing,English,Martina McBride,0.84,0.78,Country,Country
+english_Valentine,English,Martina McBride,0.94,0.72,Country,Country
+english_This_One's_for_the_Girls,English,Martina McBride,0.96,0.84,Country,Country
+english_Brand_New_Man,English,Brooks & Dunn,0.98,0.9,Country,Country
+english_Hard_Workin'_Man,English,Brooks & Dunn,0.96,0.88,Country,Country
+english_You're_Gonna_Miss_Me_When_I'm_Gone,English,Brooks & Dunn,0.94,0.84,Country,Country
+english_She_Used_to_Be_Mine,English,Brooks & Dunn,0.88,0.72,Country,Country
+english_Hillbilly_Deluxe,English,Brooks & Dunn,0.98,0.92,Country,Country
+english_Redneck_Woman,English,Gretchen Wilson,0.96,0.9,Country,Country
+english_Here_for_the_Party,English,Gretchen Wilson,0.98,0.92,Country,Country
+english_Homewrecker,English,Gretchen Wilson,0.94,0.88,Country,Country
+english_When_I_Think_About_Cheatin',English,Gretchen Wilson,0.88,0.74,Country,Country
+english_All_Jacked_Up,English,Gretchen Wilson,0.96,0.94,Country,Country
+english_Mud_on_the_Tires,English,Brad Paisley,0.98,0.88,Country,Country
+english_Then,English,Brad Paisley,0.94,0.74,Country,Country
+english_She's_Everything,English,Brad Paisley,0.96,0.78,Country,Country
+english_Ticks,English,Brad Paisley,0.98,0.9,Country,Country
+english_Drink_in_My_Hand,English,Eric Church,0.98,0.92,Country,Country
+english_Talladega,English,Eric Church,0.92,0.74,Country,Country
+english_Record_Year,English,Eric Church,0.96,0.86,Country,Country
+english_Give_Me_Back_My_Hometown,English,Eric Church,0.9,0.72,Country,Country
+english_Drunk_on_You,English,Luke Bryan,0.98,0.92,Country,Country
+english_Play_It_Again,English,Luke Bryan,0.96,0.88,Country,Country
+english_Crash_My_Party,English,Luke Bryan,0.94,0.84,Country,Country
+english_That's_My_Kind_of_Night,English,Luke Bryan,0.98,0.94,Country,Country
+english_Strip_It_Down,English,Luke Bryan,0.92,0.76,Country,Country
+english_Pontoon,English,Little Big Town,0.98,0.9,Country,Country
+english_Boondocks,English,Little Big Town,0.96,0.86,Country,Country
+english_Tornado,English,Little Big Town,0.94,0.88,Country,Country
+english_Remember_When,English,Alan Jackson,0.92,0.7,Country,Country
+english_Drive_(For_Daddy_Gene),English,Alan Jackson,0.94,0.72,Country,Country
+english_It's_Five_O'Clock_Somewhere,English,Alan Jackson,0.98,0.88,Country,Country
+english_Little_Bitty,English,Alan Jackson,0.96,0.84,Country,Country
+english_Neon_Moon_(Live),English,Brooks & Dunn,0.9,0.74,Country,Country
+english_My_Maria_(Live),English,Brooks & Dunn,0.96,0.84,Country,Country
+english_Blue_Clear_Sky,English,George Strait,0.96,0.84,Country,Country
+english_I_Cross_My_Heart,English,George Strait,0.94,0.72,Country,Country
+english_Ocean_Front_Property,English,George Strait,0.92,0.8,Country,Country
+english_All_My_Ex's_Live_in_Texas,English,George Strait,0.98,0.88,Country,Country
+english_Any_Man_of_Mine,English,Shania Twain,0.98,0.9,Country,Country
+english_From_This_Moment_On,English,Shania Twain,0.94,0.72,Country,Country
+"english_Honey,_I'm_Home",English,Shania Twain,0.98,0.92,Country,Country
+english_Some_Girls_Do,English,Sawyer Brown,0.96,0.88,Country,Country
+english_Step_That_Step,English,Sawyer Brown,0.98,0.9,Country,Country
+english_The_Walk,English,Sawyer Brown,0.92,0.74,Country,Country
+english_Six_Days_on_the_Road,English,Sawyer Brown,0.94,0.86,Country,Country
+english_This_Night_Won't_Last_Forever,English,Sawyer Brown,0.9,0.72,Country,Country
+english_National_Working_Woman's_Holiday,English,Sammy Kershaw,0.96,0.88,Country,Country
+english_She_Don't_Know_She's_Beautiful,English,Sammy Kershaw,0.98,0.9,Country,Country
+english_Queen_of_My_Double_Wide_Trailer,English,Sammy Kershaw,0.98,0.92,Country,Country
+english_Cadillac_Style,English,Sammy Kershaw,0.96,0.86,Country,Country
+"english_Heads_Carolina,_Tails_California",English,Jo Dee Messina,0.98,0.9,Country,Country
+english_Bye_Bye,English,Jo Dee Messina,0.96,0.88,Country,Country
+english_Stand_Beside_Me,English,Jo Dee Messina,0.94,0.8,Country,Country
+english_Bring_On_the_Rain,English,Jo Dee Messina,0.9,0.74,Country,Country
+english_Lesson_in_Leavin',English,Jo Dee Messina,0.92,0.82,Country,Country
+english_Somewhere_with_You,English,Kenny Chesney,0.9,0.72,Country,Country
+english_Get_Along,English,Kenny Chesney,0.96,0.84,Country,Country
+english_American_Kids,English,Kenny Chesney,0.98,0.9,Country,Country
+"english_No_Shoes,_No_Shirt,_No_Problems",English,Kenny Chesney,0.99,0.92,Country,Country
+english_Barefoot_Blue_Jean_Night,English,Jake Owen,0.98,0.92,Country,Country
+english_Beachin',English,Jake Owen,0.96,0.86,Country,Country
+english_Anywhere_with_You,English,Jake Owen,0.98,0.9,Country,Country
+english_Real_Life,English,Jake Owen,0.94,0.84,Country,Country
+english_Down_to_the_Honkytonk,English,Jake Owen,0.98,0.92,Country,Country
+english_Busy_Man,English,Billy Ray Cyrus,0.94,0.84,Country,Country
+"english_Ready,_Set,_Don't_Go",English,Billy Ray Cyrus,0.92,0.76,Country,Country
+english_Trail_of_Tears,English,Billy Ray Cyrus,0.88,0.74,Country,Country
+english_Daddy's_Hands,English,Holly Dunn,0.92,0.68,Country,Country
+english_You_Really_Had_Me_Going,English,Holly Dunn,0.94,0.8,Country,Country
+english_Strangers_Again,English,Holly Dunn,0.9,0.72,Country,Country
+english_Maybe_I_Mean_Yes,English,Holly Dunn,0.96,0.82,Country,Country
+english_There_Goes_My_Heart_Again,English,Holly Dunn,0.88,0.7,Country,Country
+english_Meet_in_the_Middle,English,Diamond Rio,0.96,0.86,Country,Country
+english_One_More_Day,English,Diamond Rio,0.92,0.7,Country,Country
+english_Beautiful_Mess,English,Diamond Rio,0.9,0.72,Country,Country
+english_Love_a_Little_Stronger,English,Diamond Rio,0.94,0.84,Country,Country
+english_How_Your_Love_Makes_Me_Feel,English,Diamond Rio,0.98,0.9,Country,Country
+english_Watermelon_Crawl,English,Tracy Byrd,0.98,0.92,Country,Country
+english_Keeper_of_the_Stars,English,Tracy Byrd,0.94,0.72,Country,Country
+english_The_Truth_About_Men,English,Tracy Byrd,0.96,0.88,Country,Country
+english_Ten_Rounds_with_Jose_Cuervo,English,Tracy Byrd,0.98,0.94,Country,Country
+english_Drinkin'_Bone,English,Tracy Byrd,0.96,0.9,Country,Country
+english_She's_in_Love_with_the_Boy,English,Trisha Yearwood,0.96,0.82,Country,Country
+english_How_Do_I_Live,English,Trisha Yearwood,0.94,0.7,Country,Country
+english_Walkaway_Joe,English,Trisha Yearwood,0.92,0.74,Country,Country
+english_XXX's_and_OOO's,English,Trisha Yearwood,0.98,0.88,Country,Country
+english_Perfect_Love,English,Trisha Yearwood,0.96,0.84,Country,Country
+english_In_a_Different_Light,English,Doug Stone,0.92,0.72,Country,Country
+english_Why_Didn't_I_Think_of_That,English,Doug Stone,0.94,0.84,Country,Country
+english_Wagon_Wheel_(Live),English,Darius Rucker,0.98,0.88,Country,Country
+english_Southern_State_of_Mind,English,Darius Rucker,0.92,0.76,Country,Country
+english_Buy_Me_a_Boat,English,Chris Janson,0.98,0.9,Country,Country
+english_Fix_a_Drink,English,Chris Janson,0.98,0.92,Country,Country
+english_Good_Vibes,English,Chris Janson,0.99,0.94,Country,Country
+english_Drunk_Girl,English,Chris Janson,0.9,0.74,Country,Country
+english_Holdin'_Her,English,Chris Janson,0.92,0.76,Country,Country
+english_Where_Were_You_(When_the_World_Stopped_Turning),English,Alan Jackson,0.62,0.4,Country,Country
+english_Chasin'_That_Neon_Rainbow,English,Alan Jackson,0.8,0.55,Country,Country
+english_Midnight_in_Montgomery,English,Alan Jackson,0.58,0.46,Country,Country
+english_Go_Rest_High_on_That_Mountain,English,Vince Gill,0.6,0.38,Country,Country
+english_When_I_Call_Your_Name,English,Vince Gill,0.66,0.44,Country,Country
+english_Look_at_Us,English,Vince Gill,0.82,0.4,Country,Country
+english_Pocket_Full_of_Gold,English,Vince Gill,0.7,0.48,Country,Country
+english_Don't_Let_Our_Love_Start_Slippin'_Away,English,Vince Gill,0.84,0.6,Country,Country
+english_If_I_Didn't_Have_You,English,Randy Travis,0.78,0.48,Country,Country
+english_He_Walked_on_Water,English,Randy Travis,0.72,0.42,Country,Country
+english_Is_It_Still_Over,English,Randy Travis,0.66,0.5,Country,Country
+english_Too_Gone_Too_Long,English,Randy Travis,0.7,0.52,Country,Country
+english_Hard_Rock_Bottom_of_Your_Heart,English,Randy Travis,0.64,0.46,Country,Country
+english_Believe,English,Brooks & Dunn,0.72,0.44,Country,Country
+english_That_Ain't_No_Way_to_Go,English,Brooks & Dunn,0.66,0.56,Country,Country
+english_She's_Not_the_Cheatin'_Kind,English,Brooks & Dunn,0.7,0.58,Country,Country
+english_Lost_and_Found,English,Brooks & Dunn,0.74,0.6,Country,Country
+english_Unanswered_Prayers,English,Garth Brooks,0.82,0.52,Country,Country
+"english_Two_of_a_Kind,_Workin'_on_a_Full_House",English,Garth Brooks,0.88,0.7,Country,Country
+english_Rodeo,English,Garth Brooks,0.84,0.74,Country,Country
+english_Standing_Outside_the_Fire,English,Garth Brooks,0.86,0.72,Country,Country
+english_Concrete_Angel,English,Martina McBride,0.52,0.44,Country,Country
+english_Wild_Angels,English,Martina McBride,0.78,0.54,Country,Country
+english_Love's_the_Only_House,English,Martina McBride,0.82,0.58,Country,Country
+english_Safe_in_the_Arms_of_Love,English,Martina McBride,0.88,0.68,Country,Country
+english_Don't_Take_the_Girl,English,Tim McGraw,0.7,0.48,Country,Country
+"english_I_Like_It,_I_Love_It",English,Tim McGraw,0.88,0.7,Country,Country
+english_Real_Good_Man,English,Tim McGraw,0.84,0.68,Country,Country
+english_Living_and_Living_Well,English,George Strait,0.86,0.6,Country,Country
+english_He_Didn't_Have_to_Be,English,Brad Paisley,0.82,0.48,Country,Country
+english_Online,English,Brad Paisley,0.9,0.66,Country,Country
+english_Teardrops_on_My_Guitar,English,Taylor Swift,0.68,0.52,Country,Country
+english_Our_Song,English,Taylor Swift,0.94,0.74,Country,Country
+english_Tim_McGraw,English,Taylor Swift,0.78,0.48,Country,Country
+english_Fifteen,English,Taylor Swift,0.72,0.5,Country,Country
+english_Southern_Voice,English,Tim McGraw,0.82,0.62,Country,Country
+english_Toes,English,Zac Brown Band,0.94,0.76,Country,Country
+english_Drink_a_Beer,English,Luke Bryan,0.58,0.44,Country,Country
+english_Beer_Never_Broke_My_Heart,English,Luke Combs,0.94,0.82,Country,Country
+english_Rich,English,Maren Morris,0.88,0.7,Country,Country
+english_Lyin'_Eyes,English,Eagles,0.72,0.5,Country,Country
+english_Peaceful_Easy_Feeling,English,Eagles,0.84,0.46,Country,Country
+english_Take_Me_as_I_Am,English,Faith Hill,0.84,0.56,Country,Country
+english_This_Kiss,English,Faith Hill,0.92,0.72,Country,Country
+english_There_You'll_Be,English,Faith Hill,0.82,0.48,Country,Country
+english_Mississippi_Girl,English,Faith Hill,0.9,0.66,Country,Country
+english_Austin,English,Blake Shelton,0.76,0.48,Country,Country
+english_God's_Country,English,Blake Shelton,0.84,0.72,Country,Country
+english_Honey_Bee,English,Blake Shelton,0.92,0.74,Country,Country
+english_Boys_'Round_Here,English,Blake Shelton,0.94,0.8,Country,Country
+english_What_Hurts_the_Most,English,Rascal Flatts,0.64,0.48,Country,Country
+english_Bless_the_Broken_Road,English,Rascal Flatts,0.86,0.52,Country,Country
+english_Mayberry,English,Rascal Flatts,0.84,0.6,Country,Country
+english_Fast_Cars_and_Freedom,English,Rascal Flatts,0.88,0.7,Country,Country
+english_Somebody's_Hero,English,Jamie O'Neal,0.82,0.5,Country,Country
+english_There_Is_No_Arizona,English,Jamie O'Neal,0.7,0.52,Country,Country
+english_When_I_Think_About_Angels,English,Jamie O'Neal,0.86,0.62,Country,Country
+english_Frantic,English,Jamie O'Neal,0.74,0.6,Country,Country
+english_Trying_to_Find_Atlantis,English,Jamie O'Neal,0.84,0.64,Country,Country
+english_If_You're_Going_Through_Hell,English,Rodney Atkins,0.88,0.68,Country,Country
+english_Watching_You,English,Rodney Atkins,0.9,0.64,Country,Country
+english_Take_a_Back_Road,English,Rodney Atkins,0.92,0.72,Country,Country
+english_These_Are_My_People,English,Rodney Atkins,0.86,0.66,Country,Country
+english_Farmer's_Daughter,English,Rodney Atkins,0.82,0.58,Country,Country
+english_Leave_the_Pieces,English,The Wreckers,0.72,0.54,Country,Country
+"english_Stand_Still,_Look_Pretty",English,The Wreckers,0.84,0.6,Country,Country
+"english_My,_Oh_My",English,The Wreckers,0.8,0.58,Country,Country
+english_Tennessee,English,The Wreckers,0.82,0.52,Country,Country
+english_Red_Ragtop,English,Tim McGraw,0.66,0.5,Country,Country
+english_Where_the_Green_Grass_Grows,English,Tim McGraw,0.88,0.66,Country,Country
+english_Something_Like_That_(Live),English,Tim McGraw,0.9,0.7,Country,Country
+english_Down_on_the_Farm,English,Tim McGraw,0.92,0.78,Country,Country
+english_Starting_Over,English,Chris Stapleton,0.84,0.54,Country,Country
+english_Fire_Away,English,Chris Stapleton,0.66,0.5,Country,Country
+english_Millionaire,English,Chris Stapleton,0.88,0.6,Country,Country
+english_Traveller,English,Chris Stapleton,0.8,0.52,Country,Country
+english_Nobody_to_Blame,English,Chris Stapleton,0.74,0.6,Country,Country
+english_Maggie's_Song,English,Chris Stapleton,0.62,0.42,Country,Country
+english_Arkansas,English,Chris Stapleton,0.86,0.68,Country,Country
+english_Parachute,English,Chris Stapleton,0.84,0.66,Country,Country
+english_Colder_Weather_(Live),English,Zac Brown Band,0.7,0.5,Country,Country
+english_Chicken_Fried_(Live),English,Zac Brown Band,0.9,0.7,Country,Country
+english_Free_(Live),English,Zac Brown Band,0.86,0.56,Country,Country
+english_Toes_(Live),English,Zac Brown Band,0.92,0.74,Country,Country
+english_Highway_20_Ride,English,Zac Brown Band,0.72,0.48,Country,Country
+english_You_Should_Probably_Leave,English,Chris Stapleton,0.68,0.46,Country,Country
+english_Joy_of_My_Life,English,Chris Stapleton,0.84,0.54,Country,Country
+english_White_Horse,English,Chris Stapleton,0.74,0.62,Country,Country
+english_Devil_Always_Made_Me_Think_Twice,English,Chris Stapleton,0.7,0.58,Country,Country
+english_Second_One_to_Know,English,Chris Stapleton,0.76,0.64,Country,Country
+english_Hometown_Girl,English,Josh Turner,0.88,0.62,Country,Country
+english_Long_Black_Train,English,Josh Turner,0.72,0.48,Country,Country
+english_Your_Man,English,Josh Turner,0.84,0.54,Country,Country
+english_Time_Is_Love,English,Josh Turner,0.9,0.66,Country,Country
+english_Why_Don't_We_Just_Dance,English,Josh Turner,0.92,0.7,Country,Country
+english_The_House_That_Built_Me,English,Miranda Lambert,0.74,0.44,Country,Country
+english_Bluebird,English,Miranda Lambert,0.82,0.54,Country,Country
+english_Automatic,English,Miranda Lambert,0.78,0.52,Country,Country
+english_Tin_Man,English,Miranda Lambert,0.64,0.42,Country,Country
+english_My_Wish,English,Rascal Flatts,0.86,0.5,Country,Country
+english_Here_Comes_Goodbye,English,Rascal Flatts,0.64,0.48,Country,Country
+english_Stand,English,Rascal Flatts,0.88,0.62,Country,Country
+english_Take_Me_There,English,Rascal Flatts,0.9,0.68,Country,Country
+english_Rewind,English,Rascal Flatts,0.84,0.6,Country,Country
+english_The_Good_Stuff,English,Kenny Chesney,0.82,0.52,Country,Country
+english_Anything_but_Mine,English,Kenny Chesney,0.8,0.5,Country,Country
+english_Beer_in_Mexico,English,Kenny Chesney,0.86,0.68,Country,Country
+english_When_the_Sun_Goes_Down,English,Kenny Chesney,0.9,0.74,Country,Country
+english_Follow_Your_Arrow,English,Kacey Musgraves,0.88,0.62,Country,Country
+english_Merry_Go_'Round,English,Kacey Musgraves,0.72,0.5,Country,Country
+english_Biscuits,English,Kacey Musgraves,0.86,0.64,Country,Country
+english_Big_Green_Tractor,English,Jason Aldean,0.88,0.62,Country,Country
+english_She's_Country,English,Jason Aldean,0.9,0.74,Country,Country
+english_Fly_Over_States,English,Jason Aldean,0.82,0.6,Country,Country
+english_Night_Train,English,Jason Aldean,0.86,0.68,Country,Country
+english_Take_It_from_Me,English,Jordan Davis,0.86,0.66,Country,Country
+english_Singles_You_Up,English,Jordan Davis,0.88,0.7,Country,Country
+english_Slow_Dance_in_a_Parking_Lot,English,Jordan Davis,0.82,0.54,Country,Country
+english_Almost_Maybes,English,Jordan Davis,0.8,0.58,Country,Country
+english_Buy_Dirt,English,Jordan Davis,0.9,0.52,Country,Country
+english_Somebody_Else_Will,English,Justin Moore,0.84,0.64,Country,Country
+english_Small_Town_USA,English,Justin Moore,0.88,0.66,Country,Country
+english_Til_My_Last_Day,English,Justin Moore,0.9,0.6,Country,Country
+english_Bait_a_Hook,English,Justin Moore,0.92,0.72,Country,Country
+english_Point_at_You,English,Justin Moore,0.86,0.68,Country,Country
+english_You_Should_Be_Here,English,Cole Swindell,0.7,0.48,Country,Country
+english_Middle_of_a_Memory,English,Cole Swindell,0.82,0.56,Country,Country
+english_Chillin'_It,English,Cole Swindell,0.9,0.7,Country,Country
+english_Love_You_Too_Late,English,Cole Swindell,0.74,0.54,Country,Country
+english_Break_Up_in_the_End,English,Cole Swindell,0.66,0.5,Country,Country
+english_I_Hope_You're_Happy_Now,English,Carly Pearce,0.72,0.58,Country,Country
+english_Every_Little_Thing,English,Carly Pearce,0.68,0.5,Country,Country
+english_Next_Girl,English,Carly Pearce,0.82,0.66,Country,Country
+english_Hide_the_Wine,English,Carly Pearce,0.86,0.72,Country,Country
+english_What_He_Didn't_Do,English,Carly Pearce,0.64,0.46,Country,Country
+english_Whitehouse_Road,English,Tyler Childers,0.78,0.66,Country,Country
+english_All_Your'n,English,Tyler Childers,0.88,0.58,Country,Country
+english_House_Fire,English,Tyler Childers,0.9,0.74,Country,Country
+english_Burning_House,English,Cam,0.66,0.44,Country,Country
+english_Diane,English,Cam,0.7,0.52,Country,Country
+english_Till_There's_Nothing_Left,English,Cam,0.84,0.6,Country,Country
+english_Mayday,English,Cam,0.72,0.56,Country,Country
+english_Country_Ain't_Never_Been_Pretty,English,Cam,0.82,0.58,Country,Country
+english_More_Hearts_Than_Mine,English,Ingrid Andress,0.76,0.5,Country,Country
+english_Lady_Like,English,Ingrid Andress,0.84,0.64,Country,Country
+english_Wishful_Drinking,English,Ingrid Andress,0.78,0.58,Country,Country
+english_Seeing_Someone_Else,English,Ingrid Andress,0.72,0.54,Country,Country
+english_Good_Person,English,Ingrid Andress,0.8,0.56,Country,Country
+english_I'd_Be_Better_Off_(In_a_Pine_Box),English,Doug Stone,0.88,0.68,Country,Country
+english_Too_Busy_Being_in_Love,English,Doug Stone,0.9,0.7,Country,Country
+english_Come_in_Out_of_the_Pain,English,Doug Stone,0.86,0.72,Country,Country
+english_Born_to_Fly,English,Sara Evans,0.98,0.88,Country,Country
+english_Suds_in_the_Bucket,English,Sara Evans,0.96,0.9,Country,Country
+english_A_Little_Bit_Stronger,English,Sara Evans,0.94,0.76,Country,Country
+english_No_Place_That_Far,English,Sara Evans,0.92,0.72,Country,Country
+english_I_Could_Not_Ask_for_More,English,Sara Evans,0.96,0.78,Country,Country
