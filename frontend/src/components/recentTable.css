@@ -1,0 +1,55 @@
+.recent-container {
+  background: white;
+  margin-top: 30px;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  text-align: left;
+  color: #888;
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+
+td {
+  padding: 12px 0;
+  border-top: 1px solid #eee;
+}
+
+.tag {
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+}
+
+.genre {
+  background-color: #e0f7fa;
+  color: #00796b;
+}
+
+.emotion {
+  background-color: #f3e5f5;
+  color: #7b1fa2;
+}
+
+.progress {
+  width: 100px;
+  height: 6px;
+  background: #eee;
+  border-radius: 5px;
+  display: inline-block;
+  margin-right: 8px;
+}
+
+.progress-bar {
+  height: 100%;
+  background: #1a73e8;
+  border-radius: 5px;
+}

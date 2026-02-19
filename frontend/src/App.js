@@ -1,15 +1,19 @@
-import React from "react";
-import { Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
-import Analyze from "./pages/Analyze";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import DashboardPage from "./pages/DashboardPage";
+// import AnalyzePage from "./pages/AnalyzePage";
+// import VisualizationsPage from "./pages/VisualizationsPage";
 
 function App() {
   return (
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/analyze" element={<Analyze />} />
-    </Routes>
+    <Router>
+      <Routes>
+        <Route path="/" element={<DashboardPage />} />
+        {/* <Route path="/analyze" element={<AnalyzePage />} /> */}
+        {/* <Route path="/visualizations" element={<VisualizationsPage />} /> */}
+      </Routes>
+    </Router>
   );
 }
 
 export default App;
+
