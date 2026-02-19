@@ -10,13 +10,13 @@ genre_codes = {g: i for i, g in enumerate(df["main_genre"].unique())}
 df["main_genre_code"] = df["main_genre"].map(genre_codes)
 
 # Correlation matrix
-corr = df[["valence", "arousal", "main_genre_code"]].corr()
+# corr = df[["valence", "arousal", "main_genre_code"]].corr()
 
-plt.figure(figsize=(6,4))
-sns.heatmap(corr, annot=True, cmap="coolwarm", fmt=".2f")
-plt.title("Correlation Between Genre and Emotion Dimensions")
-plt.tight_layout()
-plt.show()
+# plt.figure(figsize=(6,4))
+# sns.heatmap(corr, annot=True, cmap="coolwarm", fmt=".2f")
+# plt.title("Correlation Between Genre and Emotion Dimensions")
+# plt.tight_layout()
+# plt.show()
 
 plt.figure(figsize=(10,5))
 sns.barplot(
