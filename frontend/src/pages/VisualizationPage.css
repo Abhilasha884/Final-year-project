@@ -1,0 +1,24 @@
+.visualization-content {
+  flex: 1;
+  padding: 40px;
+  background: linear-gradient(135deg, #eef7f6, #f5f0ff);
+  min-height: 100vh;
+}
+
+.subtitle {
+  color: #6b7280;
+  margin-bottom: 30px;
+}
+
+.chart-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 25px;
+}
+
+.chart-card {
+  background: white;
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+}

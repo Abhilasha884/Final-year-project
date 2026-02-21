@@ -17,3 +17,16 @@
   display: flex;
   gap: 20px;
 }
+
+.dashboard-content {
+  flex: 1;
+  padding: 40px;
+  background: linear-gradient(135deg, #eef7f6, #f5f0ff);
+  min-height: 100vh;
+}
+
+.subtitle {
+  color: #6b7280;
+  margin-bottom: 30px;
+}
+

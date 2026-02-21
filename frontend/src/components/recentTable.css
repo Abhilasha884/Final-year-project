@@ -1,9 +1,9 @@
 .recent-container {
-  background: white;
   margin-top: 30px;
+  background: white;
   padding: 20px;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.05);
 }
 
 table {
@@ -13,43 +13,41 @@ table {
 
 th {
   text-align: left;
-  color: #888;
-  font-size: 14px;
-  padding-bottom: 10px;
+  color: #6b7280;
+  font-weight: 500;
+  padding: 12px 0;
 }
 
 td {
-  padding: 12px 0;
-  border-top: 1px solid #eee;
+  padding: 14px 0;
+  border-top: 1px solid #f3f4f6;
 }
-
 .tag {
-  padding: 5px 10px;
+  padding: 6px 12px;
   border-radius: 20px;
   font-size: 12px;
 }
 
 .genre {
-  background-color: #e0f7fa;
-  color: #00796b;
+  background: #d1fae5;
+  color: #059669;
 }
 
 .emotion {
-  background-color: #f3e5f5;
-  color: #7b1fa2;
+  background: #ede9fe;
+  color: #7c3aed;
 }
-
 .progress {
-  width: 100px;
   height: 6px;
-  background: #eee;
-  border-radius: 5px;
+  background: #f3f4f6;
+  border-radius: 10px;
+  width: 80px;
   display: inline-block;
-  margin-right: 8px;
+  margin-right: 10px;
 }
 
 .progress-bar {
   height: 100%;
-  background: #1a73e8;
-  border-radius: 5px;
+  background: #10b981;
+  border-radius: 10px;
 }

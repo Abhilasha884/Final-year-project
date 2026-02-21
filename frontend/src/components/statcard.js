@@ -1,10 +1,16 @@
 import "./statcard.css";
 
-export default function StatCard({ title, value }) {
+export default function StatCard({ icon, title, value, color }) {
   return (
     <div className="stat-card">
-      <h4>{title}</h4>
-      <h2>{value}</h2>
+      <div className="stat-left" style={{ background: color }}>
+        {icon}
+      </div>
+
+      <div>
+        <h2>{value}</h2>
+        <p>{title}</p>
+      </div>
     </div>
   );
 }

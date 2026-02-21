@@ -1,0 +1,86 @@
+.analyze-wrapper {
+  padding: 40px;
+  min-height: 100vh;
+  background: linear-gradient(to right, #f3f6f9, #f8f1f5);
+}
+
+.analyze-header h1 {
+  font-size: 28px;
+  margin-bottom: 5px;
+}
+
+.analyze-header p {
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.analyze-grid {
+  display: flex;
+  gap: 30px;
+}
+
+.analyze-card {
+  background: #ffffff;
+  flex: 1;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.analyze-card h3 {
+  margin-bottom: 15px;
+}
+
+.analyze-card textarea {
+  width: 100%;
+  height: 180px;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  resize: none;
+  font-size: 14px;
+}
+
+.upload-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 180px;
+  border: 2px dashed #cfd8dc;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #777;
+  text-align: center;
+}
+
+.upload-box:hover {
+  background: #f5f5f5;
+}
+
+.analyze-button-wrapper {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.analyze-button-wrapper button {
+  background: #66c5b8;
+  border: none;
+  padding: 12px 30px;
+  border-radius: 25px;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.analyze-button-wrapper button:hover {
+  background: #4bb3a4;
+}
+
+.result-section {
+  margin-top: 40px;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  width: 400px;
+}
