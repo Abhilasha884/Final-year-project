@@ -34,6 +34,7 @@ SUBGENRE_TO_MAIN = {
     "Cabaret Dance": "Electronic",
     "Classic Rock": "Rock",
     "Classical": "Classical",
+    "classical": "Classical",
     "Cool Jazz": "Jazz",
     "Country": "Country",
     "Country Ballad": "Country",

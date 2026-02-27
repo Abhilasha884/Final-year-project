@@ -2976,34 +2976,19 @@ english_I_Could_Not_Ask_for_More,English,Sara Evans,0.96,0.78,Country,Country
 english_Groban_–_Canto_Alla_Vita,English,Josh Groban,0.23,0.33,Classical,Classical
 english_Akiko_Shikata_–_白夢の繭_Ricordando_il_passato,English,志方あきこ,0.45,0.51,Classical,Classical
 english_Schubert_–_Ave_Maria,English,Franz Schubert,0.48,0.39,Classical,Classical
-english_Barber_–_Adagio_for_Strings,English,Samuel Barber,0.34,0.44,Classical,Classical
 english_Puccini_–_O_Mio_Babbino_Caro,English,Giacomo Puccini,0.62,0.48,Classical,Classical
 english_Puccini_–_Nessun_Dorma,English,Giacomo Puccini,0.7,0.66,Classical,Classical
-english_Ravel_–_Boléro,English,Maurice Ravel,0.74,0.72,Classical,Classical
 "english_Bach_–_Jesu,_Joy_of_Man’s_Desiring",English,Johann Sebastian Bach,0.82,0.48,Classical,Classical
 english_Grieg_–_In_the_Hall_of_the_Mountain_King,English,Edvard Grieg,0.48,0.86,Classical,Classical
 english_Massenet_–_Meditation_from_Thaïs,English,Jules Massenet,0.74,0.38,Classical,Classical
 english_Beethoven_–_Adagio_Cantabile,English,Ludwig van Beethoven,0.64,0.42,Classical,Classical
 english_Schubert_–_Serenade,English,Franz Schubert,0.72,0.46,Classical,Classical
-english_Pärt_–_Spiegel_im_Spiegel,English,Arvo Pärt,0.56,0.28,Classical,Classical
-english_Pärt_–_Tabula_Rasa,English,Arvo Pärt,0.48,0.36,Classical,Classical
-english_Pärt_–_Fratres,English,Arvo Pärt,0.52,0.48,Classical,Classical
 english_Pärt_–_Summa,English,Arvo Pärt,0.6,0.34,Classical,Classical
 english_Richter_–_On_the_Nature_of_Daylight,English,Max Richter,0.58,0.4,Classical,Classical
-english_Richter_–_November,English,Max Richter,0.62,0.44,Classical,Classical
-english_Satie_–_Ogives,English,Erik Satie,0.52,0.28,Classical,Classical
 english_Satie_–_Je_te_veux,English,Erik Satie,0.66,0.48,Classical,Classical
 english_Górecki_–_Totus_Tuus,English,Henryk Górecki,0.66,0.42,Classical,Classical
-english_Glass_–_The_Hours,English,Philip Glass,0.68,0.6,Classical,Classical
 english_Glass_–_Einstein_on_the_Beach,English,Philip Glass,0.72,0.7,Classical,Classical
 english_Glass_–_Akhnaten,English,Philip Glass,0.66,0.68,Classical,Classical
-english_Bruckner_–_Te_Deum,English,Anton Bruckner,0.72,0.64,Classical,Classical
-english_Franck_–_Panis_Angelicus,English,César Franck,0.8,0.46,Classical,Classical
-english_Dukas_–_La_Péri,English,Paul Dukas,0.72,0.74,Classical,Classical
-english_Monteverdi_–_Lamento_d'Arianna,English,Claudio Monteverdi,0.6,0.44,Classical,Classical
-english_Monteverdi_–_Il_combattimento_di_Tancredi_e_Clorinda,English,Claudio Monteverdi,0.66,0.7,Classical,Classical
-english_Rameau_–_Les_Sauvages,English,Jean-Philippe Rameau,0.84,0.74,Classical,Classical
-english_Grieg_–_Peer_Gynt_Suite_No.2,English,Edvard Grieg,0.74,0.52,Classical,Classical
 english_Speedball,English,John Zorn,3.08,5.87,Jazz,Jazz
 english_They_All_Laughed,English,Tony Bennett,6.33,5.14,Jazz,Jazz
 english_Parabola,English,Jawbreaker,4.56,4.67,Jazz,Jazz
@@ -3012,7 +2997,6 @@ english_ライラニア,English,志方あきこ,5.2,4.11,Jazz,Jazz
 english_ナゾ？,English,志方あきこ,5.11,4.59,Jazz,Jazz
 english_Stupid,English,Stupid,5.67,4.91,Jazz,Jazz
 english_Powerhouse,English,Raymond Scott,5.56,4.46,Jazz,Jazz
-english_The_End,English,PENTAGONIC,5.01,3.8,Jazz,Jazz
 english_Dream,English,Michael Bublé,6.72,3.36,Jazz,Jazz
 english_Pinky,English,Sarah Vaughan,3.47,3.47,Jazz,Jazz
 english_Once_In_Your_Life,English,Betty Carter,7.22,3.54,Jazz,Jazz
@@ -3020,14 +3004,11 @@ english_Whispering,English,Frank Sinatra,7.43,3.81,Jazz,Jazz
 english_Rituals,English,Nicola Conte,7.35,3.38,Jazz,Jazz
 english_Bliss,English,Rosie Brown,6.96,3.12,Jazz,Jazz
 english_Nights_at_the_Turntable,English,Gerry Mulligan,6.83,2.62,Jazz,Jazz
-english_In_My_Bed_(Bugz_in_the_Attic_Dub),English,Amy Winehouse,7.25,2.49,Jazz,Jazz
 english_I_Love_Paris,English,Etta Jones,7.25,2.49,Jazz,Jazz
 english_Beast_of_Burden,English,Donald Byrd,7.25,2.49,Jazz,Jazz
 english_Wave,English,Nancy Wilson,6.43,2.47,Jazz,Jazz
 english_Hit_The_Spot,English,Leslie Mendelson,6.96,2.65,Jazz,Jazz
 english_Dreamsville,English,Pat Martino,7.36,3.76,Jazz,Jazz
-english_(A_different)_Bitch,English,Room Eleven,7.25,2.49,Jazz,Jazz
-english_Come_Closer_(Live_version),English,Room Eleven,7.25,2.49,Jazz,Jazz
 english_A_Soft_Place_To_Fall,English,Nelson Rangell,7.25,2.49,Jazz,Jazz
 english_Manoir_Des_Mes_Reves,English,Django Reinhardt,7.25,2.49,Jazz,Jazz
 english_Feel_The_Vibe,English,Loose Ends,7.03,4.02,Jazz,Jazz
@@ -3036,10 +3017,8 @@ english_When_My_Angers_Starts_To_Cry,English,Beady Belle,7.25,2.49,Jazz,Jazz
 english_Só_Danço_Samba,English,Till Brönner,7.25,2.49,Jazz,Jazz
 english_Tudo_Que_Voce_Podia_Ser,English,Azymuth,6.87,3.37,Jazz,Jazz
 english_Memphis_in_June,English,Julie London,7.25,2.49,Jazz,Jazz
-"english_Lover_Man_(Oh,_Where_Can_You_Be)",English,Billie Holiday,5.91,3.57,Jazz,Jazz
 english_Noon_At_The_Moon,English,Calm,6.19,2.96,Jazz,Jazz
 english_Scar,English,Joe Henry,7.25,2.49,Jazz,Jazz
-english_Let_It_Snow!_Let_It_Snow!_Let_It_Snow!,English,The Manhattan Transfer,5.34,3.05,Jazz,Jazz
 english_In_Between_the_Heartaches,English,George Duke,7.04,2.96,Jazz,Jazz
 english_L,English,Nat King Cole,7.22,3.68,Jazz,Jazz
 english_A_Child_Is_Born,English,Paul McCandless,6.96,2.65,Jazz,Jazz
@@ -3047,13 +3026,11 @@ english_Some_Traveling_Music,English,Frank Sinatra,7.25,2.49,Jazz,Jazz
 english_A_Taste_Of_Honey,English,Chet Baker,7.25,2.49,Jazz,Jazz
 english_I_Remember_Clifford,English,Art Blakey & The Jazz Messengers,7.51,3.31,Jazz,Jazz
 english_First-Time_Love,English,Dave Grusin,7.25,2.49,Jazz,Jazz
-english_Mystic_Bounce_(Madlib_remix),English,Ronnie Foster,7.25,2.49,Jazz,Jazz
 english_Gabriel's_Oboe,English,Chris Botti,7.25,2.49,Jazz,Jazz
 english_Get_It_On,English,Monodeluxe,7.08,3.58,Jazz,Jazz
 english_The_Breeze,English,Leena Conquest,6.83,2.62,Jazz,Jazz
 english_Byrd_Plays,English,Incognito,6.96,2.65,Jazz,Jazz
 english_59,English,Jacky Terrasson,6.41,3.06,Jazz,Jazz
-english_The_Sirens'_Call,English,Jazzanova,6.6,4.01,Jazz,Jazz
 english_Dinosaur,English,Al Jarreau,6.28,2.83,Jazz,Jazz
 english_Meditation,English,TOM & JOY,7.25,2.49,Jazz,Jazz
 english_Proof,English,Pat Metheny,7.38,2.92,Jazz,Jazz
@@ -3075,13 +3052,11 @@ english_Someone's_Rocking_My_Dreamboat,English,The Ink Spots,3.38,3.08,Jazz,Jazz
 english_Some_Enchanted_Evening,English,Frank Sinatra,7.05,1.91,Jazz,Jazz
 english_If_I_Could_See,English,Mahavishnu Orchestra,7.05,1.91,Jazz,Jazz
 english_Koto_Song,English,Dave Brubeck,7.05,1.91,Jazz,Jazz
-english_Trav'lin'_Light,English,Chet Baker,6.11,2.96,Jazz,Jazz
 english_Ain't_Misbehavin',English,Dinah Washington,6.97,4.22,Jazz,Jazz
 english_You'll_Never_Walk_Alone,English,Frank Sinatra,6.34,3.4,Jazz,Jazz
 english_Out_of_Nowhere,English,Dave Brubeck,6.11,2.58,Jazz,Jazz
 english_Manteca_Theme,English,Dizzy Gillespie,4.38,3.55,Jazz,Jazz
 english_I_Wanna_Get_Married,English,Nellie McKay,6.74,4.22,Jazz,Jazz
-english_Love_Potion_#9,English,Herb Alpert and the Tijuana Brass,5.42,4.39,Jazz,Jazz
 english_Miles_Davis,English,Rainald Grebe,5.42,4.39,Jazz,Jazz
 english_Acapella,English,A-Live,5.42,4.39,Jazz,Jazz
 english_Molecular_Structure,English,Mose Allison,4.42,4.0,Jazz,Jazz
@@ -3099,11 +3074,9 @@ english_As_one,English,Shikata,5.67,4.91,Jazz,Jazz
 english_Incêndio,English,Stupid,5.81,4.88,Jazz,Jazz
 english_It's_Karma_Bitch,English,Anjulie,4.95,4.61,Jazz,Jazz
 english_Calamity,English,Marjolaine,5.81,4.88,Jazz,Jazz
-english_PHANTASMAGORIA,English,"Noriko Mitose, Akiko Shikata, Haruka Shimotsuki",5.66,4.88,Jazz,Jazz
 english_Constante_Transição,English,Stupid,5.81,4.88,Jazz,Jazz
 english_Japanese_Beer,English,Stupid,5.83,4.9,Jazz,Jazz
 english_Desce_o_céu,English,Stupid,5.59,4.88,Jazz,Jazz
-english_It_Had_Better_Be_Tonight_[Meglio_Stasera],English,Michael Bublé,4.39,5.57,Jazz,Jazz
 english_OPIUM_II,English,Ofasia,5.75,4.87,Jazz,Jazz
 english_Show_Me_Love,English,Kalliope,5.75,4.87,Jazz,Jazz
 english_Orient_Express,English,Joe Zawinul,4.14,6.62,Jazz,Jazz
@@ -3113,11 +3086,7 @@ english_Mi_niña_Lola,English,Buika,3.87,4.92,Jazz,Jazz
 english_History_Repeating,English,Shirley Bassey,5.9,4.6,Jazz,Jazz
 english_Be_Careful,English,Peter Cincotti,3.92,5.52,Jazz,Jazz
 english_Salty_Papa_Blues,English,Dinah Washington,3.71,4.66,Jazz,Jazz
-"english_If_You_Don't,_I_Know_Who_Will",English,Bessie Smith,3.71,4.66,Jazz,Jazz
 english_Freakmachine,English,Tied & Tickled Trio,5.46,4.62,Jazz,Jazz
-english_Paranoid_Android_(Live),English,Brad Mehldau,2.1,2.27,Jazz,Jazz
-english_No._4,English,Peter Brötzmann,4.19,4.55,Jazz,Jazz
-english_Them_That_Got_[Live],English,Ben Folds,5.04,3.96,Jazz,Jazz
 english_Perry_Mason_Theme,English,Buddy Morrow,2.81,3.55,Jazz,Jazz
 english_Shoot_To_Kill,English,Quincy Jones & His Orchestra,2.71,3.97,Jazz,Jazz
 english_French_Quarter,English,Alex North & His Orchestra,2.84,3.04,Jazz,Jazz
@@ -3128,7 +3097,6 @@ english_Racine_de_deux,English,Grumpf Quartet,3.95,5.57,Jazz,Jazz
 english_Till_The_Cows_Come_Home,English,Lucille Bogan,5.5,5.49,Jazz,Jazz
 english_Nice_Guys,English,Art Ensemble Of Chicago,3.26,2.44,Jazz,Jazz
 english_鳳凰-Phoenix,English,Jazztronik,4.85,3.63,Jazz,Jazz
-english_Phoenix,English,Jazztronik,1.85,2.5,Jazz,Jazz
 english_Night_Waltz,English,Keiko Matsui,4.53,3.82,Jazz,Jazz
 english_Splitter,English,"greenwood, johnny",1.45,2.54,Jazz,Jazz
 english_22nd_Century,English,Nina Simone,1.24,1.5,Jazz,Jazz
@@ -3144,10 +3112,8 @@ english_De_Drums,English,Jarek Śmietana & Wojtek Karolak,3.53,4.12,Jazz,Jazz
 english_Crye_Me_A_River,English,Dinah Washington,3.63,4.64,Jazz,Jazz
 english_For_All_We_Know,English,Nina Simone,3.3,3.82,Jazz,Jazz
 english_Harlem_Fuss,English,Fats Waller And His Buddies,5.75,5.16,Jazz,Jazz
-english_Ain't_Misbehavin'_-_Original,English,Fats Waller,5.75,5.16,Jazz,Jazz
 english_Zat_You_Santa_Claus,English,Louis Armstrong,4.32,3.55,Jazz,Jazz
 english_Presence,English,Nils Petter Molvær,4.32,3.55,Jazz,Jazz
-"english_Cold,_Cold_Heart",English,Bill Frisell,3.88,3.58,Jazz,Jazz
 english_Roma,English,Pizzicato Five,5.09,3.66,Jazz,Jazz
 english_Zahouly,English,ZAILM Atoyanh,5.2,3.95,Jazz,Jazz
 english_Will,English,Terje Rypdal,4.32,3.55,Jazz,Jazz
@@ -3162,10 +3128,7 @@ english_Pills,English,Primal Scream,3.38,5.12,Electronic,Electronic
 english_Acid_Annie,English,Natalia Kills,3.08,5.87,Electronic,Electronic
 english_Tension,English,Orbital,2.61,3.71,Electronic,Electronic
 english_The_Carpathians,English,Ben Frost,3.24,5.72,Electronic,Electronic
-english_The_Way_It_Is_(live_remix),English,The Prodigy,3.08,5.87,Electronic,Electronic
 english_American_Trash,English,Innerpartysystem,5.16,5.23,Electronic,Electronic
-"english_Come_To_Daddy,_Pappy_Mix",English,Aphex Twin,3.47,4.88,Electronic,Electronic
-english_Come_to_Daddy_[Pappy_Mix],English,Aphex Twin,4.33,6.01,Electronic,Electronic
 english_Control_Freak,English,Recoil,4.55,6.01,Electronic,Electronic
 english_Elephant,English,Idiot Pilot,5.33,5.99,Electronic,Electronic
 english_Super_Space_Invaders,English,Eisenfunk,5.39,5.11,Electronic,Electronic
@@ -3176,13 +3139,11 @@ english_Decent_Cancer,English,Ashbury Heights,3.26,5.75,Electronic,Electronic
 english_Fama_Tuba,English,Helium Vola,4.72,4.58,Electronic,Electronic
 english_Young_Boys,English,Lords of Acid,6.55,6.61,Electronic,Electronic
 english_The_Girls,English,Diorama,3.19,5.77,Electronic,Electronic
-english_Real_Solution_#9_[Mambo_Mania_Mix],English,White Zombie,3.08,5.87,Electronic,Electronic
 english_I'm_Gonna_Show_You_Crazy,English,Bebe Rexha,2.53,6.2,Electronic,Electronic
 english_The_Childcatcher,English,Patrick Wolf,4.84,4.75,Electronic,Electronic
 english_Trainwreck,English,Banks,2.53,6.2,Electronic,Electronic
 english_Obsession,English,Gesaffelstein,3.88,5.1,Electronic,Electronic
 english_Stillbirth,English,Alice Glass,4.23,4.79,Electronic,Electronic
-english_Mouth_(The_Stingray_Mix),English,Bush,6.0,5.42,Electronic,Electronic
 english_Motorhead,English,Primal Scream,3.23,2.62,Electronic,Electronic
 english_Stress,English,Crim3s,2.53,6.2,Electronic,Electronic
 english_Cowboy_Bob,English,Butthole Surfers,2.53,6.2,Electronic,Electronic
@@ -3205,7 +3166,6 @@ english_anger-E,English,bINARY üBER-gLOTS,3.35,5.24,Electronic,Electronic
 english_Riot,English,Flying Lotus,3.37,4.86,Electronic,Electronic
 english_Seven_Stars,English,Air,5.51,3.18,Electronic,Electronic
 english_Worlds_Converged,English,Midnight Juggernauts,4.46,4.03,Electronic,Electronic
-"english_Come_To_Daddy,_Mummy_Mix",English,Aphex Twin,4.85,5.06,Electronic,Electronic
 english_Mental_Universe,English,Free the Robots,3.14,4.76,Electronic,Electronic
 english_Flash_Ram,English,Brainiac,3.54,5.17,Electronic,Electronic
 english_The_Symbiote,English,Eprom,3.14,4.76,Electronic,Electronic
@@ -3227,10 +3187,8 @@ english_Alexandria_by_Night,English,Tim Doyle,4.43,4.42,Electronic,Electronic
 english_Empty,English,t r y ^ d,4.86,3.11,Electronic,Electronic
 english_Ready_to_Lose,English,The Knife,3.67,5.57,Electronic,Electronic
 english_Kitty_Cat,English,Amon Tobin,5.75,5.27,Electronic,Electronic
-english_Changeling__Transmission_1,English,DJ Shadow,5.33,4.12,Electronic,Electronic
 english_If_It_Really_Is_Me,English,Polygon Window,4.65,4.28,Electronic,Electronic
 english_Rain_of_Brass_Petals,English,Akira Yamaoka,2.02,3.02,Electronic,Electronic
-english_Star_Shpongled_Banner_(Brothomstates_remix),English,Shpongle,4.63,3.7,Electronic,Electronic
 english_Berserker,English,Gary Numan,3.01,3.22,Electronic,Electronic
 english_Terre_Zippy,English,Speedy J,4.83,4.83,Electronic,Electronic
 english_Pain_Game,English,Fonik,3.95,5.57,Electronic,Electronic
@@ -3246,14 +3204,12 @@ english_Nicolas_Ritter,English,Matthew Herbert,3.95,5.57,Electronic,Electronic
 english_April,English,Slambo,5.81,4.74,Electronic,Electronic
 english_Sing_Me_a_Lullaby,English,Slambo,5.81,4.74,Electronic,Electronic
 english_Fort_Gnox,English,Zan-zan-zawa-veia,4.88,4.46,Electronic,Electronic
-english_Guardians_(part_2),English,Alchemorph Soundtracks,4.01,5.0,Electronic,Electronic
 english_Necropolis,English,A Covenant of Thorns,4.6,5.07,Electronic,Electronic
 english_Tha_Dog_Song,English,Slambo,5.81,4.74,Electronic,Electronic
 english_Cavalier,English,They Live,3.67,5.57,Electronic,Electronic
 english_Floating,English,Slambo,5.81,4.74,Electronic,Electronic
 english_Over-sked,English,Zan-zan-zawa-veia,6.83,5.39,Electronic,Electronic
 english_Dead_Cows,English,Slambo,5.81,4.74,Electronic,Electronic
-english_Saudade_-_Part_One,English,Stray Ghost,3.95,5.57,Electronic,Electronic
 english_Carjacker,English,Slambo,5.81,4.74,Electronic,Electronic
 english_Consumed,English,Slambo,5.77,4.66,Electronic,Electronic
 english_Dragonkin,English,Slambo,5.78,4.85,Electronic,Electronic
@@ -3262,33 +3218,25 @@ english_Sibelius_–_Finlandia,English,Jean Sibelius,0.78,0.8,Classical,Classica
 english_Stravinsky_–_The_Firebird_Suite,English,Igor Stravinsky,0.64,0.82,Classical,Classical
 english_Stravinsky_–_Pulcinella_Suite,English,Igor Stravinsky,0.72,0.68,Classical,Classical
 english_Stravinsky_–_Symphony_of_Psalms,English,Igor Stravinsky,0.6,0.62,Classical,Classical
-english_Ravel_–_La_Valse,English,Maurice Ravel,0.64,0.76,Classical,Classical
 english_Prokofiev_–_Romeo_and_Juliet_Suite,English,Sergei Prokofiev,0.7,0.78,Classical,Classical
 english_Prokofiev_–_Lieutenant_Kijé_Suite,English,Sergei Prokofiev,0.76,0.68,Classical,Classical
-english_Elgar_–_Enigma_Variations,English,Edward Elgar,0.74,0.68,Classical,Classical
 english_Elgar_–_Violin_Concerto,English,Edward Elgar,0.72,0.7,Classical,Classical
 english_Vaughan_Williams_–_Sea_Symphony,English,Ralph Vaughan Williams,0.74,0.72,Classical,Classical
 english_Britten_–_Young_Person's_Guide_to_the_Orchestra,English,Benjamin Britten,0.86,0.74,Classical,Classical
 english_Britten_–_Simple_Symphony,English,Benjamin Britten,0.82,0.7,Classical,Classical
 english_Britten_–_Violin_Concerto,English,Benjamin Britten,0.68,0.74,Classical,Classical
-english_Copland_–_Fanfare_for_the_Common_Man,English,Aaron Copland,0.88,0.76,Classical,Classical
-english_Copland_–_Rodeo,English,Aaron Copland,0.86,0.72,Classical,Classical
 english_Copland_–_Billy_the_Kid_Suite,English,Aaron Copland,0.8,0.7,Classical,Classical
 english_Gershwin_–_Piano_Concerto_in_F,English,George Gershwin,0.8,0.76,Classical,Classical
 english_Gershwin_–_Cuban_Overture,English,George Gershwin,0.82,0.78,Classical,Classical
 english_Gershwin_–_Variations_on_'I_Got_Rhythm',English,George Gershwin,0.88,0.82,Classical,Classical
 english_Handel_–_Water_Music_Suite,English,George Frideric Handel,0.84,0.68,Classical,Classical
-english_Handel_–_Messiah_–_Hallelujah_Chorus,English,George Frideric Handel,0.92,0.74,Classical,Classical
-english_Fauré_–_Requiem_–_Pie_Jesu,English,Gabriel Fauré,0.62,0.4,Classical,Classical
 english_Fauré_–_Cantique_de_Jean_Racine,English,Gabriel Fauré,0.7,0.44,Classical,Classical
-english_Albinoni_–_Adagio_in_G_Minor,English,Tomaso Albinoni,0.6,0.46,Classical,Classical
 english_Albinoni_–_Sonata_in_G_Minor,English,Tomaso Albinoni,0.68,0.54,Classical,Classical
 english_Rachmaninoff_–_Rhapsody_on_a_Theme_of_Paganini,English,Sergei Rachmaninoff,0.68,0.76,Classical,Classical
 english_Borodin_–_Polovtsian_Dances,English,Alexander Borodin,0.8,0.76,Classical,Classical
 english_Borodin_–_Prince_Igor_Overture,English,Alexander Borodin,0.76,0.78,Classical,Classical
 english_Rimsky-Korsakov_–_Russian_Easter_Overture,English,Nikolai Rimsky-Korsakov,0.82,0.8,Classical,Classical
 english_Rimsky-Korsakov_–_Antar_Symphony,English,Nikolai Rimsky-Korsakov,0.72,0.68,Classical,Classical
-english_Rimsky-Korsakov_–_Flight_of_the_Bumblebee,English,Nikolai Rimsky-Korsakov,0.86,0.94,Classical,Classical
 english_Khachaturian_–_Gayane_Suite,English,Aram Khachaturian,0.84,0.82,Classical,Classical
 english_Khachaturian_–_Masquerade_Suite,English,Aram Khachaturian,0.8,0.76,Classical,Classical
 english_Glazunov_–_Violin_Concerto,English,Alexander Glazunov,0.78,0.74,Classical,Classical
@@ -3305,27 +3253,18 @@ english_Bizet_–_Carmen_Habanera,English,Georges Bizet,0.82,0.7,Classical,Class
 english_Bizet_–_L'Arlésienne_Suite,English,Georges Bizet,0.8,0.74,Classical,Classical
 english_Bizet_–_Symphony_in_C,English,Georges Bizet,0.78,0.72,Classical,Classical
 english_Delibes_–_Coppélia_Waltz,English,Léo Delibes,0.86,0.66,Classical,Classical
-english_Always_(Violin_Interlude),English,Kalliope,5.55,4.75,Jazz,Jazz
 english_And_Still_We_Move,English,Crissi Cochrane,6.49,5.24,Jazz,Jazz
 english_Rosemary's_Baby_Main_Theme_Vocal,English,Krzysztof Komeda,3.23,4.62,Jazz,Jazz
-english_Vilderness_(The_Cinematic_Orchestra_remix),English,Nils Petter Molvær,5.42,3.68,Jazz,Jazz
-english_Re-Arrange_(The_Cinematic_Orchestra_remix),English,Krust,4.32,3.55,Jazz,Jazz
 english_This_Obsession,English,Victoria Hart,2.67,4.37,Jazz,Jazz
 english_Cinny's_Waltz,English,Holly Cole,7.42,3.17,Jazz,Jazz
-english_Waltz_for_Koop_(DJ_Patife_remix),English,Koop,4.83,3.55,Jazz,Jazz
 english_Nuthinduan_Waltz,English,Andrew Bird's Bowl of Fire,3.05,3.05,Jazz,Jazz
-english_Like_A_Star_(Paris_Session),English,Corinne Bailey Rae,6.04,3.13,Jazz,Jazz
 english_Smooth_Jazz_Christmas_Overture,English,Dave Koz,6.96,2.65,Jazz,Jazz
 english_overworld_theme,English,Five Star Hotel,3.44,5.63,Electronic,Electronic
-english_NeuroTransmitter_(bad_ending),English,Hamster Alliance,3.44,5.63,Electronic,Electronic
-english_antidote,English,Five Star Hotel,3.44,5.63,Electronic,Electronic
-english_Feeling_So_Real_(Unashamed_Ecstatic_Piano_mix),English,Moby,5.11,5.52,Electronic,Electronic
 english_Magoo_Opening,English,Cornelius,6.43,4.93,Electronic,Electronic
 english_Going_to_Georgia,English,Atom and His Package,4.22,3.53,Electronic,Electronic
 english_17_years,English,Ratatat,4.19,4.55,Electronic,Electronic
 english_Auto-Lite_Spark_Plugs,English,Raymond Scott,4.19,4.55,Electronic,Electronic
 english_Loco,English,Loving Paris,4.19,4.55,Electronic,Electronic
-english_Key_Lime_(live),English,Germlin,5.96,5.3,Electronic,Electronic
 english_Sky_High,English,Nick Hopkin,4.88,5.04,Electronic,Electronic
 english_Series_20,English,Nick Hopkin,4.19,4.55,Electronic,Electronic
 english_Loop_One,English,Martin Dolgener,4.19,4.55,Electronic,Electronic
@@ -3337,202 +3276,430 @@ english_Try_It_On_You,English,The Reds,4.24,5.33,Electronic,Electronic
 english_The_Highest_Flood,English,Forest Swords,5.57,5.18,Electronic,Electronic
 english_Rino's_Prayer,English,Leftfield,5.6,4.77,Electronic,Electronic
 english_Theme_from_Earthshaker,English,Cabaret Voltaire,3.95,5.57,Electronic,Electronic
-english_Symphony_No.5,English,Mieczysław Weinberg,0.6,0.72,Classical,Classical
 english_Violin_Concerto,English,Mieczysław Weinberg,0.68,0.7,Classical,Classical
-english_Cello_Concerto,English,Mieczysław Weinberg,0.66,0.68,Classical,Classical
-english_Polish_Tunes,English,Mieczysław Weinberg,0.72,0.64,Classical,Classical
-english_Symphony_No.2,English,Aram Khachaturian,0.7,0.8,Classical,Classical
-english_Gayane_Suite,English,Aram Khachaturian,0.84,0.82,Classical,Classical
-english_Masquerade_Suite,English,Aram Khachaturian,0.8,0.76,Classical,Classical
-english_Transcendental_Etudes,English,Sergei Lyapunov,0.78,0.84,Classical,Classical
-english_Rhapsody_on_Ukrainian_Themes,English,Sergei Lyapunov,0.82,0.76,Classical,Classical
-english_Tarantella,English,Sergei Lyapunov,0.86,0.88,Classical,Classical
-english_Symphony_No.3_Ilya_Muromets,English,Reinhold Glière,0.66,0.82,Classical,Classical
-english_Horn_Concerto,English,Reinhold Glière,0.78,0.72,Classical,Classical
-english_The_Red_Poppy_Suite,English,Reinhold Glière,0.82,0.76,Classical,Classical
-english_Harp_Concerto,English,Reinhold Glière,0.76,0.64,Classical,Classical
-english_Uirapuru,English,Heitor Villa-Lobos,0.74,0.7,Classical,Classical
-english_Jenůfa_Suite,English,Leoš Janáček,0.66,0.68,Classical,Classical
-english_The_Cunning_Little_Vixen_Suite,English,Leoš Janáček,0.78,0.7,Classical,Classical
-english_Symphony_No.3_Song_of_the_Night,English,Karol Szymanowski,0.72,0.76,Classical,Classical
-english_Myths,English,Karol Szymanowski,0.66,0.7,Classical,Classical
 english_Stabat_Mater,English,Karol Szymanowski,0.6,0.62,Classical,Classical
-english_Faust_Cantata,English,Alfred Schnittke,0.56,0.7,Classical,Classical
-english_Choir_Concerto,English,Alfred Schnittke,0.6,0.66,Classical,Classical
 english_Requiem,English,Alfred Schnittke,0.58,0.64,Classical,Classical
-english_Symphony_No.3,English,Henryk Górecki,0.54,0.48,Classical,Classical
-english_Totus_Tuus,English,Henryk Górecki,0.66,0.42,Classical,Classical
-english_Beatus_Vir,English,Henryk Górecki,0.62,0.46,Classical,Classical
-english_Concerto-Cantata,English,Henryk Górecki,0.6,0.5,Classical,Classical
-english_Symphony_No.4,English,Witold Lutosławski,0.68,0.82,Classical,Classical
-english_Concerto_for_Orchestra,English,Witold Lutosławski,0.72,0.86,Classical,Classical
-english_Chain_2,English,Witold Lutosławski,0.66,0.74,Classical,Classical
-english_Partita_for_Violin_and_Orchestra,English,Witold Lutosławski,0.74,0.76,Classical,Classical
-english_Polish_Requiem,English,Krzysztof Penderecki,0.56,0.66,Classical,Classical
 english_Credo,English,Krzysztof Penderecki,0.62,0.64,Classical,Classical
-english_St._Luke_Passion,English,Krzysztof Penderecki,0.54,0.72,Classical,Classical
-english_Symphony_No.8_Songs_of_Transience,English,Krzysztof Penderecki,0.64,0.6,Classical,Classical
-english_Shaker_Loops,English,John Adams,0.78,0.84,Classical,Classical
-english_Doctor_Atomic_Symphony,English,John Adams,0.7,0.86,Classical,Classical
-english_The_Hours,English,Philip Glass,0.68,0.6,Classical,Classical
-english_Einstein_on_the_Beach,English,Philip Glass,0.72,0.7,Classical,Classical
-english_Akhnaten,English,Philip Glass,0.66,0.68,Classical,Classical
 english_Tabula_Rasa,English,Arvo Pärt,0.48,0.36,Classical,Classical
-english_Cantus_in_Memory_of_Benjamin_Britten,English,Arvo Pärt,0.42,0.4,Classical,Classical
-english_Fratres,English,Arvo Pärt,0.52,0.48,Classical,Classical
-english_Dream_3,English,Max Richter,0.66,0.36,Classical,Classical
 english_Opening,English,Philip Glass,0.68,0.52,Classical,Classical
-english_Glassworks,English,Philip Glass,0.72,0.48,Classical,Classical
-english_Koyaanisqatsi_Theme,English,Philip Glass,0.52,0.54,Classical,Classical
-english_Ogives,English,Erik Satie,0.52,0.28,Classical,Classical
-english_Je_te_veux,English,Erik Satie,0.66,0.48,Classical,Classical
-english_Images,English,Claude Debussy,0.66,0.42,Classical,Classical
-english_Préludes_Book_II,English,Claude Debussy,0.7,0.5,Classical,Classical
-english_String_Quartet_in_F_Major,English,Maurice Ravel,0.72,0.6,Classical,Classical
-english_Boléro,English,Maurice Ravel,0.74,0.72,Classical,Classical
-english_Scythian_Suite,English,Sergei Prokofiev,0.72,0.86,Classical,Classical
-english_Peter_and_the_Wolf,English,Sergei Prokofiev,0.82,0.66,Classical,Classical
-english_Cinderella_Suite,English,Sergei Prokofiev,0.78,0.72,Classical,Classical
-english_Kullervo,English,Jean Sibelius,0.62,0.74,Classical,Classical
-english_Tapiola,English,Jean Sibelius,0.58,0.62,Classical,Classical
-english_The_Oceanides,English,Jean Sibelius,0.68,0.6,Classical,Classical
-english_Samson_et_Dalila,English,Camille Saint-Saëns,0.64,0.58,Classical,Classical
 english_Danse_Macabre,English,Camille Saint-Saëns,0.5,0.6,Classical,Classical
-english_Carnival_of_the_Animals,English,Camille Saint-Saëns,0.86,0.66,Classical,Classical
-english_Faust_Symphony,English,Franz Liszt,0.62,0.78,Classical,Classical
-english_Dante_Symphony,English,Franz Liszt,0.6,0.8,Classical,Classical
-english_Mazeppa,English,Franz Liszt,0.66,0.84,Classical,Classical
-english_Symphony_No.2_Lobgesang,English,Felix Mendelssohn,0.8,0.7,Classical,Classical
-english_Italian_Symphony,English,Felix Mendelssohn,0.86,0.76,Classical,Classical
-english_Scottish_Symphony,English,Felix Mendelssohn,0.68,0.7,Classical,Classical
-english_Hebrides_Overture,English,Felix Mendelssohn,0.74,0.64,Classical,Classical
-english_Violin_Concerto_in_E_Minor,English,Felix Mendelssohn,0.8,0.74,Classical,Classical
-english_Symphony_No.1_Spring,English,Robert Schumann,0.76,0.72,Classical,Classical
-english_Piano_Concerto_in_A_Minor,English,Robert Schumann,0.76,0.7,Classical,Classical
-english_Kinderszenen,English,Robert Schumann,0.74,0.48,Classical,Classical
 english_Carnaval,English,Robert Schumann,0.78,0.72,Classical,Classical
-english_Symphony_No.8,English,Antonín Dvořák,0.84,0.72,Classical,Classical
-english_Symphony_No.9_From_the_New_World,English,Antonín Dvořák,0.82,0.76,Classical,Classical
-english_Messiah_Overture,English,George Frideric Handel,0.88,0.7,Classical,Classical
-english_Concerto_Grosso_Op.6_No.6,English,George Frideric Handel,0.78,0.64,Classical,Classical
-english_Symphony_No.88,English,Joseph Haydn,0.86,0.68,Classical,Classical
-english_Symphony_No.92_Oxford,English,Joseph Haydn,0.88,0.7,Classical,Classical
-english_Symphony_No.103_Drumroll,English,Joseph Haydn,0.84,0.72,Classical,Classical
-english_The_Creation_Overture,English,Joseph Haydn,0.82,0.6,Classical,Classical
-english_Trumpet_Concerto,English,Joseph Haydn,0.9,0.74,Classical,Classical
-english_Requiem_in_D_Minor,English,Wolfgang Amadeus Mozart,0.4,0.5,Classical,Classical
-english_Symphony_No.31_Paris,English,Wolfgang Amadeus Mozart,0.74,0.66,Classical,Classical
-english_Symphony_No.33,English,Wolfgang Amadeus Mozart,0.7,0.64,Classical,Classical
-english_Piano_Concerto_No.20,English,Wolfgang Amadeus Mozart,0.68,0.6,Classical,Classical
-english_Piano_Sonata_No.21_Waldstein,English,Ludwig van Beethoven,0.78,0.74,Classical,Classical
-english_Piano_Sonata_No.23_Appassionata,English,Ludwig van Beethoven,0.7,0.86,Classical,Classical
-english_Fidelio_Overture,English,Ludwig van Beethoven,0.68,0.8,Classical,Classical
-english_Academic_Festival_Overture,English,Johannes Brahms,0.82,0.74,Classical,Classical
-english_Tragic_Overture,English,Johannes Brahms,0.6,0.72,Classical,Classical
-english_German_Requiem,English,Johannes Brahms,0.58,0.64,Classical,Classical
-english_Symphony_No.10,English,Gustav Mahler,0.6,0.78,Classical,Classical
-english_Kindertotenlieder,English,Gustav Mahler,0.52,0.48,Classical,Classical
-english_Symphony_No.1_Titan,English,Gustav Mahler,0.62,0.76,Classical,Classical
-english_Symphony_No.6,English,Jean Sibelius,0.7,0.72,Classical,Classical
-english_Symphony_No.7,English,Jean Sibelius,0.68,0.74,Classical,Classical
 english_Finlandia,English,Jean Sibelius,0.78,0.8,Classical,Classical
-english_Karelia_Suite,English,Jean Sibelius,0.76,0.72,Classical,Classical
-english_Pulcinella_Suite,English,Igor Stravinsky,0.72,0.68,Classical,Classical
-english_Symphony_in_Three_Movements,English,Igor Stravinsky,0.7,0.82,Classical,Classical
-english_The_Firebird_Suite,English,Igor Stravinsky,0.64,0.82,Classical,Classical
-english_Petrushka,English,Igor Stravinsky,0.7,0.84,Classical,Classical
-english_St._Matthew_Passion,English,Johann Sebastian Bach,0.58,0.64,Classical,Classical
-english_Orchestral_Suite_No.2,English,Johann Sebastian Bach,0.76,0.62,Classical,Classical
-english_Orchestral_Suite_No.4,English,Johann Sebastian Bach,0.78,0.66,Classical,Classical
-english_Piano_Concerto_No.24,English,Wolfgang Amadeus Mozart,0.72,0.64,Classical,Classical
-english_Symphony_No.29,English,Wolfgang Amadeus Mozart,0.7,0.66,Classical,Classical
-english_Symphony_No.38_Prague,English,Wolfgang Amadeus Mozart,0.74,0.7,Classical,Classical
-english_Violin_Concerto_No.5,English,Wolfgang Amadeus Mozart,0.78,0.68,Classical,Classical
-english_Piano_Sonata_No.17,English,Wolfgang Amadeus Mozart,0.72,0.6,Classical,Classical
-english_Piano_Sonata_No.17_Tempest,English,Ludwig van Beethoven,0.68,0.74,Classical,Classical
-english_Violin_Sonata_No.9_Kreutzer,English,Ludwig van Beethoven,0.72,0.8,Classical,Classical
-english_Violin_Sonata_No.2,English,Johannes Brahms,0.68,0.6,Classical,Classical
-english_Clair_de_Lune,English,Claude Debussy,0.64,0.36,Classical,Classical
 english_Moonlight_Sonata,English,Ludwig van Beethoven,0.42,0.38,Classical,Classical
 english_Lacrimosa,English,Wolfgang Amadeus Mozart,0.36,0.47,Classical,Classical
-english_Ave_Maria,English,Franz Schubert,0.48,0.39,Classical,Classical
-english_Nocturne_Op.9_No.2,English,Frédéric Chopin,0.6,0.41,Classical,Classical
-english_Air_on_the_G_String,English,Johann Sebastian Bach,0.7,0.38,Classical,Classical
 english_Für_Elise,English,Ludwig van Beethoven,0.68,0.5,Classical,Classical
 english_Pavane,English,Gabriel Fauré,0.6,0.42,Classical,Classical
 english_The_Swan,English,Camille Saint-Saëns,0.68,0.4,Classical,Classical
-english_Nessun_Dorma,English,Giacomo Puccini,0.7,0.66,Classical,Classical
-english_O_Mio_Babbino_Caro,English,Giacomo Puccini,0.62,0.48,Classical,Classical
-english_Meditation_from_Thaïs,English,Jules Massenet,0.74,0.38,Classical,Classical
-english_William_Tell_Overture,English,Gioachino Rossini,0.82,0.88,Classical,Classical
-english_Ride_of_the_Valkyries,English,Richard Wagner,0.54,0.92,Classical,Classical
-english_In_the_Hall_of_the_Mountain_King,English,Edvard Grieg,0.48,0.86,Classical,Classical
-english_Winter_Largo,English,Antonio Vivaldi,0.62,0.42,Classical,Classical
-english_Prelude_in_E_Minor,English,Frédéric Chopin,0.44,0.4,Classical,Classical
-english_Waltz_in_A_Minor,English,Frédéric Chopin,0.6,0.58,Classical,Classical
-english_Eine_kleine_Nachtmusik,English,Wolfgang Amadeus Mozart,0.86,0.66,Classical,Classical
-english_Symphony_No.40,English,Wolfgang Amadeus Mozart,0.52,0.72,Classical,Classical
 english_The_Blue_Danube,English,Johann Strauss II,0.92,0.62,Classical,Classical
-english_Swan_Lake_Theme,English,Pyotr Ilyich Tchaikovsky,0.62,0.48,Classical,Classical
-english_Nutcracker_Waltz_of_the_Flowers,English,Pyotr Ilyich Tchaikovsky,0.84,0.66,Classical,Classical
 english_1812_Overture,English,Pyotr Ilyich Tchaikovsky,0.7,0.92,Classical,Classical
-english_Romeo_and_Juliet_Fantasy_Overture,English,Pyotr Ilyich Tchaikovsky,0.58,0.7,Classical,Classical
 english_Serenade,English,Franz Schubert,0.72,0.46,Classical,Classical
-english_Symphony_No.8_Unfinished,English,Franz Schubert,0.56,0.64,Classical,Classical
-english_Piano_Concerto_No.21,English,Wolfgang Amadeus Mozart,0.74,0.54,Classical,Classical
-english_Piano_Sonata_No.14,English,Ludwig van Beethoven,0.54,0.36,Classical,Classical
-english_Symphony_No.6_Pastoral,English,Ludwig van Beethoven,0.78,0.56,Classical,Classical
-english_Piano_Sonata_No.8_Pathetique,English,Ludwig van Beethoven,0.6,0.52,Classical,Classical
-english_Symphony_No.3_Eroica,English,Ludwig van Beethoven,0.66,0.82,Classical,Classical
-english_Well-Tempered_Clavier_I,English,Johann Sebastian Bach,0.7,0.52,Classical,Classical
 english_Magnificat,English,Johann Sebastian Bach,0.78,0.68,Classical,Classical
-english_Piano_Concerto_No.23,English,Wolfgang Amadeus Mozart,0.76,0.58,Classical,Classical
-english_Symphony_No.25,English,Wolfgang Amadeus Mozart,0.64,0.72,Classical,Classical
-english_Symphony_No.36_Linz,English,Wolfgang Amadeus Mozart,0.78,0.68,Classical,Classical
-english_Piano_Sonata_No.16,English,Wolfgang Amadeus Mozart,0.82,0.66,Classical,Classical
-english_Clarinet_Concerto,English,Wolfgang Amadeus Mozart,0.72,0.5,Classical,Classical
-english_Manfred_Symphony,English,Pyotr Ilyich Tchaikovsky,0.56,0.78,Classical,Classical
-english_Symphony_No.5_Adagietto,English,Gustav Mahler,0.7,0.46,Classical,Classical
-english_Symphony_No.2_Resurrection,English,Gustav Mahler,0.66,0.82,Classical,Classical
-english_Symphony_of_Psalms,English,Igor Stravinsky,0.6,0.62,Classical,Classical
-english_Water_Music_Suite,English,George Frideric Handel,0.84,0.68,Classical,Classical
-english_Symphony_No.94_Surprise,English,Joseph Haydn,0.86,0.68,Classical,Classical
-english_Symphony_No.101_Clock,English,Joseph Haydn,0.88,0.7,Classical,Classical
-english_Symphony_No.104_London,English,Joseph Haydn,0.84,0.72,Classical,Classical
-english_The_Creation,English,Joseph Haydn,0.82,0.6,Classical,Classical
 english_Cantique_de_Jean_Racine,English,Gabriel Fauré,0.7,0.44,Classical,Classical
-english_Peer_Gynt_Suite_Morning_Mood,English,Edvard Grieg,0.9,0.46,Classical,Classical
-english_Holberg_Suite_Sarabande,English,Edvard Grieg,0.72,0.48,Classical,Classical
-english_Adagio_in_G_Minor,English,Tomaso Albinoni,0.6,0.46,Classical,Classical
-english_Concerto_for_Oboe_in_D_Minor,English,Tomaso Albinoni,0.74,0.66,Classical,Classical
-english_Sonata_in_G_Minor,English,Tomaso Albinoni,0.68,0.54,Classical,Classical
-english_Piano_Concerto_No.2,English,Sergei Rachmaninoff,0.72,0.82,Classical,Classical
-english_Piano_Concerto_No.3,English,Sergei Rachmaninoff,0.74,0.86,Classical,Classical
 english_Rhapsody_on_a_Theme_of_Paganini,English,Sergei Rachmaninoff,0.68,0.76,Classical,Classical
 english_Vocalise,English,Sergei Rachmaninoff,0.66,0.44,Classical,Classical
-english_Polovtsian_Dances,English,Alexander Borodin,0.8,0.76,Classical,Classical
-english_Prince_Igor_Overture,English,Alexander Borodin,0.76,0.78,Classical,Classical
 english_Scheherazade,English,Nikolai Rimsky-Korsakov,0.78,0.74,Classical,Classical
-english_Russian_Easter_Overture,English,Nikolai Rimsky-Korsakov,0.82,0.8,Classical,Classical
-english_Antar_Symphony,English,Nikolai Rimsky-Korsakov,0.72,0.68,Classical,Classical
-english_The_Planets_Mercury,English,Gustav Holst,0.7,0.6,Classical,Classical
-english_The_Planets_Jupiter,English,Gustav Holst,0.82,0.72,Classical,Classical
-english_Symphony_No.9,English,Gustav Mahler,0.6,0.74,Classical,Classical
-english_Symphony_No.4_The_Inextinguishable,English,Carl Nielsen,0.74,0.86,Classical,Classical
-english_Helios_Overture,English,Carl Nielsen,0.82,0.74,Classical,Classical
-english_Enigma_Variations,English,Edward Elgar,0.74,0.68,Classical,Classical
-english_Viola_Concerto,English,William Walton,0.64,0.66,Classical,Classical
-english_Belshazzar's_Feast,English,William Walton,0.72,0.8,Classical,Classical
-english_Facade_Suite,English,William Walton,0.76,0.7,Classical,Classical
-english_Fantasia_on_a_Theme_by_Thomas_Tallis,English,Ralph Vaughan Williams,0.7,0.5,Classical,Classical
-english_The_Lark_Ascending,English,Ralph Vaughan Williams,0.88,0.46,Classical,Classical
-english_Sea_Symphony,English,Ralph Vaughan Williams,0.74,0.72,Classical,Classical
-english_War_Requiem,English,Benjamin Britten,0.52,0.72,Classical,Classical
-english_Young_Person's_Guide_to_the_Orchestra,English,Benjamin Britten,0.86,0.74,Classical,Classical
-english_Simple_Symphony,English,Benjamin Britten,0.82,0.7,Classical,Classical
-english_Bluebeard's_Castle,English,Béla Bartók,0.58,0.72,Classical,Classical
-english_Sinfonietta,English,Leoš Janáček,0.8,0.82,Classical,Classical
-english_String_Quartet_No.9,English,Sergei Taneyev,0.7,0.66,Classical,Classical
-english_The_Seasons,English,Alexander Glazunov,0.8,0.68,Classical,Classical
-english_Raymonda_Suite,English,Alexander Glazunov,0.82,0.7,Classical,Classical
-english_Symphony_No.21,English,Nikolai Myaskovsky,0.64,0.66,Classical,Classical
+english_Symphony_No_40,English,Wolfgang Amadeus Mozart,5.35,5.83,classical,Classical
+english_Power_Of_Love,English,Mahavishnu Orchestra,6.68,4.37,Jazz,Jazz
+english_Beyond_the_Sea_(La_Mer),English,Django Reinhardt,7.21,4.22,Jazz,Jazz
+english_Bei_Mir_Bist_Du_Schon,English,The Puppini Sisters,6.68,4.37,Jazz,Jazz
+english_黄昏泣き,English,東京事変,3.34,1.41,Jazz,Jazz
+english_Baltimore,English,Nina Simone,5.07,3.18,Jazz,Jazz
+english_Together,English,Matthew Halsall,4.49,2.45,Jazz,Jazz
+english_Being_Me,English,Abbey Lincoln,5.57,3.38,Jazz,Jazz
+english_I_Told_Jesus,English,Roberta Flack,5.61,4.28,Jazz,Jazz
+english_Ending_Image,English,Arve Henriksen,4.64,4.19,Jazz,Jazz
+english_Bye_Bye_Blackbird,English,Rahsaan Roland Kirk,5.99,3.43,Jazz,Jazz
+english_Piosenka_dla_Stasia,English,Anna Maria Jopek & Friends with Pat Metheny,5.57,3.38,Jazz,Jazz
+english_Sometimes,English,Duncan Parsons,2.79,1.89,Jazz,Jazz
+english_I'll_be_seeing_you,English,Frank Sinatra,7.34,4.5,Jazz,Jazz
+english_I'm_Old_Fashioned,English,Chet Baker,6.54,3.19,Jazz,Jazz
+english_Everybody_Loves_Somebody,English,Frank Sinatra,7.13,4.16,Jazz,Jazz
+english_The_Man_I_Love,English,Dinah Shore,6.94,4.04,Jazz,Jazz
+english_Autumn_in_New_York,English,Jo Stafford,6.64,3.27,Jazz,Jazz
+english_La_Rosita,English,Coleman Hawkins,6.94,4.04,Jazz,Jazz
+english_Bless_You,English,The Ink Spots,7.05,4.67,Jazz,Jazz
+english_Att_angöra_en_brygga,English,Monica Zetterlund,6.27,2.95,Jazz,Jazz
+english_Any_Old_Time,English,Artie Shaw,6.27,2.95,Jazz,Jazz
+english_Ev'ry_Time_We_Say_Goodbye,English,John Coltrane,6.98,3.71,Jazz,Jazz
+english_Don't_Sit_Under_the_Apple_Tree_(With_Anyone_Else_but_Me),English,The Andrews Sisters,7.02,3.54,Jazz,Jazz
+english_Nightbird,English,Eva Cassidy,5.28,2.16,Jazz,Jazz
+english_Mad_About_the_Boy,English,Lena Horne,6.27,2.95,Jazz,Jazz
+english_Killing_Me_Softly_With_Her_Song,English,Perry Como,7.59,4.97,Jazz,Jazz
+english_Le_Cinéma,English,Claude Nougaro,6.27,2.95,Jazz,Jazz
+english_How_Much_Is_That_Doggie_In_The_Window,English,Patti Page,7.57,5.04,Jazz,Jazz
+english_Everybody_Loves_My_Baby,English,The Boswell Sisters,7.32,4.63,Jazz,Jazz
+"english_Medley_Jack_&_NealCalifornia,_Here_I_Come",English,Tom Waits,4.55,3.56,Jazz,Jazz
+english_Blue_Moon,English,Billy Eckstine,6.27,2.95,Jazz,Jazz
+english_新不了情,English,萬芳,7.42,4.56,Jazz,Jazz
+english_My_Blue_Heaven,English,Artie Shaw,6.27,2.95,Jazz,Jazz
+english_How_Deep_Is_The_Ocean,English,John Coltrane,6.27,2.95,Jazz,Jazz
+english_Easy_to_Remember,English,Billie Holiday,5.09,3.24,Jazz,Jazz
+english_Harvest_Time,English,Herbie Hancock,6.27,2.95,Jazz,Jazz
+english_I'm_nobody's_baby,English,Mildred Bailey,6.27,2.95,Jazz,Jazz
+english_Where_Or_When,English,George Michael,7.21,4.03,Jazz,Jazz
+english_After_You've_Gone,English,Marion Harris,6.27,2.95,Jazz,Jazz
+english_And_I_Love_Her,English,"Harry Connick, Jr.",6.27,2.95,Jazz,Jazz
+english_A_Tree_in_the_Meadow,English,Margaret Whiting,5.49,3.78,Jazz,Jazz
+english_Crazy_She_Calls_Me,English,Chet Baker,6.59,3.06,Jazz,Jazz
+english_I_Like_The_Sunrise,English,Amel Larrieux,5.93,3.05,Jazz,Jazz
+english_Zeigefinger,English,Bohren & der Club of Gore,4.3,4.72,Jazz,Jazz
+english_Body_and_Soul_(Live),English,Carmen McRae,2.81,4.42,Jazz,Jazz
+english_Willow_Weep_for_Me,English,Nina Simone,2.49,2.75,Jazz,Jazz
+english_Low_Down_Man,English,Squirrel Nut Zippers,3.14,3.18,Jazz,Jazz
+english_Can_I_Keep_Him,English,Anja Garbarek,6.12,2.59,Jazz,Jazz
+english_Days_of_Wine_and_Roses,English,Henry Mancini,4.39,1.85,Jazz,Jazz
+english_Trav'lin_Light,English,Billie Holiday,3.34,1.41,Jazz,Jazz
+english_Ten_Cents_A_Dance,English,Ruth Etting,1.05,1.75,Jazz,Jazz
+english_Lonelytown,English,Paula Cole,1.18,2.04,Jazz,Jazz
+english_The_Waltz,English,Silje Nergaard,3.68,2.24,Jazz,Jazz
+english_Blues,English,Django Reinhardt,1.72,1.8,Jazz,Jazz
+english_Love_Where_Did_You_Go,English,Dayna Kurtz,3.05,2.79,Jazz,Jazz
+english_Helsinki-Vantaa,English,Ultra Bra,5.11,2.86,Jazz,Jazz
+english_Yöllä,English,Ultra Bra,3.56,1.52,Jazz,Jazz
+english_Smoke_Gets_in_Your_Eyes,English,Roxy Music,5.3,3.59,Jazz,Jazz
+english_These_Foolish_Things,English,Roxy Music,5.33,3.47,Jazz,Jazz
+english_Inside_Each_Other,English,Emma Salokoski Ensemble,4.0,2.68,Jazz,Jazz
+english_God_Give_Me_Strength,English,Elvis Costello live with the Metropole Orkest,4.4,4.11,Jazz,Jazz
+english_Journey_Of_The_Heart,English,Nnenna Freelon,3.77,2.17,Jazz,Jazz
+english_Casting,English,Deep Tree Mantra,4.84,2.74,Jazz,Jazz
+english_Chasing_Pavements_(Live),English,Adele,5.0,4.17,Jazz,Jazz
+english_Chaotica,English,The Bambi Molesters,5.0,4.17,Jazz,Jazz
+english_Misty_Canyon,English,Sven Libaek,5.12,4.06,Jazz,Jazz
+english_Little_Angel,English,Bobby Hutcherson,6.24,4.0,Jazz,Jazz
+english_Quasars,English,Sven Libaek,4.29,3.15,Jazz,Jazz
+english_The_Bell_That_Couldn't_Jingle,English,Burt Bacharach,4.77,3.08,Jazz,Jazz
+english_And_You_Know_That,English,Yellowjackets,5.0,4.17,Jazz,Jazz
+english_Getting_Nowhere,English,Roy Budd,5.22,4.18,Jazz,Jazz
+"english_Baby,_It's_Cold_Outside",English,Al Hirt; Margret Ann,5.54,4.18,Jazz,Jazz
+english_Wild_Blues,English,Wild Bill Davis,5.0,4.17,Jazz,Jazz
+english_Guns_&_Roses,English,Paradise Lunch,6.06,4.78,Jazz,Jazz
+"english_My_Children,_My_Angels",English,Dr.John,4.1,3.85,Jazz,Jazz
+english_Help_Yourself,English,Amy Winehouse,6.01,4.16,Jazz,Jazz
+english_You_Ain't_Gotta_Lie_(Momma_Said),English,Kendrick Lamar,5.0,3.21,Jazz,Jazz
+english_Child_Song,English,The Cinematic Orchestra,5.99,3.16,Jazz,Jazz
+english_Moondance,English,Michael Bublé,7.37,4.74,Jazz,Jazz
+english_If_The_Stars_Were_Mine,English,Melody Gardot,6.21,3.17,Jazz,Jazz
+english_I've_Got_You_Under_My_Skin,English,Michael Bublé,6.96,3.88,Jazz,Jazz
+english_It's_Gonna_Be,English,Norah Jones,4.57,3.46,Jazz,Jazz
+"english_Quando,_Quando,_Quando",English,Michael Bublé,7.11,4.12,Jazz,Jazz
+english_Blame_It_on_the_Moon,English,Katie Melua,4.49,3.45,Jazz,Jazz
+english_Let's_Never_Stop_Falling_In_Love,English,Pink Martini,6.77,4.0,Jazz,Jazz
+english_Lover_Undercover,English,Melody Gardot,6.46,2.77,Jazz,Jazz
+english_Roxanne,English,George Michael,6.18,4.06,Jazz,Jazz
+english_How_Can_You_Mend_a_Broken_Heart,English,Michael Bublé,5.85,3.39,Jazz,Jazz
+english_Love_Ain't_Gonna_Let_You_Down,English,Jamie Cullum,6.95,3.64,Jazz,Jazz
+english_Autumn_Nocturne,English,Lou Donaldson,6.77,3.11,Jazz,Jazz
+english_Be_Your_Girl,English,Teedra Moses,6.44,3.4,Jazz,Jazz
+english_Sway_(Quien_Sera),English,Dean Martin,6.62,3.1,Jazz,Jazz
+english_Ruby_Baby,English,Donald Fagen,6.5,3.32,Jazz,Jazz
+english_Maxine,English,Donald Fagen,5.42,3.48,Jazz,Jazz
+english_Here's_To_Life,English,Shirley Horn,6.47,3.49,Jazz,Jazz
+english_One_Shine,English,The Roots,6.26,2.97,Jazz,Jazz
+english_All_Through_The_Night,English,Ella Fitzgerald,7.14,3.88,Jazz,Jazz
+english_Miss_Riddle,English,Boz Scaggs,6.05,3.43,Jazz,Jazz
+english_The_Goodbye_Look,English,Donald Fagen,6.35,3.35,Jazz,Jazz
+"english_Bewitched,_Bothered,_And_Bewildered",English,Ella Fitzgerald,6.69,3.44,Jazz,Jazz
+english_Alone_and_I,English,Herbie Hancock,6.5,3.66,Jazz,Jazz
+english_Mr_Magic_(Through_the_Smoke),English,Amy Winehouse,5.87,3.31,Jazz,Jazz
+english_The_Gardens_Of_Sampson_&_Beasley,English,Pink Martini,6.57,3.17,Jazz,Jazz
+english_Red_Baron,English,Billy Cobham,6.4,4.48,Jazz,Jazz
+english_It'll_Come,English,Belleruche,6.36,3.29,Jazz,Jazz
+english_Walk_Between_Raindrops,English,Donald Fagen,6.77,3.22,Jazz,Jazz
+english_Abidan,English,Electric Masada,6.28,4.37,Jazz,Jazz
+english_Crab_Apple_Jam,English,David Snell,7.29,5.3,Jazz,Jazz
+english_Beyond_the_Stars,English,Jimi Tenor,5.5,5.04,Jazz,Jazz
+english_This_Will_Be,English,Natalie Cole,4.31,3.29,Jazz,Jazz
+english_Midget,English,Jaga Jazzist,4.18,3.16,Jazz,Jazz
+english_Fake,English,The Brand New Heavies,6.61,6.04,Jazz,Jazz
+english_Surrender,English,The Brand New Heavies,6.13,6.29,Jazz,Jazz
+english_Waste_My_Time,English,The Brand New Heavies,4.85,5.77,Jazz,Jazz
+english_How_Do_You_Think,English,The Brand New Heavies,5.83,4.6,Jazz,Jazz
+english_How_We_Do_This,English,The Brand New Heavies,4.85,5.77,Jazz,Jazz
+english_It_Could_Be_Me,English,The Brand New Heavies,6.61,6.04,Jazz,Jazz
+english_Show_Me_the_Way,English,Zap Mama,4.85,5.77,Jazz,Jazz
+english_Jerkoff,English,Bourbon Princess,3.19,4.08,Jazz,Jazz
+english_Don't_Sleep_In_The_Subway,English,Frank Sinatra,6.6,4.74,Jazz,Jazz
+english_Ex_ego,English,Możdżer Danielsson Fresco,6.45,5.43,Jazz,Jazz
+english_Panama,English,The Cat Empire,6.8,4.23,Jazz,Jazz
+english_Jive_Samba,English,Cannonball Adderley,6.46,5.41,Jazz,Jazz
+english_Nothing,English,Nikka Costa,6.57,4.11,Jazz,Jazz
+english_Heart_Shaped_Rock,English,Berry Weight,6.83,5.11,Jazz,Jazz
+english_Govinda_Jai_Jai,English,Alice Coltrane,6.5,4.23,Jazz,Jazz
+english_Holding_Me_Down,English,Toby Lightman,5.69,4.55,Jazz,Jazz
+english_This_Little_Bird,English,Allison Crowe,6.81,5.14,Jazz,Jazz
+english_Asta_II,English,Możdżer Danielsson Fresco,3.95,2.54,Jazz,Jazz
+english_Me_jedyne_niebo,English,A. M. Jopek & Pat Metheny,5.33,3.57,Jazz,Jazz
+english_Canela,English,Santana,6.1,3.09,Jazz,Jazz
+english_Che_Cossè_L'amor,English,Vinicio Capossela,4.24,3.02,Jazz,Jazz
+english_Summer_Sun,English,Koop (Featuring Yukimi Nagano),4.79,2.71,Jazz,Jazz
+english_Bubblebath,English,Simply Put,2.29,2.41,Jazz,Jazz
+english_Algiers_Stomp,English,Preservation Hall Jazz Band,5.61,4.12,Jazz,Jazz
+english_thoughts_of_you,English,Freddie Fox,3.41,1.72,Jazz,Jazz
+english_This_Way,English,Acoustic Alchemy,5.41,3.48,Jazz,Jazz
+english_That_Easy,English,Clara Hill,3.86,2.0,Jazz,Jazz
+english_Drummin'_Man,English,Gene Krupa,6.84,5.0,Jazz,Jazz
+english_She_Could_Be_Mine,English,Dave Grusin,6.63,3.88,Jazz,Jazz
+english_Where_Love_Shines,English,Incognito,7.66,5.53,Jazz,Jazz
+english_What_A_Little_Moonlight_Can_Do,English,Emilie-Claire Barlow,7.61,5.66,Jazz,Jazz
+english_Shadows_in_the_Rain,English,Sting and Gil Evans,6.84,5.0,Jazz,Jazz
+english_I_Am_A_Missile,English,The Kingsize Five,7.61,5.66,Jazz,Jazz
+english_Some_Of_These_Days,English,"Ted Lewis & His Band, featuring Sophie Tucker",6.84,5.0,Jazz,Jazz
+english_Dizzy's_Dream,English,The Dave Brubeck Quartet,6.84,5.0,Jazz,Jazz
+english_Is_you_or_is_you_aint_my_baby,English,Renee Olstead,5.97,4.65,Jazz,Jazz
+english_Beautiful_People,English,Mathilde Santing,6.95,4.0,Jazz,Jazz
+english_Thando's_Groove,English,Sibongile Khumalo,6.95,4.0,Jazz,Jazz
+english_Tropidelico,English,The Quantic Soul Orchestra,6.95,4.0,Jazz,Jazz
+english_Innocence,English,Keith Jarrett,6.55,4.4,Jazz,Jazz
+english_test3,English,The Courageous Egg,6.55,4.4,Jazz,Jazz
+english_Trubbel,English,Monica Zetterlund,6.64,3.05,Jazz,Jazz
+english_Humpty_Dumpty,English,Placebo,6.55,3.52,Jazz,Jazz
+english_Too_Young_To_Go_Steady,English,Karrin Allyson,5.55,4.04,Jazz,Jazz
+english_You_for_Me,English,Blossom Dearie,6.55,3.52,Jazz,Jazz
+english_I'm_Hip,English,Blossom Dearie,7.2,4.22,Jazz,Jazz
+english_There's_More_to_Life,English,Tiago Iorc,7.08,4.12,Jazz,Jazz
+english_Heart_and_Soul,English,Mel Tormé,7.63,4.89,Jazz,Jazz
+english_That_Fascinating_Thing,English,Squirrel Nut Zippers,6.55,3.52,Jazz,Jazz
+english_By_the_Numbers,English,John Coltrane,6.62,3.17,Jazz,Jazz
+english_Lose_&_Win,English,Beady Belle,4.99,3.56,Jazz,Jazz
+english_I_Walk_a_Little_Faster,English,Blossom Dearie,6.72,2.6,Jazz,Jazz
+english_Kool_Kat_Walk,English,Julee Cruise,6.65,3.75,Jazz,Jazz
+english_Ice,English,Jazzanova,5.86,3.38,Jazz,Jazz
+english_Last_Tango_for_Astor,English,Al Di Meola,6.55,3.52,Jazz,Jazz
+english_All_Of_You,English,Helen Merrill,6.55,3.52,Jazz,Jazz
+english_Let_it_be_me,English,Inger Marie Gundersen,6.55,3.52,Jazz,Jazz
+english_Soiree,English,Bill Evans,6.55,3.52,Jazz,Jazz
+english_A_Little_Bird_Told_Me,English,Evelyn Knight,6.55,3.52,Jazz,Jazz
+english_Miles_of_Blue_(Blue_Miles),English,Joe Sample,5.88,3.12,Jazz,Jazz
+english_If_Only,English,Patrice Rushen,6.55,3.52,Jazz,Jazz
+english_Looking_At_My_Feet,English,Room Eleven,5.42,3.46,Jazz,Jazz
+english_Looney_Little_Tooney,English,Willie The Lion Smith,4.22,3.86,Jazz,Jazz
+english_I_Have_A_Ghost_Now_What,English,Jaga Jazzist,7.45,4.19,Jazz,Jazz
+english_Fertile_Field,English,Bobby McFerrin,7.2,4.45,Jazz,Jazz
+english_The_House_I_Live_In,English,Frank Sinatra,7.45,4.19,Jazz,Jazz
+english_Çal_Kapımı,English,Birsen Tezer,7.32,4.23,Jazz,Jazz
+english_Wack_Wack,English,Buddy Rich,7.83,4.87,Jazz,Jazz
+english_Dikalo,English,Manu Dibango,7.45,4.19,Jazz,Jazz
+english_What_Game_Shall_We_Play_Today,English,Chick Corea & Gary Burton,6.69,4.52,Jazz,Jazz
+english_All_I'm_Good_For,English,Benny Sings,7.2,4.45,Jazz,Jazz
+english_What_a_Wonderful_World,English,Kenny G,7.45,4.19,Jazz,Jazz
+english_Metropolis,English,Toshiyuki Honda,7.46,4.56,Jazz,Jazz
+english_Karen,English,Le Maximum Kouette,5.6,4.61,Jazz,Jazz
+english_Don´t_Worry_Be_Happy,English,Bobby McFerrin,7.45,4.19,Jazz,Jazz
+english_Pogoda_Ducha,English,Hanna Banaszak,7.45,4.19,Jazz,Jazz
+"english_Don`t_Worry,_Be_Happy",English,Bobby McFerrin,7.55,4.34,Jazz,Jazz
+english_Over_The_Rainbow,English,Art Tatum,5.1,4.09,Jazz,Jazz
+english_Christina,English,Earl Klugh,5.1,4.09,Jazz,Jazz
+english_Consuelo's_Love_Theme,English,Chuck Mangione,7.32,4.83,Jazz,Jazz
+english_Passing_Strangers,English,Sarah Vaughan,3.99,3.77,Jazz,Jazz
+english_B'Bye,English,Chuck Mangione,6.55,4.24,Jazz,Jazz
+english_An_Affair_to_Remember,English,Emile Pandolfi,7.16,4.93,Jazz,Jazz
+english_A_Song_For_You,English,Christina Aguilera,5.1,4.09,Jazz,Jazz
+english_Your_Lonely_Heart,English,Natalie Cole,4.24,3.07,Jazz,Jazz
+english_Who_Can_I_Turn_to,English,Tony Bennett,5.31,4.44,Jazz,Jazz
+english_C'est_La_Vie,English,Andrzej Zaucha,5.1,4.09,Jazz,Jazz
+english_Who_Can_I_Turn_To_(When_Nobody_Needs_Me),English,Wynton Marsalis,5.1,4.09,Jazz,Jazz
+english_Misty_(Instrumental),English,Erroll Garner,5.1,4.09,Jazz,Jazz
+english_View_from_the_Hill,English,McCoy Tyner,3.6,3.79,Jazz,Jazz
+english_Sometimes_I'm_Happy,English,Alberta Hunter,3.99,3.77,Jazz,Jazz
+english_But_I_Am_a_Good_Girl,English,Christina Aguilera,7.24,5.27,Jazz,Jazz
+english_Pure,English,Boney James,5.98,3.65,Jazz,Jazz
+english_De_Zee,English,Trijntje Oosterhuis,6.8,4.05,Jazz,Jazz
+english_Stone_Groove,English,Boney James,6.8,4.05,Jazz,Jazz
+english_All_About_the_Weather,English,Phoebe Partridge,7.32,4.12,Jazz,Jazz
+english_Pure_[Mig's_Petalpusher_Vocal],English,Blue Six,6.8,4.05,Jazz,Jazz
+english_I'm_Thru_With_Love,English,Marilyn Monroe,7.52,5.16,Jazz,Jazz
+english_(This_Is)_A_Fine_Romance,English,Marilyn Monroe,6.95,5.0,Jazz,Jazz
+english_Sacred,English,Amel Larrieux,6.95,5.0,Jazz,Jazz
+english_Morgen_Kinder_wirds_was_geben,English,Christmazz,6.95,5.0,Jazz,Jazz
+english_All_I_want_for_Christmazz,English,Christmazz,6.95,5.0,Jazz,Jazz
+english_Lust_For_Life,English,Vikter Duplaix,6.5,4.16,Jazz,Jazz
+english_Journey_Home,English,Maria Schneider Orchestra,6.53,4.93,Jazz,Jazz
+english_Allégresse,English,Maria Schneider Orchestra,6.98,4.38,Jazz,Jazz
+english_Last_Season,English,Maria Schneider Orchestra,6.98,4.38,Jazz,Jazz
+english_Evanescence,English,Maria Schneider Orchestra,5.95,4.47,Jazz,Jazz
+english_Green_Piece,English,Maria Schneider Orchestra,6.98,4.38,Jazz,Jazz
+english_My_Lament,English,Maria Schneider Orchestra,5.58,4.41,Jazz,Jazz
+english_Gush,English,Maria Schneider Orchestra,6.17,4.54,Jazz,Jazz
+english_El_Viento,English,Maria Schneider Orchestra,6.98,4.38,Jazz,Jazz
+english_Waxwing,English,Maria Schneider Orchestra,7.21,4.72,Jazz,Jazz
+english_Man_of_the_Hour,English,Norah Jones,5.74,4.28,Jazz,Jazz
+english_Beyond_the_Son,English,Koop,6.82,4.1,Jazz,Jazz
+english_Hiperbole,English,Skalpel,4.72,2.62,Jazz,Jazz
+english_Something_Stupid,English,Frank Sinatra,6.47,3.22,Jazz,Jazz
+english_Do_I_Love_You,English,Jane Monheit,6.84,3.64,Jazz,Jazz
+english_The_Desperate_Ones,English,Nina Simone,5.09,4.19,Jazz,Jazz
+english_Ninjazz,English,Skalpel,3.23,1.61,Jazz,Jazz
+english_Laura,English,Oscar Peterson,6.47,3.22,Jazz,Jazz
+english_What_Would_I_Do,English,Norah Jones,6.47,3.22,Jazz,Jazz
+english_Moonlight_in_Vermont,English,Gerry Mulligan,6.47,3.22,Jazz,Jazz
+"english_Cherie,_I_Love_You",English,Nat King Cole,6.47,3.22,Jazz,Jazz
+english_Colombia,English,Anjulie,6.58,3.02,Jazz,Jazz
+english_Entrance,English,Keith Jarrett,3.23,1.61,Jazz,Jazz
+english_I_Could_Make_You_Care,English,Frank Sinatra,6.47,3.22,Jazz,Jazz
+english_Stardust,English,Glenn Miller & Benny Goodman,6.47,3.22,Jazz,Jazz
+english_Sweet_Lorraine,English,Coleman Hawkins,6.47,3.22,Jazz,Jazz
+english_Blue_Angel,English,Terje Rypdal,4.29,3.35,Jazz,Jazz
+english_Mother's_Whistler,English,Moondog,6.47,3.22,Jazz,Jazz
+english_I'll_Be_Home_For_Christmas,English,Anita Baker,6.82,3.6,Jazz,Jazz
+english_Doloroso,English,Ray Barretto,6.47,3.22,Jazz,Jazz
+english_All_to_Me,English,Shoshana Bean,5.65,4.34,Jazz,Jazz
+english_Nova_bossa,English,Shakatak,6.47,3.22,Jazz,Jazz
+english_The_Touch_Of_Your_Lips,English,Oscar Peterson & Ben Webster,6.47,3.22,Jazz,Jazz
+english_He's_My_Guy,English,marjorie barnes,6.47,3.22,Jazz,Jazz
+english_Ode,English,David Darling & Jan Garbarek,6.89,3.9,Jazz,Jazz
+english_What_Child_Is_This,English,Mahalia Jackson,7.26,2.55,Jazz,Jazz
+english_In_This_Room,English,Leslie Tucker,5.28,2.66,Jazz,Jazz
+english_Wayfarer,English,John Surman,3.63,1.27,Jazz,Jazz
+english_Sunny_Diego,English,The Keith Burton Orchestra,4.6,2.22,Jazz,Jazz
+english_Sun,English,Tom Rule,7.48,3.11,Jazz,Jazz
+english_Paranoid_Eyes,English,Alex Ryon,7.26,2.55,Jazz,Jazz
+english_Wayfearing_Stranger,English,Jimmy Kelly,6.98,4.07,Jazz,Jazz
+english_Rudolph_das_kleine_Renntier,English,Michael Schanze,6.89,4.58,Jazz,Jazz
+english_Wrap_Your_Troubles_in_Dreams,English,Bing Crosby,6.65,4.77,Jazz,Jazz
+english_International_Flight,English,David Snell,7.1,4.97,Jazz,Jazz
+english_With_Plenty_of_Money_and_You,English,Count Basie,6.65,4.77,Jazz,Jazz
+english_Sabre_Dance,English,Les Baxter,7.43,5.15,Jazz,Jazz
+english_Bella_Símamær,English,Björk,6.65,4.77,Jazz,Jazz
+english_(Still)_Terminally_Ambivalent_Over_You,English,The Real Tuesday Weld,6.85,3.78,Jazz,Jazz
+english_Button_up_Your_Overcoat,English,Ruth Etting,7.51,5.54,Jazz,Jazz
+english_Cement_Mixer,English,Slim Gaillard,6.65,4.77,Jazz,Jazz
+english_Trololo_Song,English,Trololo Man,7.55,5.16,Jazz,Jazz
+english_Flat_Foot_Floogie,English,Slim Gaillard,6.65,4.77,Jazz,Jazz
+english_Body_&_Soul,English,Art Tatum,6.65,4.77,Jazz,Jazz
+english_Sabres,English,Eldad Lidor,6.65,4.77,Jazz,Jazz
+english_Van_Lingle_Mungo,English,Dave Frishberg,6.65,4.77,Jazz,Jazz
+english_Stone_Cold_Dead_In_The_Market,English,Wilmoth Houdini,6.65,4.77,Jazz,Jazz
+english_Giffin,English,Mr. Scruff,5.61,3.5,Jazz,Jazz
+english_Bad_Boy,English,9 Lazy 9,5.76,3.58,Jazz,Jazz
+english_Hypnotic,English,Boney James,5.79,3.87,Jazz,Jazz
+english_Sankofa,English,Hypnotic Brass Ensemble,5.77,3.63,Jazz,Jazz
+english_God_Must_Be_a_Boogie_Man,English,Joni Mitchell,5.96,3.27,Jazz,Jazz
+english_The_Mirror,English,Nostalgia 77,6.31,4.43,Jazz,Jazz
+english_New_Country,English,Jean-Luc Ponty,3.56,3.05,Jazz,Jazz
+english_Journey_Into_Love,English,Lonnie Liston Smith,4.45,1.87,Jazz,Jazz
+english_Time_and_Space,English,Hiromi,4.75,3.41,Jazz,Jazz
+english_Charade,English,Kevin Spacey,4.24,3.02,Jazz,Jazz
+english_Faking_Jazz_Together,English,Connan Mockasin,3.86,2.53,Jazz,Jazz
+english_The_Turnaround,English,The Herbaliser,4.18,3.16,Jazz,Jazz
+english_Doppelganger,English,Jaga Jazzist,2.58,1.62,Jazz,Jazz
+english_The_Human_Abstract,English,David Axelrod,4.85,2.79,Jazz,Jazz
+english_Erophone,English,Pluto Project,4.47,3.7,Jazz,Jazz
+english_Stwisted,English,Edie Brickell and New Bohemians,5.89,4.7,Jazz,Jazz
+english_Black_And_Brown_Cherries,English,Abdullah Ibrahim,3.49,1.96,Jazz,Jazz
+english_Music_Is_Through,English,Jamie Cullum,7.23,5.74,Jazz,Jazz
+english_Rush,English,The Seatbelts,7.43,5.07,Jazz,Jazz
+english_Road_Of_Bones,English,Acoustic Ladyland,6.21,5.25,Jazz,Jazz
+english_Mark_One,English,Tommy Flanagan,7.95,6.95,Jazz,Jazz
+english_Double_Talk,English,Fats Navarro,7.95,6.95,Jazz,Jazz
+english_Clusterthing,English,Flat Earth Society,7.95,6.95,Jazz,Jazz
+english_Hotter_Than_That,English,Louis Armstrong and His Hot Five,7.95,6.95,Jazz,Jazz
+english_It's_Crazy,English,Eddie Harris,3.98,3.48,Jazz,Jazz
+english_Karla's_Changes,English,David Sánchez,6.8,6.78,Jazz,Jazz
+english_Jazz_de_Luxe,English,Earl Fuller's Famous Jazz Band,7.57,6.55,Jazz,Jazz
+english_Chevdo,English,FOWL,7.95,6.95,Jazz,Jazz
+english_Hambone,English,Archie Shepp,5.7,5.64,Jazz,Jazz
+english_And_She_Sang,English,The Puppini Sisters,7.56,5.1,Jazz,Jazz
+english_Weed_Whacker,English,Béla Fleck and the Flecktones,7.12,6.1,Jazz,Jazz
+english_Captain_Caribe,English,Earl Klugh,7.75,6.21,Jazz,Jazz
+english_Be-Bop,English,Arturo Sandoval,7.12,6.1,Jazz,Jazz
+english_Trickle_Trickle,English,The Manhattan Transfer,7.12,6.1,Jazz,Jazz
+english_Oceansong,English,Rippingtons,6.83,3.94,Jazz,Jazz
+english_Maynard_Ferguson,English,Arturo Sandoval,7.12,6.1,Jazz,Jazz
+english_The_Fruit,English,Bud Powell,7.12,6.1,Jazz,Jazz
+english_Spin,English,Steve Cole,7.12,6.1,Jazz,Jazz
+english_Off_to_the_Races,English,Donald Byrd,7.12,6.1,Jazz,Jazz
+english_Got_It_Goin'_On,English,Eric Darius,7.75,6.21,Jazz,Jazz
+english_The_Thinker,English,George Benson,7.12,6.1,Jazz,Jazz
+english_Billy_Boy,English,Nelson Rangell,7.12,6.1,Jazz,Jazz
+english_Salt_Lick,English,Tribal Tech,7.12,6.1,Jazz,Jazz
+english_Cruise_Control,English,Special EFX,7.12,6.1,Jazz,Jazz
+english_Today's_Top_Story,English,Nelson Rangell,7.12,6.1,Jazz,Jazz
+english_Ahma,English,Maria Kalaniemi,7.12,6.1,Jazz,Jazz
+english_La_Salsa_En_Mi,English,Bernie Williams,6.14,4.67,Jazz,Jazz
+english_Mobimientos_Del_Alma,English,Earl Klugh,7.12,6.1,Jazz,Jazz
+english_Saturday_Night,English,Nelson Rangell,7.12,6.1,Jazz,Jazz
+english_(There's)_Always_Something_There_To_Remind_Me,English,Stanley Turrentine,7.12,6.1,Jazz,Jazz
+english_Autumn_Serenade,English,Terry Pollard,7.12,6.1,Jazz,Jazz
+english_Step_Swing,English,Lollo Meier,6.0,6.57,Jazz,Jazz
+english_Emotional_Weather_Report,English,Tom Waits,3.94,3.95,Jazz,Jazz
+english_The_Dog_Song,English,Nellie McKay,7.4,5.16,Jazz,Jazz
+"english_Protons,_Neutrons,_Electrons",English,The Cat Empire,8.08,5.74,Jazz,Jazz
+english_Not_Nice,English,9 Lazy 9,5.79,3.8,Jazz,Jazz
+english_Luktar-Gvendur,English,Björk,6.43,4.35,Jazz,Jazz
+english_Ease,English,Hanne Hukkelberg,6.71,3.44,Jazz,Jazz
+english_Loveless_Love,English,Louis Armstrong,6.45,4.61,Jazz,Jazz
+english_Midnight_in_Moscow,English,New Orleans Syncopators,5.35,5.83,Jazz,Jazz
+english_The_Kraken,English,Squirrel Nut Zippers,4.16,4.88,Jazz,Jazz
+english_Melancholy_Blues,English,Louis Armstrong And His Hot Seven,3.64,3.43,Jazz,Jazz
+english_Keyhole_Blues,English,Louis Armstrong And His Hot Seven,7.19,6.16,Jazz,Jazz
+english_Once_in_a_While,English,Louis Armstrong and His Hot Five,7.19,6.16,Jazz,Jazz
+english_Gommé,English,Markus Stockhausen,7.19,6.16,Jazz,Jazz
+english_Thunder_Showers,English,Ty Showers,7.17,4.58,Jazz,Jazz
+english_Gras,English,Kammerflimmer Kollektief,3.56,5.51,Jazz,Jazz
+english_Konstant,English,Kammerflimmer Kollektief,3.56,5.51,Jazz,Jazz
+english_The_World_Is_My_Ashtray,English,Deejay Punk-Roc,3.56,5.51,Jazz,Jazz
+english_Jewel,English,Jun Miyake,3.56,5.51,Jazz,Jazz
+english_Darkroom,English,Rez,4.32,4.8,Jazz,Jazz
+english_Precipice,English,Tribal Tech,3.56,5.51,Jazz,Jazz
+english_El_Toro,English,Chico Hamilton,4.0,5.36,Jazz,Jazz
+english_Silence,English,Ty Showers,3.8,6.2,Jazz,Jazz
+english_December,English,Norah Jones,5.12,3.4,Jazz,Jazz
+english_Lilac_Wine,English,Katie Melua,5.31,3.36,Jazz,Jazz
+english_You_Can't_Always_Get_What_You_Want,English,Ituana,7.43,4.92,Jazz,Jazz
+english_All_My_Tomorrows,English,Frank Sinatra,6.29,2.62,Jazz,Jazz
+english_Sleepless_Nights,English,Norah Jones,6.57,4.11,Jazz,Jazz
+english_I_Can_See_Clearly_Now,English,Holly Cole,7.68,4.61,Jazz,Jazz
+english_I_Don't_Miss_You_Anymore,English,Lisa Ekdahl,6.12,3.4,Jazz,Jazz
+english_Dear_Heart,English,Jack Jones,7.33,4.27,Jazz,Jazz
+english_It's_Raining_Somewhere_Else,English,Toby Fox,7.34,3.6,Jazz,Jazz
+english_Blue_Cafe,English,The Style Council,7.04,3.58,Jazz,Jazz
+english_Trail_Blazer,English,Acoustic Alchemy,7.48,4.3,Jazz,Jazz
+english_Hide_&_Seek,English,Count Basic,7.1,4.03,Jazz,Jazz
+english_Perfect_Day,English,Povo,7.09,4.64,Jazz,Jazz
+english_Do_I_Worry,English,The Ink Spots,4.72,3.26,Jazz,Jazz
+english_Sunny,English,Wes Montgomery,2.35,1.09,Jazz,Jazz
+english_Don't_Try_This_At_Home,English,Metropolitan Jazz Affair,5.14,2.21,Jazz,Jazz
+english_When_the_Moon_Was_Blue,English,El-P,3.76,2.45,Jazz,Jazz
+english_Blue_Water_Blues,English,Jasmine Brunch,3.49,1.84,Jazz,Jazz
+english_Bossa_Rocka,English,The George Benson Quartett,1.72,1.08,Jazz,Jazz
+english_Don't_Know_Why,English,Norah Jones,5.38,3.5,Jazz,Jazz
+english_Come_Away_with_Me,English,Norah Jones,5.63,3.64,Jazz,Jazz
+english_Seven_Years,English,Norah Jones,5.02,3.56,Jazz,Jazz
+english_Shoot_the_Moon,English,Norah Jones,5.21,3.62,Jazz,Jazz
+english_One_Flight_Down,English,Norah Jones,5.21,3.6,Jazz,Jazz
+english_Nightingale,English,Norah Jones,5.59,3.27,Jazz,Jazz
+english_Those_Sweet_Words,English,Norah Jones,5.91,3.72,Jazz,Jazz
+english_(There_Is)_No_Greater_Love,English,Amy Winehouse,6.15,4.07,Jazz,Jazz
+english_Chasing_Pirates,English,Norah Jones,5.81,3.74,Jazz,Jazz
+english_In_The_Morning,English,Norah Jones,5.05,3.43,Jazz,Jazz
+english_Thinking_About_You,English,Norah Jones,5.4,3.8,Jazz,Jazz
+english_Sister_Moon,English,Sting,6.15,3.51,Jazz,Jazz
+english_Tezeta,English,Mulatu Astatke,5.46,2.94,Jazz,Jazz
+english_The_Paris_Match,English,The Style Council,5.53,3.42,Jazz,Jazz
+english_If_The_Stars_Were_Mine_(Orchestral_Version),English,Melody Gardot,6.0,3.2,Jazz,Jazz
+english_April_in_Paris,English,Ella Fitzgerald,4.28,3.41,Jazz,Jazz
+english_Look_What_You're_Doin'_to_Me,English,Jazzanova,6.68,3.6,Jazz,Jazz
+english_I_Gotta_Right_To_Sing_The_Blues,English,Louis Armstrong,5.86,3.23,Jazz,Jazz
+english_Purple_Rain,English,Urselle,7.57,4.2,Jazz,Jazz
+english_Nancy_(With_The_Laughing_Face),English,Frank Sinatra,6.67,2.84,Jazz,Jazz
+english_Under_the_Bridges_of_Paris,English,Dean Martin,7.05,3.64,Jazz,Jazz
+english_Just_One_Of_Those_Things,English,Sarah Vaughan,7.14,3.5,Jazz,Jazz
+english_Journey_into_Melody,English,Stanley Turrentine,6.15,2.68,Jazz,Jazz
+english_O_Morro_Nao_Tem_Vez,English,Stan Getz,6.52,3.18,Jazz,Jazz
+english_I_Hold_No_Grudge,English,Nina Simone,5.7,3.45,Jazz,Jazz
+english_The_River,English,Keith Jarrett Trio,5.87,2.38,Jazz,Jazz
+english_Give_Me_That_Slow_Knowing_Smile,English,Lisa Ekdahl,4.95,2.78,Jazz,Jazz
+english_You_Take_My_Breath_Away,English,Eva Cassidy,6.92,3.29,Jazz,Jazz
+english_Take_Me_Home,English,Holly Cole,5.9,2.15,Jazz,Jazz
+english_My_Spanish_Heart,English,Chick Corea,6.47,1.95,Jazz,Jazz
+english_Cinema_Paradiso_(Main_Theme),English,Charlie Haden & Pat Metheny,6.65,3.25,Jazz,Jazz
+english_Slow_Dance,English,John Coltrane,7.09,4.0,Jazz,Jazz
+english_Love_You_Madly,English,Ella Fitzgerald,7.36,4.14,Jazz,Jazz
+english_Bahia,English,Stan Getz,6.58,2.38,Jazz,Jazz
+english_Travels,English,Pat Metheny,6.7,2.12,Jazz,Jazz
+english_I_Will_Find_the_Way,English,Pat Metheny,5.55,2.0,Jazz,Jazz
+english_You_Are_Too_Beautiful,English,John Coltrane,6.47,1.95,Jazz,Jazz
+english_Everything_I've_Got,English,Blossom Dearie,3.3,4.78,Jazz,Jazz
+english_Cynical,English,Rufus Jr,5.44,3.42,Jazz,Jazz
+english_Day_is_Done,English,Brad Mehldau Trio,6.55,3.48,Jazz,Jazz
+english_Tribute_to_Tom,English,Nick Elward,6.66,4.35,Jazz,Jazz
