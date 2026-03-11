@@ -8,7 +8,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 
 from model import ModelConfig, MultiTaskMultimodalLSTM
-from train import simple_tokenizer
+# from train import simple_tokenizer
 
 # -------------------- CONFIG --------------------
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -25,18 +25,29 @@ IDX_TO_GENRE = {
 }
 
 # -------------------- LOAD MODEL --------------------
+# cfg = ModelConfig(
+#     n_mels=80,
+#     n_genre=8,
+#     vocab_size=256,
+#     pad_idx=0,
+#     hidden_size=64,
+#     num_layers=2
+# )
 cfg = ModelConfig(
-    n_mels=80,
+    n_mels=123,
     n_genre=8,
     vocab_size=256,
     pad_idx=0,
-    hidden_size=64,
+    hidden_size=128,
     num_layers=2
 )
 
 model = MultiTaskMultimodalLSTM(cfg).to(DEVICE)
 model.load_state_dict(torch.load("Save_model/best_model.pth", map_location=DEVICE))
 model.eval()
+
+def simple_tokenizer(text):
+    return [ord(c) % 256 for c in text]
 
 # -------------------- LOAD DATASET (FOR RECOMMENDATION) --------------------
 CSV_FILE = "../data/labels.csv"
@@ -52,7 +63,7 @@ def extract_mel(path):
     mel = librosa.feature.melspectrogram(
         y=wav,
         sr=sr,
-        n_mels=80,
+        n_mels=123,
         n_fft=2048,
         hop_length=512
     )
@@ -61,6 +72,7 @@ def extract_mel(path):
 
     mel = torch.tensor(mel).transpose(0, 1).unsqueeze(0).float()
     mel_len = torch.tensor([mel.shape[1]])
+
     return mel, mel_len
 
 

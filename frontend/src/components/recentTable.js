@@ -16,7 +16,20 @@ export default function RecentTable({ data }) {
           </tr>
         </thead>
 
+
         <tbody>
+{data.map((item, index) => (
+  <tr key={index}>
+    <td>Song {index + 1}</td>
+    <td>-</td>
+    <td>{item.predicted_genre}</td>
+    <td>{item.valence > 0.5 ? "Positive" : "Calm"}</td>
+    <td>{Math.round((item.valence + item.arousal) * 50)}%</td>
+  </tr>
+))}
+</tbody>
+
+        {/* <tbody>
           {data.map((item, index) => (
             <tr key={index}>
               <td>{item.song}</td>
@@ -38,7 +51,7 @@ export default function RecentTable({ data }) {
               </td>
             </tr>
           ))}
-        </tbody>
+        </tbody> */}
       </table>
     </div>
   );

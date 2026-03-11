@@ -9,25 +9,51 @@ function AnalyzePage() {
   const [result, setResult] = useState(null);
 
   const handleAnalyze = async () => {
-    if (!file && !lyrics) {
-      alert("Please upload audio or paste lyrics.");
-      return;
-    }
+  if (!file && !lyrics) {
+    alert("Please upload audio or paste lyrics.");
+    return;
+  }
 
-    const formData = new FormData();
-    if (file) formData.append("file", file);
-    formData.append("lyrics", lyrics);
+  const formData = new FormData();
+  if (file) formData.append("file", file);
+  formData.append("lyrics", lyrics);
 
-    try {
-      setLoading(true);
-      const response = await predictSong(formData);
-      setResult(response.data);
-      setLoading(false);
-    } catch (err) {
-      console.error(err);
-      setLoading(false);
-    }
-  };
+  try {
+    setLoading(true);
+    const response = await predictSong(formData);
+    setResult(response.data);
+
+    const previous = JSON.parse(localStorage.getItem("analyses")) || [];
+    previous.push(response.data);
+    localStorage.setItem("analyses", JSON.stringify(previous));
+
+    setLoading(false);
+  } catch (err) {
+    console.error(err);
+    setLoading(false);
+  }
+};
+
+  // const handleAnalyze = async () => {
+  //   if (!file && !lyrics) {
+  //     alert("Please upload audio or paste lyrics.");
+  //     return;
+  //   }
+
+  //   const formData = new FormData();
+  //   if (file) formData.append("file", file);
+  //   formData.append("lyrics", lyrics);
+
+  //   try {
+  //     setLoading(true);
+  //     const response = await predictSong(formData);
+  //     setResult(response.data);
+  //     setLoading(false);
+  //   } catch (err) {
+  //     console.error(err);
+  //     setLoading(false);
+  //   }
+  // };
 
   return (
     <div className="analyze-wrapper">

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Music, BarChart3, Smile, TrendingUp } from "lucide-react";
-import axios from "axios";
+// import axios from "axios";
 import StatCard from "../components/statcard";
 import RecentTable from "../components/recentTable";
 import "./DashboardPage.css";
@@ -10,14 +10,31 @@ export default function DashboardPage() {
   const [recent, setRecent] = useState([]);
 
   useEffect(() => {
-    axios
-      .get("http://localhost:5000/dashboard")
-      .then((res) => {
-        setStats(res.data.stats || {});
-        setRecent(res.data.recent || []);
-      })
-      .catch((err) => console.error(err));
-  }, []);
+  const saved = JSON.parse(localStorage.getItem("analyses")) || [];
+
+  const genres = [...new Set(saved.map(a => a.predicted_genre))];
+
+  setStats({
+    songs: saved.length,
+    genres: genres.length,
+    emotions: saved.length,
+    accuracy: 92
+  });
+
+  setRecent(saved);
+}, []);
+
+
+
+  // useEffect(() => {
+  //   axios
+  //     .get("http://localhost:5000/dashboard")
+  //     .then((res) => {
+  //       setStats(res.data.stats || {});
+  //       setRecent(res.data.recent || []);
+  //     })
+  //     .catch((err) => console.error(err));
+  // }, []);
 
   return (
     <div className="dashboard-content">
