@@ -148,6 +148,77 @@ def predict():
         print("❌ ERROR:", e)
         return jsonify({"error": "Error analyzing song"}), 500
 
+@app.route("/visualization-data", methods=["GET"])
+def visualization_data():
+
+    df = pd.read_csv("../data/labels_train.csv")
+
+    # Genre distribution
+    genre_counts = df["main_genre"].value_counts()
+
+    genre_data = [
+        {"name": g, "value": int(v)}
+        for g, v in genre_counts.items()
+    ]
+
+    # Emotion distribution using valence + arousal + genre
+    emotion_counts = {
+        "Happy": 0,
+        "Relaxed": 0,
+        "Sad": 0,
+        "Angry": 0
+    }
+
+    for _, row in df.iterrows():
+        
+
+        v = row["valence"]
+        a = row["arousal"]
+        g = row["main_genre"]
+
+        # energetic genres
+        if g in ["Rock", "Hip-Hop", "Electronic"]:
+
+            if v >= 0.6 and a >= 0.6:
+                emotion_counts["Happy"] += 1
+            elif v < 0.5 and a >= 0.6:
+                emotion_counts["Angry"] += 1
+            elif v < 0.5:
+                emotion_counts["Sad"] += 1
+            else:
+                emotion_counts["Relaxed"] += 1
+
+        # calm genres
+        elif g in ["Classical", "Jazz"]:
+
+            if v >= 0.6:
+                emotion_counts["Relaxed"] += 1
+            elif v < 0.4:
+                emotion_counts["Sad"] += 1
+            else:
+                emotion_counts["Happy"] += 1
+
+        # other genres
+        else:
+
+            if v >= 0.6 and a >= 0.5:
+                emotion_counts["Happy"] += 1
+            elif v >= 0.6:
+                emotion_counts["Relaxed"] += 1
+            elif a >= 0.6:
+                emotion_counts["Angry"] += 1
+            else:
+                emotion_counts["Sad"] += 1
+
+    emotion_data = [
+        {"name": e, "value": v}
+        for e, v in emotion_counts.items()
+    ]
+
+    return jsonify({
+        "genres": genre_data,
+        "emotions": emotion_data
+    })
 
 if __name__ == "__main__":
     app.run(debug=True)

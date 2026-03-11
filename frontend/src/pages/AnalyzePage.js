@@ -103,6 +103,7 @@ function AnalyzePage() {
           <p><strong>Genre:</strong> {result.predicted_genre}</p>
           <p><strong>Valence:</strong> {result.valence}</p>
           <p><strong>Arousal:</strong> {result.arousal}</p>
+          
         </div>
       )}
     </div>

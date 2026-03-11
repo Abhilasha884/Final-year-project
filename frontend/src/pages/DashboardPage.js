@@ -4,10 +4,13 @@ import { Music, BarChart3, Smile, TrendingUp } from "lucide-react";
 import StatCard from "../components/statcard";
 import RecentTable from "../components/recentTable";
 import "./DashboardPage.css";
+import { useNavigate } from "react-router-dom";
+
 
 export default function DashboardPage() {
   const [stats, setStats] = useState({});
   const [recent, setRecent] = useState([]);
+  const navigate = useNavigate();
 
   useEffect(() => {
   const saved = JSON.parse(localStorage.getItem("analyses")) || [];
@@ -18,7 +21,7 @@ export default function DashboardPage() {
     songs: saved.length,
     genres: genres.length,
     emotions: saved.length,
-    accuracy: 92
+    accuracy: saved.length > 0 ? 92 : 0
   });
 
   setRecent(saved);
@@ -39,10 +42,21 @@ export default function DashboardPage() {
   return (
     <div className="dashboard-content">
       <h1>Dashboard</h1>
-      <p className="subtitle">
-        Overview of your music analysis activity
-      </p>
 
+<p className="subtitle">
+  AI-powered music emotion & genre analysis.
+  Analyze music using AI to detect Genre and Emotion from Audio and Lyrics.
+  Upload a song or paste lyrics to discover its mood and style.
+</p>
+
+<button
+  className="start-analysis-btn"
+  onClick={() => navigate("/analyze")}
+>
+  🎵 Start Analyzing Music
+</button>
+
+      
       <div className="stats-row">
         <StatCard
           icon={<Music size={22} color="#059669" />}
